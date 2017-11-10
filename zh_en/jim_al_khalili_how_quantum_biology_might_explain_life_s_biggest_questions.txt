@@ -1,0 +1,99 @@
+时间： 0:12
+zh-cn:我想给大家介绍一个新兴的科学领域，这个领域还处在理论阶段，但也很激动人心，当然目前发展也很迅猛。量子生物学提出了一个非常简单的问题：量子力学——这是个关于原子和分子的亚原子世界理论，一个既神秘又奇妙还很强大的理论，也是支撑着现代物理学和化学的理论——那它是否也在活体细胞里起着重要作用呢？换句话说：在生物体当中，是否有一些过程、生理反应、现象，是只能借助量子力学来解释的呢？其实量子生物学也不算新学科；它的历史可追溯至20世纪30年代。但是直到十年前左右，才有了周密的实验——就是在生化实验室，利用光谱仪来做的实验——结果给出了非常明确有力的证据，说明确实有某些生理反应需要通过量子力学来解释。
+en:I&#39;d like to introduce youto an emerging area of science,one that is still speculativebut hugely exciting,and certainly onethat&#39;s growing very rapidly.Quantum biologyasks a very simple question:Does quantum mechanics —that weird and wonderfuland powerful theoryof the subatomic worldof atoms and moleculesthat underpins so muchof modern physics and chemistry —also play a role inside the living cell?In other words: Are there processes,mechanisms, phenomenain living organismsthat can only be explainedwith a helping handfrom quantum mechanics?Now, quantum biology isn&#39;t new;it&#39;s been around since the early 1930s.But it&#39;s only in the last decade or sothat careful experiments —in biochemistry labs,using spectroscopy —have shown very clear, firm evidencethat there are certain specific mechanismsthat require quantum mechanicsto explain them.
+时间： 1:16
+zh-cn:量子生物学集合了物理学家、生化学家和分子生物学家——是一个极其跨学科的领域。我来自量子物理学领域，是个核物理学家。
+en:Quantum biology brings togetherquantum physicists, biochemists,molecular biologists —it&#39;s a very interdisciplinary field.I come from quantum physics,so I&#39;m a nuclear physicist.
+时间： 1:27
+zh-cn:我花了三十多年的时间来试图理解量子力学。Niels Bohr，量子力学之父之一，说过，谁要是第一次听到量子理论时没有感到震惊，那他一定没听懂。我还蛮庆幸自己现在还挺震惊的。这是个好事。这是个好但这也说明我研究的只是这个宇宙最小的结构，这个建立现实世界的一砖一瓦。要想知道这个结构的大小，那么我们从网球这种日常物品开始吧，然后将物体按大小将序排列——从针眼，到细胞，到细菌，再到酶——最后才到纳米世界。
+en:I&#39;ve spent more than three decadestrying to get my headaround quantum mechanics.One of the foundersof quantum mechanics, Niels Bohr,said, If you&#39;re not astonished by it,then you haven&#39;t understood it.So I sort of feel happythat I&#39;m still astonished by it.That&#39;s a good thing.But it means I study the verysmallest structures in the universe —the building blocks of reality.If we think about the scale of size,start with an everyday objectlike the tennis ball,and just go down ordersof magnitude in size —from the eye of a needle down to a cell,down to a bacterium, down to an enzyme —you eventually reach the nano-world.
+时间： 2:08
+zh-cn:你们也许都听过纳米技术这个词。一纳米就是十亿分之一米。我的研究领域是原子核，也就是原子当中的那小个点。它体积比这更小。这就是量子力学的领域，而物理学家和化学家花了很长的时间来努力适应这个领域。而生物学家，在我看来，很轻松就避开了它。他们很满足于这些分子球棍模型。
+en:Now, nanotechnology may bea term you&#39;ve heard of.A nanometer is a billionth of a meter.My area is the atomic nucleus,which is the tiny dot inside an atom.It&#39;s even smaller in scale.This is the domain of quantum mechanics,and physicists and chemistshave had a long timeto try and get used to it.Biologists, on the other hand,have got off lightly, in my view.They are very happy with theirballs-and-sticks models of molecules.
+时间： 2:37
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:38
+zh-cn:这球指的是原子，棍负责把原子连在一起。如果在实验室里无法建立起实体的分子模型，现在，他们也可以用强大的电脑来建立模拟的巨大分子模型。这个蛋白质由100,000个原子组成。这不怎么需要量子力学来解释。量子力学从上世纪20年代开始发展。这是一套美丽而又强大的数学法则和理念，帮人们理解这个世界最小的结构。这是个和我们日常生活很不一样的世界，它由数万亿个原子组成。这是个建立在机率和概率之上的世界。是个模糊的世界。是个幽灵的世界，在这里，粒子们也可表现出散开的波状形态。
+en:The balls are the atoms, the sticksare the bonds between the atoms.And when they can&#39;t build themphysically in the lab,nowadays, they havevery powerful computersthat will simulate a huge molecule.This is a protein made upof 100,000 atoms.It doesn&#39;t really require much in the wayof quantum mechanics to explain it.Quantum mechanicswas developed in the 1920s.It is a set of beautiful and powerfulmathematical rules and ideasthat explain the world of the very small.And it&#39;s a world that&#39;s very differentfrom our everyday world,made up of trillions of atoms.It&#39;s a world builton probability and chance.It&#39;s a fuzzy world.It&#39;s a world of phantoms,where particles can also behavelike spread-out waves.
+时间： 3:29
+zh-cn:如果我们把量子力学或量子物理学想象成现实世界的最根本基础，那么，量子物理学支撑了有机化学，这种说法就不足为奇了。毕竟，它有一套原则，解释了原子如何组合在一起，从而建立起一个有机分子。有机化学，随着复杂度的增加，又建立了分子生物学，而它又将我们带入生命科学。所以，从某个角度来说，这不足为奇。这算是鸡毛蒜皮了。你会说，“嗯，生命当然最终要靠量子力学来解释。”但此外的一切也都是如此。所有无机物，也都是由数万亿个原子组成的。
+en:If we imagine quantum mechanicsor quantum physics, then,as the fundamentalfoundation of reality itself,then it&#39;s not surprising that we sayquantum physics underpinsorganic chemistry.After all, it gives usthe rules that tell ushow the atoms fit togetherto make organic molecules.Organic chemistry,scaled up in complexity,gives us molecular biology,which of course leads to life itself.So in a way, it&#39;s sort of not surprising.It&#39;s almost trivial.You say, &quot;Well, of course life ultimatelymust depend of quantum mechanics.&quot;But so does everything else.So does all inanimate matter,made up of trillions of atoms.
+时间： 4:07
+zh-cn:最后，我们得在量子的层面上来探究这领域的神秘之处。但在日常生活中，我们会忘记它的神秘感。因为，当数万亿个原子聚集在一起时，量子的神秘感就消失了。量子生物学说的不是这个。量子生物学没这么浅显。当然，量子力学在分子水平上支撑着生命。量子生物学旨在寻找重要的东西——量子力学当中的反直觉观念——然后了解它们是否会在描述生命进程中起到重要的作用。
+en:Ultimately, there&#39;s a quantum levelwhere we have to delve intothis weirdness.But in everyday life,we can forget about it.Because once you put togethertrillions of atoms,that quantum weirdnessjust dissolves away.Quantum biology isn&#39;t about this.Quantum biology isn&#39;t this obvious.Of course quantum mechanicsunderpins life at some molecular level.Quantum biology is about lookingfor the non-trivial —the counterintuitive ideasin quantum mechanics —and to see if they do, indeed,play an important rolein describing the processes of life.
+时间： 4:53
+zh-cn:我有一个完美的例子来解释量子世界的反直觉观念。这是个量子滑雪者。他看起来很完整，看起来很健康，但是，他也好像同时穿过了那棵树的两边。嗯，当然，如果你看到这样的滑雪轨迹，你可能会觉得这是某种特技。但在量子世界里，这无时不刻都会发生。粒子是可以进行多任务处理的，它们可以同时出现在两个地方。它们在同一时间能执行多项任务。它们好像散开的涟漪一样。就好比魔术。
+en:Here is my perfect exampleof the counterintuitivenessof the quantum world.This is the quantum skier.He seems to be intact,he seems to be perfectly healthy,and yet, he seems to have gone aroundboth sides of that tree at the same time.Well, if you saw tracks like thatyou&#39;d guess it was somesort of stunt, of course.But in the quantum world,this happens all the time.Particles can multitask,they can be in two places at once.They can do more than one thingat the same time.Particles can behavelike spread-out waves.It&#39;s almost like magic.
+时间： 5:26
+zh-cn:物理学家和化学家用了近一个世纪来适应这种神秘之物。我也不怪生物学家不用或不想学习量子力学。
+en:Physicists and chemists have hadnearly a centuryof trying to get used to this weirdness.I don&#39;t blame the biologistsfor not having to or wantingto learn quantum mechanics.
+时间： 5:36
+zh-cn:你们看，这种神秘是很微妙的；我们物理学家在实验室里下了很大功夫来稳定它。我们把我们的系统冷却到接近绝对零度，在真空中进行我们的实验，我们努力将其从任何外界干扰中分离出来。那和活体细胞里温暖、凌乱又嘈杂的环境大相径庭。生物学，就分子生物学而言，它似乎在化学——化学反应方面非常好地阐释了所有的生命进程。而这都是还原论、确定性的化学反应，它们显示，生命的成分说到底和其他事物一样，而且我们要是可以在宏观世界里忘掉量子力学，那我们也可以在生物学中忘掉它。
+en:You see, this weirdness is very delicate;and we physicists work very hardto maintain it in our labs.We cool our system downto near absolute zero,we carry out our experiments in vacuums,we try and isolate itfrom any external disturbance.That&#39;s very different from the warm,messy, noisy environment of a living cell.Biology itself, if you think ofmolecular biology,seems to have done very wellin describing all the processes of lifein terms of chemistry —chemical reactions.And these are reductionist,deterministic chemical reactions,showing that, essentially, life is madeof the same stuff as everything else,and if we can forget about quantummechanics in the macro world,then we should be able to forgetabout it in biology, as well.
+时间： 6:26
+zh-cn:然而，有个人不同意这个观点。那就是埃尔温·薛定谔，他有个著名的薛定谔猫实验，是个奥地利物理学家。他是20世纪20年代量子力学创始人之一。1944年，他写了本书叫做《生命是什么？》这本书影响巨大。它影响了弗朗西斯·克里克和詹姆斯·沃森，就是发现DNA双螺旋结构的那两个人。在书中，他表达了这样的意思：在分子水平上，生命体有着某种秩序，一种结构，使其和其他随机的热力学原子冲撞以及一样复杂的无机质分子有着天壤之别。
+en:Well, one man beggedto differ with this idea.Erwin Schrödinger,of Schrödinger&#39;s Cat fame,was an Austrian physicist.He was one of the foundersof quantum mechanics in the 1920s.In 1944, he wrote a bookcalled &quot;What is Life?&quot;It was tremendously influential.It influenced Francis Crickand James Watson,the discoverers of the double-helixstructure of DNA.To paraphrase a descriptionin the book, he says:At the molecular level,living organisms have a certain order,a structure to them that&#39;s very differentfrom the random thermodynamic jostlingof atoms and moleculesin inanimate matterof the same complexity.
+时间： 7:12
+zh-cn:实际上，生命体似乎就是在一个结构中，以这种秩序运转着，就好像被冷却到近绝对零度的无机质一样，量子理论在这里起到了很重要的作用。活体细胞中的这个结构——这个秩序——有着一些特别之处。所以，薛定谔推测，也许量子力学在生命学当中起到了某些作用。这是个极具推测性的且影响深远的观点，但也没怎么发展下去了。
+en:In fact, living matter seems to behavein this order, in a structure,just like inanimate mattercooled down to near absolute zero,where quantum effectsplay a very important role.There&#39;s something specialabout the structure — the order —inside a living cell.So, Schrödinger speculated that maybequantum mechanics plays a role in life.It&#39;s a very speculative,far-reaching idea,and it didn&#39;t really go very far.
+时间： 7:44
+zh-cn:但正如我一开始说的，在过去10年做了些实验，实验结果显示生物学中的某些现象确实需要量子力学来解释。
+en:But as I mentioned at the start,in the last 10 years, there have beenexperiments emerging,showing where some of thesecertain phenomena in biologydo seem to require quantum mechanics.
+时间： 7:54
+zh-cn:我想和大家分享几个最激动人心的实验。这是量子世界里最有名的现象之一，叫做量子隧穿。左边的框里有一个量子实体，它像波一样扩散开来——这是个像电子一样的粒子，它和从墙上反弹回来的小球不一样。它是一个波，可以穿过一个实心墙，像个幽灵似地从一边穿透到另一边。你在右手边的框里可以看到一些微弱的光斑。量子隧穿表明，一个粒子能够撞上一堵无法穿透的墙，然而却又能像魔术一样，从墙的一侧消失并出现在另一侧。用最好的方法来解释的话，就是说如果你要把一个球扔到墙的另一侧，那你要给它足够能量让它越过墙顶。但在量子世界里，你不需要将它从墙顶上扔过去，你只要往墙上扔就好了，然后这个球会在你这侧消失并出现在另一侧，而这个概率为非零。
+en:I want to share with youjust a few of the exciting ones.This is one of the best-knownphenomena in the quantum world,quantum tunneling.The box on the left showsthe wavelike, spread-out distributionof a quantum entity —a particle, like an electron,which is not a little ballbouncing off a wall.It&#39;s a wave that has a certain probabilityof being able to permeatethrough a solid wall, like a phantomleaping through to the other side.You can see a faint smudge of lightin the right-hand box.Quantum tunneling suggests that a particlecan hit an impenetrable barrier,and yet somehow, as though by magic,disappear from one sideand reappear on the other.The nicest way of explaining it isif you want to throw a ball over a wall,you have to give it enough energyto get over the top of the wall.In the quantum world,you don&#39;t have to throw it over the wall,you can throw it at the wall,and there&#39;s a certain non-zero probabilitythat it&#39;ll disappear on your side,and reappear on the other.
+时间： 8:56
+zh-cn:这不是推测，顺便提下。我们很高兴——额，“高兴”这个词用得不对——
+en:This isn&#39;t speculation, by the way.We&#39;re happy — well, &quot;happy&quot;is not the right word —
+时间： 9:01
+zh-cn:（笑声）
+en:(Laughter)
+时间： 9:03
+zh-cn:我们是熟悉这个的。
+en:we are familiar with this.
+时间： 9:05
+zh-cn:（笑声）
+en:(Laughter)
+时间： 9:07
+zh-cn:量子隧穿随时随刻都在发生；实际上，这也是太阳发光的原因。粒子融合在一起，然后太阳通过量子隧穿将氢转化为氦。七八十年代的时候，人们发现活细胞中也有量子隧穿。酶，为维持生命努力运作着，是化学反应的催化剂——酶这种生物分子加快了活细胞中的化学反应，规模大小不一。但它们是如何做到这点的，至今任是一个谜。
+en:Quantum tunnelingtakes place all the time;in fact, it&#39;s the reason our Sun shines.The particles fuse together,and the Sun turns hydrogeninto helium through quantum tunneling.Back in the 70s and 80s, it was discoveredthat quantum tunneling also takes placeinside living cells.Enzymes, those workhorses of life,the catalysts of chemical reactions —enzymes are biomolecules that speed upchemical reactions in living cells,by many, many orders of magnitude.And it&#39;s always been a mysteryhow they do this.
+时间： 9:42
+zh-cn:嗯，人们发现酶发展出了一种方法，就是通过传送亚原子粒子，例如电子和当然还有质子这种，酶通过量子隧穿将它们从分子的一部分传输到另一部分。这效率非常高，很快，它——一个质子能从一个地方消失，然后在另一个地方再出现。而酶使之成为可能。
+en:Well, it was discoveredthat one of the tricks that enzymeshave evolved to make use of,is by transferring subatomic particles,like electrons and indeed protons,from one part of a moleculeto another via quantum tunneling.It&#39;s efficient, it&#39;s fast,it can disappear —a proton can disappear from one place,and reappear on the other.Enzymes help this take place.
+时间：10:07
+zh-cn:这个研究是在80年代进行的，其中Judith Klinman带领的一个伯克利的团队作用尤其突出。另一些英国的团队现在也已肯定酶有这种能力。
+en:This is research that&#39;s beencarried out back in the 80s,particularly by a groupin Berkeley, Judith Klinman.Other groups in the UKhave now also confirmedthat enzymes really do this.
+时间：10:20
+zh-cn:我的团队做的研究——我之前说过，我是个核物理学家，但我也意识到，我已在原子核领域应用了量子力学，那么我也可以把它也应用到其他领域。我们提出的一个问题是量子隧穿在DNA变异中是否也发挥着作用。这仍然不是个新概念；它任然要追溯到60年代早期。DNA分子链，即双螺旋结构，是由像阶梯一样的东西连接在一起的；像是个扭曲的梯子一样。而这些梯子上的阶梯就是氢键——质子，其作用是将两束分子链黏合在一起。那么放大来看，你就会发现它们将这些大分子——核苷酸——聚合在一起。再放大一点看：这是个电脑模拟。中间的两个白色的球是质子，你们看得到这是双氢键。其中一个喜欢待在这端；另一个，则待在双链的另一端，这是纵向走向的，你们看不到。这两个质子也有可能跳到另一端。看着两个白球。它们可以跳到另外一端。如果DNA双链分开了，引发复制过程，而恰好这两个质子的位置错了，那么就会导致变异。
+en:Research carried out by my group —so as I mentioned,I&#39;m a nuclear physicist,but I&#39;ve realized I&#39;ve got these toolsof using quantum mechanicsin atomic nuclei, and so can applythose tools in other areas as well.One question we askedis whether quantum tunnelingplays a role in mutations in DNA.Again, this is not a new idea;it goes all the way back to the early 60s.The two strands of DNA,the double-helix structure,are held together by rungs;it&#39;s like a twisted ladder.And those rungs of the ladderare hydrogen bonds —protons, that act as the gluebetween the two strands.So if you zoom in, what they&#39;re doingis holding these large molecules —nucleotides — together.Zoom in a bit more.So, this a computer simulation.The two white ballsin the middle are protons,and you can see thatit&#39;s a double hydrogen bond.One prefers to sit on one side;the other, on the other sideof the two strands of the vertical linesgoing down, which you can&#39;t see.It can happen thatthese two protons can hop over.Watch the two white balls.They can jump over to the other side.If the two strands of DNA then separate,leading to the process of replication,and the two protonsare in the wrong positions,this can lead to a mutation.
+时间：11:42
+zh-cn:这个现象已为人所知半个世纪了。但问题来了：它们发生错误的概率是多大，如果它们出错了，又是怎么出错的呢？它们就这样跳到另一端，就好像那个球越过那堵墙那样吗？还是它们在没有足够能量的情况下，也能实现量子隧穿那样的穿越呢？早期研究提出量子隧穿可能在这发挥了作用。我们还不知道其重要性有多大；目前还没有确切答案。现在只有推测，但如果说量子力学会影响变异的话，这就是个非常重要的问题之一了，对于理解某些类型的变异，甚至是可能导致细胞癌变的变异，这当然这有着非常重大的意义。
+en:This has been known for half a century.The question is: How likelyare they to do that,and if they do, how do they do it?Do they jump across,like the ball going over the wall?Or can they quantum-tunnel across,even if they don&#39;t have enough energy?Early indications suggest thatquantum tunneling can play a role here.We still don&#39;t know yethow important it is;this is still an open question.It&#39;s speculative,but it&#39;s one of those questionsthat is so importantthat if quantum mechanicsplays a role in mutations,surely this must have big implications,to understand certain types of mutations,possibly even those that leadto turning a cell cancerous.
+时间：12:21
+zh-cn:生物学中另一个量子力学的例子是，生物学中最重要的一个过程之一，光合作用里的量子相干性：植物和细菌吸收了光照，并利用其中的能量来制造生物质。量子相关性指的是量子实体同时执行多任务的现象。这是个量子滑雪者。这个物体表现得像波一样，所以它的移动不是单一方向的，而是同时能够走不同的路线。
+en:Another example of quantum mechanicsin biology is quantum coherence,in one of the mostimportant processes in biology,photosynthesis: plantsand bacteria taking sunlight,and using that energy to create biomass.Quantum coherence is the ideaof quantum entities multitasking.It&#39;s the quantum skier.It&#39;s an object that behaves like a wave,so that it doesn&#39;t just movein one direction or the other,but can follow multiple pathwaysat the same time.
+时间：12:53
+zh-cn:几年前，一篇论文的发布震惊了科学界，它提出实验证明量子相干性存在于细菌中，执行着光合作用。这个观点说的是，光子，即光粒子，阳光，光量子被叶绿素捕捉到后，被传递到叫做反应中心的地方，在这里它被转化成化学能量。而到达反应中心的路线不止一个；光量子会同时走多个路线，最后找出最高效的路线达到反应中心，从而不会消耗成余热。量子相干性效应也存在于活细胞里。这是个卓越的观点，而目前每周也都有新证据、新论文发表来证明这个观点，证明这个现象的确存在。
+en:Some years ago,the world of science was shockedwhen a paper was publishedshowing experimental evidencethat quantum coherencetakes place inside bacteria,carrying out photosynthesis.The idea is that the photon,the particle of light, the sunlight,the quantum of lightcaptured by a chlorophyll molecule,is then delivered to what&#39;s calledthe reaction center,where it can be turned intochemical energy.And in getting there,it doesn&#39;t just follow one route;it follows multiple pathways at once,to optimize the most efficient wayof reaching the reaction centerwithout dissipating as waste heat.Quantum coherence taking placeinside a living cell.A remarkable idea,and yet evidence is growing almost weekly,with new papers coming out,confirming that thisdoes indeed take place.
+时间：13:44
+zh-cn:我的第三个也是最后一个例子，是个非常美丽奇妙的观点。同样也极具推测性，但我要和你们分享一下。欧洲斯堪的纳维亚的知更鸟每个秋天都会迁徙到地中海，就和许多其它海洋动物甚至是昆虫一样，它们都靠感应地球磁场来感知方向。地球磁场非常的弱；它比我们的冰箱贴还弱100倍，然而它却影响着生物体中的化学反应。毋庸置疑——德国的鸟类学家夫妇Wolfgang和Roswitha Wiltschko在20世纪70年代确认，知更鸟的确通过感应地球磁场来探路，从中获取方向信息——这是一种内置的指南针。
+en:My third and final exampleis the most beautiful, wonderful idea.It&#39;s also still very speculative,but I have to share it with you.The European robinmigrates from Scandinaviadown to the Mediterranean, every autumn,and like a lot of othermarine animals and even insects,they navigate by sensingthe Earth&#39;s magnetic field.Now, the Earth&#39;s magnetic fieldis very, very weak;it&#39;s 100 times weakerthan a fridge magnet,and yet it affects the chemistry —somehow — within a living organism.That&#39;s not in doubt —a German couple of ornithologists,Wolfgang and Roswitha Wiltschko,in the 1970s, confirmed that indeed,the robin does find its way by somehowsensing the Earth&#39;s magnetic field,to give it directional information —a built-in compass.
+时间：14:36
+zh-cn:令人不解的谜团是：它们是怎么做到的？嗯，我们现在只有一个理论—我们不确定这个理论是否正确，但目前只有这么一个理论—就是，它们是通过一个叫做量子纠缠的效应来实现导航的。在知更鸟的视网膜里—我可不是开玩笑啊—在知更鸟的视网膜上有一个蛋白质叫做隐花色素，它对光很敏感。在印花色素里，有一对相互纠缠的电子。量子纠缠意味着两个粒子相距甚远，却又能彼此保持联系。连爱因斯坦都讨厌这个观点；他把它叫做“鬼魅般的超距作用。”
+en:The puzzle, the mystery was:How does it do it?Well, the only theory in town —we don&#39;t know if it&#39;s the correct theory,but the only theory in town —is that it does it via somethingcalled quantum entanglement.Inside the robin&#39;s retina —I kid you not — inside the robin&#39;s retinais a protein called cryptochrome,which is light-sensitive.Within cryptochrome, a pair of electronsare quantum-entangled.Now, quantum entanglementis when two particles are far apart,and yet somehow remainin contact with each other.Even Einstein hated this idea;he called it &quot;spooky actionat a distance.&quot;
+时间：15:11
+zh-cn:（笑声）
+en:(Laughter)
+时间：15:13
+zh-cn:那么如果爱因斯坦不喜欢这个观点，那么我们就有理由也不喜欢。单细胞当中的两个有着量子纠缠关系的电子跳着非常微妙的舞蹈，并对鸟类在地球磁场里飞翔的方向很敏感。
+en:So if Einstein doesn&#39;t like it,then we can all be uncomfortable with it.Two quantum-entangled electronswithin a single moleculedance a delicate dancethat is very sensitiveto the direction the bird fliesin the Earth&#39;s magnetic field.
+时间：15:25
+zh-cn:我不知道这么说对不对，但是哇哦，如果量子力学能帮助鸟类感知方向，这不是很激动人心的事吗？量子生物学还处在婴儿时期。还处在推测阶段。不过我相信它是建立在严谨科学之上的。我也认为在接下来十年左右，我们会看到，其实它在生活中无处不在——生活已经演变出了许多利用量子世界的技能。请关注这个领域。
+en:We don&#39;t know if it&#39;sthe correct explanation,but wow, wouldn&#39;t it be excitingif quantum mechanics helps birds navigate?Quantum biology is still in it infancy.It&#39;s still speculative.But I believe it&#39;s built on solid science.I also think thatin the coming decade or so,we&#39;re going to start to seethat actually, it pervades life —that life has evolved tricksthat utilize the quantum world.Watch this space.
+时间：16:00
+zh-cn:谢谢。
+en:Thank you.
+时间：16:01
+zh-cn:（掌声）
+en:(Applause)

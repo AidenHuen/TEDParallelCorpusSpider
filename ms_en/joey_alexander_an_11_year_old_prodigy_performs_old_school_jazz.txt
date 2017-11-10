@@ -1,0 +1,9 @@
+时间： 0:20
+ms:(Muzik bermula)
+en:(Music)
+时间： 4:10
+ms:(Bunyi muzik dan tepukan)
+en:(Music) (Applause)
+时间： 6:12
+ms:(Tepukan)
+en:(Applause)

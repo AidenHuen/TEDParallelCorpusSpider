@@ -1,0 +1,32 @@
+新闻标题：iOS 10.3 发布：查找 AirPods、全新 APFS 文件系统_网易数码
+新闻url：http://digi.163.com/17/0328/06/CGJK0451001687H3.html
+新闻正文：
+<img src="http://cms-bucket.nosdn.127.net/catchpic/d/d6/d66abc83183c32467e9432057b3bf3b4.jpg?imageView&thumbnail=550x0" alt="20709-22870-20482-22320-19896-21014-170124-AirPods-l-l-l.jpg"/>
+作为 10.x 升级，iOS 10.3 增加了很多重要功能，同时改进了系统性能。iOS 10.3 的新功能之一包括“查找 AirPods”功能。在“查找我的 iPhone”中可以定位 AirPods 的位置，并在一侧或左右 AirPods 上同时播放声音，帮助用户更好的发现 AirPods。
+iOS 10.3 还加入了全新的苹果文件系统（APFS）。当用户安装 iOS 10.3 系统后，会将整个文件系统升级为苹果文件系统 Apple File System（APFS）。APFS 的优点有很多，比如“优化闪存/ SSD 存储，并以加密为主要功能”，在I/O联合上使用了“独特的 copy-on-write设计”，在确保可靠性的基础上优化性能。该系统的核心为加密功能，其将为苹果旗下的每款设备提供统一的加密方法。该系统包含有多密钥加密功能，内置有针对每个文件的密钥，其针对敏感元数据也都有独立的密钥。
+在 iOS 10.3 中苹果还对 App Store 功能进行了调整，允许开发者直接回应用户的评价。同时，iOS 用户也可以对评价进行评级“有帮助”或“毫无帮助”。同时，苹果还限制了开发者求好评的次数，还有专门的开关完全关闭求好评功能。
+iOS 10.3 其他新功能包括：全新的应用开启和关闭动画效果，设置应用中整合了 Apple ID 账户信息，更好的 iCloud 用量图表，改进 SiriKit（支付、叫车），CarPlay 界面改进等。
+<strong>更新列表:</strong>
+<strong>Find My iPhone</strong>
+- View the current or last known location of your AirPods
+- Play a sound on one or both AirPods to help you find them
+<strong>Siri</strong>
+- Support for paying and checking status of bills with payment apps
+- Support for scheduling with ride booking apps
+- Support for checking car fuel level, lock status, turning on lights and activating horn with automaker apps
+- Cricket sports scores and statistics for Indian Premier League and International Cricket Council
+<strong>CarPlay</strong>
+- Shortcuts in the status bar for easy access to last used apps
+- Apple Music Now Playing screen gives access to Up Next and the currently playing song s album
+- Daily curated playlists and new music categories in Apple Music
+<strong>Other improvements and fixes</strong>
+- Rent once and watch your iTunes movies across your devices
+- New Settings unified view for your Apple ID account information, settings and devices
+- Hourly weather in Maps using 3D Touch on the displayed current temperature
+- Support for searching “parked car&quot; in Maps
+- Calendar adds the ability to delete an unwanted invite and report it as junk
+- Home app support to trigger scenes using accessories with switches and buttons
+- Home app support for accessory battery level status
+- Podcasts support for 3D Touch and Today widget to access recently updated shows
+- Podcast shows or episodes are shareable to Messages with full playback support
+- Fixes an issue that could prevent Maps from displaying your current location after resetting Location &amp; Privacy

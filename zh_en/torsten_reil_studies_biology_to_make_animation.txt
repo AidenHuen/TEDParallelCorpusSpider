@@ -1,0 +1,126 @@
+时间： 0:14
+zh-cn:我想谈谈一个我们正在牛津开发的技术，我们认为这个技术可以改变电脑游戏和好莱坞电影的制作方法这个技术就是模拟人类。这个模拟人类有电脑模拟的身体，和电脑模拟的神经系统来控制身体。现在，在我开始讲解这个技术之前，让我们先快速浏览一下在现今的电脑游戏中游戏人物角色是什么样子的。这是从一个名为“侠盗飞车3”的游戏中摘出的片断。我们昨天已经见过了。可以看出，这是个非常精美的游戏。这是有史以来最成功的电脑游戏之一。但是你也可以发现这个游戏中所有的模拟动作都有很大的重复性。所有的动作看起来都一样。我让这个人物一次又一次地撞到墙上，你可以发现每次它（的反应）看起来都一样。这是因为这些动画人物并不是真正的“人”，它们是“人”的虚拟图像。
+en:I&#39;m going to talk about a technology that we&#39;re developing at Oxford now,that we think is going to change the way thatcomputer games and Hollywood movies are being made.That technology is simulating humans.It&#39;s simulated humans with a simulated bodyand a simulated nervous system to control that body.Now, before I talk more about that technology,let&#39;s have a quick look at what human characters look likeat the moment in computer games.This is a clip from a game called &quot;Grand Theft Auto 3.&quot;We already saw that briefly yesterday.And what you can see is — it is actually a very good game.It&#39;s one of the most successful games of all time.But what you&#39;ll see is that all the animations in this game are very repetitive.They pretty much look the same.I&#39;ve made him run into a wall here, over and over again.And you can see he looks always the same.The reason for that is that these charactersare actually not real characters.They are a graphical visualization of a character.
+时间： 1:15
+zh-cn:设计师做出这些动画人物的时候得要猜想游戏中将会发生什么情境，然后还得根据这些特定的情境画出（动画人物的反应）。所以设计师得坐下来，画出动画，还要猜想将会发生什么，所以这些人物的反应都是重复播放的设定动作，只是根据电脑游戏中特定的情境播放罢了。结果游戏中并没有真的互动。有的仅仅是重复播放的动画，关键只是选择合适的时机罢了。这也说明现在的电脑游戏并不具备它们应有的新鲜度，因为所有你能得到的动画效果，至少在人物动作方面，仅仅是设计者储存在游戏中的那些。并不会有真正的效果。
+en:To produce these animations, an animator at a studio has to anticipatewhat&#39;s going to happen in the actual game,and then has to animate that particular sequence.So, he or she sits down, animates it, and tries to anticipate what&#39;s going to happen,and then these particular animations are just played backat appropriate times in the computer game.Now, the result of that is that you can&#39;t have real interactivity.All you have is animations that are played backat more or less the appropriate times.It also means that games aren&#39;t really going to be as surprising as they could be,because you only get out of it, at least in terms of the character,what you actually put into it.There&#39;s no real emergence there.
+时间： 1:58
+zh-cn:第三点，如我所说，绝大部分的动画重复性都很大，也是因为都是预存的。唯一的解决办法就是实实在在地模拟人体的反应，模拟人的神经系统是怎样控制身体的运动的。这样吧，如果我能借你做个演示来展示（真人的反应）的不同 —因为，要知道，有的差异是很微妙的。好比我轻轻推克里斯一下，就像这样，他就会给出反应。如果我从不同的角度推他，他的身体反应会不同。那是因为他有一个真正的身体，他有那些运动技能，能够控制他的身体。这是非常微妙的。这不是你能从现今的电脑游戏中得到的反应。谢了克里斯。（克里斯·安德森 问：“这样就行了？”）
+en:And thirdly, as I said, most of the animations are very repetitive because of that.Now, the only way to get around thatis to actually simulate the human bodyand to simulate that bit of the nervous system of the brain that controls that body.And maybe, if I could have you for a quick demonstrationto show what the difference is —because, I mean, it&#39;s very, very trivial.If I push Chris a bit, like this, for example, he&#39;ll react to it.If I push him from a different angle, he&#39;ll react to it differently,and that&#39;s because he has a physical body,and because he has the motor skills to control that body.It&#39;s a very trivial thing.It&#39;s not something you get in computer games at the moment, at all.Thank you very much. Chris Anderson: That&#39;s it?
+时间： 2:37
+zh-cn:是的，就这样。这就是我们试图模拟的 —不是单单模拟 Chris 这个人，而是，所有的真人身体的反应。在牛津大学我们已经开始一段时间的研究了，我们一开始做得很简单，仅仅是训练这个火柴人走路。这个火柴人的身体是能接受信号刺激的。你在屏幕上能看见。所以它能对重力有反应，它也有关节，等等。如果你开始模拟程序，它会跌倒，就像这样。现在难就难在怎样把人工智能控制器放进去，让它顺利工作。我们用的是模拟的神经系统，它是根据真的人体的脊髓中控制走路的那部分神经系统设计的。名字叫中枢模式发生器。我们模拟了这个神经系统之后，真正的难点就是教会这个神经系统如何控制身体来走路。为了解决这个问题我们使用的是人工进化系统 — 基因模拟算法。
+en:Torsten Reil: That&#39;s it, yes.So, that&#39;s what we&#39;re trying to simulate —not Chris specifically, I should say, but humans in general.Now, we started working on this a while ago at Oxford University,and we tried to start very simply.What we tried to do was teach a stick figure how to walk.That stick figure is physically stimulated. You can see it here on the screen.So, it&#39;s subject to gravity, has joints, etc.If you just run the simulation, it will just collapse, like this.The tricky bit is now to put an AI controller in itthat actually makes it work.And for that, we use the neural network, which we based onthat part of the nervous system that we have in our spinethat controls walking in humans.It&#39;s called the central pattern generator.So, we simulated that as well, and then the really tricky bitis to teach that network how to walk.For that we used artificial evolution — genetic algorithms.
+时间： 3:28
+zh-cn:我们昨天也听说过了。这里我就当你们大部分人都知道那是怎么回事。但是，简短地说，这个概念是你首先制造出一大批个体来，各个不同，这里我们做的是一大批神经系统。开始时，每个的工作模式都是随机的。你把这些接到这个火柴人上 —这里我们把这些神经系统接到这些两腿人的模拟肌肉系统上 —然后就等着它们随机工作。一开始火柴人的反应都挺没劲的。绝大部分都不动，有些动起来了，也仅仅是迈一小步。这些让火柴人动起来的神经系统会被挑出来，用来生产下一代，其中加入了基因变异和基因重组，也加入了性别。然后你不断重复这些步骤，直到你得到真的能够让火柴人走路的神经系统 —就像这里这个能走一条直线的。这就是这个实验想做的。当我们开始做时，我在一天晚上启动了一个实验，整个模拟试验一般要三四个小时。第二天早上起来我跑去看结果，满怀希望能得到一个走直线的动画人，就像我给你们看的那个，结果我看到的是这个。
+en:We heard about those already yesterday,and I suppose that most of you are familiar with that already.But, just briefly, the concept is thatyou create a large number of different individuals —neural networks, in this case —all of which are random at the beginning.You hook these up — in this case, to the virtual musclesof that two-legged creature here —and hope that it does something interesting.At the beginning, they&#39;re all going to be very boring.Most of them won&#39;t move at all,but some of them might make a tiny step.Those are then selected by the algorithm,reproduced with mutation and recombinations to introduce sex as well.And you repeat that process over and over again,until you have something that walks —in this case, in a straight line, like this.So that was the idea behind this.When we started this, I set up the simulation one evening.It took about three to four hours to run the simulation.I got up the next morning, went to the computer and looked at the results,and was hoping for something that walked in a straight line,like I&#39;ve just demonstrated,and this is what I got instead.
+时间： 4:27
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:37
+zh-cn:我们又得从头来过。最后我们当然做成了，改改这里改改那里。这里是个进化成功的例子。你马上将要看到的是一个非常简单的两足动物用人工进化的方法学习如何走路。一开始它一点也走不了，但是走的越来越好。这里是那个一点也不会走路的。
+en:So, it was back to the drawing board for us.We did get it to work eventually,after tweaking a bit here and there.And this is an example of a successful evolutionary run.So, what you&#39;ll see in a moment is a very simple bipedthat&#39;s learning how to walk using artificial evolution.At the beginning, it can&#39;t walk at all,but it will get better and better over time.So, this is the one that can&#39;t walk at all.
+时间： 5:04
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:10
+zh-cn:现在，当运用了人工进化，五代之后基因算法变得好些了。
+en:Now, after five generations of applying evolutionary process,the genetic algorithm is getting a tiny bit better.
+时间： 5:16
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:24
+zh-cn:第十代，这个两足动物能多走几步了。但是还是不太行。现在，二十代后，它能真的走出一条直线来，也不会跌到。这对我们来说是个真正的突破。这是个学术上非常有挑战性的项目，而且当我们能做到这一步的时候，我们就有信心能够挑战其他的目标，比如用这个方法 —真的来模拟人体，模拟用来控制身体运动的那部分神经。并且那个阶段我们确信这个技术将会对电脑游戏或者网络世界有很大意义。现在你看到的是一个模拟人物，站在那里，前面我们放了一个障碍物。你将会看到，它会被障碍物绊倒。现在，有趣的是，如果我把障碍物向右边挪一点，就像这样，它会以一种非常不同的方式跌倒。再来一次，如果你把障碍物再挪一点，它跌到的方式又会不同。
+en:Generation 10 and it&#39;ll take a few steps more —still not quite there.But now, after generation 20, it actually walks in a straight line without falling over.That was the real breakthrough for us.It was, academically, quite a challenging project,and once we had reached that stage, we were quite confidentthat we could try and do other things as well with this approach —actually simulating the bodyand simulating that part of the nervous system that controls it.Now, at this stage, it also became clear that this could be very excitingfor things like computer games or online worlds.What you see here is the character standing there,and there&#39;s an obstacle that we put in its way.And what you see is, it&#39;s going to fall over the obstacle.Now, the interesting bit is, if I move the obstacle a tiny bit to the right,which is what I&#39;m doing now, here,it will fall over it in a completely different way.And again, if you move the obstacle a tiny bit, it&#39;ll again fall differently.
+时间： 6:28
+zh-cn:（笑声）
+en:(Laughter)
+时间： 6:30
+zh-cn:现在，你看到的是，喔，顺便一提，在屏幕的上面，是我们传入肌肉的一些神经的活动，好的，这里就是这个片段。谢谢。好的，这看起来微不足道但是其是非常重要，因为这是现今你在任何的虚拟世界或者互动游戏中能够看到的。现在，从这个阶段，我们决定成立一个公司，开始进一步的研究，因为很明显这只是个非常简单的块状两足动物，我们真的想做的是一个完整的模拟人体。这样我们成立了公司。我们吸收了一些物理学家，软件工程师和生物学家一起工作，我们做的第一件事是做出一个模拟人体。这个模拟人需要很轻巧，这样你才能在一般的电脑上运作。但是也需要非常地准确，才会好看。
+en:Now, what you see, by the way, at the top there,are some of the neural activations being fed into the virtual muscles.Okay. That&#39;s the video. Thanks.Now, this might look kind of trivial, but it&#39;s actually very importantbecause this is not something you get at the momentin any interactive or any virtual worlds.Now, at this stage, we decided to start a company and move this further,because obviously this was just a very simple, blocky biped.What we really wanted was a full human body.So we started the company.We hired a team of physicists, software engineers and biologiststo work on this, and the first thing we had to work onwas to create the human body, basically.It&#39;s got to be relatively fast, so you can run it on a normal machine,but it&#39;s got to be accurate enough, so it looks good enough, basically.
+时间： 7:14
+zh-cn:所以我们夹了不少生化科技进去，使它看起来像是真的。这里你在屏幕上看到的，是这个模拟人体的一个简单版，值得一提的是给它加上头发，衣服之类的是非常简单的。但是我们决定做得很简洁这样大家的注意力才会集中在它的动作上。现在，我想做的是，推这个模拟人一下下，看看会发生什么。没什么有趣的。它跌到了，像个假娃娃。这是因为我们没有放人工智能进去。当我们放人工智能进去就有趣多了。现在这个模拟人的上半身有运动技能。下半身没有，在这个人体里。但是马上你会看到 — 我现在在推它一下，它有自主意识被推了，它会张开双臂，向跌倒的方向转身，试图撑住。这就是你在这里看到的。
+en:So we put quite a bit of biomechanical knowledge into this thing,and tried to make it as realistic as possible.What you see here on the screen right nowis a very simple visualization of that body.I should add that it&#39;s very simple to add things like hair, clothes, etc.,but what we&#39;ve done here is use a very simple visualization,so you can concentrate on the movement.Now, what I&#39;m going to do right now, in a moment,is just push this character a tiny bit and we&#39;ll see what happens.Nothing really interesting, basically.It falls over, but it falls over like a rag doll, basically.The reason for that is that there&#39;s no intelligence in it.It becomes interesting when you put artificial intelligence into it.So, this character now has motor skills in the upper body —nothing in the legs yet, in this particular one.But what it will do — I&#39;m going to push it again.It will realize autonomously that it&#39;s being pushed.It&#39;s going to stick out its hands.It&#39;s going to turn around into the fall, and try and catch the fall.So that&#39;s what you see here.
+时间： 8:21
+zh-cn:如果下半身也加上人工智能，就更有趣了。这里看到的是同一个模拟人，我现在推得更狠一些，比刚才我推克里斯更用力些。你将看到我从左边推它。你将会看到它向后退 —试图平衡自己，试图向下看。我马上播放给你看。最后它倒到地上。现在当你从不同角度推它的时候，它的反应就有趣多了，就像我刚做的。这是你现在得不到的。现在你从游戏里只能看到空洞的动画图像。这里我给你看的是真的模拟人生。
+en:Now, it gets really interestingif you then add the AI for the lower part of the body as well.So here, we&#39;ve got the same character.I&#39;m going to push it a bit harder now,harder than I just pushed Chris.But what you&#39;ll see is — it&#39;s going to receive a push now from the left.What you see is it takes steps backwards,it tries to counter-balance,it tries to look at the place where it thinks it&#39;s going to land.I&#39;ll show you this again.And then, finally hits the floor.Now, this becomes really excitingwhen you push that character in different directions, again, just as I&#39;ve done.That&#39;s something that you cannot do right now.At the moment, you only have empty computer graphics in games.What this is now is a real simulation. That&#39;s what I want to show you now.
+时间： 9:12
+zh-cn:这里是同一个模拟人，能作相同的反应。现在我从不同角度推它，先从右边退，这是慢动作这样我们能看得更清楚。现在我换个角度，你看一看到它的反应是不同的。再来一次，推一下，从前面你看它跌到的方式又变了。现在从左边。又不一样。我们看到这个结果很激动，这是第一次我们看到成果。今天是第一次向公众发表。因为我们还在保密阶段的左，我还没给人看过。现在，只是好玩，看看如果我们把它放在不同情境会发生什么 —这是个木头人的版本，放了人工智能进去 —我们把它放在光滑的表面上，比如冰面。我们这么做只是为了看看会发生什么滑稽的事。
+en:So, here&#39;s the same character with the same behavior I&#39;ve just shown you,but now I&#39;m just going to push it from different directions.First, starting with a push from the right.This is all slow motion, by the way, so we can see what&#39;s going on.Now, the angle will have changed a tiny bit,so you can see that the reaction is different.Again, a push, now this time from the front.And you see it falls differently.And now from the left —and it falls differently.That was really exciting for us to see that.That was the first time we&#39;ve seen that.This is the first time the public sees this as well,because we have been in stealth mode.I haven&#39;t shown this to anybody yet.Now, just a fun thing:what happens if you put that character —this is now a wooden version of it, but it&#39;s got the same AI in it —but if you put that character on a slippery surface, like ice.We just did that for a laugh, just to see what happens.
+时间：10:05
+zh-cn:（笑声）
+en:(Laughter)
+时间：10:06
+zh-cn:结果是这样。
+en:And this is what happens.
+时间：10:08
+zh-cn:（笑声）
+en:(Laughter)
+时间：10:11
+zh-cn:（鼓掌）
+en:(Applause)
+时间：10:14
+zh-cn:我们没有人为的加东西进去。我们只是用了类似的模拟人，把它放在光滑的表面上，结果就是这样。这正是这个研究的过人之处，当我们把这个结果给电影工作者和游戏的设计者看的时候，向他们展示这项技术，我们得到了很好的反响。他们最需要的是虚拟替身。因为替身工作非常危险，雇替身的花费也很大。很多使用替身的片断还不能用真人，因为这些特技太危险了，真人会受伤。所以他们很需要一个数码版的替身，这就是我们过去几个月里做的项目。这是我们的第一个产品，几周后会上市。这里是一些非常简单的情境，比如这个人刚被踢了一脚。这是电影公司需要的，我们只是按他们的需要做。
+en:It&#39;s nothing we had to do about this.We just took this character that I just talked about,put it on a slippery surface, and this is what you get out of it.And that&#39;s a really fascinating thing about this approach.Now, when we went to film studios and games developersand showed them that technology, we got a very good response.And what they said was, the first thing they need immediately is virtual stuntmen.Because stunts are obviously very dangerous, they&#39;re very expensive,and there are a lot of stunt scenes that you cannot do, obviously,because you can&#39;t really allow the stuntman to be seriously hurt.So, they wanted to have a digital version of a stuntmanand that&#39;s what we&#39;ve been working on for the past few months.And that&#39;s our first product that we&#39;re going to release in a couple of weeks.So, here are just a few very simple scenes of the guy just being kicked.That&#39;s what people want. That&#39;s what we&#39;re giving them.
+时间：11:01
+zh-cn:（笑声）
+en:(Laughter)
+时间：11:08
+zh-cn:你可以看到，模拟人总会反应，这不像是没有生命的个体。这是一个能够感觉到施力的身体，在这个特定情境下，能够自我保护。我认为这个看起来很真实，所以人们开始觉得不忍。我们这些人看得次数太多了，已经漠不关心了。
+en:You can see, it&#39;s always reacting.This is not a dead body. This is a body who basically, in this particular case,feels the force and tries to protect its head.Only, I think it&#39;s quite a big blow again.You feel kind of sorry for that thing,and we&#39;ve seen it so many times now thatwe don&#39;t really care any more.
+时间：11:24
+zh-cn:（笑声）
+en:(Laughter)
+时间：11:25
+zh-cn:很多片断更糟糕，我都不能给你们看。这里是另一个片断，他们要求的是一个对爆炸情境的反应，好像有一个强大的力量施加到这个人物身上，这个人物需要在空中作反应。你不会想要一个软绵绵无生气的模拟人，你要的是一个能够在动作电影中用的，在空中的反应看起来是活的模拟人。现在这个模拟人会被重重一击，它会意识到自己飞到空中，它会试图，向它跌落的方向伸出手臂。这里是从一个角度看，这里是从另一个角度看。我们现在认为我们可以成功地使用这些电脑替身。
+en:There are much worse videos than this, by the way, which I have taken out, but ...Now, here&#39;s another one.What people wanted as a behavior was to have an explosion,a strong force applied to the character,and have the character react to it in midair.So that you don&#39;t have a character that looks limp,but actually a character that you can use in an action film straight away,that looks kind of alive in midair as well.So this character is going to be hit by a force,it&#39;s going to realize it&#39;s in the air,and it&#39;s going to try and, well,stick out its arm in the direction where it&#39;s landing.That&#39;s one angle; here&#39;s another angle.We now think that the realism we&#39;re achieving with thisis good enough to be used in films.
+时间：12:05
+zh-cn:然我们看看一些不同的情境，这里是我昨晚上拿到的结果，伦敦的一个动画公司用我们的软件做的，他们正在实验把这个做到游戏中去。这是同一个模拟人，但是稍微精美一些的版本。如果你仔细地看，你可以看到很多的肢体动作，这些动作不需要你画出来，用老方法动画人需要真的把它们画出来，这里都是自然而然在模拟人身上发生的。这是另一个角度，还是慢动作。这一切都发生得很快，实时发生的。你可以实时跑这个程序，这些动作就会发生在你眼前。你可以改变这个程序，然后得到不同的动作。目前，手工绘制出这些动作，恐怕要花好几天。
+en:And let&#39;s just have a look at a slightly different visualization.This is something I just got last nightfrom an animation studio in London, who are using our softwareand experimenting with it right now.So this is exactly the same behavior that you saw,but in a slightly better rendered version.So if you look at the character carefully,you see there are lots of body movements going on,none of which you have to animate like in the old days.Animators had to actually animate them.This is all happening automatically in the simulation.This is a slightly different angle,and again a slow motion version of this.This is incredibly quick. This is happening in real time.You can run this simulation in real time, in front of your eyes,change it, if you want to, and you get the animation straight out of it.At the moment, doing something like this by handwould take you probably a couple of days.
+时间：12:54
+zh-cn:这是另一个他们需要的动作。我不知道为什么，但是我们按需作活。这是个非常简单的特技但是你可以看到这个技术的潜力。这里模拟人的手被固定在空中一个特定的点上，然后我们让这个模拟人挣扎。它的动作看起来很自然，很真实。你甚至会为“他”难过。这个更残忍 — 这是另一个昨晚我才拿到的片断 —如果你把人物作得更真实一点。
+en:This is another behavior they requested.I&#39;m not quite sure why, but we&#39;ve done it anyway.It&#39;s a very simple behavior that shows you the power of this approach.In this case, the character&#39;s handsare fixed to a particular point in space,and all we&#39;ve told the character to do is to struggle.And it looks organic. It looks realistic.You feel kind of sorry for the guy.It&#39;s even worse — and that is another video I just got last night —if you render that a bit more realistically.
+时间：13:22
+zh-cn:现在我给你们看这个片断，你可以感受到这些动作有多自然，看起来多真实。而这全是因为我们有这个模拟的身体，我们用了人工智能来驾驭这些肌肉。现在，我想给你们看一个只是做了好玩的片断我们只是想做一个更复杂的特技，而一个非常著名的特技动作是当零零七在瑞士跳入一个大水库，然后被蹦极绳子救了。这里是这个真的电影片断。
+en:Now, I&#39;m showing this to you just to show youhow organic it actually can feel, how realistic it can look.And this is all a physical simulation of the body,using AI to drive virtual muscles in that body.Now, one thing which we did for a laugh wasto create a slightly more complex stunt scene,and one of the most famous stunts is the one where James Bondjumps off a dam in Switzerland and then is caught by a bungee.Got a very short clip here.
+时间：13:53
+zh-cn:你可以看到。这里他们请了一个真的特技演员，但是这是个非常危险的特技。我想在“周日报导”上这个特技刚被评为最惊人的特技之一。这里，我们试着用我们的模拟人，然后问自己“我们的模拟特技人能做到么？”我们能不能用这个模拟的人物，用我们的人工智能方法，把人工智能放在模拟人身体里，让控制肌肉，模拟真人跳入水库，跳进去，然后被蹦极绳拉回来？我们真的做到了。仅仅两个小时，就作出了这个模拟情境。这里是它看起来的样子。我们可以做得更好一点，这个研究还在初级阶段，我们仅仅是作了好玩的。只是看看我们能做出什么来。我们过去几个月的工作证明了我们的技术是非常非常有潜力的。对于我们能够从这些模拟人身上得到的结果，我们自己也惊讶了。我们常常得到非常出乎意料的结果。
+en:Yes, you can just about see it here.In this case, they were using a real stunt man. It was a very dangerous stunt.It was just voted, I think in the Sunday Times, as one of the most impressive stunts.Now, we&#39;ve just tried and — looked at our character and asked ourselves,&quot;Can we do that ourselves as well?&quot;Can we use the physical simulation of the character,use artificial intelligence,put that artificial intelligence into the character,drive virtual muscles, simulate the way he jumps off the dam,and then skydive afterwards,and have him caught by a bungee afterwards?We did that. It took about altogether just two hours,pretty much, to create the simulation.And that&#39;s what it looks like, here.Now, this could do with a bit more work. It&#39;s still very early stages,and we pretty much just did this for a laugh,just to see what we&#39;d get out of it.But what we found over the past few monthsis that this approach — that we&#39;re pretty much standard upon —is incredibly powerful.We are ourselves surprised what you actually get out of the simulations.There&#39;s very often very surprising behavior that you didn&#39;t predict before.
+时间：14:58
+zh-cn:我们的技术有很多应用。第一个，像我说的，是数码特技替身，一些电影工作室已经在用这个软件做数码替身了。这些特技镜头会在很短的时间内上映，很多大的制作都用它们。第二个应用就是电脑游戏。用这个技术电脑游戏看起来会很不同，感觉上也会很不同。历史上第一次你会看到演员的非常真实的互动，真的身体，真的反应。我认为这非常令人激动。最先我们会用在运动性的游戏上，比起平常的游戏它们更需要互动性。但是我本人最感到激动的应用是将这个技术用在网络世界里比如像汤姆·梅尔彻给我们展示的那样。我们能够得到的互动性是非常不同的，我认为，和你能从老方法中得到的相比。
+en:There&#39;s so many things we can do with this right now.The first thing, as I said, is going to be virtual stuntmen.Several studios are using this software now to produce virtual stuntmen,and they&#39;re going to hit the screen quite soon, actually,for some major productions.The second thing is video games.With this technology, video games will look different and they will feel very different.For the first time, you&#39;ll have actors that really feel very interactive,that have real bodies that really react.I think that&#39;s going to be incredibly exciting.Probably starting with sports games,which are going to become much more interactive.But I particularly am really excitedabout using this technology in online worlds,like there, for example, that Tom Melcher has shown us.The degree of interactivity you&#39;re going to getis totally different, I think, from what you&#39;re getting right now.
+时间：15:43
+zh-cn:这是第三个我们非常感兴趣的应用。已经有一些公司联系我们了，但是有一个特别的项目我们感到特别的激动，我们下个月会开始做，是将我们的技术，特别是模拟走路这方面，用在帮助那些治疗儿童脑瘫的医生来预计手术的愈后效果。如你们所知，通常脑瘫病人手术后的行走能力的结果是非常难以预料的，
+en:A third thing we are looking at and very interested in is simulation.We&#39;ve been approached by several simulation companies,but one project we&#39;re particularly excited about, which we&#39;re starting next month,is to use our technology — and in particular, the walking technology —to help aid surgeons who work on children with cerebral palsy,to predict the outcome of operations on these children.As you probably know,it&#39;s very difficult to predict what the outcome of an operation isif you try and correct the gait.
+时间：16:11
+zh-cn:经典说法是，我认为，人们目前认为最难预料的，就是愈后结果。现在，我们想做的是用我们的软件，帮助医生预测。我们想模拟每个孩子的步态，医生能够用这个模拟人物，试不同的手术方案，来帮助调整步态，在他们真正做手术之前。这个项目我们感到特别激动，下个月会启动。最后，我想说这只是个起步，我们现在只能做一些特定的动作，我们用的人工智能还不能模拟整个人体的神经系统。我们能模拟整个身体，但是不能模拟所有的动作功能。我希望能做出像芭蕾舞这类的动作来，现在还做不到。但是我确信我们将来可以。
+en:The classic quote is, I think, it&#39;s unpredictable at best,is what people think right now, is the outcome.Now, what we want to do with our software is allow our surgeons to have a tool.We&#39;re going to simulate the gait of a particular childand the surgeon can then work on that simulationand try out different ways to improve that gait,before he actually commits to an actual surgery.That&#39;s one project we&#39;re particularly excited about,and that&#39;s going to start next month.Just finally, this is only just the beginning.We can only do several behaviors right now.The AI isn&#39;t good enough to simulate a full human body.The body yes, but not all the motor skills that we have.And, I think, we&#39;re only there if we can have something like ballet dancing.Right now, we don&#39;t have thatbut I&#39;m very sure that we will be able to do that at some stage.
+时间：16:56
+zh-cn:我们碰巧做出了一个舞者，这是我想给你们看的最后一个人物。这个人工智能我们做出来 —部分上是 — 保持平衡的。你踢这个人一脚，他应该会平衡自己。这也是我们原本预计的结果。结果这是我们最后看到的东西。
+en:We do have one unintentional dancer actually,the last thing I&#39;m going to show you.This was an AI contour that was produced and evolved —half-evolved, I should say — to produce balance, basically.So, you kick the guy and the guy&#39;s supposed to counter-balance.That&#39;s what we thought was going to come out of this.But this is what emerged out of it, in the end.
+时间：17:16
+zh-cn:（音乐起）
+en:(Music)
+时间：17:26
+zh-cn:看起来怪怪的，这个舞者没有头，我不知道为什么，但是我们通常不用头。他自顾自地开始跳舞了。我得说，他比我还强些。你将会看到的 —这个舞最后还来了一个高潮呢。我想，就是这里。
+en:Bizarrely, this thing doesn&#39;t have a head. I&#39;m not quite sure why.So, this was not something we actually put in there.He just started to create that dance himself.He&#39;s actually a better dancer than I am, I have to say.And what you see after a while —I think he even goes into a climax right at the end.And I think — there you go.
+时间：17:51
+zh-cn:（笑声）
+en:(Laughter)
+时间：17:53
+zh-cn:这都是自动产生的，我们没有加这个舞进去。这都是这个模拟人自己产生的。这样 —
+en:So, that all happened automatically. We didn&#39;t put that in there.That&#39;s just the simulation creating this itself, basically.So it&#39;s just —
+时间：18:00
+zh-cn:（掌声）
+en:(Applause)
+时间：18:01
+zh-cn:谢谢。他不像约翰·特拉沃尔塔那样帅，但我们在向这个方向努力。谢谢你们给我时间。谢谢
+en:Thanks.Not quite John Travolta yet, but we&#39;re working on that as well,so thanks very much for your time.Thanks.
+时间：18:10
+zh-cn:（掌声）
+en:(Applause)
+时间：18:11
+zh-cn:克里斯·安德森 ：“令人惊叹，这真是太令人惊叹了。”
+en:CA: Incredible. That was really incredible.
+时间：18:13
+zh-cn:托斯腾·雷尔：“谢谢。”
+en:TR: Thanks.

@@ -1,0 +1,27 @@
+时间： 0:13
+zh-cn:想象一下七年呆在麻省理工(大学)和研究实验室，仅仅发现你是一个表演艺术家。
+en:Imagine spending seven years at MIT and research laboratories,only to find out that you&#39;re a performance artist.
+时间： 0:21
+zh-cn:（大笑）
+en:(Laughter)
+时间： 0:25
+zh-cn:我也是一个软件工程师，我也用电脑表现了很多不同形式的艺术。我认为我最感兴趣的事是尝试找到一种途径让计算机变成个人的表达模式。台下许多人是宏媒体（公司）和微软（公司）的领头人，他们在某种程度上局限着我：我认为这里有种强大的均质力量，它使软件强制于人们并且局限人们关于计算机可能性的思维。当然，它也是一种强大的释放力量，这能实现（其）可能性，就象，发表论文，接着，制定标准，等等。但是，在某种程度上，计算机的功能超出大多数人的想象，这就是我的艺术作品（我）尝试找到一个使用计算机的个人方法，而最终我用软件程序完成了。
+en:I&#39;m also a software engineer,and I make lots of different kinds of art with the computer.And I think the main thing that I&#39;m interested inis trying to find a way ofmaking the computer into a personal mode of expression.And many of you out there are the heads of Macromedia and Microsoft,and in a way those are my bane:I think there&#39;s a great homogenizing forcethat software imposes on people and limits the way they thinkabout what&#39;s possible on the computer.Of course, it&#39;s also a great liberating force that makes possible,you know, publishing and so forth, and standards, and so on.But, in a way, the computer makes possible much morethan what most people think, and my art has just been abouttrying to find a personal way of using the computer,and so I end up writing software to do that.
+时间： 1:14
+zh-cn:Chris 叫我做一个短的演示，所以我将要用 — 大概10分钟 —展示，希望在最后有时间介绍一些我其它的视频项目。
+en:Chris has asked me to do a short performance,and so I&#39;m going to take just this time — maybe 10 minutes —to do that, and hopefully at the end have just a momentto show you a couple of my other projects in video form.
+时间：12:57
+zh-cn:谢谢
+en:Thank you.
+时间：12:59
+zh-cn:（鼓掌）
+en:(Applause)
+时间：13:10
+zh-cn:我们还有一分钟。我就展示一段我最新项目的视频。我做了一个关于两个歌手的表演他们擅长用嘴发出奇怪的噪音。这是来自于最近9月份的ARS 电子（组织）；我们在英格兰也展示了一遍。这个想法是使他们的演讲和背景音乐形象化用一个大规模的屏幕。我们用了一个计算机视觉跟踪系统去追踪他们的位置。自从我们知道他们的头在哪以后，我们在他们身上安装了无线麦克风这样我们可以处理声音的来源。我们能够创造形象化（的表演模式）这把他们如何处理他们的演讲连接的非常紧密。这个将要用大概30秒钟。他正在发出，一种，拍面颊的声音。
+en:We&#39;ve got about a minute left.I&#39;d just like to show a clip from a most recent project.I did a performance with two singerswho specialize in making strange noises with their mouths.And this just came off last September at ARS Electronica;we repeated it in England.And the idea is to visualize their speech and song behind themwith a large screen.We used a computer vision tracking systemin order to know where they were.And since we know where their heads are,and we have a wireless mic on themthat we&#39;re processing the sound from,we&#39;re able to create visualizationswhich are linked very tightly to what they&#39;re doing with their speech.This will take about 30 seconds or so.He&#39;s making a, kind of, cheek-flapping sound.
+时间：14:29
+zh-cn:好吧，足以说明不是全是这样，但是这是其中的一部分。
+en:Well, suffice it to say it&#39;s not all like that, but that&#39;s part of it.
+时间：14:32
+zh-cn:非常感谢。总是有很多（要展示）。我超时了，所以我想说的是你能，如果你在纽约，下个星期，你能在Whitney Biennial 查看我的作品同时在切儿西的Bitforms 画廊。在此，我想我应该下去了，非常感谢大家（听我的演讲）。
+en:Thanks very much. There&#39;s always lots more.I&#39;m overtime, so I just wanted to say you can, if you&#39;re in New York,you can check out my work at the Whitney Biennial next week,and also at Bitforms Gallery in Chelsea.And with that, I think I should give up the stage,so, thank you so much.

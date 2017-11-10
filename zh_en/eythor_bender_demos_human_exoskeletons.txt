@@ -1,0 +1,45 @@
+时间： 0:15
+zh-cn:我想大家现在想象一下一个可穿戴的机器人，它能提供给你超人般的能力，或是让轮椅使用者再次站起来行走。我们在伯克利仿生技术公司把这些机器人称为外骨骼。还没有其他任何东西你早晨穿上后它将为你提供额外的力量，它将进一步提高你的速度，它将帮你，比如，控制平衡。实际上它真正地整合了人和机器。但不仅如此 —它还将整合并把你与外界连接起来，连接到其他设备上。
+en:I want you now to imaginea wearable robotthat gives you superhuman abilities,or another one that takes wheelchair usersup standing and walking again.We at Berkeley Bionicscall these robots exoskeletons.These are nothing elsethan something that you put on in the morning,and it will give you extra strength,and it will further enhance your speed,and it will help you, for instance, to manage your balance.It is actually the true integrationof the man and the machine.But not only that —it will integrate and network youto the universeand other devices out there.
+时间： 1:10
+zh-cn:这不仅仅是些天马行空的想象。为了向各位展示一下我们目前在进行的工作，我们来谈谈美国士兵，他们能在背上背大约100磅的重量，而且还在被要求携带更多装备。很显然，这会导致一些并发的问题 —百分之三十的士兵有背部损伤 —慢性背部损伤。所以我们想我们该正视这一挑战创造一个能帮助解决这一问题的外骨骼。那么现在让我向各位介绍一下HULC —全称是人类负重外骨骼。
+en:This is just not some blue sky thinking.To show you now what we are working onby starting out talking aboutthe American soldier,that on average does carry about 100 lbs. on their backs,and they are being asked to carry more equipment.Obviously, this is resultingin some major complications —back injuries, 30 percent of them —chronic back injuries.So we thought we would look at this challengeand create an exoskeletonthat would help deal with this issue.So let me now introduce to you HULC —or the Human UniversalLoad Carrier.
+时间： 1:57
+zh-cn:士兵：用了HULC外骨骼之后，我能负重200磅。在复杂的地形中行走多个小时。它灵活的设计能让人深蹲，匍匐前进和高灵活性运动。它能感觉到我想做什么，想上哪儿去，然后提升我的力量和耐力。
+en:Soldier: With the HULC exoskeleton,I can carry 200 lbs. over varied terrainfor many hours.Its flexible design allows for deep squats,crawls and high-agility movements.It senses what I want to do, where I want to go,and then augments my strength and endurance.
+时间： 2:17
+zh-cn:艾瑟·本德：我们与我们的行业伙伴以及准备好引入这一设备，在今年引入这一新的外骨骼。这是真的。现在让我们把视线转向轮椅使用者，这是我个人非常热爱的部分。世界上估计有6千8百万轮椅使用者。大约占人口总数的百分之一。这是个保守的估计。我们现在要说的是，有脊髓损伤的非常年轻的人在年富力强的时候 — 20岁，30岁，40岁 —碰了壁轮椅就成了唯一的选择。而且人口老龄化也使得这一数字成倍增长。而这唯一的选择，大致上 —当人患有中风或是其他病症时 —就是轮椅。实际上最近500年来都是这样，这是非常成功的介绍，我必须说。因此，我想我们该开始撰写机动性的新的篇章了。现在让我向各位介绍eLEGS，穿着者是阿曼达·波斯特，她19年前受到了脊柱损伤，由此导致她19年来无法行走，直到现在。
+en:Eythor Bender: We are ready with our industry partnerto introduce this device,this new exoskeleton this year.So this is for real.Now let&#39;s turn our headstowards the wheelchair users,something that I&#39;m particularly passionate about.There are 68 million peopleestimated to be in wheelchairs worldwide.This is about one percent of the total population.And that&#39;s actually a conservative estimate.We are talking here about, oftentimes,very young individuals with spinal cord injuries,that in the prime of their life — 20s, 30s, 40s —hit a walland the wheelchair&#39;s the only option.But it is also the aging populationthat is multiplying in numbers.And the only option, pretty much —when it&#39;s stroke or other complications —is the wheelchair.And that is actually for the last 500 years,since its very successful introduction, I must say.So we thought we would startwriting a brand new chapterof mobility.Let me now introduce you to eLEGSthat is worn by Amanda Boxtelthat 19 years ago was spinal cord injured,and as a result of thatshe has not been able to walkfor 19 years until now.
+时间： 3:45
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:48
+zh-cn:阿曼达·波斯特：谢谢。
+en:Amanda Boxtel: Thank you.
+时间： 3:50
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:55
+zh-cn:艾瑟：我说了，阿曼达穿着的就是我们的eLEGS。它拥有传感器 —在这些支撑内完全是非侵入的传感器，它们发送信号至装在她背部的机载电脑。同时还有个电池组，为装在她臀部的电动机提供能量，包括她膝关节处的电动机，这让她能以平稳自然的步伐前进。
+en:EB: Amanda is wearing our eLEGS set.It has sensors.It&#39;s completely non-invasive,sensors in the crutchesthat send signals back to our onboard computerthat is sitting here at her back.There are battery packs here as wellthat power motors that are sitting at her hips,as well as her knee joints,that move her forwardin this kind of smooth and very natural gait.
+时间： 4:28
+zh-cn:阿曼达：我24岁时在生命的最巅峰，我速降滑雪时不慎摔倒，我瘫痪了。在那一瞬间，我失去了骨盆以下的所有感觉和活动能力。不久之后，一名医生走进我的病房，对我说，“阿曼达，你再也不能走路了。”那是19年前。他剥夺了我存在的每一丝希望。自适应技术曾使我能够再次学习如何速降滑雪，攀岩，甚至手动自行车。但没有什么发明能让我行走，直到现在。
+en:AB: I was 24 years oldand at the top of my gamewhen a freak summersault while downhill skiingparalyzed me.In a split second,I lost all sensation and movementbelow my pelvis.Not long afterwards,a doctor strode into my hospital room,and he said, &quot;Amanda,you&#39;ll never walk again.&quot;And that was 19 yeas ago.He robbedevery ounce of hopefrom my being.Adaptive technologyhas since enabled meto learn how to downhill ski again,to rock climb and even handcycle.But nothing has been inventedthat enables me to walk,until now.
+时间： 5:22
+zh-cn:（掌声）
+en:(Applause)
+时间： 5:25
+zh-cn:谢谢。
+en:Thank you.
+时间： 5:27
+zh-cn:（掌声）
+en:(Applause)
+时间： 5:35
+zh-cn:艾瑟：正如各位所看到的，我们有了技术，我们有了能坐下的平台，这已经和大家讨论过了。它就在我们手中，我们拥有所有的潜力，去改变我们后代的生活 —不仅仅是为了士兵，或是为了阿曼达和所有的轮椅使用者，而是为了每个人。
+en:EB: As you can see,we have the technology,we have the platformsto sit down and have discussions with you.It&#39;s in our hands,and we have all the potential hereto change the livesof future generations —not only for the soldiers,or for Amanda here and all the wheelchair users,but for everyone.
+时间： 6:04
+zh-cn:阿曼达：谢谢。
+en:AB: Thanks.
+时间： 6:06
+zh-cn:（掌声）
+en:(Applause)

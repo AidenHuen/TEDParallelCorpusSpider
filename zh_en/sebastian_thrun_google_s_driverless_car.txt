@@ -1,0 +1,30 @@
+时间： 0:11
+zh-cn:作为一个男孩儿，我很喜欢汽车。在我18岁的时候，我最好的朋友在一场车祸中丧生。就像这样。从那时起我便决定要尽我所能每年都去挽救一百万人的生命。目前为止我还没有成功，所以这只是一个进度报告，而更主要的是，我会介绍一些关于无人驾驶汽车的事。
+en:As a boy,I loved cars.When I turned 18,I lost my best friend to a car accident.Like this.And then I decided I&#39;d dedicate my lifeto saving one million peopleevery year.Now I haven&#39;t succeeded, so this is just a progress report,but I&#39;m here to tell you a little bit about self-driving cars.
+时间： 0:36
+zh-cn:我第一次得知这个概念是在美国国防部高级研究计划局(DARPA)举办的无人驾驶汽车大赛上，在该赛事上，能成功穿越一片沙漠的无人驾驶汽车将获得由美国政府颁布的奖项。尽管当时有一百只参赛队伍，仍然没有一辆车能成功到达终点。于是我们决定在斯坦福建造一部不同的无人驾驶汽车，包括硬件和软件。我们让它学习我们的驾驶技能，然后任其穿越沙漠。不可思议的事发生了：它成为DARPA无人驾驶汽车大赛中第一部回来了的汽车－－这也为斯坦福赢得了两百万美元的奖金。但我还没挽救任何生命。
+en:I saw the concept firstin the DARPA Grand Challengeswhere the U.S. government issued a prizeto build a self-driving car that could navigate a desert.And even though a hundred teams were there,these cars went nowhere.So we decided at Stanford to build a different self-driving car.We built the hardware and the software.We made it learn from us,and we set it free in the desert.And the unimaginable happened:it became the first carto ever return from a DARPA Grand Challenge,winning Stanford 2 million dollars.Yet I still hadn&#39;t saved a single life.
+时间： 1:16
+zh-cn:自那时起，我们便开始专注于建造一部能在任何地方加州的任何一条街道，自己驾驶的汽车。我们已经让它成功行驶了14万英里。通过传感器我们的汽车可以神奇的看到它周围的一切事物并据此对如何驾驶做出判断。它是一个完美的驾驶机器。我们乘坐它在城市里行驶像旧金山这样的城市。我们也乘坐它在1号高速公路上从旧金山到达洛杉矶。
+en:Since, our work has focusedon building driving carsthat can drive anywhere by themselves —any street in California.We&#39;ve driven 140,000 miles.Our cars have sensorsby which they magically can seeeverything around themand make decisionsabout every aspect of driving.It&#39;s the perfect driving mechanism.We&#39;ve driven in cities,like in San Francisco here.We&#39;ve driven from San Francisco to Los Angeles on Highway 1.
+时间： 1:53
+zh-cn:我们遇到过栏杆，拥挤的公路堵车，收费站，这些过程中并没有进行人工干预，完全由汽车自己驾驶。事实上，我们行驶了14万英里，都没有人注意到这是一部无人驾驶汽车。盘山公路，日间和夜晚，甚至包括旧金山的伦巴底街（九曲花街）。（笑声）有时候我们的车也会疯狂一下，做一些小特技。
+en:We&#39;ve encountered joggers,busy highways, toll booths,and this is without a person in the loop;the car just drives itself.In fact, while we drove 140,000 miles,people didn&#39;t even notice.Mountain roads,day and night,and even crooked Lombard Streetin San Francisco.(Laughter)Sometimes our cars get so crazy,they even do little stunts.
+时间： 2:28
+zh-cn:（视频）男子：噢，我的天。什么？另一男子：它在自己驾驶。
+en:(Video) Man: Oh, my God.What?Second Man: It&#39;s driving itself.
+时间： 2:38
+zh-cn:塞巴斯蒂安·斯伦：现在我无法让我的朋友哈罗德起死回生，但我可以为其他的死者做些什么。你是否知道驾驶事故是年轻人死亡的第一大原因？你是否注意到几乎所有这些事故都是由人为错误造成的而不是机器故障，因此我们是否可以让机器来保护我们？
+en:Sebastian Thrun: Now I can&#39;t get my friend Harold back to life,but I can do something for all the people who died.Do you know that driving accidentsare the number one cause of death for young people?And do you realize that almost all of thoseare due to human errorand not machine error,and can therefore be prevented by machines?
+时间： 3:01
+zh-cn:你是否意识到我们能让高速公路的承载量提升2到3倍前提是我们不依赖于人类在行车道间驾驶的精确性 －－我们通过优化车辆的位置让它们在较窄的行车道上近距离的行驶，进而可以消除高速公路拥堵？你又是否意识到在座的各位，平均每天花费52分钟在交通上，在你的日常交通中浪费时间？你可以重新获得这些时间。单就在美国浪费的时间就高达40亿小时。同时被浪费的汽油高达24亿加仑。
+en:Do you realizethat we could change the capacity of highwaysby a factor of two or threeif we didn&#39;t rely on human precisionon staying in the lane —improve body positionand therefore drive a little bit closer togetheron a little bit narrower lanes,and do away with all traffic jams on highways?Do you realize that you, TED users,spend an averageof 52 minutes per dayin traffic,wasting your timeon your daily commute?You could regain this time.This is four billion hourswasted in this country alone.And it&#39;s 2.4 billion gallons of gasoline wasted.
+时间： 3:49
+zh-cn:现在我憧憬一种新的科技，它能使不久的未来我们的后代回望我们这一代的时候会觉得由人来驾驶汽车是多么的荒谬。
+en:Now I think there&#39;s a vision here, a new technology,and I&#39;m really looking forward to a timewhen generations after us look back at usand say how ridiculous it was that humans were driving cars.
+时间： 3:59
+zh-cn:谢谢。
+en:Thank you.
+时间： 4:01
+zh-cn:（掌声）
+en:(Applause)

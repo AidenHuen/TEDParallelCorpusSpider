@@ -1,0 +1,48 @@
+时间： 0:11
+zh-cn:我叫阿密特18月以前，我在谷歌有另外一个工作我跟我的老板提出了这个点子想要在艺术和博物馆方面做些事情我老板今天也在这里她同意了历经18个月经历了很多有趣的谈判和故事，我可以跟你们聊走了9个国家，接触了17个非常有意思的博物馆但是我先要集中介绍这个演示我可以讲很多故事来解释我们为什么要做这件事
+en:My name is Amit.And 18 months ago, I had another job at Google,and I pitched this ideaof doing something with museums and artto my boss who&#39;s actually here,and she allowed me to do it.And it took 18 months.A lot of fun, negotiations and stories, I can tell you,with 17 very interesting museums from nine countries.But I&#39;m going to focus on the demo.There are a lot of stories about why we did this.
+时间： 0:38
+zh-cn:我个人的故事很简单地在幻灯片上写明着就是如何进入（参观这些艺术品）我在印度长大我得到了很好的教育，我不想抱怨什么但是我没有很多参观这些博物馆和艺术品的机会所以当我有机会旅游很参观这些博物馆时我开始学到了很多东西当我在谷歌工作后我萌发了融入技术使其更容易为大家进入参观的想法所以我们建立了一个团队，一个很棒的小组我们开始从事这个工作
+en:I think my personal story is explained very simply on the slide,and it&#39;s access.And I grew up in India.I had a great education — I&#39;m not complaining —but I didn&#39;t have access to a lot of these museums and these artworks.And so when I started traveling and going to these museums,I started learning a lot.And while working at Google,I tried to put this desireto make it more accessible with technology together.So we formed a team, a great team of people,and we started doing this.
+时间： 1:08
+zh-cn:我先进入演示然后给你们讲几个这个项目启动后几个有趣的故事所以， 很简单， 你到GoogleArtProject.com你看到所有这些博物馆你看到乌菲兹博物馆，你看见纽约现代艺术博物馆艾尔米塔什博物馆， 荷兰国立博物馆，凡高博物馆现在让我到其中我最喜欢的一个纽约大都会艺术博物馆有两种进入的方法， 非常简单点击，砰，你进了博物馆，无论你在哪里孟买，墨西哥， 都无所谓你到处转转，你尽情享受你想要在博物馆中按平面图走一圈你把平面图打开点击一下，跳入你就进去了，你想要走到走廊尽头继续走，玩得开心探索一番
+en:I&#39;m going to probably get into the demoand then tell you a couple of the interesting thingswe&#39;ve had since launch.So, simple: you come to GoogleArtProject.com.You look around at all these museums here.You&#39;ve got the Uffizi, you&#39;ve got the MoMA,the Hermitage, the Rijks, the Van Gogh.I&#39;m going to actually get to one of my favorites,the Metropolitan Museum of Art in New York.Two ways of going in — very simple.Click and, bang, you&#39;re in this museum.It doesn&#39;t matter where you are —Bombay, Mexico, it doesn&#39;t really matter.You move around, you have fun.You want to navigate around the museum?Open the plan up,and, in one click, jump.You&#39;re in there, you want to go to the end of the corridor.Keep going. Have fun.Explore.
+时间： 1:53
+zh-cn:（掌声）
+en:(Applause)
+时间： 1:59
+zh-cn:谢谢。 我还没讲到最好的部分呢
+en:Thanks. I haven&#39;t come to the best part.
+时间： 2:01
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:03
+zh-cn:现在我面对着我最喜欢的一幅画彼得·勃鲁盖尔的收割者我看见这个+号如果博物馆给我们图象，你点击它这是其中的一幅图象这里是所有的元数据信息如果你真的对这个艺术品有兴趣你可以点击这里， 但是现在我先把它给关了这是我们拍的一个图象这是我们所谓的千兆象素技术比如，这个图象，接近100亿个像素很多人都问我“你从100亿个像素中得到什么呢？”我现在就给你们看100亿个像素给你们提供了什么你可以简便地收缩你看见一些有趣的事物我热爱这个家伙，他的表情是无价的
+en:So now I&#39;m in front of one of my favorite paintings,&quot;The Harvesters&quot; by Pieter Bruegel at the Met.I see this plus sign.If the museum has given us the image, you click on it.Now this is one of the images.So this is all of the meta-data information.For those of you who are truly interested in art,you can click this — but I&#39;m going to click this off right now.And this is one of these images that we capturedin what we call gigapixel technology.So this image, for example,has close to, I think, around 10 billion pixels.And I get a lot of people asking me:&quot;What do you get for 10 billion pixels?&quot;So I&#39;m going to try and show you what you really get for 10 billion pixels.You can zoom around very simply.You see some fun stuff happening here.I love this guy; his expression is priceless.
+时间： 2:43
+zh-cn:但是你真的想要进一步深入其中所以我就到处看看我看到这里有情况我说：“等一下， 这挺有趣。“靠近，我开始注意到这些孩子正在投掷什么东西我研究了一下，跟博物馆的几个人联系人聊了一下发现原来这是个游戏叫[不明]，用棍子打鹅在礼拜二的忏悔日竟然还很流行我不知道为什么他们这么做但是我学到点新东西现在再进入得更深，你就可以看见裂痕了现在让我你们看一下远景我来缩小画面，你可以真的看到全部这是我们的所在地这是那幅画
+en:But then you really want to go deep.And so I started playing around,and I found something going on over here.And I was like, &quot;Hold on. That sounds interesting.&quot;Went in, and I started noticingthat these kids were actually beating something.I did a little research, spoke to a couple of my contacts at the Met,and actually found out that this is a gamecalled squall,which involves beating a goose with a stickon Shrove Tuesday.And apparently it was quite popular.I don&#39;t know why they did it,but I learned something about it.Now just to get really deep in, you can really get to the cracks.Now just to give you some perspective,I&#39;m going to zoom out so you really see what you get.Here is where we were,and this is the painting.
+时间： 3:28
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:36
+zh-cn:最好的还没讲到呢， 等一下现在让我们立刻进入纽约现代艺术博物馆我的另一个最爱：“星夜”我刚才给你们讲的例子全是关于细节那如果你想看笔法呢？如果你想看凡高到底是怎样创造了这幅杰作你放大， 真的放大我推近到我最喜欢的部分我真的可以看到裂痕这是“星夜”我想，我从来没有这样看过它
+en:The best is yet to come — so in a second.So now let&#39;s just quicklyjump into the MoMA, again in New York.So another one of my favorites, &quot;The Starry Night.&quot;Now the example I showed you was all about finding details.But what if you want to see brush strokes?And what if you want to seehow Van Gogh actually created this masterpiece?You zoom in. You really go in.I&#39;m going to go to one of my favorite parts in this painting,and I&#39;m really going to get to the cracks.This is &quot;The Starry Night,&quot;I think, never seen like this before.
+时间： 4:08
+zh-cn:我要给你们介绍另外一个我喜欢的功能这儿有很多东西，我没时间一一介绍这是特别酷的一个部分，叫收藏你们任何人， 任何人不管你是富有还是贫穷无论你是否有一个华丽的房子，无所谓你可以进入，建立你自己的网络博物馆在这些作品中建立自己的收藏很简单， 你进入我创建了这个叫做变焦的力量你可以不断变焦到处看看这是国家艺术馆的“使者们”你可以写注解，然后发给朋友真的展开讨论探讨你的欣赏这些杰作的感想
+en:I&#39;m going to show you my other favorite feature.There&#39;s a lot of other stuff here, but I don&#39;t have time.This is the real cool part. It&#39;s called Collections.Any one of you, anybody —doesn&#39;t matter if you&#39;re rich, if you&#39;re poor,if you have a fancy house — doesn&#39;t matter.You can go and create your own museum online —create your own collection across all these images.Very simply, you go in —and I&#39;ve created this, called The Power of Zoom —you can just zoom around.This is &quot;The Ambassadors,&quot; based in the National Gallery.You can annotate the stuff, send it to your friendsand really get a conversation goingabout what you&#39;re feelingwhen you go through these masterpieces.
+时间： 4:44
+zh-cn:所以我想， 概括一下对我来说，最主要的是这些精湛的艺术品不是来自谷歌我个人甚至认为它也不是来自博物馆我可能不应该这么说它真的来自这些艺术家这就是我在这个过程中的谦诚的感受我是说我希望这个数字媒体能够为他们的艺术作品赢得公证正确地展示他们的作品而如今我得到的最大的问题是：“你这样做是想复制去博物馆的经验吗？”我的回答是不这是一种补充的体验
+en:So I think, in conclusion,for me, the main thingis that all the amazing stuff here does not really come from Google.It doesn&#39;t, in my opinion, even come from the museums.I probably shouldn&#39;t say that.It really comes from these artists.And that&#39;s been my humbling experience in this.I mean, I hope in this digital mediumthat we do justice to their artworkand represent it properly online.And the biggest question I get asked nowadaysis, &quot;Did you do thisto replicate the experience of going to a museum?&quot;And the answer is no.It&#39;s to supplement the experience.
+时间： 5:17
+zh-cn:我就说这些， 谢谢
+en:And that&#39;s it. Thank you.
+时间： 5:19
+zh-cn:（掌声）
+en:(Applause)
+时间： 5:21
+zh-cn:谢谢
+en:Thank you.
+时间： 5:23
+zh-cn:（掌声）
+en:(Applause)

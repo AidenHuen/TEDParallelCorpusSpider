@@ -1,0 +1,105 @@
+时间： 0:11
+zh-cn:再次回到TED演讲感觉真不错。让我播放一段视频作为开场吧!
+en:Okay, it&#39;s great to be back at TED.Why don&#39;t I just start by firing away with the video?
+时间： 0:16
+zh-cn:(音乐)
+en:(Music)
+时间： 0:21
+zh-cn:(视频)男：眼镜, 开始录像。
+en:(Video) Man: Okay, Glass, record a video.
+时间： 0:26
+zh-cn:女：一切就绪，2分钟后上场。
+en:Woman: This is it. We&#39;re on in two minutes.
+时间： 0:30
+zh-cn:男2：眼镜，叫&#39;飞行俱乐部&#39;一起来玩。
+en:Man 2: Okay Glass, hang out with The Flying Club.
+时间： 0:34
+zh-cn:男3：眼镜，搜索老虎头的照片。唔！
+en:Man 3: Google &quot;photos of tiger heads.&quot; Hmm.
+时间： 0:39
+zh-cn:男4：准备好了吗？准备好了吗？(狗吠声)
+en:Man 4: You ready? You ready? (Barking)
+时间： 0:41
+zh-cn:女2：就这样！眼镜，照张相。
+en:Woman 2: Right there. Okay, Glass, take a picture.
+时间： 0:47
+zh-cn:(孩子的叫声)
+en:(Child shouting)
+时间： 0:57
+zh-cn:男5：飞了!
+en:Man 5: Go!
+时间： 1:02
+zh-cn:男6：天啊！[哔]！棒极了。
+en:Man 6: Holy [beep]! That is awesome.
+时间： 1:05
+zh-cn:小孩：哇! 快看这条蛇!
+en:Child: Whoa! Look at that snake!
+时间： 1:08
+zh-cn:女3：眼镜，快录像！
+en:Woman 3: Okay, Glass, record a video!
+时间： 1:17
+zh-cn:男7：过了这座桥后由第一个出口出去。
+en:Man 7: After this bridge, first exit.
+时间： 1:44
+zh-cn:男8：好的，A12,就在那！
+en:Man 8: Okay, A12, right there!
+时间： 1:48
+zh-cn:(掌声)
+en:(Applause)
+时间： 1:51
+zh-cn:(孩子的歌声)
+en:(Children singing)
+时间： 1:57
+zh-cn:男9：眼镜，查查“美味的”用泰语怎么说。
+en:Man 9: Google, say &quot;delicious&quot; in Thai.
+时间： 2:01
+zh-cn:谷歌眼镜：อร่อย 男9：嗯,อร่อย。
+en:Google Glass: อร่อยMan 9: Mmm, อร่อย.
+时间： 2:04
+zh-cn:女4：眼镜，查一下&quot;水母&quot;。
+en:Woman 4: Google &quot;jellyfish.&quot;
+时间： 2:08
+zh-cn:(音乐声)
+en:(Music)
+时间： 2:19
+zh-cn:男10：太漂亮了！
+en:Man 10: It&#39;s beautiful.
+时间： 2:22
+zh-cn:(掌声)
+en:(Applause)
+时间： 2:30
+zh-cn:谢尔盖·布林：不好意思，我刚才在看尼日利亚王子发来的短信。他要我帮忙筹一千万美元。我很关注这样的事，因为我们的公司就是这样(筹资)成立的，而且我们经营的还不错。
+en:Sergey Brin: Oh, sorry, I just got this message from a Nigerian prince.He needs help getting 10 million dollars.I like to pay attention to thesebecause that&#39;s how we originally funded the company,and it&#39;s gone pretty well.
+时间： 2:49
+zh-cn:不过话说回来，也许刚才大家也注意到了我低头看手机的姿势，这是谷歌眼镜计划开展的一个原因。因为我们终究会产生疑问未来人们会用怎样的方式取代手机联系家人和朋友，你又想怎样获取信息。不能总是边走边低头看手机吧?这是谷歌眼镜的理念的根源，这也是我们将产品设计成眼镜形状的主要原因。我就不详细介绍谷歌眼镜的功能了，但我想多讲一点关于开发谷歌眼镜背后的动机。除了外出时边走边看手机会潜移默化的将你隔绝在社会团体之外，其实，你真的要这样对待你的身体吗？你站在那触碰着平淡无奇的手机屏幕，机械的移来移去。
+en:Though in all seriousness,this position that you just saw me in,looking down at my phone,that&#39;s one of the reasons behind this project, Project Glass.Because we ultimately questionedwhether this is the ultimate futureof how you want to connect to other people in your life,how you want to connect to information.Should it be by just walking around looking down?But that was the vision behind Glass,and that&#39;s why we&#39;ve created this form factor.Okay. And I don&#39;t want to go through all the things it does and whatnot,but I want to tell you a little bit moreabout the motivation behind what led to it.In addition to potentially socially isolating yourselfwhen you&#39;re out and about looking at your phone,it&#39;s kind of, is this what you&#39;re meant to do with your body?You&#39;re standing around thereand you&#39;re just rubbingthis featureless piece of glass.You&#39;re just kind of moving around.
+时间： 3:57
+zh-cn:在开发谷歌眼镜时，我们真的在想，我们是否可以设计出一种设备来解放我们的双手呢？刚刚你们看到了视频中的人做的一些事情。他们都戴上了谷歌眼镜，所以才能拍摄到这种视频。
+en:So when we developed Glass, we thought really about,can we make something that frees your hands?You saw all of the things people are doingin the video back there.They were all wearing Glass,and that&#39;s how we got that footage.
+时间： 4:11
+zh-cn:同时你也想解放你的眼睛。所以，我们将显示器放在稍高的位置，它比你的视线稍高一点。这样它就不会挡住你的视野、不会妨碍你与人们的眼神交流。
+en:And also you want something that frees your eyes.That&#39;s why we put the display up high,out of your line of sight,so it wouldn&#39;t be where you&#39;re lookingand it wouldn&#39;t be where you&#39;re makingeye contact with people.
+时间： 4:24
+zh-cn:同时，我们还想解放人们的双耳，所以声音会由这传过来，直接传至头骨，最初你可能会感觉有点怪，但慢慢就会习惯的。有点讽刺意味的是，如果你想听得更清楚，你盖住耳朵就行，这听起来很令人吃惊，但事实就是这样。
+en:And also we wanted to free up the ears,so the sound actually goes through,conducts straight to the bones in your cranium,which is a little bit freaky at first, but you get used to it.And ironically, if you want to hear it better,you actually just cover your ear,which is kind of surprising, but that&#39;s how it works.
+时间： 4:48
+zh-cn:15年前在谷歌成立之初，我的初衷是：最终人们不再需要任何搜索引擎。你可以随心所欲地想要什么信息就有什么信息。而现在，15个年头过去了，我想，我们最初的构想，现在可以由谷歌眼镜来实现了，它可以解决当你外出、在街上逛荡时、轻松地、不需要低头看手机地与人交谈等等。
+en:My vision when we started Google 15 years agowas that eventually you wouldn&#39;thave to have a search query at all.You&#39;d just have information come to you as you needed it.And this is now, 15 years later,sort of the first form factorthat I think can deliver that visionwhen you&#39;re out and about on the streettalking to people and so forth.
+时间： 5:11
+zh-cn:到目前为止,这项计划已经开展了两年多。我们得到一些不错的数据。让使用者感到舒适真的很重要我们制造的的第一批样品型号巨大。就像把手机绑在了头上。很重，令人感到非常不舒服。我们不能让我们的工业设计师知道这事直到她最终接受这份工作，后来,她差不多是尖叫着跑掉了。但是我们已经取得了很大的进步。
+en:This project has lasted now, been just over two years.We&#39;ve learned an amazing amount.It&#39;s been really important to make it comfortable.So our first prototypes we built were huge.It was like cell phones strapped to your head.It was very heavy, pretty uncomfortable.We had to keep it secret from our industrial designeruntil she actually accepted the job,and then she almost ran away screaming.But we&#39;ve come a long way.
+时间： 5:40
+zh-cn:另一个意想不到的惊喜就是摄像功能。我们最初的原型机是完全没有摄像功能的，但如果能捕获与家人和孩子相处的瞬间那会是一件多么神奇的事啊。我从未想到过会找到这样一款相机、电话或其他什么东西来记录这些时刻。
+en:And the other really unexpected surprise was the camera.Our original prototypes didn&#39;t have cameras at all,but it&#39;s been really magical to be able to capture momentsspent with my family, my kids.I just never would have dug out a cameraor a phone or something else to take that moment.
+时间： 5:57
+zh-cn:后来,我意识到,在试用这款设备的过程中，我似乎产生了某种神经性反应，手机需要你低下头使用，这也是一种神经性反映。就像如果我过去吸烟,可能我现在还是要吸。只要点支烟就好了，看起来会更酷。你知道,就像这样—但在这种情况下,我拿出手机坐在那看,就像在处理什么重要的事情。但实际上,我眼睁睁的看着自己花费大量的时光却只是使自己远离人群，做着发邮件、发微博这类事情，即使这些事不是真的—不是真的那么重要和紧迫。用谷歌眼镜,我知道我会获得这些消息如果我真的需要的话，但是我不必总是查看他们。
+en:And lastly I&#39;ve realized, in experimenting with this device,that I also kind of have a nervous tic.The cell phone is — yeah, you have to look down on it and all that,but it&#39;s also kind of a nervous habit.Like if I smoked, I&#39;d probably just smoke instead.I would just light up a cigarette. It would look cooler.You know, I&#39;d be like —But in this case, you know, I whip this outand I sit there and look as if I have somethingvery important to do or attend to.But it really opened my eyes to how much of my lifeI spent just secluding away,be it email or social posts or whatnot,even though it wasn&#39;t really —there&#39;s nothing really that important or that pressing.And with this, I know I will get certain messagesif I really need them,but I don&#39;t have to be checking them all the time.
+时间： 6:52
+zh-cn:我很享受更多地去探索和了解这个世界做更多正如你在视频中看到的疯狂的事情。
+en:Yeah, I&#39;ve really enjoyed actually exploring the world more,doing more of the crazy things like you saw in the video.
+时间： 6:59
+zh-cn:谢谢大家。
+en:Thank you all very much.
+时间： 7:01
+zh-cn:(掌声)
+en:(Applause)

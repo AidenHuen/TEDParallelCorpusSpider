@@ -1,0 +1,36 @@
+时间： 0:12
+zh-cn:作为软件开发者和技术专家，我在过去几年中参与了多个民用科技项目。民用科技有时又被称为科技善举，是使用科技手段来解决民生问题。
+en:As a software developer and technologist,I&#39;ve worked on a numberof civic technology projectsover the years.Civic tech is sometimesreferred to as tech for good,using technology to solvehumanitarian problems.
+时间： 0:26
+zh-cn:这是2010年在乌干达，我们帮当地民众解决如何防止政府通过监控人们手机来控制不同政见的问题。相同的技术后来在北非得以使用也用于类似的目的，来帮助社会活动家保持联络尤其是当政府以故意切断联络来作为控制民众的手段。
+en:This is in 2010 in Uganda,working on a solutionthat allowed local populationsto avoid government surveillanceon their mobile phonesfor expressing dissent.That same technology was deployedlater in North Africafor similar purposesto help activists stay connectedwhen governments weredeliberately shutting off connectivityas a means of population control.
+时间： 0:50
+zh-cn:而多年以来，我常常想到这些科技以及我所做的这些事情，有个问题一直让我耿耿于怀。我们有没有可能高估了科技的好处，会不会有些技术实际上伤害了我们想去帮助的群体？全球的科技行业都惯于在这个假设下运营，就是如果我们做出好的东西来，它就会对每个人有积极的影响。这些创新最终会走进千家万户。但其实并不一定如此。我把这种盲目的拥护称作“滴漏科技”，借用一个说法。（笑声）我们认为，如果我们为少数人设计产品，最终这些技术会波及到所有人，其实并不一定是这样的。科技和创新很像财富和资本。它们通常集聚在少数人手中，有时可能普及到大众。
+en:But over the years, as I have thoughtabout these technologiesand the things that I work on,a question kind of nagsin the back of my mind, which is,what if we&#39;re wrong aboutthe virtues of technology,and if it sometimes actively hurtsthe communitiesthat we&#39;re intending to help?The tech industry around the worldtends to operate under similar assumptionsthat if we build great things,it will positively affect everyone.Eventually, these innovationswill get out and find everyone.But that&#39;s not always the case.I like to call this blind championingof technology &quot;trickle-down techonomics,&quot;to borrow a phrase. (Laughter)We tend to think that ifwe design things for the select few,eventually those technologieswill reach everyone,and that&#39;s not always the case.Technology and innovationbehaves a lot like wealth and capital.They tend to consolidatein the hands of the few,and sometimes they find their way outinto the hands of the many.
+时间： 1:47
+zh-cn:既然在座的大多不会在周末去推翻高压政府我在这里举一些更相关的例子。
+en:And so most of you aren&#39;t tacklingoppressive regimes on the weekends,so I wanted to think of a few examplesthat might be a little bit more relatable.
+时间： 1:56
+zh-cn:在这个充满智能手表、手机和应用软件的今天，有一个大趋势是追踪人们的健康，利用应用软件来记录你消耗了多少卡路里，或是你是否坐的太久了，有没有走够路。这种技术能帮助医疗机构更高效的用药，而反过来，这些医疗机构也开始预期这种效率。随着这些数字工具进入医疗室，这些机构也日益数字化。那些无法实现数字化的怎么办？就医经历对于那些买不起四百块钱的手机或手表的人来说会是怎样？他们怎么记录他们的一举一动呢？他们会否成为医疗系统的累赘？他们的经历会否改变呢？
+en:In the world of wearablesand smartphones and apps,there&#39;s a big movementto track people&#39;s personal healthwith applications that trackthe number of calories that you burnor whether you&#39;re sitting too muchor walking enough.These technologies make patient intakein medical facilities much more efficient,and in turn, these medical facilitiesare starting to expectthese types of efficiencies.As these digital toolsfind their way into medical rooms,and they become digitally ready,what happens to the digitally invisible?What does the medical experience look likefor someone who doesn&#39;t havethe $400 phone or watchtracking their every movement?Do they now become a burdenon the medical system?Is their experience changed?
+时间： 2:45
+zh-cn:在金融界，比特币和加密货币革新着货币流通的方式，但这些技术面临的挑战是它们准入的门槛极高，对不对？你必须要有同款的手机，设备，连网能力，或者你没有的话，你得有一个代理方，通常他们也会收取一定的费用。所以我常问自己的问题是，最后一个用纸币的社会会怎样，当余下的世界都转用电子货币以后？
+en:In the world of finance,Bitcoin and crypto-currenciesare revolutionizing the waywe move money around the world,but the challenge with these technologiesis the barrier to entryis incredibly high, right?You need access to the samephones, devices, connectivity,and even where you don&#39;t,where you can find a proxy agent,usually they require a certain amountof capital to participate.And so the question that I ask myselfis, what happens to the last communityusing paper notes when the restof the world moves to digital currency?
+时间： 3:19
+zh-cn:另一个例子来做我的家乡费城：我最近去了那儿的图书馆，他们面临一个生死存亡的危机。政府拨款日益萎缩，他们不得不以减少馆点来保证生存及不断更新，其中的一个措施是把一些书籍数字化，把它们储存到云端。这对大多数孩子来说是好事，对不对？你可以在家借书，你可以在上学或放学路上查资料，但是，这里面有两大假设，第一，你在家能上网，第二，你拥有一个手机，而在费城，多数孩子两者都没有。这样的话，他们的求学经历会是怎样，在这样一个完全云端的图书馆体系下？尤其是图书馆一向被视为教育系统不可或缺的一部分。他们如何能保持竞争力？
+en:Another example from my hometownin Philadelphia:I recently wentto the public library there,and they are facing an existential crisis.Public funding is dwindling,they have to reduce their footprintto stay open and stay relevant,and so one of the waysthey&#39;re going about thisis digitizing a number of the booksand moving them to the cloud.This is great for most kids. Right?You can check out books from home,you can research on the wayto school or from school,but these are really two big assumptions,that one, you have access at home,and two, that you have accessto a mobile phone,and in Philadelphia, many kids do not.So what does theireducation experience look likein the wake of a completelycloud-based library,what used to be consideredsuch a basic part of education?How do they stay competitive?
+时间： 4:08
+zh-cn:最后一个例子来自世界另一端的东非：一个大趋势是把土地所有权数字化，这样做是基于各种原因。迁徙型的社会，年长的一代逐渐逝去，以及糟糕的档案记录使得各方对所有权各持己见。所以那里在推行把这些信息都放在网上，记录这些土地的所有权，然后存储在云端，并交还给社区。但实际上，这种做法计划外的产物是，风险资本家，投资者，房地产开发商都涌了进来，开始大量买地从当地人手里把地都买了，因为他们能接触到这个科技，并且有能力上网。
+en:A final example fromacross the world in East Africa:there&#39;s been a huge movementto digitize land ownership rights,for a number of reasons.Migrant communities,older generations dying off,and ultimately poor record-keepinghave led to conflicts over who owns what.And so there was a big movementto put all this information online,to track all the ownershipof these plots of land,put them in the cloud,and give them to the communities.But actually, the unintendedconsequence of thishas been that venture capitalists,investors, real estate developers,have swooped in and they&#39;ve begunbuying up these plots of landright out from under these communities,because they have accessto the technologiesand the connectivitythat makes that possible.
+时间： 4:57
+zh-cn:所有这些例子的共同点，是我们创造的这些工具和科技的意外后果。作为工程师和技术人员，我们有时放弃功效而选择效率。我们想要做事情，却不考虑事情的结果。这需要改变。我们要对科技的后果负责，特别是当科技越来越多的控制我们的生活。在九十年代末的时候，投资和银行界都在推进道德。我想在2014年，我们早也该有一个类似的推进运动这回是在科技领域。
+en:So that&#39;s the common threadthat connects these examples,the unintended consequences of the toolsand the technologies that we make.As engineers, as technologists,we sometimes preferefficiency over efficacy.We think more about doing thingsthan the outcomes of what we are doing.This needs to change.We have a responsibility to think aboutthe outcomes of the technologies we build,especially as they increasinglycontrol the world in which we live.In the late &#39;90s,there was a big push for ethicsin the world of investment and banking.I think in 2014, we&#39;re long overduefor a similar movementin the area of tech and technology.
+时间： 5:37
+zh-cn:所以，我鼓励你们，当你们在考虑下一个大手笔，作为企业家，首席执行官，工程师，创造者，请考虑一下计划外的后果因为真正的创新是想办法造福每个人。
+en:So, I just encourage you, as you are allthinking about the next big thing,as entrepreneurs, as CEOs,as engineers, as makers,that you think aboutthe unintended consequencesof the things that you&#39;re building,because the real innovationis in finding ways to include everyone.
+时间： 5:56
+zh-cn:谢谢。
+en:Thank you.
+时间： 5:58
+zh-cn:（鼓掌）
+en:(Applause)

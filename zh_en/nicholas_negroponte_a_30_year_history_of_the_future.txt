@@ -1,0 +1,129 @@
+时间： 0:11
+zh-cn:（视频）尼葛洛庞帝：我们能调到视频光碟么？播放模式是什么？
+en:(Video) Nicholas Negroponte: Can we switch to the video disc,which is in play mode?
+时间： 0:16
+zh-cn:我对于你如何把人和和电脑放在一起非常感兴趣。我们将会用电视屏幕或类似的东西来当做未来的书籍。（音乐，电信频道之间的串话干扰）对于触摸屏幕，高科技，高触感，不需要拿起手指就可以操纵它们。有另外一种方式电脑和人可以相互接触穿戴高科技的物品。突然，在 9 月 11 日。世界变大了。
+en:I&#39;m really interested in how you put people and computers together.We will be using the TV screens or their equivalentsfor electronic books of the future.(Music, crosstalk)Very interested in touch-sensitive displays,high-tech, high-touch, not havingto pick up your fingers to use them.There is another way where computerstouch people: wearing, physically wearing.Suddenly on September 11th,the world got bigger.
+时间： 1:12
+zh-cn:谢谢。（掌声）
+en:NN: Thank you. (Applause)
+时间： 1:15
+zh-cn:谢谢
+en:Thank you.
+时间： 1:17
+zh-cn:当我被请来做这个的时候。我还被要求观看 14 个 TED 演讲这些演讲都是按时间顺序的。第一个有两小时。第二个有两小时，接着变成了半个小时，我还注意到了我的秃顶越来越严重了。（笑声）想象你看到你30年的是如何经过的，至少对于我来说是非常震惊的一次经历。在这次的演讲中呢我将与你们分享这三十年发生了什么，并且对未来做一个预知，还告诉你们我将要做的一些事情。我把我第一次 TED 演讲发生的时间，标注在了 PPT 里。这是非常重要的因为在那次演讲之前我做了 15 年的调查，我有自己的知识储备，所以并不难。不是因为我是菲德尔·卡斯特罗，或是富勒巴基可以说上两个小时。是因为我有 15 年的经验积累，并且媒体实验室在那时也即将开始。这才是简单的原因。
+en:When I was asked to do this,I was also asked to look at all 14 TED Talksthat I had given,chronologically.The first one was actually two hours.The second one was an hour,and then they became half hours,and all I noticed was my bald spot getting bigger.(Laughter)Imagine seeing your life, 30 years of it, go by,and it was, to say the least,for me, quite a shocking experience.So what I&#39;m going to do in my timeis try and share with you what happenedduring the 30 years,and then also make a prediction,and then tell you a little bitabout what I&#39;m doing next.And I put on a slidewhere TED 1 happened in my life.And it&#39;s rather importantbecause I had done 15 years of research before it,so I had a backlog, so it was easy.It&#39;s not that I was Fidel Castroand I could talk for two hours,or Bucky Fuller.I had 15 years of stuff,and the Media Lab was about to start.So that was easy.
+时间： 2:28
+zh-cn:但是在那个时期，发生的事情。这些发生的事是非常重要的。其中一个就是那是一个当电脑还没有普及的时代。还有一件在那个时期左右发生的事情是我们被认作为毫无价值的电脑科学家。我们不被关注。所以我要向你们展示的是一个更加有趣更加被接受的东西。
+en:But there are a couple of thingsabout that periodand about what happened that arereally quite important.One is thatit was a period when computersweren&#39;t yet for people.And the other thing that sort of happenedduring that time is thatwe were considered sissy computer scientists.We weren&#39;t considered the real thing.So what I&#39;m going to show you is, in retrospect,a lot more interesting and a lot more acceptedthan it was at the time.
+时间： 3:04
+zh-cn:我将要要描述的我那时的一些工作成果，这就是一些我在 60 年代研究的技术：直接控制电脑，在我学习摩西·萨夫迪的建筑学时那是非常有影响力的，你还可以看到我们甚至建造可以建造栖息环境类似结构的机器类东西。但这对于我来说还不算是媒体实验室，但这是我将要称作为感官计算的雏形，我选择手指部分原因是因为所有人都认为这是荒唐的。关于使用手指控制是多么愚蠢的论文被发表。有三个原因：第一个是因为低分辨率。其次是手指会挡住你想要看的，第三个，也是这三个之中最重要的，你的手指会弄脏屏幕，因此手指将永不会是你要使用的设备。这是一个我们在 70 年代建造的设备，但从未再继续被继续建造。这不是触摸感应，而是压敏感应。
+en:So I&#39;m going to characterize the yearsand I&#39;m even going to go backto some very early work of mine,and this was the kind of stuff I was doing in the &#39;60s:very direct manipulation,very influenced as I studied architectureby the architect Moshe Safdie,and you can see that we even built robotic thingsthat could build habitat-like structures.And this for me wasnot yet the Media Lab,but was the beginning of what I&#39;ll callsensory computing,and I pick fingerspartly because everybody thought it was ridiculous.Papers were publishedabout how stupid it was to use fingers.Three reasons: One was they were low-resolution.The other is your hand would occludewhat you wanted to see,and the third, which was the winner,was that your fingers would get the screen dirty,and hence, fingers would never bea device that you&#39;d use.And this was a device we built in the &#39;70s,which has never even been picked up.It&#39;s not just touch sensitive,it&#39;s pressure sensitive.
+时间： 4:11
+zh-cn:（视频）声音：在哪里放一个黄色的圈。
+en:(Video) Voice: Put a yellow circle there.
+时间： 4:13
+zh-cn:尼古拉斯 内格罗蓬特：这是之后的研究，但仍然在 TED 1 之前
+en:NN: Later work, and again this was before TED 1 —
+时间： 4:16
+zh-cn:尼古拉斯 内格罗蓬特：把那移到菱形西边。在那里画一个大的绿色圆圈。男人：哦，该死。
+en:(Video) Voice: Move that west of the diamond.Create a large green circle there.Man: Aw, shit.
+时间： 4:24
+zh-cn:尼古拉斯 内格罗蓬特：这就像多界面的同时操控，当你说的同时你指向某一点这也就是多通道感应。
+en:NN: — was to sort of do interface concurrently,so when you talked and you pointedand you had, if you will,multiple channels.
+时间： 4:34
+zh-cn:恩德培发生过一企事件。在 1974 年，法国航空被劫机，被带到恩德培，以色列人不仅进行了一次完美的救援，因为他们在实际模型上排练过，因为他们造了这个机场，在沙漠里建造了一个模型当他们到达恩德培时，他们知道该往哪里走，因为他们在模型里演练过。在 76 年美国政府问我们中的一些人我们是否可以以电脑的方式复制出那个东西，像我这样的人肯定是说了可以。立刻你便得到一份合同，防御部门，我们之后便造了这个卡车和其配备。我们大概的做了模拟测试，因为你有视频碟片，而且这仍然还是 76 年的事。在过了些年，就有了这个货车，和谷歌地图。
+en:Entebbe happened.1976, Air France was hijacked,taken to Entebbe,and the Israelis not only did an extraordinary rescue,they did it partly because they had practicedon a physical model of the airport,because they had built the airport,so they built a model in the desert,and when they arrived at Entebbe,they knew where to go becausethey had actually been there.The U.S. government asked some of us, &#39;76,if we could replicate that computationally,and of course somebody like myself says yes.Immediately, you get a contract,Department of Defense,and we built this truck and this rig.We did sort of a simulation,because you had video discs,and again, this is &#39;76.And then many years later,you get this truck,and so you have Google Maps.
+时间： 5:27
+zh-cn:但仍有人们想那不算是严谨的电脑科学，但是恰好 MIT 的校长杰里·威斯纳相信这是电脑科学。一个人想在生活中做出点成就的关键是确保你的校长支持你。当我开始媒体实验室的时候，感觉就像坐在前排的大猩猩。如果我们因为超速被拦截交警向车窗内看看到了座位里坐的是誰的时候，他会说：“哦，请您继续开吧。”因此我们就可以这样去做，这也确实是一个非常可爱的设备。这是杰里威斯纳的透镜照片照片里唯一能够变化的是是他的嘴唇。当你振荡那小小的一片透镜时，他就通过零带宽(Zero bandwidth)进行同步这是当时零带宽的一个远程会议系统。
+en:Still people thought,no, that was not serious computer science,and it was a man named Jerry Wiesner,who happened to be the president of MIT,who did think it was computer science.And one of the keys for anybodywho wants to start something in life:Make sure your president is part of it.So when I was doing the Media Lab,it was like having a gorilla in the front seat.If you were stopped for speedingand the officer looked in the windowand saw who was in the passenger seat,then, &quot;Oh, continue on, sir.&quot;And so we were able,and this is a cute, actually, device, parenthetically.This was a lenticular photograph of Jerry Wiesnerwhere the only thing that changed in the photographwere the lips.So when you oscillated that little pieceof lenticular sheet with his photograph,it would be in lip syncwith zero bandwidth.It was a zero-bandwidth teleconferencing systemat the time.
+时间： 6:30
+zh-cn:这是我们的媒体实验室，这也是我们说的所要做的，电脑，出版等不同的领域将会融合到一起。虽然再一次没有被广泛接受，但是早期TED大会的一个重要部分。这也是我们那时真正迈进的。也就是创建媒体实验室的初衷。关于年代我可以自信的告诉你我去过未来。实际上我去过那里很多次。我这样说的原因是我在一生中说过太多“哦，在 10 年内，这个会成为现实的，”十年过去后。然后你说：“哦，在 5 年内这会成为现实的。”五年又过去了。我这样说是因为我稍稍感到我已经去过那里几次了，我所说的最频繁被人们所引用的是电脑计算不仅仅是关于电脑，但那时没有引起人们的太多注意，但之后便开始了。它的开始是因为人们认识到媒体不是信息。我向你展示这辆车在这不美观的图片中是为了再次告诉你能够描述我生活的一个故事。这是我的一个学生他完成了一个叫做“后座驾驶者”的博士任务。那时是GPS初生的时代，车子知道其位置，他回向驾驶者提出指令什么时候右转，或什么时候左转，等等。在那时很多那些指令否是非常具有挑战性的,比如：之后右转是代表什么意思？如果你来到一个街口，下一个右转也许指的是再下一个右边，这是有非常多问题的，这个学生做了一个非常好的课题，然而 MIT 的专利处说：“不要申请这项专利。他永远不会通过。因为设计责任会很大。会有保险问题。不要申请专利。“我们便没有申请，这再一次展示了人们看不清眼前正在发生的事。
+en:So this was the Media Lab&#39;s —this is what we said we&#39;d do,that the world of computers, publishing,and so on would come together.Again, not generally accepted,but very much part of TED in the early days.And this is really where we were headed.And that created the Media Lab.One of the things about ageis that I can tell you with great confidence,I&#39;ve been to the future.I&#39;ve been there, actually, many times.And the reason I say that is,how many times in my life have I said,&quot;Oh, in 10 years, this will happen,&quot;and then 10 years comes.And then you say, &quot;Oh, infive years, this will happen.&quot;And then five years comes.So I say this a little bit with having feltthat I&#39;d been there a number of times,and one of the things that is most quotedthat I&#39;ve ever saidis that computing is not about computers,and that didn&#39;t quite get enough traction,and then it started to.It started to because people caught onthat the medium wasn&#39;t the message.And the reason I show this carin actually a rather ugly slideis just again to tell you the kind of storythat characterized a little bit of my life.This is a student of minewho had done a Ph.D. called &quot;Backseat Driver.&quot;It was in the early days of GPS,the car knew where it was,and it would give audio instructionsto the driver, when to turn right, when to turn left and so on.Turns out, there are a lot of thingsin those instructions that back in that periodwere pretty challenging,like what does it mean, take the next right?Well, if you&#39;re coming up on a street,the next right&#39;s probably the one after,and there are lots of issues,and the student did a wonderful thesis,and the MIT patent office said &quot;Don&#39;t patent it.It&#39;ll never be accepted.The liabilities are too large.There will be insurance issues.Don&#39;t patent it.&quot;So we didn&#39;t,but it shows you how people, again, at times,don&#39;t really look at what&#39;s happening.
+时间： 8:46
+zh-cn:有不少事可以说，我在这里快速的过一下，有很多比较敏感的话题。你可能认出年轻的马友友（大提琴演奏家）并跟踪他身体演奏提琴的动作。那些人在那时候像是这样走路的。现在便变得有些松散和正常了。
+en:Some work, and I&#39;ll just gothrough these very quickly,a lot of sensory stuff.You might recognize a young Yo-Yo Maand tracking his body for playingthe cello or the hypercello.These fellows literally walked around like that at the time.It&#39;s now a little bit more discreetand more commonplace.
+时间： 9:08
+zh-cn:现在我想想你们介绍三位英雄。马文·明斯基，他教了我很多关于常识的知识，我再来简单介绍一下穆里尔·库珀，她对瑞奇·吴曼和 TED 都很重要而且事实上当她上舞台时她说的第一句话是”我向尼基介绍瑞奇。“从未有人叫过我尼基，也没有人把理查德叫做瑞奇，所以人们都不知道她在说什么。然后，西摩·帕尔特那个说过“你不能去思考什么是思考，除非你想去思考某个事情。“的人。事实上待会你就明白什么意思了。这是一个相当深奥的说法。
+en:And then there are at least three heroesI want to quickly mention.Marvin Minsky, who taught me a lotabout common sense,and I will talk briefly about Muriel Cooper,who was very important to Ricky Wurmanand to TED, and in fact, when she got onstage,she said, the first thing she said was,&quot;I introduced Ricky to Nicky.&quot;And nobody calls me Nickyand nobody calls Richard Ricky,so nobody knew who she was talking about.And then, of course, Seymour Papert,who is the person who said,&quot;You can&#39;t think about thinkingunless you think about thinking about something.&quot;And that&#39;s actually — you can unpack that later.It&#39;s a pretty profound statement.
+时间： 9:54
+zh-cn:我正在展示的是一些来自 TED 2 的 ppt，看起来也许有些傻。那时我真的感觉电视就是关于屏幕。现在是在 TED 1 之后，在 TED 2 发生前后，我想要提到的是，即使你可以想象设备里的智能，现在我看看互联网上的东西，我觉得真的是非常悲剧，因为正在发生的是人们将烤箱面板放到了手机上，或是将要是放到了手机上，直接把它带给你，但事实上那不是你们想要的。当你想把一只鸡放在烤箱里时，烤箱说：”啊哈，这是只鸡。“然后便开始烹饪。”哦，他在为尼古拉斯烧鸡，他喜欢这样那样的烹调方式。“这样一来我们现在开始将智能，并非实体的存在物移回到手机上和使用者更近，但这并不是一个互联网内非有启发性的东西。电视，我今天所说的电视那是在1990年的时候，而未来的电视可能会像是这样。然而那时人们讽刺的笑了不带任何的欣赏。
+en:I&#39;m showing some slidesthat were from TED 2,a little silly as slides, perhaps.Then I felt television really was about displays.Again, now we&#39;re past TED 1,but just around the time of TED 2,and what I&#39;d like to mention here is,even though you could imagineintelligence in the device,I look today at some of the workbeing done about the Internet of Things,and I think it&#39;s kind of tragically pathetic,because what has happened is people takethe oven panel and put it on your cell phone,or the door key onto your cell phone,just taking it and bringing it to you,and in fact that&#39;s actually what you don&#39;t want.You want to put a chicken in the oven,and the oven says, &quot;Aha, it&#39;s a chicken,&quot;and it cooks the chicken.&quot;Oh, it&#39;s cooking the chicken for Nicholas,and he likes it this way and that way.&quot;So the intelligence, instead of being in the device,we have started todayto move it back onto the cell phoneor closer to the user,not a particularly enlightened viewof the Internet of Things.Television, again, television what I said today,that was back in 1990,and the television of tomorrowwould look something like that.Again, people, but they laughed cynically,they didn&#39;t laugh with much appreciation.
+时间：11:21
+zh-cn:在 20 世纪 90 年代，乔治 吉尔德决定叫这个示意图为内格罗蓬特开关。也许我远没有乔治有名，所以当他把这个叫做内格罗蓬特开关时，就没有什么变动了，但是这东西的主意在地上和空中漂浮不定已经将自己展示出来了。这是当年的原始PPT，而且一直都因循守旧地运行着。
+en:Telecommunications in the 1990s,George Gilder decided that he would call this diagramthe Negroponte switch.I&#39;m probably much less famous than George,so when he called it the Negroponte switch, it stuck,but the idea of things that came in the groundwould go in the air and stuff in the airwould go into the groundhas played itself out.That is the original slide from that year,and it has worked in lockstep obedience.
+时间：11:53
+zh-cn:我们发行了《千奇百怪》杂志。有些和我曾一起在招待会上定期坐一桌的人和一些家长风怒的表达他的儿子已经不再订阅体育画报而改定了《千奇百怪》。他还说：“你们这是色情书刊还是什么鬼玩意？“非常不理解为什么他的儿子会对《千奇百怪》感兴趣。
+en:We started Wired magazine.Some people, I remember we sharedthe reception desk periodically,and some parent called up irate that his sonhad given up Sports Illustratedto subscribe for Wired,and he said, &quot;Are you someporno magazine or something?&quot;and couldn&#39;t understand why his sonwould be interested in Wired, at any rate.
+时间：12:19
+zh-cn:我会快一些的把这事描述一下。这是我最喜欢的，在 1995 年，新闻周刊杂志的背面。好的。读一下它。（笑声）
+en:I will go through this a little quicker.This is my favorite, 1995,back page of Newsweek magazine.Okay. Read it. (Laughter)
+时间：12:30
+zh-cn:MIT 媒体实验室的领导人尼古拉斯 内格罗蓬特预测：“人们很快就会在互联网上购买书籍和报纸了。好啊，可以啊 （胆子不小，你尽敢这样说）。”
+en:[&quot;Nicholas Negroponte, director of the MIT Media Lab, predicts that we&#39;ll soon buy books and newspapers straight over the Internet. Uh, sure.&quot;—Clifford Stoll, Newsweek, 1995]
+时间：12:32
+zh-cn:你必须得承认这给了你，当别人说你比错误一的时候至少这给了我快感。
+en:You must admit that gives you,at least it gives me pleasurewhen somebody says how dead wrong you are.
+时间：12:40
+zh-cn:“数字化”推出了。对于我来说，这给了我机会在印刷行业发展并将这带入社会，同事还让我们建造了新的媒体实验室，如果你还没去过，你可以去参观一下，因为它除了是一个工作的好地方还是一个非常美丽的建筑物。这些便是我们在之前的 TED 所讨论的。
+en:&quot;Being Digital&quot; came out.For me, it gave me an opportunityto be more in the trade pressand get this out to the public,and it also allowed us to build the new Media Lab,which if you haven&#39;t been to, visit,because it&#39;s a beautiful piece of architectureaside from being a wonderful place to work.So these are the things we were saying in those TEDs.
+时间：13:04
+zh-cn:【今天，多媒体是一个在桌面和起居室中的体验，因为那些设备非常粗笨。将来会被更加小而智能的而取代。】
+en:[Today, multimedia is a desktop or living room experience, because the apparatus is so clunky. This will change dramatically with small, bright, thin, high-resolution displays. — 1995]
+时间：13:05
+zh-cn:我来到它们那里。我每年都看看它。那是对瑞奇 沃尔曼一个从意义上来说从未有过的聚会而他在聚会中邀请了很多他的老朋友，还包括我。
+en:We came to them.I looked forward to it every year.It was the party that Ricky Wurman never hadin the sense that he invited many of his old friends,including myself.
+时间：13:16
+zh-cn:之后我发生了一个潜在的改变。我和电脑的接触和学习更多了也被西摩深刻的影响，但是主要专注于以电脑编程的方式去学习。当你编程时，你不能只将东西列出来大概的去用一种算法或是仅仅将其翻译成一套教程，但是当程序有漏洞时（所有的程序都有漏洞），你得去消除漏洞。你得进入程序中，改编，并重新执行，然后你进行迭代而且那个迭代的过程是一个非常好的类似学习。
+en:And then something for me changedpretty profoundly.I became more involved with computers and learningand influenced by Seymour,but particularly looking at learningas something that is best approximatedby computer programming.When you write a computer program,you&#39;ve got to not just list things outand sort of take an algorithmand translate it into a set of instructions,but when there&#39;s a bug, and all programs have bugs,you&#39;ve got to de-bug it.You&#39;ve got to go in, change it,and then re-execute,and you iterate,and that iteration is reallya very, very good approximation of learning.
+时间：14:00
+zh-cn:那也让我在像是柬埔寨的地方开始我与西摩的工作并启动了一个孩子一台笔记本电脑的项目。关于此项目的 TED 演讲有足够多，我就快速地过一下，但是我们确实获得了在一个较大的范围上为学习，发展和电脑计算做些贡献的机会。很少有人知道一个孩子一台笔记本电脑是一个价值 10 亿美元的项目，至少有七年我都置身于该项目，但更重要的是，世界银行和 USAID 都作出零贡献。大多数都是国家使用自己国库资金这是非常有趣的，至少对我未来要做的事来说非常有趣。这些是那些发生了这些事的地方。
+en:So that led to my own work with Seymourin places like Cambodiaand the starting of One Laptop per Child.Enough TED Talks on One Laptop per Child,so I&#39;ll go through it very fast,but it did give us the chanceto do something at a relatively large scalein the area of learning, development and computing.Very few people know that One Laptop per Childwas a $1 billion project,and it was, at least over the seven years I ran it,but even more important, the World Bankcontributed zero, USAID zero.It was mostly the countriesusing their own treasuries,which is very interesting,at least to me it was very interestingin terms of what I plan to do next.So these are the various places it happened.
+时间：14:52
+zh-cn:我接着尝试了一个实验，试验地点在埃塞俄比亚。这里边是这个实验。实验是这样的，没有学校的地方人们可以学习么。我们便发放平板电脑但不给出使用说明让孩子们自己搞明白怎么用。在很短的一段时间内，他们不仅知道如何开机，而且 5 五天内每个孩子至少使用了 50 个应用程，在两周内他们便学会了唱 ”ABC“，但是他们花了 6 个月破解了安卓系统。这些事足够有趣。这也许是我手头上最好的照片。你们右手的孩子把他自己任命为了老师。看左手边的孩子，等等。没有任何成年人的参与。我问：“我们可以大规模地进行这个实验么？”但又缺少了什么呢？孩子们这个时候正在开发布会了，貌似在土中鞋子。答案是：缺少了什么？我要跳过我的预测，因为我时间不够了，问题是：未来会发生什么呢?
+en:I then tried an experiment,and the experiment happened in Ethiopia.And here&#39;s the experiment.The experiment is,can learning happen where there are no schools.And we dropped off tabletswith no instructionsand let the children figure it out.And in a short period of time,they not onlyturned them on and were using 50 apps per childwithin five days,they were singing &quot;ABC&quot; songs within two weeks,but they hacked Android within six months.And so that seemed sufficiently interesting.This is perhaps the best picture I have.The kid on your righthas sort of nominated himself as teacher.Look at the kid on the left, and so on.There are no adults involved in this at all.So I said, well can we do thisat a larger scale?And what is it that&#39;s missing?The kids are giving a press conference at this point,and sort of writing in the dirt.And the answer is, what is missing?And I&#39;m going to skip over my prediction, actually,because I&#39;m running out of time,and here&#39;s the question, is what&#39;s going to happen?
+时间：16:13
+zh-cn:我认为未来的挑战是区连接剩下的 10 亿人，将剩下 10 亿连接起来和连接下 10 亿个是不一样的，原因是不同的下个 10 亿像是触手可及的水果，但是那剩下的 10 亿则是在乡村。乡村和平穷是非常不同的。平穷是由社会所创造出的，但是同样的方式下那个社区里的人们是一点都不穷的。他们也许很原始，但是靠近和连接它们的方式一个孩子一台笔记本电脑的项目的历史，以及在埃塞俄比亚的实验，让我相信我们可以在很短的时间内实现。
+en:I think the challengeis to connect the last billion people,and connecting the last billionis very different than connecting the next billion,and the reason it&#39;s differentis that the next billionare sort of low-hanging fruit,but the last billion are rural.Being rural and being poorare very different.Poverty tends to be created by our society,and the people in that community are not poorin the same way at all.They may be primitive,but the way to approach it and to connect them,the history of One Laptop per Child,and the experiment in Ethiopia,lead me to believe that we can in factdo this in a very short period of time.
+时间：17:05
+zh-cn:所以我的计划很不幸，此时此刻我不能找我的伙伴去让我在这里介绍他们，但是将用一个同步卫星实现这件事。这是有很多原因的，同步卫星不是最佳的选择，但是有很多原因可以解释它们为什么最优，而且 20 亿美元我们可以连接远超过 1 亿人，第二个理由我把它留到最后再说，20 亿美元是我们在阿富汗每周耗费的金额。所以如果我们可以用那样的开销将非洲和那剩下的 10 亿人连接起来我们应该已经在做这件事情了。
+en:And so my plan,and unfortunately I haven&#39;t been ableto get my partners at this pointto let me announce them,but is to do this with a stationary satellite.There are many reasonsthat stationary satellites aren&#39;t the best things,but there are a lot of reasons why they are,and for two billion dollars,you can connect a lot more than 100 million people,but the reason I picked two,and I will leave this as my last slide,is two billion dollarsis what we were spendingin Afghanistanevery week.So surely if we can connectAfrica and the last billion peoplefor numbers like that,we should be doing it.
+时间：17:59
+zh-cn:非常好感谢。
+en:Thank you very much.
+时间：18:01
+zh-cn:（掌声）
+en:(Applause)
+时间：18:04
+zh-cn:克里斯·安德森：先别走，等一会。
+en:Chris Anderson: Stay up there. Stay up there.
+时间：18:09
+zh-cn:尼葛洛庞帝：你要给我读一点时间么？
+en:NN: You&#39;re going to give me extra time?
+时间：18:11
+zh-cn:克里斯·安德森：那真是说的太好了，太好了。你的挑战的非常漂亮。尼葛洛庞帝，你对未来的预测是什么？（笑声）
+en:CA: No. That was wickedly clever, wickedly clever.You gamed it beautifully.Nicholas, what is your prediction?(Laughter)
+时间：18:20
+zh-cn:尼葛洛庞帝：谢谢你问我。我马上告诉你我的预测是什么，这是我的预测因为这是未来 30 年的预测，那时我不会在这里了。但是有一点关于学习如何阅读我们一直都在用双眼大量社区信息，而且那是个非常低效的方法。所以我的预测是我们将会摄取信息。你们会吃下一个药丸便知道如何说英语。你将会吃下一个药丸便通晓莎士比亚。而实现它的方法是用过血流。一旦它进入到你的血液中，它基本上就会到达大脑，当它知道他到达了大脑在不同的地方，它便在正确的地方注入。所以这是摄取。
+en:NN: Thank you for asking.I&#39;ll tell you what my prediction is,and my prediction, and this is a prediction,because it&#39;ll be 30 years. I won&#39;t be here.But one of the things about learning how to read,we have been doing a lot of consumingof information going through our eyes,and so that may be a very inefficient channel.So my prediction is that we are going to ingest informationYou&#39;re going to swallow a pill and know English.You&#39;re going to swallow apill and know Shakespeare.And the way to do it is through the bloodstream.So once it&#39;s in your bloodstream,it basically goes through it and gets into the brain,and when it knows that it&#39;s in the brainin the different pieces,it deposits it in the right places.So it&#39;s ingesting.
+时间：19:08
+zh-cn:克里斯·安德森：你有和雷库兹威尔聊过么？
+en:CA: Have you been hanging outwith Ray Kurzweil by any chance?
+时间：19:11
+zh-cn:尼葛洛庞帝：没有，但是我经常和埃德宝鼎聊天还有这里的一位演讲者之一休·赫尔，有很多人。对于未来的 30 年，这不是很牵强。
+en:NN: No, but I&#39;ve been hangingaround with Ed Boydenand hanging around with one of the speakerswho is here, Hugh Herr,and there are a number of people.This isn&#39;t quite as far-fetched,so 30 years from now.
+时间：19:24
+zh-cn:克里斯·安德森：我们会亲眼鉴识的。我们将会倒退，30 年后再放出这个视频你们所有都吃着红色药丸。
+en:CA: We will check it out.We&#39;re going to be back and we&#39;re goingto play this clip 30 years from now,and then all eat the red pill.
+时间：19:31
+zh-cn:好的谢谢你的好意。
+en:Well thank you for that.
+时间：19:33
+zh-cn:尼葛洛庞帝
+en:Nicholas Negroponte.
+时间：19:35
+zh-cn:谢谢
+en:NN: Thank you.
+时间：19:36
+zh-cn:(掌声)
+en:(Applause)

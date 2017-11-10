@@ -1,0 +1,27 @@
+时间： 0:11
+zh-cn:大家早上好
+en:Good morning everybody.
+时间： 0:14
+zh-cn:我从事的是一种不可思议的非常非常微小的生物，叫做细胞让我来向大家展示实验室里如何培育这些细胞在我工作的实验室，我们把细胞从它们原本的生长环境中取出来我们把它们放到器皿中我们通常称之为培养皿然后我们培养它们 — 当然是无菌的 —用一种叫做细胞培养基的东西 — 类似于他们的食物 —然后我们在孵化器中培养他们
+en:I work with really amazing,little, itty-bitty creatures called cells.And let me tell you what it&#39;s liketo grow these cells in the lab.I work in a lab where we take cells out of their native environment.We plate them into dishesthat we sometimes call petri dishes.And we feed them — sterilely of course —with what we call cell culture media — which is like their food —and we grow them in incubators.
+时间： 0:39
+zh-cn:我为什么这么做?我们在培养皿中观察细胞这只是表面上的我们在实验室中真正要做的是把组织从细胞中分离那意味着什么呢？这意味着生成一个真的心脏比方说培育一块骨头它可以被植入人体内不仅如此，它们还可以被用于疾病模型为了这个目的，传统的细胞培养技术是远远不够的细胞会想家培养皿不像它们的家因此在复制它们原始的生存环境上面我们需要做的更好从而让它们更好的生长我们称之为仿生（biomimetic paradigm）—即在实验室中复制自然环境
+en:Why do I do this?We observe the cells in a plate,and they&#39;re just on the surface.But what we&#39;re really trying to do in my labis to engineer tissues out of them.What does that even mean?Well it means growing an actual heart,let&#39;s say,or grow a piece of bonethat can be put into the body.Not only that, but they can also be used for disease models.And for this purpose, traditional cell culture techniquesjust really aren&#39;t enough.The cells are kind of homesick;the dish doesn&#39;t feel like their home.And so we need to do better at copying their natural environmentto get them to thrive.We call this the biomimetic paradigm —copying nature in the lab.
+时间： 1:21
+zh-cn:让我们用培育心脏举例我为此做了许多研究是什么让心脏与众不同恩，是心跳有节奏的，不知疲倦的，不停的跳动我们在实验室复制它用一套电极细胞培养系统这些电极起到类似迷你起搏器的作用从而让实验室内的细胞间产生联系关于心脏我们还了解什么？心脏细胞非常贪婪在身体中自然培育心脏细胞需要非常非常大量的血液供给在实验室中，我们用生物材料做成微型通道来培养细胞这让细胞培养基得以流动，成为细胞的食物通过我们培育细胞的脚手架 —很像大家印象里心脏中的毛细血管床的样子
+en:Let&#39;s take the example of the heart,the topic of a lot of my research.What makes the heart unique?Well, the heart beats,rhythmically, tirelessly, faithfully.We copy this in the labby outfitting cell culture systems with electrodes.These electrodes act like mini pacemakersto get the cells to contract in the lab.What else do we know about the heart?Well, heart cells are pretty greedy.Nature feeds the heart cells in your bodywith a very, very dense blood supply.In the lab, we micro-pattern channelsin the biomaterialson which we grow the cells,and this allows us to flow the cell culture media, the cells&#39; food,through the scaffolds where we&#39;re growing the cells —a lot like what you might expectfrom a capillary bed in the heart.
+时间： 2:06
+zh-cn:这就教会我们第一课：生命可以用细小的东西做很多事让我们举一个电刺激的例子看看这些小东西中的一员可以变得多么强大在左边，有很小的一片心脏跳动组织它是我在实验室用老鼠的细胞培育的差不多一个迷你棉花糖大小一个星期后，它开始跳动你可以在左上角看见如果看不太清楚也没关系这些细胞可以跳动根本就是不可思议的但是真正不可思议的是这些细胞，当用类似起搏器的电击它们的时候它们的跳动加强了很多
+en:So this brings me to lesson number one:life can do a lot with very little.Let&#39;s take the example of electrical stimulation.Let&#39;s see how powerful just one of these essentials can be.On the left, we see a tiny piece of beating heart tissuethat I engineered from rat cells in the lab.It&#39;s about the size of a mini marshmallow.And after one week, it&#39;s beating.You can see it in the upper left-hand corner.But don&#39;t worry if you can&#39;t see it so well.It&#39;s amazing that these cells beat at all.But what&#39;s really amazingis that the cells, when we electrically stimulate them,like with a pacemaker,that they beat so much more.
+时间： 2:42
+zh-cn:它们带给我们第二个启示：细胞可以做任何工作在某种程度上，组织工程师有点自身身份上的危机因为，结构工程师建造桥梁和大建筑电脑工程师，设计电脑但是我们做的事情实际上是为细胞创造它们本身拥有的科技做这些对我们意味着什么？让我们做些非常简单的事情我们想一下细胞并不是一个抽象的概念大家知道，我们的细胞支撑着我们的生命用一种非常现实的方式“我们就是我们所吃的东西”，可以简单的理解成“我们就是我们细胞所吃的东西”在我们肠道菌群失调的情况下这些细胞甚至可能不会变成人类同样值得注意的是细胞还可以改变我们的人生经历在每一个声音，视觉，触觉，味觉和嗅觉的背后都是一套相应的细胞组合它们接收这类信息然后翻译给我们这就引出一个问题我们是否应该把环境管理意识概念扩展到我们身体的生态环境？
+en:But that brings me to lesson number two:cells do all the work.In a sense, tissue engineers have a bit of an identity crisis here,because structural engineersbuild bridges and big things,computer engineers, computers,but what we are doingis actually building enabling technologies for the cells themselves.What does this mean for us?Let&#39;s do something really simple.Let&#39;s remind ourselvesthat cells are not an abstract concept.Let&#39;s remember that our cells sustain our livesin a very real way.&quot;We are what we eat,&quot; could easily be describedas, &quot;We are what our cells eat.&quot;And in the case of the flora in our gut,these cells may not even be human.But it&#39;s also worth notingthat cells also mediate our experience of life.Behind every sound, sight, touch, taste and smellis a corresponding set of cellsthat receive this informationand interpret it for us.It begs the question:shall we expand our sense of environmental stewardshipto include the ecosystem of our own bodies?
+时间： 3:48
+zh-cn:我邀请大家之后一起讨论这个问题与此同时，祝大家好运希望大家的非癌症细胞不会变成稀有物种
+en:I invite you to talk about this with me further,and in the meantime, I wish you luck.May none of your non-cancer cellsbecome endangered species.
+时间： 3:57
+zh-cn:谢谢
+en:Thank you.
+时间： 3:59
+zh-cn:（掌声）
+en:(Applause)

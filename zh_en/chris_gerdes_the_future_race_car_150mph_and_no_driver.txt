@@ -1,0 +1,78 @@
+时间： 0:11
+zh-cn:你们当中有多少人当你不应该开车的时候还开车跟在另一部车后面？有可能你已经开了一整天的车心里只想回家你已经身心疲惫了，但你感觉还能再驾驶多几英里大概你有想过我喝得没有其他人多我可以驾车回家或者也许你的大脑已经在神游
+en:So, how many of you have evergotten behind the wheel of a carwhen you really shouldn&#39;t have been driving?Maybe you&#39;re out on the road for a long day,and you just wanted to get home.You were tired, but you felt you could drive a few more miles.Maybe you thought,I&#39;ve had less to drink than everybody else,I should be the one to go home.Or maybe your mind was just entirely elsewhere.
+时间： 0:35
+zh-cn:这些你们听起来有点熟悉吧？现在，在这些情况下如果仪表盘上有一个按钮你按一下，车就可以带你安安全全地回家,会不会很棒如今，这些都是自动汽车能做到的自动汽车从 1939 年通用汽车公司在世通用汽车公司在世界展销会上展示他们未来汽车的的理念就一直是一个梦想
+en:Does this sound familiar to you?Now, in those situations, wouldn&#39;t it be greatif there was a button on your dashboardthat you could push, and the car would get you home safely?Now, that&#39;s been the promise of the self-driving car,the autonomous vehicle, and it&#39;s been the dreamsince at least 1939, when General Motors showcasedthis idea at their Futurama booth at the World&#39;s Fair.
+时间： 0:59
+zh-cn:现在，它已成为那些看起来总是还要再等20年的梦想之一两个星期前，这个梦想有了突破当内华达州授予谷歌的自驾汽车第一个无人驾驶的上路许可证，明确地表示他们在内华达州道路上测试是合法的现在，加州的也正在考虑类似的立法，这将确保无人驾驶汽车不会像赌博这类事一样只会发生在拉斯维加斯。
+en:Now, it&#39;s been one of those dreamsthat&#39;s always seemed about 20 years in the future.Now, two weeks ago, that dream took a step forward,when the state of Nevada granted Google&#39;s self-driving carthe very first license for an autonomous vehicle,clearly establishing that it&#39;s legal for themto test it on the roads in Nevada.Now, California&#39;s considering similar legislation,and this would make sure that the autonomous caris not one of those things that has to stay in Vegas.
+时间： 1:28
+zh-cn:(笑声)
+en:(Laughter)
+时间： 1:30
+zh-cn:现在，在我在斯坦福大学的实验室里，我们也一直在研究无人驾驶汽车，但在对事物研究的理念上略有不同我们一直在开发机器人赛车它们在性能上可以到达其物理极限
+en:Now, in my lab at Stanford, we&#39;ve been working onautonomous cars too, but with a slightly different spinon things. You see, we&#39;ve been developing robotic race cars,cars that can actually push themselves to the very limitsof physical performance.
+时间： 1:48
+zh-cn:那么为什么我们想要做这样的事呢？嗯，有两个好的理由来解释第一，我们认为在人完全将控制交给一部无人驾驶汽车之前，这部无人驾驶汽车至少得运行得像一位好的驾驶员一样那么，如果你像我，还有那其他70%的人一样认为我们是高于平均水平的司机你明白我们高估了自己同时还有另一个原因就像赛车手可以利用车胎和路面间所有的摩擦还有汽车的最大性能来尽可能快的开一样我们想用这些性能来避免任何我们可以避免的交通事故
+en:Now, why would we want to do such a thing?Well, there&#39;s two really good reasons for this.First, we believe that before people turn over controlto an autonomous car, that autonomous car should beat least as good as the very best human drivers.Now, if you&#39;re like me, and the other 70 percent of the populationwho know that we are above-average drivers,you understand that&#39;s a very high bar.There&#39;s another reason as well.Just like race car drivers can use all of the frictionbetween the tire and the road,all of the car&#39;s capabilities to go as fast as possible,we want to use all of those capabilities to avoidany accident we can.
+时间： 2:27
+zh-cn:现在，你可能把车开到极限并不是说你开得太快而是说你开到有冰的路面上了路况变了在这些情况下，我们希望这部汽车有能力避免任何那些人工可以避免的意外
+en:Now, you may push the car to the limitsnot because you&#39;re driving too fast,but because you&#39;ve hit an icy patch of road,conditions have changed.In those situations, we want a carthat is capable enough to avoid any accidentthat can physically be avoided.
+时间： 2:44
+zh-cn:我必须承认，还有第三个理由你瞧，我对赛车很痴迷过去，我曾拥有一部赛车是一个车队的头，也是驾校教练虽然也许水平没有你期待得那么高我们在实验室中做的几件事中的一件—就是我们开发了几部车—我们相信他们是世界上第一步无人漂移汽车它是无人车中新的分类也许它还没有竞争对手
+en:I must confess, there&#39;s kind of a third motivation as well.You see, I have a passion for racing.In the past, I&#39;ve been a race car owner,a crew chief and a driving coach,although maybe not at the level that you&#39;re currently expecting.One of the things that we&#39;ve developed in the lab —we&#39;ve developed several vehicles —is what we believe is the world&#39;s firstautonomously drifting car.It&#39;s another one of those categorieswhere maybe there&#39;s not a lot of competition.
+时间： 3:13
+zh-cn:（笑声）
+en:(Laughter)
+时间： 3:15
+zh-cn:我们叫它P1。它是一部完全由学生设计的后轮驱动电动车线控方向盘可以在拐角漂移它能像一个汽车拉力赛选手一样从路边过也从能转过急弯即使在湿滑，不断变化的路面也从来不会打滑被甩出去
+en:But this is P1. It&#39;s an entirely student-built electric vehicle,which through using its rear-wheel driveand front-wheel steer-by-wirecan drift around corners.It can get sideways like a rally car driver,always able to take the tightest curve,even on slippery, changing surfaces,never spinning out.
+时间： 3:33
+zh-cn:我们也曾与大众 Oracle合作出研发一部叫” 谢莉“的无人驾驶赛车它能用每小时 150 英里的速度沿着邦纳维尔盐滩行驶能在阳关明媚时，能在大风大雨天跑在 Thunderhill 赛车跑道上并在Pikes Peak Hill Climb 线路上开12.4英里，通过153拐弯处这是在科罗拉多州，真的一个人都没在车上
+en:We&#39;ve also worked with Volkswagen Oracle,on Shelley, an autonomous race car that has racedat 150 miles an hour through the Bonneville Salt Flats,gone around Thunderhill Raceway Park in the sun,the wind and the rain,and navigated the 153 turns and 12.4 milesof the Pikes Peak Hill Climb routein Colorado with nobody at the wheel.
+时间： 3:59
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:01
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:06
+zh-cn:我想我们不用说这样做真的有很多乐趣但事实上，我们还研发了一些其它的东西在这个研发无人驾驶汽车的过程中我们对人类赛车手的能力变的更加的的钦佩当我们想这些车可以运作的多好时候我们想把无人驾驶车和人类驾驶的操作做一个比较我们发现执行任务的人类是不可思议的现在，我们可以拿一张赛车跑道图我们可以做一个数字模型车加上一些迭代，我们可以找到整个跑道的最快路径我们把一个职业赛车手开车数据记录下来进行直线图表分析相似度是那样的惊人
+en:I guess it goes without saying that we&#39;ve had a lot of fundoing this.But in fact, there&#39;s something else that we&#39;ve developedin the process of developing these autonomous cars.We have developed a tremendous appreciationfor the capabilities of human race car drivers.As we&#39;ve looked at the question of how well do these cars perform,we wanted to compare them to our human counterparts.And we discovered their human counterparts are amazing.Now, we can take a map of a race track,we can take a mathematical model of a car,and with some iteration, we can actually findthe fastest way around that track.We line that up with data that we recordfrom a professional driver,and the resemblance is absolutely remarkable.
+时间： 4:58
+zh-cn:是的，这里还是有细微的差别的赛车手能够在户外开到最快的那条线路而不用计算程序去比较是该在这个拐弯出开快点还是应该在开过这个直线的时候减点速不但如此，他们能如此地开一圈一圈又一圈他们能在户外，持续地这么做每一次都把车用到极限看起来真的不可思议你给他们换部车在跑几个圈后他们就已经能找到适合车的最快的路线接着，他们就可以比赛了
+en:Yes, there are subtle differences here,but the human race car driver is able to go outand drive an amazingly fast line,without the benefit of an algorithm that comparesthe trade-off between going as fast as possiblein this corner, and shaving a little bit of timeoff of the straight over here.Not only that, they&#39;re able to do it lapafter lap after lap.They&#39;re able to go out and consistently do this,pushing the car to the limits every single time.It&#39;s extraordinary to watch.You put them in a new car,and after a few laps, they&#39;ve found the fastest line in that car,and they&#39;re off to the races.
+时间： 5:41
+zh-cn:这不禁使你想我们真的很想知道他们大脑里究竟发生了什么作为研究人员说，这就是我们决定要挖据的我们决定测量不仅仅是车还有赛车手尝试去了解在他们赛车时候他们大脑的变化现在，这是 琳恩·哈博特博士把电极片放在约翰 · 莫顿的头上的照片约翰 · 莫顿是前Can-Am 和IMSA的赛车手他也是勒芒赛事上出类拔萃的冠军极棒的赛车手，并且愿意忍受研究生和这类的研究她把电极片放在他的头上这样，我们可以监测当约翰绕着轨道飚车时候他大脑电波的活动
+en:It really makes you think,we&#39;d love to know what&#39;s going on inside their brain.So as researchers, that&#39;s what we decided to find out.We decided to instrument not only the car,but also the race car driver,to try to get a glimpse into what was going onin their head as they were doing this.Now, this is Dr. Lene Harbott applying electrodesto the head of John Morton.John Morton is a former Can-Am and IMSA driver,who&#39;s also a class champion at Le Mans.Fantastic driver, and very willing to put up with graduate studentsand this sort of research.She&#39;s putting electrodes on his headso that we can monitor the electrical activityin John&#39;s brain as he races around the track.
+时间： 6:24
+zh-cn:显然我们不是放一对电极片在他头上就可以准确的了解到他在跑道上飚车时候所有的想法然而，神经学家已经可以识别了一定的模式让我们对这个研究中一些非常重要的因素能理出头绪例如，休息中的大脑往往会产生大量的α波与此相反，θ波与大量认知活动相关联，如视觉处理赛车手正在想的事，很多现在，我们可以测量这一点我们可以看到θ波与α波之间的相对动力这给我们了脑力负荷的一个测试在轨道上任何一个地方，赛车手实际上需要接受多少认知上的挑战
+en:Now, clearly we&#39;re not going to put a couple of electrodes on his headand understand exactly what all of his thoughts are on the track.However, neuroscientists have identified certain patternsthat let us tease out some very important aspects of this.For instance, the resting braintends to generate a lot of alpha waves.In contrast, theta waves are associated witha lot of cognitive activity, like visual processing,things where the driver is thinking quite a bit.Now, we can measure this,and we can look at the relative powerbetween the theta waves and the alpha waves.This gives us a measure of mental workload,how much the driver is actually challenged cognitivelyat any point along the track.
+时间： 7:05
+zh-cn:现在，我们想看看我们是否能真实地在跑道上记录这点，所以我们向南出发去卡赛道卡赛道是有传奇色彩的赛道大约在萨利纳斯和蒙特雷的中间它有一道弯被称为瓶塞钻现在，这个瓶塞钻是一个S 形弯道接下来是一个很急的右转弯与此同时路面好像下陷3层楼那么高现在，可以理解这个驾驶的策略为你以远处的灌木丛为目标当你感到跑道向下落的时候，你才意识到你其实是在树尖上
+en:Now, we wanted to see if we could actually record thison the track, so we headed down south to Laguna Seca.Laguna Seca is a legendary racewayabout halfway between Salinas and Monterey.It has a curve there called the Corkscrew.Now, the Corkscrew is a chicane, followed by a quickright-handed turn as the road drops three stories.Now, the strategy for driving this as explained to me was,you aim for the bush in the distance,and as the road falls away, you realize it was actually the top of a tree.
+时间： 7:32
+zh-cn:很好，非常感谢斯坦福大学的自驾车研究项目我们把约翰带到哪里了让他 主宰1960年保时捷的阿巴特卡雷拉的方向盘大家对一般的车的喜好就像昙花一现一样所以，在这里你看到约翰在赛道上他在爬坡， 哦 ！有人也喜欢来这里飚车 — —实际上，你可以看到一条红的长方形条正在监测他的脑力负荷—随着他的移动，你可以看到他的反映现在看看，他不得不换到低档。然后他必须左转。看清楚路旁的树，然后下坡。
+en:All right, so thanks to the Revs Program at Stanford,we were able to take John thereand put him behind the wheelof a 1960 Porsche Abarth Carrera.Life is way too short for boring cars.So, here you see John on the track,he&#39;s going up the hill — Oh! Somebody liked that —and you can see, actually, his mental workload— measuring here in the red bar —you can see his actions as he approaches.Now watch, he has to downshift.And then he has to turn left.Look for the tree, and down.
+时间： 8:02
+zh-cn:没什么可大惊小怪的，您可以看到这是一个非常有挑战性的任务你可以看到当他经历这一切的时候，他的大脑负荷增加了你会预测到这种复杂程度会产生的事但是真正有趣的事是看不会使他脑力负荷增加的一些赛道的区域我将带你绕到赛道的另外一半数三下，约翰将开到拐角汽车的尾部将会滑出轨道他将不得不打方向盘使车回到轨道所以看好约翰是怎么操作的看看他的脑负荷，和方向盘赛车开始滑出去了，戏剧性的操作使它回到轨道上了，而大脑负荷却丝毫没有变化这不是一个具有挑战性的任务实际上，完全是条件的放射
+en:Not surprisingly, you can see this is a pretty challenging task.You can see his mental workload spike as he goes through this,as you would expect with something that requiresthis level of complexity.But what&#39;s really interesting is to look at areas of the trackwhere his mental workload doesn&#39;t increase.I&#39;m going to take you around nowto the other side of the track.Turn three. And John&#39;s going to go into that cornerand the rear end of the car is going to begin to slide out.He&#39;s going to have to correct for that with steering.So watch as John does this here.Watch the mental workload, and watch the steering.The car begins to slide out, dramatic maneuver to correct it,and no change whatsoever in the mental workload.Not a challenging task.In fact, entirely reflexive.
+时间： 8:47
+zh-cn:现在，我们对此的数据处理仍是初步的阶段但这现象明显表明这些赛车手表现出来的惊人水平是其本能这些事对他们来说孰能生巧了对他们来说完成这样了不起的事只需要很少的大脑负荷。他们表现真的很棒当车遇到这种情况时候你想做到的就是去控制好车
+en:Now, our data processing on this is still preliminary,but it really seems that these phenomenal featsthat the race car drivers are performingare instinctive.They are things that they have simply learned to do.It requires very little mental workloadfor them to perform these amazing feats.And their actions are fantastic.This is exactly what you want to do on the steering wheelto catch the car in this situation.
+时间： 9:14
+zh-cn:现在，这给我们的无人驾驶汽车的研究有了巨大的启示和灵感我们已经开始问自己我们可以使我们的自驾车少一点计算程序而多一点直觉性的东西吗？我们能借助我们现在从最好赛车手身上看到的这种对条件反射的反应从而把它运用到我们的车上吗再或者运用到你们未来车子的系统里？我们还需要很大的努力来研制出和最棒的车手一样的无人驾驶汽车
+en:Now, this has given us tremendous insightand inspiration for our own autonomous vehicles.We&#39;ve started to ask the question:Can we make them a little less algorithmicand a little more intuitive?Can we take this reflexive actionthat we see from the very best race car drivers,introduce it to our cars,and maybe even into a system that couldget onto your car in the future?That would take us a long stepalong the road to autonomous vehiclesthat drive as well as the best humans.
+时间： 9:43
+zh-cn:它同时使我们从更深的层面去思考我们想让我们的车为我们做得更多而不是简简单单地一个驾驶员吗？我们想让我们的车成我们的伙伴，教练或者是能了解到周围环境的那个人从而帮助我们发挥我们的潜力吗？那么科技能不能不只是简单的取代人类而且可以让我们达到我们都能达到的直觉的反应水平？
+en:But it&#39;s made us think a little bit more deeply as well.Do we want something more from our carthan to simply be a chauffeur?Do we want our car to perhaps be a partner, a coach,someone that can use their understanding of the situationto help us reach our potential?Can, in fact, the technology not simply replace humans,but allow us to reach the level of reflex and intuitionthat we&#39;re all capable of?
+时间：10:14
+zh-cn:所以，当我们向这个科技时代迈进的时候我想你停下来思考一会什么是人类和机器之间最理想的平衡当我们思考时候让我们用人类身体和大脑的了不起的能力来激发自己
+en:So, as we move forward into this technological future,I want you to just pause and think of that for a moment.What is the ideal balance of human and machine?And as we think about that,let&#39;s take inspirationfrom the absolutely amazing capabilitiesof the human body and the human mind.
+时间：10:32
+zh-cn:谢谢
+en:Thank you.
+时间：10:33
+zh-cn:(掌声)
+en:(Applause)

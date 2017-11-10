@@ -1,0 +1,36 @@
+时间： 0:12
+zh-cn:我的初恋给了夜空。我对它爱很复杂。
+en:My first love was for the night sky.Love is complicated.
+时间： 0:16
+zh-cn:你们现在看到的是一个哈勃望远镜超深空图像，这是目前我们能观测到的最遥远的宇宙图像之一。你们现在所看到的一切都是星系，每个都由几十亿颗星球组成。最远的星系距离我们有10的24次方公里。
+en:You&#39;re looking at a fly-through of the Hubble Space Telescope Ultra-Deep Field,one of the most distant imagesof our universe ever observed.Everything you see here is a galaxy,comprised of billions of stars each.And the farthest galaxy is a trillion, trillion kilometers away.
+时间： 0:36
+zh-cn:作为一个天体物理学家，我很荣幸能研究一些宇宙中最吸引人的东西。那让我在职业生涯中始终迷恋的就是超大质量的活跃的黑洞。这些比太阳重1-100亿倍星级黑洞，正吞噬着物质，以超过“平均”超大质量黑洞1000倍的速度。（笑声）
+en:As an astrophysicist, I havethe awesome privilege of studyingsome of the most exotic objects in our universe.The objects that have captivated me from first crush throughout my careerare supermassive, hyperactive black holes.Weighing one to 10 billion times the mass of our own sun,these galactic black holes are devouring material,at a rate of upwards of 1,000 times morethan your &quot;average&quot; supermassive black hole.(Laughter)
+时间： 1:08
+zh-cn:这两个特质，与一些其他的特点一起，使他们成为了类星体。与此同时，我研究的天体释放着一些从未检测到的最强粒子流。这些细小的粒子流被称为喷射流，以光速99.99%移动着而且直冲地球。
+en:These two characteristics,with a few others, make them quasars.At the same time, the objects I studyare producing some of the mostpowerful particle streamsever observed.These narrow streams, called jets,are moving at 99.99 percent of the speed of light,and are pointed directly at the Earth.
+时间： 1:32
+zh-cn:这些高速，直冲地球，活跃且超重的黑洞被称为耀变体，或者闪耀的类星体。耀变体如此特殊是因为他们是宇宙中一些最有效的粒子加速器，将不可思议的能量传送到星系中。
+en:These jetted, Earth-pointed, hyperactiveand supermassive black holesare called blazars, or blazing quasars.What makes blazars so specialis that they&#39;re some of the universe&#39;smost efficient particle accelerators,transporting incredible amountsof energy throughout a galaxy.
+时间： 1:53
+zh-cn:现在，我正展示的是一个艺术家对于耀变体的设想图。物质掉入黑洞时所经过的餐盘被叫做吸积盘，也就是蓝色的部分。有些物质被弹射到黑洞周围然后在喷射流中加速到异常高的速度也就是白色的部分。虽然耀变体系统很少见，但是通过吸盘自然的吸收物质的过程然后通过喷射流放出，是很常见的。我们最后将缩小耀变体系统来展示它与更大的星系的近似关系。
+en:Here, I&#39;m showing anartist&#39;s conception of a blazar.The dinner plate by which material falls onto the black holeis called the accretion disc,shown here in blue.Some of that material is slingshottedaround the black holeand accelerated to insanely high speedsin the jet, shown here in white.Although the blazar system is rare,the process by which naturepulls in material via a disk,and then flings some of it out via a jet,is more common.We&#39;ll eventually zoom out of the blazar systemto show its approximate relationshipto the larger galactic context.
+时间： 2:32
+zh-cn:除了对宇宙中进出的物质的计算外，目前在耀变体天体物理学中的一个热点话题是那些高能的喷射流来自哪里。在这张图中，我感兴趣的是这些白色物质来自哪里还有，是否最终这些喷射流与吸积盘之间有任何的联系呢。
+en:Beyond the cosmic accountingof what goes in to what goes out,one of the hot topics in blazar astrophysics right nowis where the highest-energy jet emission comes from.In this image, I&#39;m interestedin where this white blob formsand if, as a result, there&#39;s any relationship between the jetand the accretion disc material.
+时间： 2:54
+zh-cn:对于这个问题的清晰的回答在2008年以前几乎是没有的，直到美国宇航局发射了一个能够更好的探测伽玛射线的新望远镜这种射线相比X射线，有比其高一百万倍的能量。同时，我年复一年日复一日的比较伽玛射线的数据和其他可见光的数据的变化，来更好的定位伽玛射线圈。我的研究表明有些时候，这些射线圈比我们预想的要距离黑洞更近。
+en:Clear answers to this questionwere almost completelyinaccessible until 2008,when NASA launched a new telescopethat better detects gamma ray light —that is, light with energiesa million times higherthan your standard x-ray scan.I simultaneously compare variationsbetween the gamma ray light dataand the visible light data fromday to day and year to year,to better localize these gamma ray blobs.My research shows that in some instances,these blobs form much closerto the black holethan we initially thought.
+时间： 3:28
+zh-cn:当我们越发确定伽玛射线圈形成的地方，我们就能更好的理解喷射流被加速过程，最终揭示宇宙中一些迷人的天体的动态形成过程。
+en:As we more confidently localizewhere these gamma ray blobs are forming,we can better understand how jetsare being accelerated,and ultimately reveal the dynamic processesby which some of the most fascinatingobjects in our universe are formed.
+时间： 3:44
+zh-cn:这是一个爱情故事开始的。并且一直是。这个爱把我从一个好奇的，仰望星空的小女孩转变成一个天体物理学家专家，热衷于发现天体。谁知道追随着宇宙会让我深深地投入到我在地球上的工作中。还有，我们什么时候会知道我们的爱好最终会将我们引向何方。
+en:This all started as a love story.And it still is.This love transformed me from a curious, stargazing young girlto a professional astrophysicist,hot on the heels of celestial discovery.Who knew that chasing after the universewould ground me so deeplyto my mission here on Earth.Then again, when do we ever knowwhere love&#39;s first flutterwill truly take us.
+时间： 4:10
+zh-cn:谢谢大家。
+en:Thank you.
+时间： 4:12
+zh-cn:（掌声）
+en:(Applause)

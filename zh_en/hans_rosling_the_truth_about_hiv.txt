@@ -1,0 +1,60 @@
+时间： 0:11
+zh-cn:(掌声)艾滋病发现于1981年，HIV病毒是1983年这张气泡图会展示1983年后病毒在世界范围内扩散的情况这是我们估计的状况我们今天要展示的是这条（Y）轴，是被感染的成年人比例而这条（X）轴，是人均收入（美元）而这些气泡的大小，这些气泡代表每个国家被感染的人数各大洲用颜色区分
+en:(Applause)AIDS was discovered 1981; the virus, 1983.These Gapminder bubbles show youhow the spread of the virus was in 1983 in the world,or how we estimate that it was.What we are showing here is —on this axis here, I&#39;m showing percent of infected adults.And on this axis, I&#39;m showing dollars per person in income.And the size of these bubbles, the size of the bubbles here,that shows how many are infected in each country,and the color is the continent.
+时间： 0:53
+zh-cn:现在来看看美国，在1983年感染率还非常低但因为人口基数大，这个气泡还是很大也就是说在美国有很多人被感染再上面是乌干达感染率接近百分之五虽然国家不大，但气泡也不小他们可能是全世界感染率最高的国家为什么会这样？我想大家现在都能看明白这个图表了在接下来的60秒里我们会演示HIV病毒在世界上的传染过程
+en:Now, you can see United States, in 1983,had a very low percentage infected,but due to the big population, still a sizable bubble.There were quite many people infected in the United States.And, up there, you see Uganda.They had almost five percent infected,and quite a big bubble in spite of being a small country, then.And they were probably the most infected country in the world.Now, what has happened?Now you have understood the graphand now, in the next 60 seconds,we will play the HIV epidemic in the world.
+时间： 1:28
+zh-cn:但在这之前，我要先拿出我的新发明(笑声)我把激光笔的光线变成固体了
+en:But first, I have a new invention here.(Laughter)I have solidified the beam of the laser pointer.
+时间： 1:42
+zh-cn:(笑声)
+en:(Laughter)
+时间： 1:45
+zh-cn:(掌声)
+en:(Applause)
+时间： 1:51
+zh-cn:好，准备，坐稳了，开始！最开始是乌干达和津巴布韦的感染率飙升像这样一直上升在亚洲，第一个受严重传染的国家是泰国感染率达到百分之一到二然后乌干达开始回落而津巴布韦一飞冲天几年后南非的HIV感染率急剧上升看这里，印度也有很多人被感染但总体比率还很低这里也一样看，乌干达下降了，津巴布韦下降了俄罗斯上升到百分之一
+en:So, ready, steady, go!First, we have the fast rise in Uganda and Zimbabwe.They went upwards like this.In Asia, the first country to be heavily infected was Thailand —they reached one to two percent.Then, Uganda started to turn back,whereas Zimbabwe skyrocketed,and some years later South Africa had a terrible rise of HIV frequency.Look, India got many infected,but had a low level.And almost the same happens here.See, Uganda coming down, Zimbabwe coming down,Russia went to one percent.
+时间： 2:26
+zh-cn:在过去的两三年里世界HIV传染进入了稳定期从开始到现在花了25年但稳定并不意味着情况开始好转而只是不再恶化而已稳定情况就是说或多或少世界成年人口的百分之一感染了HIV病毒也就是说大约3000万到4000万人相当于加利福尼亚的所有人口这就是现在全世界艾滋病患者的大概数量
+en:In the last two to three years,we have reached a steady state of HIV epidemic in the world.25 years it took.But, steady state doesn&#39;t mean that things are getting better,it&#39;s just that they have stopped getting worse.And it has — the steady state is, more or less,one percent of the adult world population is HIV-infected.It means 30 to 40 million people,the whole of California — every person,that&#39;s more or less what we have today in the world.
+时间： 2:57
+zh-cn:我们再快速看一下博茨瓦纳的传染过程博茨瓦纳 - 南部非洲中上收入国家民主政府，经济也不错来看看这里的情况（感染率）开始很低，然后火箭般窜升在2003年达到顶峰现在有所下降但下降的速度很慢因为博茨瓦纳的经济政治环境不错可以治疗艾滋病患者感染者只要接受治疗就不会轻易死于艾滋病所以这个比例不会下降因为病毒携带者可以继续活上10年到20年所以这个测量方法现在有点问题但非洲的穷国，下面的这些低收入国家感染比例下降的很快因为感染者在不断死亡尽管有总统艾滋病紧急防治救援计划（PEPFAR），慷慨的PEPFAR并不是所有人都能得到治疗贫穷国家中，即使是受到治疗的那些人两年后也只剩下60%的人还在治疗计划中对穷国中的每一个患者进行终身治疗是不现实的但已经做的这些治疗毕竟是件好事
+en:Now, let me make a fast replay of Botswana.Botswana — upper middle-income country in southern Africa,democratic government, good economy,and this is what happened there.They started low, they skyrocketed,they peaked up there in 2003,and now they are down.But they are falling only slowly,because in Botswana, with good economy and governance,they can manage to treat people.And if people who are infected are treated, they don&#39;t die of AIDS.These percentages won&#39;t come downbecause people can survive 10 to 20 years.So there&#39;s some problem with these metrics now.But the poorer countries in Africa, the low-income countries down here,there the rates fall faster, of the percentage infected,because people still die.In spite of PEPFAR, the generous PEPFAR,all people are not reached by treatment,and of those who are reached by treatment in the poor countries,only 60 percent are left on treatment after two years.It&#39;s not realistic with lifelong treatmentfor everyone in the poorest countries.But it&#39;s very good that what is done is being done.
+时间： 4:08
+zh-cn:但现在的关注点已经回到了预防上只有阻止了传播我们的世界才会有办法解决艾滋病药物太贵了 — 要有疫苗就好了或者知道什么时候会有疫苗，疫苗会有效的多但药物对穷人来说太贵了并不是药物本身贵，而是整个治疗过程以及所需的看护很贵所以，我们看看整个图表有一件事非常清楚：你看那些蓝色的气泡人们会说非洲的HIV携带率很高我得说，HIV在非洲也是不同的世界上最高的HIV感染率在非洲国家但这里也有塞内加尔，下面这里感染率和美国一样也有马达加斯加和其它很多非洲国家和世界其它地方的感染率一样低将非洲简单地同一化是很可怕的认为非洲的所有事情都是一个样我们不能再这么想这么想很不尊重也很不明智
+en:But focus now is back on prevention.It is only by stopping the transmissionthat the world will be able to deal with it.Drugs is too costly — had we had the vaccine,or when we will get the vaccine, that&#39;s something more effective —but the drugs are very costly for the poor.Not the drug in itself, but the treatmentand the care which is needed around it.So, when we look at the pattern,one thing comes out very clearly:you see the blue bubblesand people say HIV is very high in Africa.I would say, HIV is very different in Africa.You&#39;ll find the highest HIV rate in the worldin African countries,and yet you&#39;ll find Senegal, down here —the same rate as United States.And you&#39;ll find Madagascar,and you&#39;ll find a lot of African countriesabout as low as the rest of the world.It&#39;s this terrible simplification that there&#39;s one Africaand things go on in one way in Africa.We have to stop that.It&#39;s not respectful, and it&#39;s not very cleverto think that way.
+时间： 5:13
+zh-cn:(掌声)
+en:(Applause)
+时间： 5:17
+zh-cn:我有幸在美国生活和工作过一段时间我发现盐湖城和旧金山就很不一样(笑声)非洲也是一样 — 各地有很多不同那，为什么会这么高？因为战争？不是的。看这里饱经战火的刚果在下面 — 百分之二、三、四的样子而和平的邻国赞比亚 — 百分之十五有人研究过刚果难民的感染率也在百分之二到三之间而和平的赞比亚要高得多现在有研究明确表明虽然有很多战争，很多强奸但并不是非洲HIV病毒高携带率的主要原因
+en:I had the fortune to live and work for a time in the United States.I found out that Salt Lake City and San Francisco were different.(Laughter)And so it is in Africa — it&#39;s a lot of difference.So, why is it so high? Is it war?No, it&#39;s not. Look here.War-torn Congo is down there — two, three, four percent.And this is peaceful Zambia, neighboring country — 15 percent.And there&#39;s good studies of the refugees coming out of Congo —they have two, three percent infected,and peaceful Zambia — much higher.There are now studies clearly showingthat the wars are terrible, that rapes are terrible,but this is not the driving force for the high levels in Africa.
+时间： 5:55
+zh-cn:那，是因为贫穷吗？如果我们看看宏观水平好像钱越多，HIV就越多但这过于简单化了我们来仔细看看坦桑尼亚的情况我把坦桑尼亚人按收入分成五组从最高收入到最低我们来看看收入最高的人，处境较好的人，我不会叫他们富人他们的HIV感染率更高感染率最高有百分之十一，最低的到百分之四妇女中这个差距更大我们现在的想法，被很多研究非洲及国际机构和研究人员所做的研究证实是错误的那么，这是坦桑尼亚的例子
+en:So, is it poverty?Well if you look at the macro level,it seems more money, more HIV.But that&#39;s very simplistic,so let&#39;s go down and look at Tanzania.I will split Tanzania in five income groups,from the highest income to the lowest income,and here we go.The ones with the highest income, the better off — I wouldn&#39;t say rich —they have higher HIV.The difference goes from 11 percent down to four percent,and it is even bigger among women.There&#39;s a lot of things that we thought, that now, good research,done by African institutions and researcherstogether with the international researchers, show that that&#39;s not the case.So, this is the difference within Tanzania.
+时间： 6:36
+zh-cn:我必须再举一下肯尼亚的例子来看看肯尼亚我按省份划分肯尼亚来看看在同一个非洲国家里的差别从很低的水平到很高的水平而肯尼亚大部分的省份感染率并不高
+en:And, I can&#39;t avoid showing Kenya.Look here at Kenya.I&#39;ve split Kenya in its provinces.Here it goes.See the difference within one African country —it goes from very low level to very high level,and most of the provinces in Kenya is quite modest.
+时间： 6:53
+zh-cn:那到底是什么原因呢？为什么有些国家的感染率那么高？有多个性伴侣的因素有不爱用避孕套的因素有异龄性爱因素 —就是老男人喜欢跟年轻女人做爱在很多感染率较高的国家里年轻女性的感染率要高于年轻男性
+en:So, what is it then?Why do we see this extremely high levels in some countries?Well, it is more common with multiple partners,there is less condom use,and there is age-disparate sex —that is, older men tend to have sex with younger women.We see higher rates in younger women than younger menin many of these highly affected countries.
+时间： 7:16
+zh-cn:那地理上的分布又是怎么样呢？我把气泡转移到地图上看，高感染率的国家占世界人口的百分之四但却有全球百分之五十的HIV感染者HIV在世界各地都存在看，气泡分布在所有地方巴西有很多HIV感染者阿拉伯国家不多，但伊朗很高伊朗的问题是海洛因和卖淫印度有很多因为它本身人口多东南亚，等等但非洲有一部分 —同时要注意的是不要说到非洲就想到整个非洲一方面不要认为出现现在的情况是因为单一的原因
+en:But where are they situated?I will swap the bubbles to a map.Look, the highly infected are four percent of all populationand they hold 50 percent of the HIV-infected.HIV exists all over the world.Look, you have bubbles all over the world here.Brazil has many HIV-infected.Arab countries not so much, but Iran is quite high.They have heroin addiction and also prostitution in Iran.India has many because they are many.Southeast Asia, and so on.But, there is one part of Africa —and the difficult thing is, at the same time,not to make a uniform statement about Africa,not to come to simple ideas of why it is like this, on one hand.
+时间： 7:58
+zh-cn:另一方面要承认现在的情况很严重现在对这个分布图科学界已经达成了共识UNAIDS终于提供了HIV传播的详细数据可能是同时拥有多重性伴侣可能是某些病毒种类可能是有别的原因使得传播到这样高的比例不管怎样，如果你完全健康并且是异性恋每次性交被传染的概率是千分之一别轻易得出结论今晚就去胡搞(笑声)但是，如果你的状况不那么好更多通过性传染的疾病几率可以达到百分之一
+en:On the other hand, try to say that this is not the case,because there is a scientific consensus about this pattern now.UNAIDS have done good data available, finally,about the spread of HIV.It could be concurrency.It could be some virus types.It could be that there is other thingswhich makes transmission occur in a higher frequency.After all, if you are completely healthy and you have heterosexual sex,the risk of infection in one intercourse is one in 1,000.Don&#39;t jump to conclusions now on how tobehave tonight and so on.(Laughter)But — and if you are in an unfavorable situation,more sexually transmitted diseases, it can be one in 100.
+时间： 8:44
+zh-cn:但我们认为同时拥有多个性伴可能是主要原因什么是同时拥有多重性伴侣？在瑞典我们没有多重性伴侣我们是连续的单一性伴侣喝伏特加，除夕夜 — 春天有新伙伴了喝伏特加，仲夏夜 — 秋天有新伙伴了喝伏特加 — 继续这样子，你们明白了吗？这样你会有很多“前”女友有一种可怕的衣原体传染病这种可怕的衣原体传染病持续多年而HIV是在感染后的三到六周有一个活动高峰因此，在一个月里有多个性伙伴对HIV传播是特别危险的很可能，这是原因之一
+en:But what we think is that it could be concurrency.And what is concurrency?In Sweden, we have no concurrency.We have serial monogamy.Vodka, New Year&#39;s Eve — new partner for the spring.Vodka, Midsummer&#39;s Eve — new partner for the fall.Vodka — and it goes on like this, you know?And you collect a big number of exes.And we have a terrible chlamydia epidemic —terrible chlamydia epidemic which sticks around for many years.HIV has a peak three to six weeks after infectionand therefore, having more than one partner in the same monthis much more dangerous for HIV than others.Probably, it&#39;s a combination of this.
+时间： 9:19
+zh-cn:让我高兴的是我们在考虑这些因素的时候在不断地向真相进步大家可以免费来拿这份图表我们把UNAIDS的数据上传到Gapminder.org并且希望将来在解决全球性问题时我们不仅带着一颗心不仅带着钱也多用脑子
+en:And what makes me so happy is that we are moving nowtowards fact when we look at this.You can get this chart, free.We have uploaded UNAIDS data on the Gapminder site.And we hope that when we act on global problems in the futurewe will not only have the heart,we will not only have the money,but we will also use the brain.
+时间： 9:41
+zh-cn:谢谢大家
+en:Thank you very much.
+时间： 9:43
+zh-cn:(掌声)
+en:(Applause)

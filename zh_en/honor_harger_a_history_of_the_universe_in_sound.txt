@@ -1,0 +1,60 @@
+时间： 0:17
+zh-cn:太空，我们都知道它是什么样子。太空的景象围绕着我们整个生活，从科幻小说中推测的景象到艺术家充满灵感的想象再到可能由复杂科技制作出来的越来越多的美丽图片。但我们对太空有一个无法抗拒的美丽的视觉理解的同时，我们对太空听起来是什么样的却一无所知。
+en:Space,we all know what it looks like.We&#39;ve been surrounded by images of spaceour whole lives,from the speculative imagesof science fictionto the inspirational visions of artiststo the increasingly beautiful picturesmade possible by complex technologies.But whilst we havean overwhelmingly vividvisual understanding of space,we have no sense of what space sounds like.
+时间： 0:47
+zh-cn:实际上，多数人都认为太空是寂静的。但我们对宇宙的认识过程中倾听和察看所占的比重是同样多的。然而尽管如此，我们却几乎没人聆听过太空的声音。各位中有多少人能描绘一下一个行星或恒星的声音？如果你们想知道的话，这是太阳的声音。
+en:And indeed, most people associate space with silence.But the story of howwe came to understand the universeis just as much a story of listeningas it is by looking.And yet despite this,hardly any of us have ever heard space.How many of you herecould describe the soundof a single planet or star?Well in case you&#39;ve ever wondered,this is what the Sun sounds like.
+时间： 1:15
+zh-cn:（静电声）（噼啪声）（静电声）（噼啪声）
+en:(Static)(Crackling)(Static)(Crackling)
+时间： 1:43
+zh-cn:这是木星的声音。
+en:This is the planet Jupiter.
+时间： 1:46
+zh-cn:（轻轻的噼啪声）
+en:(Soft crackling)
+时间： 2:06
+zh-cn:这是航天探测器卡西尼号旋转着通过土星冰环时收到的声音。
+en:And this is the space probe Cassinipirouetting through the ice rings of Saturn.
+时间： 2:13
+zh-cn:（噼啪声）
+en:(Crackling)
+时间： 2:33
+zh-cn:这是中子物质高度压缩的重击声，在遥远的宇宙中不停地旋转回放。
+en:This is a a highly condensed clumpof neutral matter,spinning in the distant universe.
+时间： 2:42
+zh-cn:（敲打声）
+en:(Tapping)
+时间： 3:00
+zh-cn:因此我的艺术实践就是到处倾听这些组成我们宇宙的由这些壮丽的天体所发出的神秘的神奇的噪声。各位也许想知道，我们是怎么知道这些声音的呢？我们如何区分太阳的声音和脉冲星的声音？答案是射电天文学。射电天文学家们用灵敏的天线和接收器研究来自太空的无线电波，这能给他们准确信息，了解一个天体是什么在夜空中的何处。正如那些我们在地球上发送和接收的信号一样，我们使用简单的模拟技术就能把这些电波转换为声音。因此，通过倾听我们揭开了一些宇宙中最终要的秘密 —它的规模，它由什么组成甚至是它的年龄。
+en:So my artistic practiceis all about listeningto the weird and wonderful noisesemitted by the magnificent celestial objectsthat make up our universe.And you may wonder,how do we know what these sounds are?How can we tell the differencebetween the sound of the Sunand the sound of a pulsar?Well the answeris the science of radio astronomy.Radio astronomersstudy radio waves from spaceusing sensitive antennas and receivers,which give them precise informationabout what an astronomical object isand where it is in our night sky.And just like the signalsthat we send and receive here on Earth,we can convert these transmissions into soundusing simple analog techniques.And therefore, it&#39;s through listeningthat we&#39;ve come to uncoversome of the universe&#39;s most important secrets —its scale, what it&#39;s made ofand even how old it is.
+时间： 4:05
+zh-cn:因此今天，我要通过聆听向各位讲述一个关于宇宙历史的小故事。其穿插的三段轶事展示了与奇怪声音的偶然相遇是怎样给我们带来了关于太空的一些最重要的信息的。这一故事并不以天文望远镜或是宇宙飞船开始，而是以一种更不起眼的方式 —实际上，这种方式带来了我们正置身其中的远距离通信的革命：电话。
+en:So today, I&#39;m going to tell you a short storyof the history of the universe through listening.It&#39;s punctuatedby three quick anecdotes,which show how accidental encounterswith strange noisesgave us some of the most important informationwe have about space.Now this story doesn&#39;t startwith vast telescopesor futuristic spacecraft,but a rather more humble technology —and in fact, the very mediumwhich gave us the telecommunications revolutionthat we&#39;re all part of today:the telephone.
+时间： 4:43
+zh-cn:1876年，在波士顿，这是亚历山大·格拉汉姆·贝尔，他与托马斯·沃森一起发明了电话。他们技术的关键部分是一条半英里长的电线，它穿越了波士顿中数座房屋的屋顶。这条传输电话信号的电线后来让贝尔家喻户晓。但如同任何长度的带电导线一样，它也意外地成为了天线。托马斯·沃森花费许多时间来倾听奇怪的爆裂声、嘶嘶声唧唧声和哨声这些都是由他的天线检测到的。现在请各位注意，这是在海因里希·赫兹证实无线电波存在之前十年 —在尼古拉·特斯拉发明四调谐电路前十五年 —在马尔科尼的第一次发明电报之前要近二十年。因此托马斯·沃森不是在听人为的声音。我们还没有发射这种信号的技术。
+en:It&#39;s 1876, it&#39;s in Boston,and this is Alexander Graham Bellwho was working with Thomas Watsonon the invention of the telephone.A key part of their technical set upwas a half-mile long length of wire,which was thrown across the rooftopsof several houses in Boston.The line carried the telephone signalsthat would later make Bell a household name.But like any long length of charged wire,it also inadvertently becamean antenna.Thomas Watsonspent hours listeningto the strange crackles and hissesand chirps and whistlesthat his accidental antenna detected.Now you have to remember,this is 10 years beforeHeinrich Hertz proved the existence of radio waves —15 years before Nikola Tesla&#39;s four-tuned circuit —nearly 20 years before Marconi&#39;s first broadcast.So Thomas Watson wasn&#39;t listening to us.We didn&#39;t have the technologyto transmit.
+时间： 5:50
+zh-cn:那这些奇怪的噪声是什么呢？沃森实际上在听的是由自然界发出的极低频的无线电信号。有些爆裂声和砰砰声是闪电，但是奇异的哨声和旋律美妙的唧唧声则更多的是来自外层空间。其实沃森使用最早的电话拨通了通往天际的电话。正如他所猜中的那样，其中一些声音是由太阳表面的活动产生的。他聆听的是太阳风和地球电离层的交互作用 —这是个神奇的现象就像我们能在地球的南极和北极所看到的极光一样。因此在发明了这项引发了远距离通信革命的技术的同时，沃森发现了我们太阳系中心的恒星发射出强大的无线电波。他意外地成为了第一个收听到它们的人。
+en:So what were these strange noises?Watson was in fact listeningto very low-frequency radio emissionscaused by nature.Some of the crackles and pops were lightning,but the eerie whistlesand curiously melodious chirpshad a rather more exotic origin.Using the very first telephone,Watson was in factdialed into the heavens.As he correctly guessed,some of these sounds were causedby activity on the surface of the Sun.It was a solar windinteracting with our ionospherethat he was listening to —a phenomena which we can seeat the extreme northern and southern latitudes of our planetas the aurora.So whilst inventing the technologythat would usher in the telecommunications revolution,Watson had discoveredthat the star at the center of our solar systememitted powerful radio waves.He had accidentally been the first personto tune in to them.
+时间： 6:58
+zh-cn:快进五十年，贝尔和沃森的技术完全改变了全球通信。但从在波士顿跨越数个屋顶的电线到铺设于大西洋海底数千英里长的线缆这不是件容易的事。因此不久后，贝尔就在寻找新的技术以优化他们的这次重大变革。无线电波不需电线就能携带声音。但载体会有损耗 —由于许多噪音和干扰。因此贝尔雇佣了一名工程师来研究这些噪音，尝试弄清楚它们从何而来，朝着建立完美硬件解码的前景努力，这将摆脱掉这些噪音，这样他们就能考虑把无线电波用于电话通信用途。
+en:Fast-forward 50 years,and Bell and Watson&#39;s technologyhas completely transformedglobal communications.But going from slinging some wireacross rooftops in Bostonto laying thousands and thousands of miles of cableon the Atlantic Ocean seabedis no easy matter.And so before long,Bell were looking to new technologiesto optimize their revolution.Radio could carry sound without wires.But the medium is lossy —it&#39;s subject to a lot of noise and interference.So Bell employed an engineerto study those noises,to try and find out where they came from,with a view towards buildingthe perfect hardware codec, which would get rid of themso they could think about using radiofor the purposes of telephony.
+时间： 7:50
+zh-cn:工程师卡尔·央斯基调查的多数噪音的来源都相当平淡无奇。可能是闪电或是电源。但有一个央斯基无法识别的持续的噪音，这一噪音似乎在他的无线电耳机中每天早出现四分钟。如今任何一名天文学家都能告诉你，这是讯号并非源自地球的明显标识。央斯基历史性地发现了天体能够发出无线电波及光波。自从沃森无意中收听到太阳声音的五十年后，央斯基的仔细倾听开启了太空探索的新纪元：射电天文学时代。在后续数年间，天文学家把天线连到扩音器上，了解我们的无线电波的天空，了解木星和太阳，通过聆听。
+en:Most of the noisesthat the engineer, Karl Jansky, investigatedwere fairly prosaic in origin.They turned out to be lightningor sources of electrical power.But there was one persistent noisethat Jansky couldn&#39;t identify,and it seemed to appearin his radio headsetfour minutes earlier each day.Now any astronomer will tell you,this is the telltale signof something that doesn&#39;t originate from Earth.Jansky had made a historic discovery,that celestial objects could emit radio wavesas well as light waves.Fifty years onfrom Watson&#39;s accidental encounter with the Sun,Jansky&#39;s careful listeningushered in a new age of space exploration:the radio astronomy age.Over the next few years,astronomers connected up their antennas to loudspeakersand learned about our radio sky,about Jupiter and the Sun,by listening.
+时间： 8:54
+zh-cn:让我们再往前跳一段时间。这是1964年，我们回到贝尔实验室。再一次，两名科学家遇到了一个与噪音有关的问题。阿诺·彭齐亚斯和罗伯特·威尔逊用喇叭形天线在贝尔的霍尔姆德尔实验室以非凡的精度研究银河系。他们确实在以高保真度倾听着银河系。他们的音轨上有个小故障。一个神秘的持续噪音干扰了他们的研究。这一噪音处于微波频段，它同时出现在各个方向。这在当今没有任何意义。如同任何明智的工程师或科学家一样，他们假设问题处在他们的技术上，问题一定在蝶盘状天线上。有鸽子在碟盘状天线上安家。也许一旦他们清理了鸽子粪便，仪器就能重新运转，恢复正常。
+en:Let&#39;s jump ahead again.It&#39;s 1964,and we&#39;re back at Bell Labs.And once again,two scientists have got a problem with noise.Arno Penzias and Robert Wilsonwere using the horn antennaat Bell&#39;s Holmdel laboratoryto study the Milky Waywith extraordinary precision.They were really listeningto the galaxy in high fidelity.There was a glitch in their soundtrack.A mysterious persistent noisewas disrupting their research.It was in the microwave range,and it appeared to be comingfrom all directions simultaneously.Now this didn&#39;t make any sense,and like any reasonable engineer or scientist,they assumed that the problem must be the technology itself,it must be the dish.There were pigeons roosting in the dish.And so perhaps once they cleaned up the pigeon droppings,get the disk kind of operational again,normal operations would resume.
+时间： 9:55
+zh-cn:但噪音并没有消失。彭齐亚斯和威尔逊聆听的神秘噪音成了人们听到过的最古老最重要的声音。它是宇宙诞生之时遗留下来的宇宙辐射。这是最初的实验证据，它证实了宇宙大爆炸的存在，证实了宇宙诞生于147亿年前的某个确切时刻。那么我们的故事就要在这个最开始结束了 —一切一切的开始，宇宙大爆炸。这就是彭齐亚斯和威尔逊听到的噪音 —你能听到的最古老的声音，自宇宙大爆炸后留下的宇宙射线背景辐射。
+en:But the noise didn&#39;t disappear.The mysterious noisethat Penzias and Wilson were listening toturned out to be the oldest and most significant soundthat anyone had ever heard.It was cosmic radiationleft over from the very birth of the universe.This was the first experimental evidencethat the Big Bang existedand the universe was born at a precise momentsome 14.7 billion years ago.So our story endsat the beginning —the beginning of all things, the Big Bang.This is the noise that Penzias and Wilson heard —the oldest sound that you&#39;re ever going to hear,the cosmic microwave background radiationleft over from the Big Bang.
+时间：10:45
+zh-cn:（滋滋声）
+en:(Fuzz)
+时间：11:00
+zh-cn:谢谢。
+en:Thanks.
+时间：11:02
+zh-cn:（掌声）
+en:(Applause)

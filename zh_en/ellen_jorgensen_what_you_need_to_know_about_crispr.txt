@@ -1,0 +1,87 @@
+时间： 0:11
+zh-cn:有人听说过 CRISPR 吗大家应该都知道
+en:So, has everybody heard of CRISPR?I would be shocked if you hadn&#39;t.
+时间： 0:17
+zh-cn:这是一种人为改变染色体的技术这种技术如此全能却又十分引人争议以至于各种有趣的争论应运而生我们要猛犸象复活吗？我们应该改造人类胚胎吗？我最喜欢的一个问题是我们能够接受用这种技术将一个人类认为有害的物种从地球上完全消灭吗？
+en:This is a technology —it&#39;s for genome editing —and it&#39;s so versatile and so controversialthat it&#39;s sparking all sortsof really interesting conversations.Should we bring back the woolly mammoth?Should we edit a human embryo?And my personal favorite:How can we justifywiping out an entire speciesthat we consider harmful to humansoff the face of the Earth,using this technology?
+时间： 0:46
+zh-cn:这种科技比控制它本身的常规技术发展的还要快在过去六年里我致力于让更多人了解这种技术以及它的意义何在
+en:This type of scienceis moving much fasterthan the regulatory mechanismsthat govern it.And so, for the past six years,I&#39;ve made it my personal missionto make sure that as many peopleas possible understandthese types of technologiesand their implications.
+时间： 1:03
+zh-cn:现在，CRISPR已经成了媒体炒作的焦点最普遍的用于描述它的词是“容易” 和“廉价”我想将这个话题深入下去并探讨与之有关的谜团以及现实状况
+en:Now, CRISPR has been the subjectof a huge media hype,and the words that are used most oftenare &quot;easy&quot; and &quot;cheap.&quot;So what I want to do is drill downa little bit deeperand look into some of the mythsand the realities around CRISPR.
+时间： 1:21
+zh-cn:如果 你想在一条染色体上做CRISPR你得首先破环DNA分子这种破坏需要从双螺旋结构上斩断双链结构随后细胞的修复机制开始插手这是我们就可以让这些修复系统来改造我们想要的基因了这不是自然的改造这就是这种技术的原理这是一个两步走的技术首先要有一个Cas9蛋白质还有一种向导RNA可以将其比作定向导弹于是Cas9蛋白质-我喜欢将其拟人化Cas9 就像是吃豆人中的小圆脸迫不及待地想要吃掉 DNA向导 RNA 就像是控制住它不进入染色体的皮带直到它找到了符合的位置这两种分子的结合体就叫做 CRISPR这是一种我们从古老的细菌结构中发现的方法
+en:If you&#39;re trying to CRISPR a genome,the first thing that you have to dois damage the DNA.The damage comes in the formof a double-strand breakthrough the double helix.And then the cellular repairprocesses kick in,and then we convincethose repair processesto make the edit that we want,and not a natural edit.That&#39;s how it works.It&#39;s a two-part system.You&#39;ve got a Cas9 proteinand something called a guide RNA.I like to think of it as a guided missile.So the Cas9 —I love to anthropomorphize —so the Cas9 is kind of this Pac-Man thingthat wants to chew DNA,and the guide RNA is the leashthat&#39;s keeping it out of the genomeuntil it finds the exact spotwhere it matches.And the combination of those twois called CRISPR.It&#39;s a system that we stolefrom an ancient, ancientbacterial immune system.
+时间： 2:16
+zh-cn:最令人惊奇的部分是 RNA虽只有20个有效信息但却是整个结构的定位部分CRISPR 设计起来非常容易并且价格低廉这种手法已经被模块化并且一成不变因此这种技术用起来十分便捷并且有效
+en:The part that&#39;s amazing about itis that the guide RNA,only 20 letters of it,are what target the system.This is really easy to design,and it&#39;s really cheap to buy.So that&#39;s the partthat is modular in the system;everything else stays the same.This makes it a remarkably easyand powerful system to use.
+时间： 2:41
+zh-cn:向导 RNA 和 Cas9 蛋白质组成一个整体在染色体上来回穿梭当它们发现一个与向导 RNA 吻合的部位时就会嵌入双螺旋结构将其撕裂导致 Cas9 蛋白质开始切割工作于是突然之间你就让一个细胞处在了极大的恐慌之中因为它的一条 DNA 收到了破坏
+en:The guide RNA and the Cas9protein complex togethergo bouncing along the genome,and when they find a spotwhere the guide RNA matches,then it inserts between the two strandsof the double helix,it rips them apart,that triggers the Cas9 protein to cut,and all of a sudden,you&#39;ve got a cell that&#39;s in total panicbecause now it&#39;s got a pieceof DNA that&#39;s broken.
+时间： 3:06
+zh-cn:这时它该怎么办呢-呼叫现场急救员细胞有着两种主要的修复机制第一种是直接将断掉的 DNA 接上这种方法不是最有效的由于有时会多一个链环有时又会少一个这种方法只能...算撞出一个基因来但不是我们通常想要的基因改造方式
+en:What does it do?It calls its first responders.There are two major repair pathways.The first just takes the DNAand shoves the two pieces back together.This isn&#39;t a very efficient system,because what happens issometimes a base drops outor a base is added.It&#39;s an OK way to maybe, like,knock out a gene,but it&#39;s not the way that we really wantto do genome editing.
+时间： 3:31
+zh-cn:第二种修复机制更为有趣在这种机制中细胞会寻找一条相同的 DNA在有着双染色体的生物-比如说人类我们得到了我们父母各自的一组染色体如果一条 DNA 受损细胞可以用另外一条来修复它这就是这种技术的原理修复成功之后染色体又重获安全
+en:The second repair pathwayis a lot more interesting.In this repair pathway,it takes a homologous piece of DNA.And now mind you, in a diploidorganism like people,we&#39;ve got one copy of our genomefrom our mom and one from our dad,so if one gets damaged,it can use the otherchromosome to repair it.So that&#39;s where this comes from.The repair is made,and now the genome is safe again.
+时间： 3:55
+zh-cn:我们将其调包的方法是用一条新的 DNA—在两端上与原来相同中间却不同—来修复它于是你可以随心所欲地将你想要的中间部分安装上去细胞本身却毫无察觉你可以改变基因中的一条信息也可以删除它但最为重要的是你可以像特洛伊木马一样将一条全新的 DNA 嵌入
+en:The way that we can hijack thisis we can feed it a false piece of DNA,a piece that has homology on both endsbut is different in the middle.So now, you can putwhatever you want in the centerand the cell gets fooled.So you can change a letter,you can take letters out,but most importantly,you can stuff new DNA in,kind of like a Trojan horse.
+时间： 4:18
+zh-cn:CRISPR 的作用出人预料它能推动许多不同领域的科技发展它的特殊之处在于这个攻击系统模块我们多年来一直尝试着将 DNA 嵌入生物体中但由于这种模块攻击系统我们能将它放在我们想要的地方
+en:CRISPR is going to be amazing,in terms of the number of differentscientific advancesthat it&#39;s going to catalyze.The thing that&#39;s special about itis this modular targeting system.I mean, we&#39;ve been shoving DNAinto organisms for years, right?But because of the modulartargeting system,we can actually put itexactly where we want it.
+时间： 4:38
+zh-cn:问题是现在有很多关于它的廉价性和便捷性的话题我有着一所社区实验室并且开始收到人们的来信—
+en:The thing is that there&#39;sa lot of talk about it being cheapand it being easy.And I run a community lab.I&#39;m starting to get emails from peoplethat say stuff like,
+时间： 4:52
+zh-cn:“我能在开放夜来你那吗？借我用用 CRISPR 编辑一下自己的基因行吗？”
+en:&quot;Hey, can I come to your open nightand, like, maybe use CRISPRand engineer my genome?&quot;
+时间： 4:58
+zh-cn:（笑声）
+en:(Laugher)
+时间： 5:00
+zh-cn:讲真的
+en:Like, seriously.
+时间： 5:02
+zh-cn:我说：“不，你不行“
+en:I&#39;m, &quot;No, you can&#39;t.&quot;
+时间： 5:04
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:05
+zh-cn:“但我听说那很便宜，很简单啊”
+en:&quot;But I&#39;ve heard it&#39;s cheap.I&#39;ve heard it&#39;s easy.&quot;
+时间： 5:07
+zh-cn:我们谈谈这个吧究竟有多便宜？相对来说确实便宜它能将一个实验所需材料通常的价格从几千美元降至几百美元还能节约时间几周的工作几天就能完成这很好但你仍需要专业的实验室来做没有实验室是不可能完成这项技术的别相信那些说你可以在自家厨房里做实验的人这项技术真的不简单更别说有一场如火如荼的专利战打的正酣即使发明者创造出了这样的奇思妙想布罗德研究所和 UC 伯克利也在为专利权而争斗不休隔岸观火很有趣因为他们都在不断控诉对方，称其发布诬告性言论他们中的有人常常说“我在我的笔记本上到处都记了笔记”这件事好几年都没完即使真的解决了到那时你就得为使用这项技术支付高昂的费用所以它真的便宜吗？如果你有自己的实验室，并且在做基础学科实验的话——是的
+en:We&#39;re going to explore that a little bit.So, how cheap is it?Yeah, it is cheap in comparison.It&#39;s going to take the cost of the averagematerials for an experimentfrom thousands of dollarsto hundreds of dollars,and it cuts the time a lot, too.It can cut it from weeks to days.That&#39;s great.You still need a professional labto do the work in;you&#39;re not going to do anything meaningfuloutside of a professional lab.I mean, don&#39;t listen to anyone who saysyou can do this sort of stuffon your kitchen table.It&#39;s really not easyto do this kind of work.Not to mention,there&#39;s a patent battle going on,so even if you do invent something,the Broad Institute and UC Berkeleyare in this incredible patent battle.It&#39;s really fascinatingto watch it happen,because they&#39;re accusing each otherof fraudulent claimsand then they&#39;ve got people saying,&quot;Oh, well, I signedmy notebook here or there.&quot;This isn&#39;t going to be settled for years.And when it is,you can bet you&#39;re going to pay someonea really hefty licensing feein order to use this stuff.So, is it really cheap?Well, it&#39;s cheap if you&#39;re doingbasic research and you&#39;ve got a lab.
+时间： 6:20
+zh-cn:容易吗？现在我们来谈谈这个魔鬼总藏在深处我们仍然不十分了解细胞他们就像是一个黑匣子比如说，我们不知道为什么有一些RNA十分有效有一些却不是这样我们也不知道为什么一些细胞采用一种修复机制另一些采用另外一种
+en:How about easy?Let&#39;s look at that claim.The devil is always in the details.We don&#39;t really knowthat much about cells.They&#39;re still kind of black boxes.For example, we don&#39;t knowwhy some guide RNAs work really welland some guide RNAs don&#39;t.We don&#39;t know why some cellswant to do one repair pathwayand some cells would rather do the other.
+时间： 6:45
+zh-cn:除了这些以外在一开始将这个系统植入细胞时同样面临着问题在培养皿中，这不是很难可是如果是整个生物体那就很麻烦了采用血液或是骨髓是可行的它们也是现在的研究重点
+en:And besides that,there&#39;s the whole problemof getting the system into the cellin the first place.In a petri dish, that&#39;s not that hard,but if you&#39;re trying to do iton a whole organism,it gets really tricky.It&#39;s OK if you use somethinglike blood or bone marrow —those are the targetsof a lot of research now.
+时间： 7:02
+zh-cn:有一个关于一位女孩奇迹的故事她患了白血病最后通过将血取出，人为将其改造后放回人体最终痊愈——用的是CRISPR的前期技术这是一种人们希望从事的研究但是如果你想针对整个人体可能就要用到病毒了采集病毒以后，将 CRISPR 放进去你需要让病毒感染细胞但只要你将病毒注入细胞内部就可能出现长期的副作用而且 CRISPR 还有一些伤及无辜的攻击行为只占很小一部分——但总之存在一段时间过后又会发生什么呢？
+en:There was a great storyof some little girlwho they saved from leukemiaby taking the blood out, editing it,and putting it backwith a precursor of CRISPR.And this is a line of researchthat people are going to do.But right now, if you want to getinto the whole body,you&#39;re probably goingto have to use a virus.So you take the virus,you put the CRISPR into it,you let the virus infect the cell.But now you&#39;ve got this virus in there,and we don&#39;t know what the long-termeffects of that are.Plus, CRISPR has some off-target effects,a very small percentage,but they&#39;re still there.What&#39;s going to happenover time with that?
+时间： 7:37
+zh-cn:这不是小事有科学家一直想要解决这些问题而且它们有可能被解决但研究需要时间这种方法真的容易吗？在经过几年的深入研究之后它才真正变得容易
+en:These are not trivial questions,and there are scientiststhat are trying to solve them,and they will eventually,hopefully, be solved.But it ain&#39;t plug-and-play,not by a long shot.So: Is it really easy?Well, if you spend a few yearsworking it out in your particular system,yes, it is.
+时间： 7:56
+zh-cn:还有一个问题是我们不知道怎样通过改变染色体中的某个部位来到达我们想要的目的我们现在还无法获知怎样使一只猪长出翅膀或是多长一条腿那会十分有趣，不是吗但确切的是CRISPR 正被成千上万的科学家利用去做十分重要的工作例如建造更好的动物疾病模型或是找到经济的化学物质生产方法用它们进行工业生产和发酵甚至是有关基因功能的基本研究
+en:Now the other thing is,we don&#39;t really know that much about howto make a particular thing happenby changing particular spotsin the genome.We&#39;re a long way away from figuring outhow to give a pig wings, for example.Or even an extra leg — I&#39;d settlefor an extra leg.That would be kind of cool, right?But what is happeningis that CRISPR is being usedby thousands and thousands of scientiststo do really, really important work,like making better modelsof diseases in animals, for example,or for taking pathwaysthat produce valuable chemicalsand getting them into industrialproduction in fermentation vats,or even doing really basic researchon what genes do.
+时间： 8:45
+zh-cn:这才是 CRISPR 真正的用处我不赞同让它的瑕疵掩盖了它真正的光芒不计其数的科学家呕心沥血造就了 CRISPR我认为十分明智的是这些科学家受到了社会的广泛支持
+en:This is the story of CRISPRwe should be telling,and I don&#39;t like itthat the flashier aspects of itare drowning all of this out.Lots of scientists did a lot of workto make CRISPR happen,and what&#39;s interesting to meis that these scientistsare being supported by our society.
+时间： 9:04
+zh-cn:想一想我们有着能够让一小部分人在里面倾其一生从事科学研究的机构这让我们所有人成为了 CRISPR 的创造者让我们成为 CRISPR的掌控者我们需要负起责任来
+en:Think about it.We&#39;ve got an infrastructure that allowsa certain percentage of peopleto spend all their time doing research.That makes us all the inventors of CRISPR,and I would say that makes us allthe shepherds of CRISPR.We all have a responsibility.
+时间： 9:24
+zh-cn:所以我们需要重视这方面的技术因为，只有这样我们才能掌控这些技术的发展和它们的应用然后确保到最后我们能得到正面的结果不管是对这颗星球还是我们自己
+en:So I would urge you to really learnabout these types of technologies,because, really, only in that wayare we going to be able to guidethe development of these technologies,the use of these technologiesand make sure that, in the end,it&#39;s a positive outcome —for both the planet and for us.
+时间： 9:45
+zh-cn:谢谢
+en:Thanks.
+时间： 9:46
+zh-cn:（掌声）Translated by: Elvis Liu
+en:(Applause)

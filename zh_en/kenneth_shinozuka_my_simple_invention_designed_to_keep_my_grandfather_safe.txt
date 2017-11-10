@@ -1,0 +1,51 @@
+时间： 0:11
+zh-cn:威胁美国人健康的疾病中，上升速度最快的是哪一种？癌症？心脏病？糖尿病？实际上都不是（上升最快的）是老年痴呆症（即阿尔茨海默氏病）每隔67秒美国就有一人被诊断出患有该疾病老年痴呆患者的数量到2050年会翻三倍照顾这些患者，以及其他老龄人口将会变成一个非常大的社会挑战
+en:What&#39;s the fastest growing threatto Americans&#39; health?Cancer? Heart attacks? Diabetes?The answer is actually none of these;it&#39;s Alzheimer&#39;s disease.Every 67 seconds,someone in the United Statesis diagnosed with Alzheimer&#39;s.As the number of Alzheimer&#39;s patientstriples by the year 2050,caring for them, as well asthe rest of the aging population,will become an overwhelmingsocietal challenge.
+时间： 0:37
+zh-cn:我的家庭有着切身的体验知道照顾一名老年痴呆患者的辛苦我成长在一个三代同堂的家庭从小就跟自己的爷爷非常亲近当我四岁的时候我跟爷爷在公园里散步然后他突然失踪了这是迄今为止最让我害怕的回忆之一这也第一次使我们意识到爷爷得了老年痴呆过去12年来，他的病情一点一点加重了尤其是他出去游荡的时候，全家都会很紧张（他失踪）我姑妈，主要是她照顾着爷爷夜里硬撑着不敢睡觉，为了留心爷爷的状况即使这样，也不能阻止爷爷半夜下床（乱走动）我变得很关心姑妈的健康和我爷爷的安全我大范围的搜寻为了找到一个可以帮到我家庭的方法却以失败告终
+en:My family has experienced firsthandthe struggles of caringfor an Alzheimer&#39;s patient.Growing up in a familywith three generations,I&#39;ve always been very closeto my grandfather.When I was four years old,my grandfather and I were walking in a park in Japanwhen he suddenly got lost.It was one of the scariest momentsI&#39;ve ever experienced in my life,and it was also the firstinstance that informed usthat my grandfatherhad Alzheimer&#39;s disease.Over the past 12 years,his condition got worse and worse,and his wandering in particularcaused my family a lot of stress.My aunt, his primary caregiver,really struggled to stay awake at nightto keep an eye on him,and even then often failedto catch him leaving the bed.I became really concernedabout my aunt&#39;s well-beingas well as my grandfather&#39;s safety.I searched extensively for a solutionthat could help my family&#39;s problems,but couldn&#39;t find one.
+时间： 1:23
+zh-cn:后来，两年前的一个晚上我在照顾爷爷的时候，看到他正想要下床他的脚碰到地面的瞬间我想到，为什么不在他的后脚跟放个压力传感器呢？当他下床着地的时候传感器就能检测到由于爷爷体重造成的一股上升的压力并能无线传输警报信号给看护人的手机这样一来，我姑妈晚上就可以睡得更好一些不用一直瞪大眼睛提防爷爷到处走动
+en:Then, one night about two years ago,I was looking after my grandfatherand I saw him stepping out of the bed.The moment his foot landed on the floor,I thought, why don&#39;t I puta pressure sensor on the heel of his foot?Once he stepped onto the floorand out of the bed,the pressure sensor would detect anincrease in pressure caused by body weightand then wirelessly send an audible alertto the caregiver&#39;s smartphone.That way, my aunt could sleepmuch better at nightwithout having to worryabout my grandfather&#39;s wandering.
+时间： 1:50
+zh-cn:现在我来展示一下我发明的（压力感应的）袜子能邀请我的（袜子展示）模特到台上来吗？太棒了一旦病人的脚着地（警报声）警报就会被发送到看护人的手机
+en:So now I&#39;d like to performa demonstration of this sock.Could I please havemy sock model on the stage?Great.So once the patientsteps onto the floor —(Ringing) —an alert is sentto the caregiver&#39;s smartphone.
+时间： 2:15
+zh-cn:谢谢 （掌声）
+en:Thank you. (Applause)
+时间： 2:17
+zh-cn:谢谢我的模特
+en:Thank you, sock model.
+时间： 2:23
+zh-cn:这就是我这个想法一开始的草图
+en:So this is a drawingof my preliminary design.
+时间： 2:26
+zh-cn:我之所以想要创造一个基于传感器的技术原因可能来自我对传感器和相关科技的热爱当我六岁的时候家里一位年长的亲戚在浴室摔倒了伤得很重我开始关注自己的祖父母（的安全）并决定设计一套智能浴室系统运动传感器将会被嵌入浴室的地砖里面当老人摔倒在地板上的时候就能够探测到当时我才只有6岁幼儿园都没有毕业我没法获取所需的资源和工具来实现我的想法但是，我的研究经历让我建立起坚定的信念，用传感器去帮助老人我坚信传感器可以提高老年人的生活质量
+en:My desire to createa sensor-based technologyperhaps stemmed from my lifelong lovefor sensors and technology.When I was six years old,an elderly family friendfell down in the bathroomand suffered severe injuries.I became concernedabout my own grandparentsand decided to inventa smart bathroom system.Motion sensors would be installedinside the tiles of bathroom floorsto detect the falls of elderly patientswhenever they fell down in the bathroom.Since I was only six years old at the timeand I hadn&#39;t graduatedfrom kindergarten yet,I didn&#39;t have the necessary resources and tools to translate my idea into reality,but nonetheless, my research experiencereally implanted in me a firm desireto use sensors to help the elderly people.I really believe that sensors can improvethe quality of life of the elderly.
+时间： 3:11
+zh-cn:当我开始细化我的计划时，我意识到我面临三大挑战第一，创造一个传感器第二，设计电路第三，写出一个手机App这让我意识到我的计划比我一开始想象的要难的多
+en:When I laid out my plan, I realizedthat I faced three main challenges:first, creating a sensor;second, designing a circuit;and third, coding a smartphone app.This made me realize that my projectwas actually much harder to realizethan I initially had thought it to be.
+时间： 3:25
+zh-cn:首先，我需要发明一个可穿戴的传感器，足够轻薄灵活要能够舒适的穿在病人的脚上。在调研和尝试了许多种材料之后，我意识到橡胶之类的材料太厚了穿在脚上不服帖我决定打印一个薄膜式传感器使用能感知压力的电子墨水来构造。一旦产生压力，墨水粒子之间连通性就增加了这样我就可以设计一个测试压力的电路通过测量电阻
+en:First, I had to create a wearable sensorthat was thin and flexible enoughto be worn comfortablyon the bottom of the patient&#39;s foot.After extensive research and testingof different materials like rubber,which I realized was too thick to be wornsnugly on the bottom of the foot,I decided to print a film sensorwith electrically conductivepressure-sensitive ink particles.Once pressure is applied, the connectivitybetween the particles increases.Therefore, I could design a circuitthat would measure pressureby measuring electrical resistance.
+时间： 3:52
+zh-cn:接下来，我需要设计一个可穿戴的无线电路但是无线信号传输非常耗电并且需要笨重的电池谢天谢地，我找到了低功耗的蓝牙技术功耗很低，纽扣电池就能够带动起来这就避免了系统工作到半夜就没电的尴尬
+en:Next, I had to designa wearable wireless circuit,but wireless signal transmissionconsumes lots of powerand requires heavy, bulky batteries.Thankfully, I was able to find outabout the Bluetooth low energy technology,which consumes very little powerand can be driven by a coin-sized battery.This prevented the systemfrom dying in the middle of the night.
+时间： 4:10
+zh-cn:最后，我需要自己写一个智能手机App它将看护人的手机变成一个远程监控器为此，我需要在Java和XCode基础上继续探索并自学了如何用代码去操纵蓝牙低功耗设备为此我看了很多的YouTube视频，翻了很多书
+en:Lastly, I had to code a smartphone appthat would essentially transformthe care-giver&#39;s smartphoneinto a remote monitor.For this, I had to expand uponmy knowledge of coding with Java and XCodeand I also had to learn about how to codefor Bluetooth low energy devicesby watching YouTube tutorialsand reading various textbooks.
+时间： 4:28
+zh-cn:把这些组件拼接起来，我成功的做出来了两个原型其中一个原型，传感器被嵌入袜子里另一个原型，传感器是可以拆卸的可以粘在病人脚底任何产生接触的地方我给爷爷试验了一年的时间它拥有百分之百的准确率成功捕获了爷爷超过900次的发病情况去年夏天，我开始在美国加州的一些护理院试用这套设备目前我正在收集反馈后续会将这个设备完善成一个可以进入市场的产品在病人实际试用的过程中我意识到我需要创新解决方案因为有些人晚上睡觉是不习惯穿袜子的
+en:Integrating these components, I was ableto successfully create two prototypes,one in which the sensoris embedded inside a sock,and another that&#39;sa re-attachable sensor assemblythat can be adhered anywherethat makes contactwith the bottom of the patient&#39;s foot.I&#39;ve tested the device on my grandfatherfor about a year now,and it&#39;s had a 100 percent success ratein detecting the over 900 known cases of his wandering.Last summer, I was ableto beta test my deviceat several residentialcare facilities in California,and I&#39;m currently incorporatingthe feedbackto further improve the device into a marketable product.Testing the device on a number of patientsmade me realize that I neededto invent solutionsfor people who didn&#39;t wantto wear socks to sleep at night.
+时间： 5:07
+zh-cn:从大规模的病人身上采集到的传感器数据不仅对于照顾病人有帮助作用对于疾病本身的治疗也可能会有帮助例如，我现在在检测的是尝试发现病人夜间活动与饮食以及白天的行为之间的关联
+en:So sensor data, collectedon a vast number of patients,can be useful for improving patient careand also leading to a curefor the disease, possibly.For example, I&#39;m currently examiningcorrelations between the frequencyof a patient&#39;s nightly wanderingand his or her daily activities and diet.
+时间： 5:24
+zh-cn:我永远忘不了我的设备第一次成功地捕获出我爷爷半夜下床的时刻那一刻我强烈的感受到了科技的力量让生活更美好的力量人们可以健康快乐的生活这是我的梦想
+en:One thing I&#39;ll never forgetis when my device first caughtmy grandfather&#39;s wanderingout of bed at night.At that moment, I was really struckby the power of technologyto change lives for the better.People living happily and healthfully —that&#39;s the world that I imagine.
+时间： 5:39
+zh-cn:非常感谢
+en:Thank you very much.
+时间： 5:41
+zh-cn:（掌声）
+en:(Applause)

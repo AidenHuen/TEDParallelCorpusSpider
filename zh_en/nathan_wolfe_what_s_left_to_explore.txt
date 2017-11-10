@@ -1,0 +1,51 @@
+时间： 0:11
+zh-cn:最近我去了威斯康星州的伯洛伊特市。我去那里是为了纪念一名20世纪的探险家，罗伊·查普曼·安德鲁斯。当他在美国自然历史博物馆的时候，安德鲁斯领导了一系列对未知领域的探险，比如说在这里的戈壁滩。他是个了不起的人物。他后来据说是印第安娜琼斯角色的原型。
+en:Recently I visited Beloit, Wisconsin.And I was there to honor a great 20th century explorer,Roy Chapman Andrews.During his time at the American Museum of Natural History,Andrews led a range of expeditions to uncharted regions,like here in the Gobi Desert.He was quite a figure.He was later, it&#39;s said, the basis of the Indiana Jones character.
+时间： 0:33
+zh-cn:当我在威斯康星州的伯洛伊特市的时候，我给一群中学学生上了一堂公开课。我现在想告诉你们，如果真的有什么比在TED做演讲还难的话，那就是尝试保持他们的注意力一群上千个12岁的孩子，并保持45分钟。别想了
+en:And when I was in Beloit, Wisconsin,I gave a public lecture to a group of middle school students.And I&#39;m here to tell you,if there&#39;s anything more intimidating than talking here at TED,it&#39;ll be trying to hold the attentionof a group of a thousand 12-year-olds for a 45-minute lecture.Don&#39;t try that one.
+时间： 0:51
+zh-cn:在我讲完之后，他们问了很多问题，但有一个让我自始至终难以忘记。有个小女孩站起来，问了一个问题：“我们该去哪里探索呢？”
+en:At the end of the lecture they asked a number of questions,but there was one that&#39;s really stuck with me since then.There was a young girl who stood up,and she asked the question:&quot;Where should we explore?&quot;
+时间： 1:03
+zh-cn:我想我们中的绝大多数有种观念，那就是，地球上的大探索时代已经结束，我们的下一代人应该去外太空或者海洋最深处从而去寻找值得探索的东西。但真的是这样吗？真的没有重要的地方留给我们探索了吗？整个地球上都没有？
+en:I think there&#39;s a sense that many of us havethat the great age of exploration on Earth is over,that for the next generationthey&#39;re going to have to go to outer space or the deepest oceansin order to find something significant to explore.But is that really the case?Is there really nowhere significant for us to exploreleft here on Earth?
+时间： 1:23
+zh-cn:这让我回忆起我最喜欢的生物领域的探险家之一。他是位未知世界的探索家，马丁努斯·威廉·拜耶林克。拜叶林克当初想找出引起烟草花叶病的原因。他提取了受过感染的烟草汁液，然后让这些汁液经过一层比一层更细的过滤。他得出一个结论，剩下的（汁液）里面一定有什么东西它们比那时最小的已知的生命形态 —细菌，还要小。他给这个神秘的东西起了个名字叫它们，病毒在拉丁文里是“毒药”的意思。在发现病毒之后，拜耶林克为我们打开了一个全新的世界。
+en:It sort of made me think backto one of my favorite explorers in the history of biology.This is an explorer of the unseen world, Martinus Beijerinck.So Beijerinck set out to discover the causeof tobacco mosaic disease.What he did is he took the infected juice from tobacco plantsand he would filter it through smaller and smaller filters.And he reached the pointwhere he felt that there must be something out therethat was smaller than the smallest forms of life that were ever known —bacteria, at the time.He came up with a name for his mystery agent.He called it the virus —Latin for &quot;poison.&quot;And in uncovering viruses,Beijerinck really opened this entirely new world for us.
+时间： 2:06
+zh-cn:我们现在知道病毒构成我们星球上绝大部分的遗传信息超过所有其他生命的遗传信息的总和。而且显然已经出现了无数有关病毒的切实应用在这个世界上 —像天花的根除，子宫癌的疫苗的降临—我们现在知道它大部分是由乳头瘤病毒引起的。
+en:We now know that viruses make up the majorityof the genetic information on our planet,more than the genetic informationof all other forms of life combined.And obviously there&#39;s been tremendous practical applicationsassociated with this world —things like the eradication of smallpox,the advent of a vaccine against cervical cancer,which we now know is mostly caused by human papillomavirus.
+时间： 2:28
+zh-cn:而且拜耶林克的发现可不是500年前的事情。拜耶林克发现病毒这件事也就发生于100多年前。也就是说当汽车都已经出现在世的时候，我们还不知道这种构成了我们星球上大部分的遗传信息的生物。
+en:And Beijerinck&#39;s discovery,this was not something that occurred 500 years ago.It was a little over 100 years agothat Beijerinck discovered viruses.So basically we had automobiles,but we were unaware of the forms of lifethat make up most of the genetic information on our planet.
+时间： 2:44
+zh-cn:我们现在有些很了不起的工具来帮助我们探索未知世界，像基因深度测序，可以让我们不只是停留在表面来看自某个特定物种的独立基因组，而是研究整个基因组—我们身体里面和周边无处不在的微生物群落，并且记录下这些物种的遗传信息。我们可以应用这些技术来研究从土壤到皮肤和它们中间的一切。
+en:We now have these amazing toolsto allow us to explore the unseen world —things like deep sequencing,which allow us to do much more than just skim the surfaceand look at individual genomes from a particular species,but to look at entire metagenomes,the communities of teeming microorganisms in, on and around usand to document all of the genetic information in these species.We can apply these techniquesto things from soil to skin and everything in between.
+时间： 3:14
+zh-cn:在我所在的机构里面，我们现在经常这么做，来寻找（疾病）暴发的原因，那些我们还不清楚的原因.
+en:In my organization we now do this on a regular basisto identify the causes of outbreaksthat are unclear exactly what causes them.
+时间： 3:22
+zh-cn:稍微给你们讲下这是怎么做的，想象下从你们每个人那里取一个鼻腔分泌物标本像这种事是我们经常做的，为了寻找呼吸道病毒，像流行性感冒病毒。我们首先看到的是海量的遗传信息。如果我们开始仔细看看这些遗传信息，我们会看到一些常见的信息当然了，有很多人类的遗传信息，但也有很多细菌和病毒的信息，大部分是你鼻子里面完全无害的东西。但我们也会看到一些非常非常让人吃惊的东西。当我们开始研究这些信息，我们会发现你鼻子里面20%的遗传信息跟我们所见过的东西—任何植物，动物，真菌或者细菌，都对不上号。我们基本上对这些一无所知。
+en:And just to give you a sense of how this works,imagine that we took a nasal swab from every single one of you.And this is something we commonly doto look for respiratory viruses like influenza.The first thing we would seeis a tremendous amount of genetic information.And if we started looking into that genetic information,we&#39;d see a number of usual suspects out there —of course, a lot of human genetic information,but also bacterial and viral information,mostly from things that are completely harmless within your nose.But we&#39;d also see something very, very surprising.As we started to look at this information,we would see that about 20 percent of the genetic information in your nosedoesn&#39;t match anything that we&#39;ve ever seen before —no plant, animal, fungus, virus or bacteria.Basically we have no clue what this is.
+时间： 4:08
+zh-cn:我们这里的一小部分研究这些数据的人们，称呼这些信息为生物暗物质。我们知道以前从未见过这些生物暗物质；这似乎可以被称之为我们自己遗传信息里的未知大陆。而且数量非常之多。如果你认为你鼻子里面20%的遗传信息有很多生物暗物质，那当我们看你内脏的时候，那有将近40%到50%的生物暗物质。即使在相对无菌的血液里，也有1%到2%的信息是暗物质—无法被归类，无法被判别类别，跟我们所见过的东西都不同。
+en:And for the small group of us who actually study this kind of data,a few of us have actually begun to call this informationbiological dark matter.We know it&#39;s not anything that we&#39;ve seen before;it&#39;s sort of the equivalent of an uncharted continentright within our own genetic information.And there&#39;s a lot of it.If you think 20 percent of genetic information in your nose is a lotof biological dark matter,if we looked at your gut,up to 40 or 50 percent of that information is biological dark matter.And even in the relatively sterile blood,around one to two percent of this information is dark matter —can&#39;t be classified, can&#39;t be typed or matched with anything we&#39;ve seen before.
+时间： 4:49
+zh-cn:开始我们以为这是人为的东西。这些基因深度测序工具相当比较新。但当它们变得越来越来精确，我们认为这些信息是一种新的生命，或者至少某一部分是种生命。即使这些关于解释生物暗物质的存在的假设还处于婴儿期，一个让人非常非常激动的可能性存在着：那就是藏在这个生命里面，在这些遗传信息里，有一种没有被识别的生命的标识。当我们探索这些一串串A/T/C/G嘌呤的时候，我们也许会发现全新的生命，就像拜耶林克，从根本上改变我们对生物学特性的理解。这也许会让我识别出困扰我们的某种癌症的原因，或者识别出我们不熟悉的疾病暴发的根源，或者创造出一种分子生物学的新工具。
+en:At first we thought that perhaps this was artifact.These deep sequencing tools are relatively new.But as they become more and more accurate,we&#39;ve determined that this information is a form of life,or at least some of it is a form of life.And while the hypotheses for explaining the existence of biological dark matterare really only in their infancy,there&#39;s a very, very exciting possibility that exists:that buried in this life, in this genetic information,are signatures of as of yet unidentified life.That as we explore these strings of A&#39;s, T&#39;s, C&#39;s and G&#39;s,we may uncover a completely new class of lifethat, like Beijerinck, will fundamentally changethe way that we think about the nature of biology.That perhaps will allow us to identify the cause of a cancer that afflicts usor identify the source of an outbreak that we aren&#39;t familiar withor perhaps create a new tool in molecular biology.
+时间： 5:44
+zh-cn:我很高兴的宣布，和我的斯坦福、加州理工和旧金山加利福尼亚大学的同事们一起，我们正在开始开始一个新的行动去探索生物暗物质来寻找新生命的存在。
+en:I&#39;m pleased to announce that,along with colleagues at Stanford and Caltech and UCSF,we&#39;re currently starting an initiativeto explore biological dark matter for the existence of new forms of life.
+时间： 5:56
+zh-cn:100多年前，人们还不知道病毒的存在，这些包含我们星球上大部分遗传信息的生命形态。一百年以后，人类可能为我们以前完全不了解的新的生命形态而感到惊讶而它们就在我们眼皮底下。
+en:A little over a hundred years ago,people were unaware of viruses,the forms of life that make up most of the genetic information on our planet.A hundred years from now, people may marvelthat we were perhaps completely unaware of a new class of lifethat literally was right under our noses.
+时间： 6:15
+zh-cn:没错，我们或许已经绘制这个星球上所有大陆板块的地图，我们或许已经发现了当前所有的哺乳动物，但这并不代表地球上没什么好探索的了。拜耶林克和像他一样的人们给下一代探索者上了重要的一课——给那些像那个在伯洛伊特市的女孩一样的人们。我想如果总结一下他给我们上的这一课，大概是：不要假设我们现在想到的东西是一个完整的故事。在不管你选择的任何领域里去探索那些暗物质吧。未知的事物在我们身边无处不在它们只是在等待人类的探索。
+en:It&#39;s true, we may have charted all the continents on the planetand we may have discovered all the mammals that are out there,but that doesn&#39;t mean that there&#39;s nothing left to explore on Earth.Beijerinck and his kindprovide an important lesson for the next generation of explorers —people like that young girl from Beloit, Wisconsin.And I think if we phrase that lesson, it&#39;s something like this:Don&#39;t assume that what we currently think is out there is the full story.Go after the dark matter in whatever field you choose to explore.There are unknowns all around usand they&#39;re just waiting to be discovered.
+时间： 6:51
+zh-cn:谢谢
+en:Thank you.
+时间： 6:53
+zh-cn:(鼓掌声）
+en:(Applause)

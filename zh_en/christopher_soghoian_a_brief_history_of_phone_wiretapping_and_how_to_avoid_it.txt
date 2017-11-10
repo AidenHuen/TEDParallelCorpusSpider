@@ -1,0 +1,54 @@
+时间： 0:12
+zh-cn:在过去的100多年里，电话公司一直都在为政府窃听提供帮助。
+en:For more than 100 years,the telephone companies have providedwiretapping assistance to governments.
+时间： 0:18
+zh-cn:大部分时候，这种协助是人为操作的。监管是人为的，电线是手工连接的。通话是用磁带录制的。但是就同许多其他产业一样，计算机技术改变了一切。电话公司在电话网络的最核心部分安装了监听功能。我希望大家能思考一下：我们的电话和传输通话的网络最开始都是装有窃听器的。这是最首要的。
+en:For much of this time,this assistance was manual.Surveillance took place manuallyand wires were connected by hand.Calls were recorded to tape.But as in so many other industries,computing has changed everything.The telephone companiesbuilt surveillance featuresinto the very core of their networks.I want that to sink in for a second:Our telephones and the networksthat carry our callswere wired for surveillance first.First and foremost.
+时间： 0:49
+zh-cn:这意味着当你打电话给你的配偶，孩子、同事或者医生时，可能有别人在偷听。这个人可能是你自己的政府，也可能是其他政府、外国情报机构，或是黑客、罪犯或跟踪狂。或者其他任何一个闯入监控系统，侵入电话公司监控系统的组织。
+en:So what that means is thatwhen you&#39;re talking to your spouse,your children, a colleagueor your doctor on the telephone,someone could be listening.Now, that someone mightbe your own government;it could also be another government,a foreign intelligence service,or a hacker, or a criminal, or a stalkeror any other party that breaks intothe surveillance system,that hacks into the surveillance systemof the telephone companies.
+时间： 1:18
+zh-cn:但是尽管电话公司优先建立监控系统,硅谷的公司却没有这样做。在过去的几年里，越来越多的硅谷公司在他们的通讯产品中植入了强大的加密技术，使得监听极为困难。
+en:But while the telephone companieshave built surveillance as a priority,Silicon Valley companies have not.And increasingly,over the last couple years,Silicon Valley companies have builtstrong encryption technologyinto their communications productsthat makes surveillanceextremely difficult.
+时间： 1:36
+zh-cn:比如，你们许多人可能有苹果手机，如果你用苹果手机发送短信给其他使用苹果手机的人，那些信息就不能被轻易地监控。事实上，据苹果公司说，连他们自己都不能看到那些信息。同样，如果你用苹果的视频聊天软件和你的朋友或亲人进行语音或视频通话，也一样不容易被监听。
+en:For example, many of youmight have an iPhone,and if you use an iPhoneto send a text messageto other people who have an iPhone,those text messagescannot easily be wiretapped.And in fact, according to Apple,they&#39;re not able to even seethe text messages themselves.Likewise, if you use FaceTimeto make an audio callor a video call with one of yourfriends or loved ones,that, too, cannot be easily wiretapped.
+时间： 2:00
+zh-cn:苹果公司还不只是特例。脸书公司旗下的网络聊天软件（WhatsApp）现在在全球有几亿的用户，其产品中也安装了强大的加密技术。这意味着南半球的人民沟通时，不会轻易地被专制的政府监视他们的短信。
+en:And it&#39;s not just Apple.WhatsApp, which is now owned by Facebookand used by hundreds of millionsof people around the world,also has built strongencryption technology into its product,which means that peoplein the Global South can easily communicatewithout their governments,often authoritarian,wiretapping their text messages.
+时间： 2:20
+zh-cn:监听了100多年电话通讯——无论何时何地——可以想象如今的政府官员不太开心。事实上，这就是现状。政府官员极其愤怒，不是因为现在有了这些加密技术。最让他们苦恼的是技术公司在产品中安装了加密功能，而且由系统默认开启。主要矛盾就在于这种默认设置。
+en:So, after 100 years of being ableto listen to any telephone call —anytime, anywhere —you might imagine that governmentofficials are not very happy.And in fact, that&#39;s what&#39;s happening.Government officials are extremely mad.And they&#39;re not mad becausethese encryption tools are now available.What upsets them the mostis that the tech companies have builtencryption features into their productsand turned them on by default.It&#39;s the default piece that matters.
+时间： 2:49
+zh-cn:总之，科技公司使加密技术民主化了。所以，像英国首相大卫·卡梅伦这类政府官员们，他们相信所有的通信——电子邮件、短信、语音通话都应该被政府掌握，而加密技术就成了拦路虎。
+en:In short, the tech companieshave democratized encryption.And so, government officialslike British Prime Minister David Cameron,they believe that all communications —emails, texts, voice calls —all of these should beavailable to governments,and encryption is making that difficult.
+时间： 3:08
+zh-cn:坦率地说，我非常理解他们的想法。我们生活在一个危险的年代，一个危险的世界，坏人无处不在。有恐怖分子和其他严重危害国家安全的因素，我觉得我们都希望联邦调查局和国家安全局来监控。
+en:Now, look — I&#39;m extremely sympatheticto their point of view.We live in a dangerous timein a dangerous world,and there really are bad people out there.There are terrorists and otherserious national security threatsthat I suspect we all wantthe FBI and the NSA to monitor.
+时间： 3:24
+zh-cn:但这些监控功能是有代价的。原因在于没有一种东西叫做恐怖分子的电脑，或者是毒贩的手机。我们都用着同样的通讯工具。这意味着如果毒贩或是恐怖分子的通话可以被拦截的话，那么我们的也可以。我觉得我们真正需要问的是全球上亿人都应该用易于被监听的设备吗？
+en:But those surveillancefeatures come at a cost.The reason for that isthat there is no such thingas a terrorist laptop,or a drug dealer&#39;s cell phone.We all use the samecommunications devices.What that means is thatif the drug dealers&#39; telephone callsor the terrorists&#39; telephone callscan be intercepted,then so can the rest of ours, too.And I think we really need to ask:Should a billion peoplearound the world be using devicesthat are wiretap friendly?
+时间： 3:54
+zh-cn:我所描述的侵入监控系统的情况并不是凭空捏造的。在2009年，谷歌和微软公司植入自己网络中的监控系统——用来回应来自警方的合法监控请求的系统——被中国政府侵入，因为中国政府想要知道美国政府正在监视他们的哪些特工。
+en:So the scenario of hacking of surveillancesystems that I&#39;ve described —this is not imaginary.In 2009,the surveillance systems that Googleand Microsoft built into their networks —the systems that they use to respondto lawful surveillance requestsfrom the police —those systems were compromisedby the Chinese government,because the Chinese governmentwanted to figure outwhich of their own agentsthe US government was monitoring.
+时间： 4:19
+zh-cn:同样地，2004年，希腊沃达丰公司的监控系统——希腊最大的电话公司——被不明组织侵入，而这个监控功能被用来监听希腊首相和希腊内阁成员。主使的外国政府或黑客至今仍未查明。
+en:By the same token,in 2004, the surveillance systembuilt into the networkof Vodafone Greece —Greece&#39;s largest telephone company —was compromised by an unknown entity,and that feature,the surveillance feature,was used to wiretapthe Greek Prime Ministerand members of the Greek cabinet.The foreign government or hackerswho did that were never caught.
+时间： 4:40
+zh-cn:而这就是这些监管功能，或后门的问题的关键所在。当你在一个通讯网络或者某种科技中建一个后门时，你是没有办法控制谁会走进去的。你没有办法控制它会为你方还是敌方所用，为好人还是坏人所用。
+en:And really, this gets to the very problemwith these surveillance features,or backdoors.When you build a backdoorinto a communications networkor piece of technology,you have no way of controllingwho&#39;s going to go through it.You have no way of controllingwhether it&#39;ll be used by your sideor the other side,by good guys, or by bad guys.
+时间： 5:00
+zh-cn:正因如此，我觉得最好建造一个尽可能安全的网络。是的，这意味着在未来加密技术将会使窃听变得更难。这意味着警方会更难抓到坏人。但如果不这么做，我们就会生活在一个每个人的通话或短信都可以被罪犯、跟踪狂和外国情报机构监控的世界中。而我不想生活在那样一个世界里。
+en:And so for that reason,I think that it&#39;s betterto build networksto be as secure as possible.Yes, this means that in the future,encryption is going to makewiretapping more difficult.It means that the policeare going to have a tougher timecatching bad guys.But the alternative would meanto live in a worldwhere anyone&#39;s calls or anyone&#39;stext messages could be surveilledby criminals, by stalkersand by foreign intelligence agencies.And I don&#39;t want to livein that kind of world.
+时间： 5:29
+zh-cn:现在，你的手机或是口袋里可能已经有工具能够阻止多种政府监控手段。你可能还没意识到那些工具有多强大、多安全，或其他你以前用来通讯的方法有多脆弱。
+en:And so right now,you probably have the toolsto thwart many kindsof government surveillancealready on your phonesand already in your pockets,you just might not realize how strongand how secure those tools are,or how weak the other waysyou&#39;ve used to communicate really are.
+时间： 5:45
+zh-cn:所以，我想告诉大家的是：我们需要用这些工具。我们需要保护我们的通话。我们需要保护我们的短信。我希望你们用这些工具。我希望你们告诉你们的亲人、同事：去用这些加密的通讯工具。不要因为便宜或是方便而用它们，而是因为它们安全。
+en:And so, my message to you is this:We need to use these tools.We need to secure our telephone calls.We need to secure our text messages.I want you to use these tools.I want you to tell your loved ones,I want you to tell your colleagues:Use these encrypted communications tools.Don&#39;t just use thembecause they&#39;re cheap and easy,but use them because they&#39;re secure.
+时间： 6:08
+zh-cn:谢谢。
+en:Thank you.
+时间： 6:09
+zh-cn:（掌声）
+en:(Applause)

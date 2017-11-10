@@ -1,0 +1,27 @@
+时间： 0:12
+zh-cn:2008年Nargis台风袭击了缅甸数百万人急需帮助联合国想调度人员、物资进入灾区但是标明灾区道路的地图并不存在地图上也没有标示医院，因此无法帮助台风受害的民众。
+en:In 2008, Cyclone Nargis devastated Myanmar.Millions of people were in severe need of help.The U.N. wanted to rush people and supplies to the area.But there were no maps, no maps of roads,no maps showing hospitals, no way for help to reach the cyclone victims.
+时间： 0:33
+zh-cn:当我们看洛杉矶，伦敦的地图时让人难以置信的是截止到2005年全世界只有15%的地方有精确地图可供地理软件使用联合国跟世界大部分的人们遭遇到一样的问题：没有详细的地图。
+en:When we look at a map of Los Angeles or London,it is hard to believethat as of 2005, only 15 percent of the worldwas mapped to a geo-codable level of detail.The U.N. ran headfirst into a problemthat the majority of the world&#39;s populous faces:not having detailed maps.
+时间： 0:52
+zh-cn:幸好援助来了在谷歌有40个志愿者用一个软件标示了120,000公里的路3000个医院，运输和救援中心他们一共花了四天他们用的软件？叫Google Mapmaker （地图创作家）
+en:But help was coming.At Google, 40 volunteersused a new softwareto map 120,000 kilometers of roads,3,000 hospitals, logistics and relief points.And it took them four days.The new software they used? Google Mapmaker.
+时间： 1:10
+zh-cn:Google Mapmaker 是一个允许我们标注我们地方讯息的科技人们使用这套软件在地图上标注了道路，河流学校，地方企业电影出租店到街角的商店。
+en:Google Mapmaker is a technology that empowers each of usto map what we know locally.People have used this softwareto map everything from roads to rivers,from schools to local businesses,and video stores to the corner store.
+时间： 1:26
+zh-cn:地图很重要诺贝尔奖被提名人Hernamdo De Soto认为发展那些大量未被开发的土地对发展中国家的经济跃进起着关键性的作用。举例来说，光在印度还有三兆美元价值的不动产没被发展。
+en:Maps matter.Nobel Prize nominee Hernando De Sotorecognized that the key to economic liftofffor most developing countriesis to tap the vast amounts of uncapitalized land.For example, a trillion dollarsof real estate remains uncapitalized in India alone.
+时间： 1:43
+zh-cn:光在去年在170个国家数千个使用者在地图上加上了数百万笔的讯息创造了前所未有的精确度这都要感谢世界各地热情的使用者使这一切变为可能。
+en:In the last year alone,thousands of users in 170 countrieshave mapped millions of pieces of information,and created a map of a level of detail never thought viable.And this was made possible bythe power of passionate users everywhere.
+时间： 2:01
+zh-cn:现在让我们看一看这些使用者标注地图的情况：就在我们在这里演说的同时有170个国家的人在标示地图你可以看到在非洲的Bridget在标示赛内加尔的道路离这近一点的Chulua在标示班加罗尔的NG路
+en:Let&#39;s look at some of the mapsbeing created by users right now.So, as we speak, people are mapping the worldin these 170 countries.You can see Bridget in Africa who just mapped a road in Senegal.And, closer to home, Chalua, an N.G. road in Bangalore.
+时间： 2:22
+zh-cn:这是综合了计算机地理动作识别，机器学习的结果这是分布在数百个城市数千个使用者的胜利一个使用者，一次编辑一个讯息
+en:This is the result of computational geometry,gesture recognition, and machine learning.This is a victory of thousands of users,in hundreds of cities,one user, one edit at a time.
+时间： 2:34
+zh-cn:这也是对全球那70%还没标注地图的地区的邀请欢迎来到新世界（掌声）
+en:This is an invitation to the 70 percentof our unmapped planet.Welcome to the new world.(Applause)

@@ -1,0 +1,78 @@
+时间： 0:11
+zh-cn:癌症是我们每个人的大敌——尤其是那些不断复发的，容易扩散的，具有抗药性的癌症，药物治疗对它们无效，即使我们用最好的药也无济于事。在分子级别进行（基因）工程改造，从最小结构层面着手，（我们就）能找到意想不到的新办法同最致命的癌症进行斗争。
+en:Cancer affects all of us —especially the ones that comeback over and over again,the highly invasiveand drug-resistant ones,the ones that defy medical treatment,even when we throw our best drugs at them.Engineering at the molecular level,working at the smallest of scales,can provide exciting new waysto fight the most aggressiveforms of cancer.
+时间： 0:38
+zh-cn:癌症是一种很狡猾的疾病。幸运的是，对于一些癌症，我们可以通过一些验证过的药物和手术进行治疗，可以得到相对较好的结果。但有几种癌症这些方法对它们都无效，即使在药物的猛烈攻击下，肿瘤依然能够存活，或者复发。
+en:Cancer is a very clever disease.There are some forms of cancer,which, fortunately, we&#39;ve learnedhow to address relatively wellwith known and establisheddrugs and surgery.But there are some forms of cancerthat don&#39;t respond to these approaches,and the tumor survives or comes back,even after an onslaught of drugs.
+时间： 1:01
+zh-cn:我们可以将这几种致命的癌症想象成漫画书里面的大反派。他们狡猾，适应性强，生存能力一流。而且，跟现在（漫画书里）大多数大反派一样，他们的超能力来自基因突变。这些肿瘤细胞的基因不断变化，能找到新的、意想不到的生存方式，可以让癌细胞抵抗住我们最强大的化学治疗。
+en:We can think of thesevery aggressive forms of canceras kind of supervillains in a comic book.They&#39;re clever, they&#39;re adaptable,and they&#39;re very good at staying alive.And, like most supervillains these days,their superpowers comefrom a genetic mutation.The genes that are modifiedinside these tumor cellscan enable and encode for newand unimagined modes of survival,allowing the cancer cell to live througheven our best chemotherapy treatments.
+时间： 1:37
+zh-cn:有一个例子很神奇，基因能让细胞在药物接近之前，把药物推开，药物根本来不及起任何作用。就好比细胞一口把药吐出去。而这仅仅是我们的大反派——癌症的众多基因把戏之一。这一切都跟突变基因有关。
+en:One example is a trickin which a gene allows a cell,even as the drug approaches the cell,to push the drug out,before the drug can have any effect.Imagine — the cell effectivelyspits out the drug.This is just one exampleof the many genetic tricksin the bag of our supervillain, cancer.All due to mutant genes.
+时间： 2:03
+zh-cn:因此，我们要面对的是拥有超强能力的大反派。我们需要新的、更强大的攻击方式。实际上，我们可以关闭基因。开关是一系列叫siRNA的分子（即小分子干扰核糖核酸）。它是一小段基因编码，可以让细胞阻止某些特定基因（发挥作用）。每一个siRNA都能关闭细胞内部某个特定的基因。自siRNA被发现后，科学家们兴奋了好多年，因为他们可以将这种基因拦截者加入药物中。
+en:So, we have a supervillainwith incredible superpowers.And we need a new and powerfulmode of attack.Actually, we can turn off a gene.The key is a set of moleculesknown as siRNA.siRNA are short sequences of genetic codethat guide a cell to block a certain gene.Each siRNA moleculecan turn off a specific geneinside the cell.For many years since its discovery,scientists have been very excitedabout how we can applythese gene blockers in medicine.
+时间： 2:42
+zh-cn:但是，有一个问题。siRNA在细胞内部可以正常发挥作用。但如果它接触到位于我们血液或者组织中的酶的话，几秒钟内就会被降解。因此，它们必须被包裹及保护起来，才能完成在人身体里的旅程，顺利抵达最终目标——癌细胞内部。
+en:But, there is a problem.siRNA works well inside the cell.But if it gets exposed to the enzymesthat reside in our bloodstreamor our tissues,it degrades within seconds.It has to be packaged, protectedthrough its journey through the bodyon its way to the final targetinside the cancer cell.
+时间： 3:02
+zh-cn:因此，我们的策略如下。首先，我们将siRNA——基因拦截者——用在癌细胞身上，让（癌细胞的）生存基因失效，然后我们再用化学药品来对付癌细胞。但如何实现呢？答案是分子工程技术，我们可以设计一种超级武器，能在血液循环中存活下来。它必须足够小，才可以进入血液循环，穿过肿瘤组织，进入癌细胞内部。要做到这一点，它的尺寸必须小到头发的百分之一。
+en:So, here&#39;s our strategy.First, we&#39;ll dose the cancer cellwith siRNA, the gene blocker,and silence those survival genes,and then we&#39;ll whop it with a chemo drug.But how do we carry that out?Using molecular engineering,we can actually design a superweaponthat can travel through the bloodstream.It has to be tiny enoughto get through the bloodstream,it&#39;s got to be small enoughto penetrate the tumor tissue,and it&#39;s got to be tiny enoughto be taken up inside the cancer cell.To do this job well,it has to be about one one-hundredththe size of a human hair.
+时间： 3:43
+zh-cn:来仔细看一下我们是如何制造这种纳米粒子的。首先，我们要制造纳米核。那是一颗小胶囊，内含化学药剂。对肿瘤细胞而言是致命毒药。在内核周围，我们包上一层很厚的——当然也就几纳米厚——的siRNA。这是我们的基因拦截者。因为siRNA带负电，我们用一层坚固的，带正电的聚合物来保护它。这两种带有不同电荷的分子相互吸引，形成一层保护膜防止siRNA在血液中被降解。别着急，我快说完了。
+en:Let&#39;s take a closer lookat how we can build this nanoparticle.First, let&#39;s startwith the nanoparticle core.It&#39;s a tiny capsule that containsthe chemotherapy drug.This is the poison that willactually end the tumor cell&#39;s life.Around this core, we&#39;ll wrap a very thin,nanometers-thin blanket of siRNA.This is our gene blocker.Because siRNA is stronglynegatively charged,we can protect itwith a nice, protective layerof positively charged polymer.The two oppositely chargedmolecules stick togetherthrough charge attraction,and that provides uswith a protective layerthat prevents the siRNAfrom degrading in the bloodstream.We&#39;re almost done.
+时间： 4:30
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:31
+zh-cn:但前方还有一个大障碍需要跨越。而且，也许是最大的一个障碍。我们该如何部署这件超级武器？每一件武器都要设定目标，我们要将这件超级武器瞄准潜伏在肿瘤内部的超级大反派。
+en:But there is one more big obstaclewe have to think about.In fact, it may be the biggestobstacle of all.How do we deploy this superweapon?I mean, every good weaponneeds to be targeted,we have to target this superweaponto the supervillain cellsthat reside in the tumor.
+时间： 4:49
+zh-cn:但人体是有免疫系统的：血液里的各种细胞能辨认出外来物体，然后杀死或清除它们。很显然，我们的纳米粒子就是一种外来物体。我们要让它骗过肿瘤的防御系统。我们要伪装它，帮它通过重重岗哨，进入敌营。
+en:But our bodies have a naturalimmune-defense system:cells that reside in the bloodstreamand pick out things that don&#39;t belong,so that it can destroy or eliminate them.And guess what? Our nanoparticleis considered a foreign object.We have to sneak our nanoparticlepast the tumor defense system.We have to get it past this mechanismof getting rid of the foreign objectby disguising it.
+时间： 5:16
+zh-cn:于是我们再加上一层带负电的保护膜包住我们的纳米粒子，目的有两个。第一，最外面这层保护膜是存在于我们体内的带电多糖水合物之一。它能在纳米粒子周围形成许多水分子，就像给纳米粒子穿上了隐形披风。这件披风能帮助纳米粒子在血液里自由行动，畅通无阻，直到抵达肿瘤细胞。
+en:So we add one morenegatively charged layeraround this nanoparticle,which serves two purposes.First, this outer layer is oneof the naturally charged,highly hydrated polysaccharidesthat resides in our body.It creates a cloud of water moleculesaround the nanoparticlethat gives us an invisibilitycloaking effect.This invisibility cloak allowsthe nanoparticleto travel through the bloodstreamlong and far enough to reach the tumor,without getting eliminated by the body.
+时间： 5:51
+zh-cn:第二，这层保护膜含有一些分子，专门用来与肿瘤细胞结合。一旦结合，癌细胞就会把纳米粒子吸收，这样我们的纳米粒子最终就会进入癌细胞，准备发起进攻。
+en:Second, this layer contains moleculeswhich bind specifically to our tumor cell.Once bound, the cancer celltakes up the nanoparticle,and now we have our nanoparticleinside the cancer celland ready to deploy.
+时间： 6:10
+zh-cn:是啊！我也觉得很兴奋。继续！
+en:Alright! I feel the same way. Let&#39;s go!
+时间： 6:12
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:19
+zh-cn:siRNA首先开始行动。它需要几个小时，来让（癌细胞的）生存基因失效。我们去除了（癌细胞的）基因超能力。只剩下没有防御的癌细胞。之后化学药剂从内核中释放出来干净利落地杀死肿瘤细胞。只要有足够多的基因拦截者，我们就能对付各种变异（的癌细胞），有机会消灭肿瘤，不留落网之鱼。
+en:The siRNA is deployed first.It acts for hours,giving enough time to silenceand block those survival genes.We have now disabledthose genetic superpowers.What remains is a cancer cellwith no special defenses.Then, the chemotherapy drugcomes out of the coreand destroys the tumor cellcleanly and efficiently.With sufficient gene blockers,we can address manydifferent kinds of mutations,allowing the chance to sweep out tumors,without leaving behind any bad guys.
+时间： 6:55
+zh-cn:那么，我们的方法到底有没有效呢？我们进行了动物实验，使用的是一种非常厉害的癌症，三阴性乳腺癌。它的基因非常厉害，能迅速将抗癌药排出。
+en:So, how does our strategy work?We&#39;ve tested these nanostructureparticles in animalsusing a highly aggressive formof triple-negative breast cancer.This triple-negative breast cancerexhibits the genethat spits out cancer drugas soon as it is delivered.
+时间： 7:14
+zh-cn:通常，我们会使用阿霉素这种抗癌药，它是治疗乳腺癌的首选手段。第一次，我们只用阿霉素来对动物进行治疗。肿瘤的增长率有所减缓，但还是增长很快，两周之内就增长了一倍。
+en:Usually, doxorubicin — let&#39;s callit &quot;dox&quot; — is the cancer drugthat is the first line of treatmentfor breast cancer.So, we first treated our animalswith a dox core, dox only.The tumor slowed their rate of growth,but they still grew rapidly,doubling in sizeover a period of two weeks.
+时间： 7:36
+zh-cn:接下来，我们的超级武器上场了。外层是siRNA，保护自身不被拦截，内核部分是阿霉素。结果我们发现，肿瘤不但没有增长，而且变小了，在某些样本上甚至完全消失。肿瘤被击退了。
+en:Then, we triedour combination superweapon.A nanolayer particle with siRNAagainst the chemo pump,plus, we have the dox in the core.And look — we found that not onlydid the tumors stop growing,they actually decreased in sizeand were eliminated in some cases.The tumors were actually regressing.
+时间： 8:00
+zh-cn:（掌声）
+en:(Applause)
+时间： 8:08
+zh-cn:这种方法最大的好处就是可以定制。我们可以添加多重siRNA分别针对不同的变异和防御机制。我们还可以在内核中放入不同种类的药物。随着医生掌握测试方法，弄清肿瘤的特定基因类型，就能帮我们确定哪些病人能使用这种疗法，应该选用哪种基因拦截者。
+en:What&#39;s great about this approachis that it can be personalized.We can add many different layers of siRNAto address different mutationsand tumor defense mechanisms.And we can put different drugsinto the nanoparticle core.As doctors learn how to test patientsand understand certaintumor genetic types,they can help us determine which patientscan benefit from this strategyand which gene blockers we can use.
+时间： 8:37
+zh-cn:我想特别说说卵巢癌。它是一种非常可怕的癌症，一部分原因是它只有在晚期才能被发现，那时病情已经很严重而且伴随很多基因突变。在首轮化疗结束之后，有75%的患者会复发。而且复发之后通常都有抗药性。晚期卵巢癌是最大的超级反派之一。它是我们的超级武器下一个目标。
+en:Ovarian cancer strikesa special chord with me.It is a very aggressive cancer,in part because it&#39;s discoveredat very late stages,when it&#39;s highly advancedand there are a numberof genetic mutations.After the first round of chemotherapy,this cancer comes backfor 75 percent of patients.And it usually comes backin a drug-resistant form.High-grade ovarian canceris one of the biggestsupervillains out there.And we&#39;re now directing our superweapontoward its defeat.
+时间： 9:10
+zh-cn:作为一名研究者，我通常很少与病人接触。但最近我遇到了一位母亲她叫咪咪，是一名卵巢癌幸存者，她有个女儿叫佩吉。她们母女俩表现出来的乐观和坚强，勇气和相互支持，深深地打动了我。我们聊到了用于治疗癌症的科技手段。咪咪听得流泪了，她说，了解到目前取得的这些成就，让她看到了下一代人（不受癌症折磨）的希望，其中包括她的女儿。这让我很是感慨。（我们所做的）不仅仅是建立一门优秀的科学。而是在改变人的命运。是要了解分子工程学强大的力量。
+en:As a researcher,I usually don&#39;t get to work with patients.But I recently met a motherwho is an ovarian cancer survivor,Mimi, and her daughter, Paige.I was deeply inspiredby the optimism and strengththat both mother and daughter displayedand by their story of courage and support.At this event, we spokeabout the different technologiesdirected at cancer.And Mimi was in tearsas she explained how learningabout these effortsgives her hope for future generations,including her own daughter.This really touched me.It&#39;s not just about buildingreally elegant science.It&#39;s about changing people&#39;s lives.It&#39;s about understandingthe power of engineeringon the scale of molecules.
+时间：10:02
+zh-cn:我坚信，随着像佩吉这样的学生沿着这条道路不断前进，他们一定能打开一片新天地，解决当今世界最大的健康问题，包括卵巢癌，神经系统疾病，传染病——就如同化学基因改造已经为我指明了一条道路，提供了一种基因改造的方法，让我们可以从小小的分子入手，解决人类健康这个大问题。
+en:I know that as students like Paigemove forward in their careers,they&#39;ll open new possibilitiesin addressing some of the bighealth problems in the world —including ovarian cancer, neurologicaldisorders, infectious disease —just as chemical engineering hasfound a way to open doors for me,and has provided a way of engineeringon the tiniest scale,that of molecules,to heal on the human scale.
+时间：10:30
+zh-cn:谢谢大家。
+en:Thank you.
+时间：10:31
+zh-cn:（掌声）
+en:(Applause)

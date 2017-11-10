@@ -1,0 +1,99 @@
+时间： 0:11
+zh-cn:法国人在什么方面做得比别人好呢？如果你去做个投票调查，排名前三的或许是：爱情，红酒，发牢骚。
+en:What is it that French peopledo better than all the others?If you would take polls,the top three answers might be:love, wine and whining.
+时间： 0:25
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:26
+zh-cn:可能吧。但我还想提出第四个答案：数学。你们知道巴黎的数学家比世界上其它任何一个城市都要多吗？而且以数学家的名字命名的街道数量也更多。如果你查查菲尔兹奖的统计，它也经常被称作“诺贝尔数学奖”，只授予40岁以下的数学家，你会发现，就人均获奖数量来说，法国是世界第一。
+en:Maybe.But let me suggest a fourth one:mathematics.Did you know that Parishas more mathematiciansthan any other city in the world?And more streetswith mathematicians&#39; names, too.And if you look at the statisticsof the Fields Medal,often called the Nobel Prizefor mathematics,and always awarded to mathematiciansbelow the age of 40,you will find that France has moreFields medalists per inhabitantthan any other country.
+时间： 0:57
+zh-cn:我们在数学中到底发现了什么让人着迷的东西？毕竟它看上去那么无聊、抽象，只是数字、计算、定理而已。数学可能很抽象，但是它并不无聊，而且它并不都是计算。它是有关逻辑的推理，让我们的所作所为都有理有据。它有关丰富的想象，我们最常歌颂的人类天赋。它还有关真理的追寻。当你苦思冥想数月之后，终于找到问题的正确解法那一刻，那种感受真的无与伦比。伟大的数学家安德雷·韦依把这种感受比作——不开玩笑——比作性快感。但是他还说这种感受可以持续数小时甚至数天。
+en:What is it that we find so sexy in math?After all, it seems to bedull and abstract,just numbers and computationsand rules to apply.Mathematics may be abstract,but it&#39;s not dulland it&#39;s not about computing.It is about reasoningand proving our core activity.It is about imagination,the talent which we most praise.It is about finding the truth.There&#39;s nothing like the feelingwhich invades youwhen after months of hard thinking,you finally understand the rightreasoning to solve your problem.The great mathematicianAndré Weil likened this —no kidding —to sexual pleasure.But noted that this feelingcan last for hours, or even days.
+时间： 1:49
+zh-cn:这种回报可能难以估量。隐藏的数学规律渗透在我们整个物质世界中。我们的感官不能捕捉它们，但可以通过数学的放大镜观察到。闭上眼睛一小会儿，想一想你周围此时此刻正在发生的事。看不见的空气分子在不断地撞击你，每秒钟数十亿次，完全是混乱无序的状态。然而，它们的行为可以被数学物理学精准地预测。睁开你的双眼，看看这些分子的速率分布统计。
+en:The reward may be big.Hidden mathematical truthspermeate our whole physical world.They are inaccessible to our sensesbut can be seenthrough mathematical lenses.Close your eyes for momentand think of what is occurringright now around you.Invisible particles from the airaround are bumping on youby the billions and billionsat each second,all in complete chaos.And still,their statistics can be accuratelypredicted by mathematical physics.And open your eyes nowto the statistics of the velocitiesof these particles.
+时间： 2:31
+zh-cn:这是著名的钟形高斯曲线，也可以叫做误差律——描述分子平均行为的一些偏差。这条曲线告诉我们粒子的速率分布情况，正如一条人口统计曲线能够告诉我们人口的年龄分布情况。它是最重要的一条曲线之一。它的规律不断地重复，在诸多理论与实验中呈现，它是数学的普适性的体现，而这种性质对我们数学家至关重要。
+en:The famous bell-shaped Gauss Curve,or the Law of Errors —of deviations with respectto the mean behavior.This curve tells about the statisticsof velocities of particlesin the same way as a demographic curvewould tell about the statisticsof ages of individuals.It&#39;s one of the mostimportant curves ever.It keeps on occurring again and again,from many theories and many experiments,as a great example of the universalitywhich is so dear to us mathematicians.
+时间： 3:08
+zh-cn:关于这个曲线，著名的科学家弗朗西斯·高尔顿说：“如果古希腊人知道这个规律，他们一定会把它神化的。它是无理性的至高准则。”高尔顿板就是把这个“神灵”实体化的最佳体现。在这个板子里有一些狭道，一些掉落的小球会随机通过这里，有些往右，有些往左。完全是随机的、混乱的。让我们看看这些随机路线会呈现怎样的规律。
+en:Of this curve,the famous scientist Francis Galton said,&quot;It would have been deified by the Greeksif they had known it.It is the supreme law of unreason.&quot;And there&#39;s no better way to materializethat supreme goddess than Galton&#39;s Board.Inside this board are narrow tunnelsthrough which tiny ballswill fall down randomly,going right or left, or left, etc.All in complete randomness and chaos.Let&#39;s see what happens when we lookat all these random trajectories together.
+时间： 3:55
+zh-cn:（板子摇动）
+en:(Board shaking)
+时间： 4:00
+zh-cn:这其实算是锻炼身体，因为我们得疏通一些拥堵的状况。啊哈。看来随机性要在这个舞台上跟我开个小玩笑了。
+en:This is a bit of a sport,because we need to resolvesome traffic jams in there.Aha.We think that randomnessis going to play me a trick on stage.
+时间： 4:18
+zh-cn:好了！这个无理性的至高无上的神，高斯曲线，被囚禁在了这个透明的盒子里，就像《睡魔》漫画里的梦魇一样。我向各位展示了这个规律，但向我的学生，我要解释为什么它不可能是任何其它的曲线。这就近乎揭开了这个神灵的面纱，把一个美丽的巧合变成一个赏心悦目的数学解释。
+en:There it is.Our supreme goddess of unreason.the Gauss Curve,trapped here inside this transparent boxas Dream in &quot;The Sandman&quot; comics.For you I have shown it,but to my students I explain whyit could not be any other curve.And this is touchingthe mystery of that goddess,replacing a beautiful coincidenceby a beautiful explanation.
+时间： 4:50
+zh-cn:一切的科学都是这样的。漂亮的数学解法并不只是为了我们自己开心。它们同样改变了我们看世界的视角。举个例子，爱因斯坦、佩兰、斯莫鲁霍夫斯基，他们对粒子的随机轨迹进行了数学分析，再加上高斯曲线，他们解释并证明了我们的世界由原子组成。
+en:All of science is like this.And beautiful mathematical explanationsare not only for our pleasure.They also change our vision of the world.For instance,Einstein,Perrin,Smoluchowski,they used the mathematical analysisof random trajectoriesand the Gauss Curveto explain and prove that ourworld is made of atoms.
+时间： 5:18
+zh-cn:这并不是第一次，数学已经多次颠覆了我们的世界观。两千多年前，在古希腊的时代，颠覆已经发生了。在那个时代，人们只探索了世界的很小一部分，而地球看上去无边无际。但是聪明的埃拉托色尼利用数学工具，成功的测量了地球的大小，误差只有惊人的2%。
+en:It was not the first timethat mathematics was revolutionizingour view of the world.More than 2,000 years ago,at the time of the ancient Greeks,it already occurred.In those days,only a small fraction of the worldhad been explored,and the Earth might have seemed infinite.But clever Eratosthenes,using mathematics,was able to measure the Earthwith an amazing accuracy of two percent.
+时间： 5:50
+zh-cn:还有另一个例子。在1673年，让·里谢注意到一个单摆在卡宴（译注：南美法属圭亚那首都，近赤道）比在巴黎摆动得稍稍慢一些。只用这一个现象，以及一些巧妙的数学推导，牛顿正确地推断出地球在两极地区稍稍扁一些，大概只有0.3%，这种细微的差别在观察地球全貌时根本无法发现。
+en:Here&#39;s another example.In 1673, Jean Richer noticedthat a pendulum swings slightlyslower in Cayenne than in Paris.From this observation alone,and clever mathematics,Newton rightly deducedthat the Earth is a wee bitflattened at the poles,like 0.3 percent —so tiny that you wouldn&#39;t evennotice it on the real view of the Earth.
+时间： 6:25
+zh-cn:这些故事说明了，数学能够让我们超越自己的直觉，测量看似不可测的地球尺寸，观察看不见的原子，或是检测肉眼不可识别的微小形变。如果你们只能从我的演讲中了解到一样东西，那应该是这个：数学让我们超越人类直觉，并且探索我们所无法触及的领域。
+en:These stories show that mathematicsis able to make us go out of our intuitionmeasure the Earth which seems infinite,see atoms which are invisibleor detect an imperceptiblevariation of shape.And if there is just one thing that youshould take home from this talk,it is this:mathematics allows usto go beyond the intuitionand explore territorieswhich do not fit within our grasp.
+时间： 6:58
+zh-cn:这有个例子各位都非常熟悉：网上搜索。万维网，有着超过十亿个网页，难道你想全部搜索一遍吗？计算机可能有帮助，但是如果没有了数学模型，它就是一堆废铁，无法搜寻数据中隐藏的信息。
+en:Here&#39;s a modern exampleyou will all relate to:searching the Internet.The World Wide Web,more than one billion web pages —do you want to go through them all?Computing power helps,but it would be useless withoutthe mathematical modelingto find the informationhidden in the data.
+时间： 7:19
+zh-cn:让我们做一道很简单的题。想象你是一个侦探，正在调查一个犯罪案件，很多人参与其中，并且各执一词。你想先询问谁呢？合理的答案是：主要的目击者。想想看，假设有一位7号证人，告诉了你一件事情，但当你问他从哪里听说的，他说3号证人是消息来源。有可能3号证人也相应地指向1号证人作为主要消息来源。现在1号证人是主要目击者了，所以我一定想要先去采访他。从这幅图中，我们同样看到4号证人是一位主要目击者。我可能更想先去采访他，因为他被提及的次数比1号还要多。
+en:Let&#39;s work out a baby problem.Imagine that you&#39;re a detectiveworking on a crime case,and there are many peoplewho have their version of the facts.Who do you want to interview first?Sensible answer:prime witnesses.You see,suppose that there is person number seven,tells you a story,but when you ask where he got if from,he points to personnumber three as a source.And maybe person number three, in turn,points at person number oneas the primary source.Now number one is a prime witness,so I definitely wantto interview him — priority.And from the graphwe also see that personnumber four is a prime witness.And maybe I even wantto interview him first,because there are morepeople who refer to him.
+时间： 8:11
+zh-cn:好吧，这还算简单的，但是如果有一大堆要作证的人，那该怎么办呢？在这幅图中，我可以把它当作一件复杂案件的所有证人，但也可以把它看作是互相链接的网页，互相引用其中的内容。哪些网页最有权威性呢？还不太清楚。
+en:OK, that was easy,but now what about if you havea big bunch of people who will testify?And this graph,I may think of it as all peoplewho testify in a complicated crime case,but it may just as well be web pagespointing to each other,referring to each other for contents.Which ones are the most authoritative?Not so clear.
+时间： 8:39
+zh-cn:于是PageRank问世了，它是谷歌最早的基石之一。这种算法运用了数学随机性的定律，来自动判断哪些网页关联最多，与我们在高尔顿板实验中运用随机性的方法一样。那就把一堆小小的数码玻璃珠放到这个图表中，让它们随机的在图中穿行。每当它们到达某个网页，它们就会随机选择一个链接，然后跳转到另一页。一遍又一遍重复。用这些小小的光点，我们记录下每个网页被访问的次数，就用这些数码珠子。
+en:Enter PageRank,one of the early cornerstones of Google.This algorithm uses the lawsof mathematical randomnessto determine automaticallythe most relevant web pages,in the same way as we used randomnessin the Galton Board experiment.So let&#39;s send into this grapha bunch of tiny, digital marblesand let them go randomlythrough the graph.Each time they arrive at some site,they will go out through some linkchosen at random to the next one.And again, and again, and again.And with small, growing piles,we&#39;ll keep the record of how manytimes each site has been visitedby these digital marbles.
+时间： 9:23
+zh-cn:开始喽。一切随机。随着时间推移，为了增强趣味性，这些跳跃是完全随机的。
+en:Here we go.Randomness, randomness.And from time to time,also let&#39;s make jumps completelyrandomly to increase the fun.
+时间： 9:33
+zh-cn:看看这个：在一片混乱中产生了一个答案。这里最高的几堆对应着那些相对来说链接更多的网页，被引用更多次的网页。在这里我们清晰地看到，哪一些是我们最想先看的网页。再一次，问题的解答来源于随机性。当然，从那以来，谷歌已经发明出数不胜数的复杂算法，但是这个算法已经很漂亮了。
+en:And look at this:from the chaos will emerge the solution.The highest pilescorrespond to those siteswhich somehow are betterconnected than the others,more pointed at than the others.And here we see clearlywhich are the web pageswe want to first try.Once again,the solution emerges from the randomness.Of course, since that time,Google has come up with much moresophisticated algorithms,but already this was beautiful.
+时间：10:05
+zh-cn:然而，这只是沧海一粟。随着数字领域的飞速发展，越来越多的问题需要用数学分析来解决，让数学家这个工作变得越来越实用，以至于大约几年前，它在数百个职业中排名第一，这份排名是有关最好和最差的职业，由华尔街日报在2009年发表。
+en:And still,just one problem in a million.With the advent of digital area,more and more problems lendthemselves to mathematical analysis,making the job of mathematiciana more and more useful one,to the extent that a few years ago,it was ranked number oneamong hundreds of jobsin a study about the best and worst jobspublished by the Wall StreetJournal in 2009.
+时间：10:36
+zh-cn:数学家——世界上最好的工作。这是因为它应用广泛：通讯理论、信息理论、博弈论、压缩传感、机器学习、图表分析、谐波分析。还有随机过程、线性编程、或者是流体模拟。以上每一个领域都有规模巨大的工业应用。透过它们可以看出，数学的商机是无限的。我必须承认，谈到从数学中赚钱，美国人可是遥遥领先全世界，有一群标志性绝顶聪明的领导者，还有让人大开眼界的商业巨头，归根结底都不约而同地依赖好的算法。
+en:Mathematician —best job in the world.That&#39;s because of the applications:communication theory,information theory,game theory,compressed sensing,machine learning,graph analysis,harmonic analysis.And why not stochastic processes,linear programming,or fluid simulation?Each of these fields havemonster industrial applications.And through them,there is big money in mathematics.And let me concedethat when it comes to makingmoney from the math,the Americans are by a long shotthe world champions,with clever, emblematic billionairesand amazing, giant companies,all resting, ultimately,on good algorithm.
+时间：11:28
+zh-cn:数学兼具着美、实用性，以及无限商机，它似乎的确更有魅力了。但是你千万别以为数学家的生活很轻松。这种生活满是混乱，满是沮丧，是追求真知的绝望之战。
+en:Now with all this beauty,usefulness and wealth,mathematics does look more sexy.But don&#39;t you thinkthat the life a mathematicalresearcher is an easy one.It is filled with perplexity,frustration,a desperate fight for understanding.
+时间：11:50
+zh-cn:让我向各位讲述我的数学生涯中最特别的一天。或者我应该说，最特别的一晚。那个时候，我待在普林斯顿大学的高等研究所里，这里曾是爱因斯坦多年的家，也很可能是世界上数学研究的神圣之颠。在那个晚上我苦思冥想，寻找一个非常隐晦的证明，它十分的不完整。它都是有关于了解等离子体的矛盾稳定特性，这里指的是一团电子云。在等离子体的理想世界，是没有任何碰撞的，而且没有任何摩擦力，使其像我们习惯的那么稳定。然而，如果你轻微打破等离子体平衡，你会发现相应产生的电场会自发的消失，或者是减弱，好像受到了某种神秘摩擦力的影响。
+en:Let me evoke for youone of the most striking daysin my mathematician&#39;s life.Or should I say,one of the most striking nights.At that time,I was staying at the Institutefor Advanced Studies in Princeton —for many years, the homeof Albert Einsteinand arguably the most holy placefor mathematical research in the world.And that night I was workingand working on an elusive proof,which was incomplete.It was all about understandingthe paradoxical stabilityproperty of plasmas,which are a crowd of electrons.In the perfect world of plasma,there are no collisionsand no friction to providethe stability like we are used to.But still,if you slightly perturba plasma equilibrium,you will find that theresulting electric fieldspontaneously vanishes,or damps out,as if by some mysterious friction force.
+时间：12:53
+zh-cn:这种矛盾的特性，叫做朗道阻尼，是等离子物理中最重要的现象之一，而且它是由数学思想推导出来的。然而，对此现象的完整数学理解还不完善。我和我的前学生、主要合作者克莱蒙·穆奥合作，我们那时在巴黎，我们为了寻找这个证法已经工作了好几个月。实际上，我还错误地宣布我们可以解决这个问题。然而事实上，那种证法完全无效。即使是一百多页的复杂数学推导，还有一大堆的新发现，巨大的计算量，依然得不出个所以然。在普林斯顿的那个晚上，证明中的一个小缺口让我近乎疯狂。我对它使出浑身解数，但是依旧没有进展。凌晨一点、两点、三点，毫无进展。大概凌晨四点的时候，我无精打采的上床。然而几个小时后，我从床上爬起来，“啊，该送孩子们上学了。”……这是什么？我发誓，我的脑袋里有个声音。“把第二项移到等式另一边，“傅里叶展开然后在L2域反变换。”
+en:This paradoxical effect,called the Landau damping,is one of the most importantin plasma physics,and it was discoveredthrough mathematical ideas.But still,a full mathematical understandingof this phenomenon was missing.And together with my former studentand main collaborator Clément Mouhot,in Paris at the time,we had been working for monthsand months on such a proof.Actually,I had already announced by mistakethat we could solve it.But the truth is,the proof was just not working.In spite of more than 100 pagesof complicated, mathematical arguments,and a bunch discoveries,and huge calculation,it was not working.And that night in Princeton,a certain gap in the chain of argumentswas driving me crazy.I was putting in there all my energyand experience and tricks,and still nothing was working.1 a.m., 2 a.m., 3 a.m.,not working.Around 4 a.m., I go to bed in low spirits.Then a few hours later,waking up and go,&quot;Ah, it&#39;s time to getthe kids to school —&quot;What is this?There was this voice in my head, I swear.&quot;Take the second term to the other side,Fourier transform and invert in L2.&quot;
+时间：14:20
+zh-cn:（笑声）
+en:(Laughter)
+时间：14:21
+zh-cn:可恶！这就是解法的开始啊！
+en:Damn it,that was the start of the solution!
+时间：14:26
+zh-cn:你们看到，我觉得我自己在休息，但实际上我的大脑还在持续思考。在那些时刻，你不会想到你的职业生涯或是你的同事，这只是你自己与问题之间的斗争。
+en:You see,I thought I had taken some rest,but really my brain hadcontinued to work on it.In those moments,you don&#39;t think of your careeror your colleagues,it&#39;s just a complete battlebetween the problem and you.
+时间：14:43
+zh-cn:但说到这里，你因为工作努力而受到奖赏当然是很好的事情。在我们完成了朗道阻尼方面的重大研究后，我很幸运地获得了我梦寐以求的菲尔兹奖，我从印度总统手中接过此奖，那是在2010年8月19日，在海德拉巴城——这是一个数学家不敢奢望的奖项，我也会将这天永远铭记在心。
+en:That being said,it does not harm when you do geta promotion in reward for your hard work.And after we completed our hugeanalysis of the Landau damping,I was lucky enoughto get the most coveted Fields Medalfrom the hands of the President of India,in Hyderabad on 19 August, 2010 —an honor that mathematiciansnever dare to dream,a day that I will remember until I live.
+时间：15:13
+zh-cn:对于这样的情况，你们觉得怎样呢？很自豪，对吧？还有对主要合作者的感激之情。而且因为这是一个集体研究，你需要把成果公开，而非只是与合作者共享。我相信每个人都可以欣赏数学研究的刺激感，并且分享精彩研究过程中的人和事。我在昂利·庞加莱研究所与我的团队工作，还有一些其他的合伙人、世界各地的数学交流艺术家，于是我们就可以创立我们自己的，特殊的数学博物馆。
+en:What do you think,on such an occasion?Pride, yes?And gratitude to the many collaboratorswho made this possible.And because it was a collective adventure,you need to share it,not just with your collaborators.I believe that everybody can appreciatethe thrill of mathematical research,and share the passionate storiesof humans and ideas behind it.And I&#39;ve been working with my staffat Institut Henri Poincaré,together with partners and artistsof mathematical communication worldwide,so that we can found our own,very special museum of mathematics there.
+时间：15:57
+zh-cn:再过几年，当你到巴黎来，在你们品尝过美味酥脆的法国长面包和马卡龙（蛋白杏仁饼甜点）之后，请各位也来我们的昂利·庞加莱研究所转一转，与我们共享一个数学的梦。
+en:So in a few years,when you come to Paris,after tasting the great, crispybaguette and macaroon,please come and visit usat Institut Henri Poincaré,and share the mathematical dream with us.
+时间：16:13
+zh-cn:谢谢。
+en:Thank you.
+时间：16:14
+zh-cn:（掌声）
+en:(Applause)

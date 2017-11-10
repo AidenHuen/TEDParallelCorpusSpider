@@ -1,0 +1,66 @@
+时间： 0:11
+zh-cn:最近广为争论的版权法像美国的SOPA禁止网络盗版法案 (Stop Online Piracy Act)和欧洲的ACTA反仿冒贸易协定（Anti-Counterfeiting Trade Agreement）都有些感情用事而且，我觉得引入客观、定量的数据推理会对版权法的争论很有帮助所以，我想说我们要充分利用这个前沿领域：Copyright Math版权数学无论何时谈到有关版权法这个话题
+en:The recent debate over copyright lawslike SOPA in the United Statesand the ACTA agreement in Europehas been very emotional.And I think some dispassionate, quantitative reasoningcould really bring a great deal to the debate.I&#39;d therefore like to proposethat we employ, we enlist,the cutting edge field of copyright mathwhenever we approach this subject.
+时间： 0:32
+zh-cn:比如说，就在最近美国电影协会声明盗版一年给我们的经济造成的损失有580亿美元与其对这个数字进行争论，版权数学家会分析这个数字他很快就会发现这笔钱可以从这个礼堂一直堆到海洋大道...再到威斯汀酒店...然后到火星...（笑声）当然，如果我们用1分硬币来摆这些钱的话
+en:For instance, just recentlythe Motion Picture Association revealedthat our economy loses 58 billion dollars a yearto copyright theft.Now rather than just argue about this number,a copyright mathematician will analyze itand he&#39;ll soon discover that this moneycould stretch from this auditoriumall the way across Ocean Boulevardto the Westin, and then to Mars ...(Laughter)... if we use pennies.
+时间： 1:01
+zh-cn:现在看看，这明显是一个强大的有些人甚至会说是极端强大的说法但这同时也是一个具有重要道德意义的说法。因为这可不是我们常常说到的一些盗版电影的预期零售价而是真正的经济损失这相当于整个美国玉米种植量的损失还有我们所有的水果作物还有麦子，烟草大米和高粱－管它是什么高粱——反正我们是损失了的高粱
+en:Now this is obviously a powerful,some might say dangerously powerful, insight.But it&#39;s also a morally important one.Because this isn&#39;t just the hypothetical retail valueof some pirated movies that we&#39;re talking about,but this is actual economic losses.This is the equivalentto the entire American corn crop failingalong with all of our fruit crops,as well as wheat, tobacco,rice, sorghum —whatever sorghum is — losing sorghum.
+时间： 1:30
+zh-cn:但衡量经济上的实际损失几乎是不可能做到的除非我们用版权数学法自从纳普斯特Napster出现之后现在音乐产业的收入每年都下降80亿元所以这一块就是我们要研究的但是整个电影行业的收入包括剧院，家庭影院以及点播购买电视节目的收入在上升还有电视，卫星电视和有线电视的收入上升了很多其它内容传播市场，像书籍出版和广播的收入也在上升所以少的这一块很让人莫名其妙
+en:But identifying the actual losses to the economyis almost impossible to dounless we use copyright math.Now music revenues are down by about eight billion dollars a yearsince Napster first came on the scene.So that&#39;s a chunk of what we&#39;re looking for.But total movie revenuesacross theaters, home video and pay-per-view are up.And TV, satellite and cable revenues are way up.Other content markets like book publishing and radioare also up.So this small missing chunk hereis puzzling.
+时间： 2:00
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:03
+zh-cn:（掌声）
+en:(Applause)
+时间： 2:06
+zh-cn:由于总体的内容传播市场的收入依照着过去的标准还在增长盗版行为并没有阻止它们的继续增长但是版权数学法告诉我们这一定是因为在一个没有历史记录的市场中有某种预料之外的增长这个市场在1990年代并不存在我们正在看的是电话铃声侵权的潜在成本（笑声）500亿美元一年这已经不少了，一个铃声30秒可以从这里一直延伸到尼安德特人的时代（笑声）这是真的（掌声）我可有Excel表格作证
+en:Since the big content marketshave grown in line with historic norms,it&#39;s not additional growth that piracy has prevented,but copyright math tells usit must therefore be foregone growthin a market that has no historic norms —one that didn&#39;t exist in the 90&#39;s.What we&#39;re looking at hereis the insidious cost of ringtone piracy.(Laughter)50 billion dollars of it a year,which is enough, at 30 seconds a ringtone,that could stretch from hereto Neanderthal times.(Laughter)It&#39;s true.(Applause)I have Excel.
+时间： 2:48
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:50
+zh-cn:电影行业的人还告诉我们我们的经济损失中有超过37，0000的失业是源于内容传播的侵权如果把这个数字放到1998年，这已经不少了美国劳工统计局表明美国电影协会和视频行业雇佣了27,0000名员工其它数据显示音乐行业有大概4,5000人而随着网络带来的失业以及所有的内容传播侵权给我们的内容市场造成了一个负就业这是众多让人崩溃的统计数字之一版权数学家每天要对付这些数据可有些人觉得弦理论很难
+en:The movie folks also tell usthat our economy losesover 370,000 jobs to content theft,which is quite a lot when you consider that, back in &#39;98,the Bureau of Labor Statistics indicatedthat the motion picture and video industrieswere employing 270,000 people.Other data has the music industry at about 45,000 people.And so the job losses that came with the Internetand all that content theft,have therefore left us with negative employment in our content industries.And this is just one of the many mind-blowing statisticsthat copyright mathematicians have to deal with every day.And some people think that string theory is tough.
+时间： 3:25
+zh-cn:（笑声）
+en:(Laughter)
+时间： 3:27
+zh-cn:这是版权数学家工具箱里的一个关键数字它是每当一个歌曲或电影被侵权后给一个传媒公司所带来伤害的准确数字好莱坞和国会在讨论减少版权损失和制定版权法的时候用数学方法计算出这个数字有些人觉得这数字太大了但是作为传媒界游说专家的版权数学家们只是惊讶为什么这个数字不会随着通货膨胀而增长
+en:Now this is a key number from the copyright mathematicians&#39; toolkit.It&#39;s the precise amount of harmthat comes to media companieswhenever a single copyrighted song or moviegets pirated.Hollywood and Congress derived this number mathematicallyback when they last sat down to improve copyright damagesand made this law.Some people think this number&#39;s a little bit large,but copyright mathematicians who are media lobby expertsare merely surprisedthat it doesn&#39;t get compounded for inflation every year.
+时间： 3:56
+zh-cn:在这项法律通过的时候全球最热销的MP3播放器也只能存10首歌而且是圣诞节重磅推出因为小流氓不会把一个偷来的价值100多万的东西放在兜里
+en:Now when this law first passed,the world&#39;s hottest MP3 player could hold just 10 songs.And it was a big Christmas hit.Because what little hoodlum wouldn&#39;t wanta million and a half bucks-worth of stolen goods in his pocket.
+时间： 4:07
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:10
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:15
+zh-cn:如今 一个iPod Classic随身听可以存4,0000首歌也就是说，相当于价值80亿美元的盗版音乐。（掌声）也相当于7,5000个工作岗位。
+en:These days an iPod Classic can hold 40,000 songs,which is to say eight billion dollars-worthof stolen media.(Applause)Or about 75,000 jobs.
+时间： 4:27
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:29
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:34
+zh-cn:也许，你现在觉得版权数学很奇怪但这是因为它是一个最适合专家进行研究的领域今天就先说这么多我希望，下次当我再对国外盗版音乐对美国经济的损失做一个比较科学、以事实为依据的调查时，你们还来听我说
+en:Now you might find copyright math strange,but that&#39;s because it&#39;s a fieldthat&#39;s best left to experts.So that&#39;s it for now.I hope you&#39;ll join me next timewhen I will be making an equally scientific and fact-based inquiryinto the cost of alien music piracy to he American economy.
+时间： 4:51
+zh-cn:非常感谢
+en:Thank you very much.
+时间： 4:53
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:55
+zh-cn:谢谢
+en:Thank you.
+时间： 4:57
+zh-cn:（掌声）
+en:(Applause)

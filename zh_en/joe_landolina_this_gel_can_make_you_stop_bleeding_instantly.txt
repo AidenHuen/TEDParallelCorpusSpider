@@ -1,0 +1,39 @@
+时间： 0:11
+zh-cn:我想要大家想象一下：你是一个士兵奔跑在战场上。现在，你的腿上中了一枪，切断了你的股动脉。现在，血流异常汹涌并且可以在三分钟之内置你于死地。不幸的是，等到救护兵真的来到你身边，拿出他或她腰间的医用设备可能要花上五分钟以上的时间通过施压来止住出血。
+en:I want you guys to imagine that you&#39;re a soldierrunning through the battlefield.Now, you&#39;re shot in the leg with a bullet,which severs your femoral artery.Now, this bleed is extremely traumaticand can kill you in less than three minutes.Unfortunately, by the time that a medicactually gets to you,what the medic has on his or her beltcan take five minutes or more,with the application of pressure,to stop that type of bleed.
+时间： 0:36
+zh-cn:现在，这个问题已经不止是一个军队上的大问题，它同样也是一个涉及到整个医学界的大问题，它涉及到我们究竟该如何看待伤口？我们怎样通过一种符合身体运行机制的方法尽快止血？
+en:Now, this problem is not only a huge problemfor the military, but it&#39;s also a huge problemthat&#39;s epidemic throughout the entire medical field,which is how do we actually look at woundsand how do we stop them quicklyin a way that can work with the body?
+时间： 0:51
+zh-cn:所以，我在过去四年里一直致力于开发智能的生物材料，这些生物材料可以很好的在身体上作用，帮助治愈并且帮助伤口正常愈合。
+en:So now, what I&#39;ve been workingon for the last four yearsis to develop smart biomaterials,which are actually materials that will workwith the body, helping it to healand helping it to allow the wounds to heal normally.
+时间： 1:05
+zh-cn:所以现在，在讲到这些之前，我们要仔细地研究一下身体究竟是怎么运作的。我们在座的各位都知道身体是由细胞构成的。所以细胞是构成生命的最基本单位。但是大多数人对其他的却了解甚少。事实上是，你的细胞散落在错综复杂的纤维，蛋白质和糖之间，它们被统称为细胞外基质。细胞外基质(ECM)实际上是一个可以固定细胞的网架结构，为你的组织结构提供支撑，同样也为细胞提供了容身之所。细胞外基质可以使细胞了解它们在做些什么，它们在哪里，并且告诉它们该怎样运作，怎样表现。
+en:So now, before we do this, we have to take a much closer lookat actually how does the body work.So now, everybody here knowsthat the body is made up of cells.So the cell is the most basic unit of life.But not many people know what else.But it actually turns out that your cellssit in this mesh of complicated fibers,proteins and sugarsknown as the extracellular matrix.So now, the ECMis actually this mesh that holds the cells in place,provides structure for your tissues,but it also gives the cells a home.It allows them to feel what they&#39;re doing,where they are, and tells themhow to act and how to behave.
+时间： 1:44
+zh-cn:另外，事实上，细胞外基质在身体上的不同部位都是彼此不同的。就是说，我皮肤上的细胞外基质与我肝脏细胞外基质是不同的，并且在同样的器官中细胞外基质实际上也会有不同，所以很难实现生产一种产品可以跟不同部位的细胞外基质产生反应，而这正是我们正尝试去做的事情。举一个例子，想象一片热带雨林。你有树冠层，有灌木层，你还有地面层。现在，森林的所有这些组成部分都孕育着不同的植物和不同的动物。所以就像这样，细胞外基质在三维空间内存在令人难以置信的多样性。另外，细胞外基质负责所有伤口愈合的工作，所以如果你想象自己割破了身体，你实际上是要重建这个非常复杂的细胞外基质以便让这个伤口重新愈合，并且伤疤实际上是勉强重新组合的细胞外基质。
+en:And it actually turns out that the extracellular matrixis different from every single part of the body.So the ECM in my skinis different than the ECM in my liver,and the ECM in different parts of the same organactually vary, so it&#39;s very difficultto be able to have a productthat will react to the local extracellular matrix,which is exactly what we&#39;re trying to do.So now, for example, think of the rainforest.You have the canopy, you have the understory,and you have the forest floor.Now, all of these parts of the forestare made up of different plants,and different animals call them home.So just like that, the extracellular matrixis incredibly diverse in three dimensions.On top of that, the extracellular matrixis responsible for all wound healing,so if you imagine cutting the body,you actually have to rebuildthis very complex ECMin order to get it to form again,and a scar, in fact, is actuallypoorly formed extracellular matrix.
+时间： 2:41
+zh-cn:所以现在，在我的身后是一个关于细胞外基质的动画。你可以看到，你的细胞坐落在这个复杂的网络中并且随着你在组织结构中移动，细胞外基质在变化着。所以现在市场上的任一技术产品都只能管理一个二维的细胞外基质，这就意味着它不能被置于组织结构当中。
+en:So now, behind me is an animationof the extracellular matrix.So as you see, your cells sit in this complicated meshand as you move throughout the tissue,the extracellular matrix changes.So now every other piece of technology on the marketcan only manage a two-dimensional approximationof the extracellular matrix,which means that it doesn&#39;t fit inwith the tissue itself.
+时间： 3:03
+zh-cn:所以当我还是纽约大学的一年级新生时，我发现你实际上可以取小片的植物中提取的聚合物然后在伤口上面使它们重新聚合。所以如果你有一个类似于我身后的这样正在流血的伤口，你可以把我们的材料涂抹在这个伤口上面，并且就像是乐高砖块一样，它会与所在部位的组织重新聚合。所以这意味着如果你把它涂在肝脏上，它会转化成一些像肝组织的东西，如果你把在涂在皮肤上，它会变成一些像皮肤组织的东西。所以当你涂上这种凝胶，它会和相应部位的组织重新聚合。所以这个材料有很多的用途，但是最基本的思路就是，不管你把这个产品涂在哪里，它都可以很快的重新聚合。
+en:So when I was a freshman at NYU,what I discovered was you could actually takesmall pieces of plant-derived polymersand reassemble them onto the wound.So if you have a bleeding wound like the one behind me,you can actually put our material onto this,and just like Lego blocks,it&#39;ll reassemble into the local tissue.So that means if you put it onto liver,it turns into something that looks like liver,and if you put it onto skin,it turns into something that looks just like skin.So when you put the gel on,it actually reassembles into this local tissue.So now, this has a whole bunch of applications,but basically the idea is,wherever you put this product,you&#39;re able to reassemble into it immediately.
+时间： 3:43
+zh-cn:这是一个模拟动脉流血—流血警告—是人类动脉压的两倍。这种出血状况是非常非常严峻的，并且就像我之前说过的那样，需要花费五分钟以上的时间来通过施压才能够止住流血。现在，我在介绍这个伤口的这段时间里，我们的材料已经可以止住流血了，这是因为它可以在身体上起作用来愈合伤口。所以它与这块肉聚合在一起，然后血流可以辨别它正在起作用并且产生出纤维蛋白，然后在十秒钟之内很快地封堵伤口。
+en:Now, this is a simulated arterial bleed —blood warning —at twice human artery pressure.So now, this type of bleed is incredibly traumatic,and like I said before, would actually takefive minutes or more with pressureto be able to stop.Now, in the time that it takesme to introduce the bleed itself,our material is able to stop that bleed,and it&#39;s because it actually goes on and workswith the body to heal,so it reassembles into this piece of meat,and then the blood actually recognizesthat that&#39;s happening, and produces fibrin,producing a very fast clot in less than 10 seconds.
+时间： 4:17
+zh-cn:所以现在这项技术—-谢谢。（掌声）
+en:So now this technology — Thank you.(Applause)
+时间： 4:27
+zh-cn:所以这项技术，到一月份的时候，会先由兽医实用，并且我们会努力实现让医生掌握这样的技术，希望可以在接下来的一年中实现。
+en:So now this technology, by January,will be in the hands of veterinarians,and we&#39;re working very diligently to try to get it into the hands of doctors,hopefully within the next year.
+时间： 4:36
+zh-cn:但是，我希望你们可以再想象一次你是一个奔跑在战场上的士兵。现在，你腿上中了一枪，并且取代三分钟之内流尽血的是，你从腰间拿出了一小盒我们的凝胶，按下按钮，你就可以为你自己止血并且你的伤情开始恢复。
+en:But really, once again, I want you guys to imaginethat you are a soldier running through a battlefield.Now, you get hit in the leg with a bullet,and instead of bleeding out in three minutes,you pull a small pack of gel out of your belt,and with the press of a button,you&#39;re able to stop your own bleedand you&#39;re on your way to recovery.
+时间： 4:52
+zh-cn:非常感谢。
+en:Thank you very much.
+时间： 4:54
+zh-cn:（掌声）
+en:(Applause)

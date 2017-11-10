@@ -1,0 +1,30 @@
+时间： 0:12
+zh-cn:（水声）
+en:(Aquatic noises)
+时间： 0:19
+zh-cn:这段视频是在一座海底实验室拍摄的这座实验室距离基拉戈海岸四英里（注：基拉戈位于美国佛罗里达州）海平面以下约 60 英尺处美国宇航局用这种极端环境训练宇航员和海底观探员去年，他们邀请我们一起做研究。所有素材都来自我们的开放 ROV，它是一个我们在自己车库里制造的一个机器人
+en:So this video was takenat Aquarius undersea laboratoryfour miles off the coast of Key Largo,about 60 feet below the surface.NASA uses this extreme environmentto train astronauts and aquanauts,and last year, they invited us along for the ride.All the footage was taken from our open ROV,which is a robot that we built in our garage.
+时间： 0:43
+zh-cn:所以 ROV是”远程操作移动工具“的缩写对我们来说，就是我们的小机器人通过超薄系绳发送实况视频返回到地面上的电脑。它是开放资源，意思是说我们在网络上发布和分享所有的设计档案和所有的代码允许任何人调整或改善，甚至更改设计。制作它所使用的绝大部分部件是工业成品所需要的费用比詹姆斯卡梅隆所使用的用来探索泰坦尼克的远程操作移动工具便宜约1000倍所以 远程操作移动工具并不是新发明出来的。它们已经出现几十年。科学家们使用远程操作移动工具来探索海洋。石油和天然气公司使用它们进行勘探与建设。我们制作的这个机器本身并不独特。它的独特性来自于我们建立它的方式与过程。
+en:So ROV stands for Remote Operated Vehicle,which in our case means our little robotsends live videoacross that ultra-thin tetherback to the computer topside.It&#39;s open source, meaning we publishand share all of our design filesand all of our code online,allowing anyone to modifyor improve or change the design.It&#39;s built with mostly off-the-shelf partsand costs about 1,000 times cheaperthan the ROVs James Cameron usedto explore the Titanic.So ROVs aren&#39;t new.They&#39;ve been around for decades.Scientists use ROVs to explore the oceans.Oil and gas companies use them for explorationand construction.What we&#39;ve built isn&#39;t unique.It&#39;s how we&#39;ve built it that&#39;s really unique.
+时间： 1:31
+zh-cn:所以我想用一个简短的故事，讲述这个工程是如何开始的。几年前，我和我的朋友艾瑞克决定我们想探索一个水下洞穴这个水下洞穴位于山脉的一个山脚下我们听说了一个故事，淘金热时期发生的一次抢劫中抢匪劫获的黄金就藏在那里. 我们很想去那里探险不幸的是，我们没有钱也没有任何工具。所以，艾瑞克的初期构想是做一个机器人，但是我们不知道如何找到所需的零件所以我们做出了任何人在这样的情况下都会做的事那就是在互联网上寻求帮助。更具体地说，我们创建了这个网站，openROV.com，在这个网站上分享的我们意图和计划最初的几个月，只是我和艾瑞克在论坛上相互对话，但是，很快我们就开始接收到回复这些反馈来自于一些创客和爱好者之后，有一些专业的海洋工程师为我们提供建议，告诉我们应该怎样做。我们一直致力于完成它，在过程中学到了很多知识。我们不断的改进我们的设计，并且最终，我们决定要去山洞里了。我们准备好了。
+en:So I want to give you a quick storyof how it got started.So a few years ago, my friend Eric and Idecided we wanted to explore this underwater cavein the foothills of the Sierras.We had heard this story about lost goldfrom a Gold Rush-era robbery,and we wanted to go up there.Unfortunately, we didn&#39;t have any moneyand we didn&#39;t have any tools to do it.So Eric had an initial design idea for a robot,but we didn&#39;t have all the parts figured out,so we did what anybody would do in our situation:we asked the Internet for help.More specifically, we created this website,openROV.com, and shared our intentions and our plansFor the first few months, it was just Eric and Italking back to each other on the forums,but pretty soon, we started to get feedbackfrom makers and hobbyists,and then actually professional ocean engineerswho had some suggestions for what we should do.We kept working on it. We learned a lot.We kept prototyping, and eventually,we decided we wanted to go to the cave. We were ready.
+时间： 2:25
+zh-cn:就在那时候，我们的小探险成为了故事，《纽约时报》刊载了我们的故事。我们被那些希望用一个工具箱就能自己动手制作一个远程操作移动工具的人们包围
+en:So about that time, our little expeditionbecame quite a story,and it got picked up in The New York Times.And we were pretty much just overwhelmedwith interest from people who wanted a kitthat they could build this open ROV themselves.
+时间： 2:36
+zh-cn:所以我们决定将该项目放在 Kickstarter 网站上，我们这样做了，在我们提出资金目标的大约两小时后，突然之间，发现我们有足够的钱来做这些工具包了。然后我们学习如何制作它们。我的意思是，我们必须学习如何小批量得制造它们。我们很快发现，我们的车库已不再足以承载我们日益增长的业务量了。但我们还是完成了所有的工具箱，非常感谢 TechShop 给我们提供的巨大帮助，就在去年的圣诞节前，我们把这些工具箱发往世界各地，这只是几个月前发生的故事。但我们已经开始收到从世界各地发回来的视频和照片包括这张南极冰层下的照片。同时我们也发现，企鹅挺喜爱机器人的。（笑声）
+en:So we decided to put the project on Kickstarter,and when we did,we raised our funding goal in about two hours,and all of a sudden, had this money to make these kits.But then we had to learn how to make them.I mean, we had to learn small batch manufacturing.So we quickly learned that our garagewas not big enough to hold our growing operation.But we were able to do it, we got all the kits made,thanks a lot to TechShop,which was a big help to us,and we shipped these kits all over the worldjust before Christmas of last year,so it was just a few months ago.But we&#39;re already starting to get videoand photos back from all over the world,including this shot from under the ice in Antarctica.We&#39;ve also learned the penguins love robots.(Laughter)
+时间： 3:20
+zh-cn:所以我们继续在网上发布设计资料鼓励人们自己动手制作这些机器人。因为我们之所以能把最初的设想付诸实践，就是依靠网络资源作为一个开放的资源。我们建立了分散式的研究发展网并且我们比任何有风投支持的同行有着更快的进展。但是，机器人只是故事的一半。真正的长期潜力是这个属于DIY海洋探索者的社群在世界各地都形成了。当世界上有成千上万这样的设备我们能探索到什么呢漫游海洋吗？
+en:So we&#39;re still publishing all the designs online,encouraging anyone to build these themselves.That&#39;s the only way that we could have done this.By being open source, we&#39;ve createdthis distributed R&amp;D network,and we&#39;re moving faster thanany venture-backed counterpart.But the actual robot is really only half the story.The real potential, the long term potential,is with this community of DIY ocean explorersthat are forming all over the globe.What can we discoverwhen there&#39;s thousands of these devicesroaming the seas?
+时间： 3:52
+zh-cn:你们估计都在想：洞穴你找到黄金了吗?好吧，我们没找到任何黄金，但是我们坚信，我们发现了更有价值的东西。我们瞥见了，海洋探险事业的未来。这是不再限于卡梅隆们（意指精英们）的世界，而是我们普通大众都能参与的事情。水下的世界我们一起去探索发现。
+en:So you&#39;re probably all wondering: the cave.Did you find the gold?Well, we didn&#39;t find any gold,but we decided that what we foundwas much more valuable.It was the glimpse into a potential futurefor ocean exploration.It&#39;s something that&#39;s not limited tothe James Camerons of the world,but something that we&#39;re all participating in.It&#39;s an underwater worldwe&#39;re all exploring together.
+时间： 4:14
+zh-cn:谢谢。
+en:Thank you.
+时间： 4:16
+zh-cn:（掌声）
+en:(Applause)

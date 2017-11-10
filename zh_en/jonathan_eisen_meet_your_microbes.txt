@@ -1,0 +1,93 @@
+时间： 0:11
+zh-cn:我来先讲一个小故事我在附近的地区长大，我15岁时在四个月里，我从一个自认为的体格强壮的年轻运动员逐渐消瘦直到变成一个饥民有着永不满足的饥渴感基本上我已经消化光了自己的身体情况严重到，在我的一次背包旅途中实际上是我的第一次，在西弗吉尼亚的 Old Rag Mountain我像狗一样把脸埋在水坑里喝水
+en:I&#39;m going to start with a little story.So, I grew up in this neighborhood. When I was 15 years old,I went from being what I think was a strapping young athlete,over four months, slowly wasting away untilI was basically a famine victimwith an unquenchable thirst.I had basically digested away my body.And this all came to a head when I was on a backpacking trip,my first one ever actually, on Old Rag Mountainin West Virginia, and was putting my face into puddlesof water and drinking like a dog.
+时间： 0:44
+zh-cn:那天晚上，我被带到急救室被诊断患有I型糖尿病导致的酮酸中毒后来我康复了，感谢现代医学的奇迹胰岛素和其它东西， 我的体重全恢复了，还有些增长
+en:That night, I was taken into the emergency roomand diagnosed as a type 1 diabetic in full-blown ketoacidosis.And I recovered, thanks to the miracles of modern medicine,insulin and other things, and gained all my weight back and more.
+时间： 1:04
+zh-cn:这些事情发生后， 我心里开始有了些想法当时我想的是， 糖尿病是什么导致的?你们知道， 糖尿病是一种免疫疾病你的身体攻击正常细胞，当时人们认为可能在一些情况下，人体接触到病原体免疫系统被激活，与病原体作斗争结果杀死了制造胰岛素的细胞对于这个解释，我思考了很长一段时间这也是医学和大众主要关注的理论微生物是有害的现在我需要我的助理帮忙你们可能认得她
+en:And something festered inside me after this happened.What I thought about was, what caused the diabetes?You see, diabetes is an autoimmune diseasewhere your body fights itself, and at the time people thoughtthat somehow maybe exposure to a pathogenhad triggered my immune system to fight the pathogenand then kill the cells that make insulin.And this is what I thought for a long period of time,and that&#39;s in fact what medicine and people have focused on quite a bit,the microbes that do bad things.And that&#39;s where I need my assistant here now.You may recognize her.
+时间： 1:43
+zh-cn:其实昨天，很抱歉，我没来听一些演讲我去了一下国家科学院的大楼楼里有人在卖玩具，巨型微生物接好了!如果你接住那一个，你就已经感染了食肉细菌显然我的棒球技能已经不比当年了
+en:So, I went yesterday, I apologize, I skipped a few of the talks,and I went over to the National Academy of Sciences building,and they sell toys, giant microbes.And here we go!So you have caught flesh-eating disease if you caught that one.I gotta get back out my baseball ability here.
+时间： 2:09
+zh-cn:(笑声)
+en:(Laughter)
+时间： 2:12
+zh-cn:所以，不幸的是，也不让人惊奇的是他们在国家科学院大楼卖的微生物玩具是病原菌大家都只关注致死的微生物那也是我当时研究的重点实际上我们正在被厚厚的一层微生物覆盖而多数情况下, 这些微生物对我们是有益的而不是有害致死的而且我们认识到这一点，已经有一段时间了人们用显微镜观察覆盖人体的微生物我知道你没在听我讲话，但是……
+en:So, unfortunately or not surprisingly, most of the microbesthey sell at the National Academy building are pathogens.Everybody focuses on the things that kill us,and that&#39;s what I was focusing on.And it turns out that we are covered in a cloud of microbes,and those microbes actually do us good much of the time,rather than killing us.And so, we&#39;ve known about this for some period of time.People have used microscopes to look at the microbes that cover us,I know you&#39;re not paying attention to me, but ...
+时间： 2:45
+zh-cn:(笑声)
+en:(Laughter)
+时间： 2:48
+zh-cn:这些覆盖人体的微生物如果你用显微镜观察它们你会发现在我们身上的微生物细胞是人体细胞数量的10倍我们身上微生物的质量比我们大脑的质量还重
+en:The microbes that cover us.And if you look at them in the microscope,you can see that we actually have 10 times as many cellsof microbes on us as we have human cells.There&#39;s more mass in the microbes than the mass of our brain.
+时间： 3:04
+zh-cn:我们的身体实际上是一个丰富的微生物生态系统不幸的是, 如果你想要研究微生物仅仅用显微镜观察是不够的我们刚才听到了DNA测序事实证明研究和理解微生物的最好方法之一是研究它们的DNA这正是我20年来一直在做的事我通过DNA测序来分析从不同来源采来的样品其中包括人体样本，测出DNA序列然后从这些DNA序列中了解在特定位置的微生物
+en:We are literally a teeming ecosystem of microorganisms.And unfortunately, if you want to learn about the microorganisms,just looking at them in a microscope is not sufficient.And so we just heard about the DNA sequencing.It turns out that one of the best ways to look at microbesand to understand them is to look at their DNA.And that&#39;s what I&#39;ve been doing for 20 years,using DNA sequencing, collecting samples from various places,including the human body, reading the DNA sequenceand then using that DNA sequencing to tell us aboutthe microbes that are in a particular place.
+时间： 3:37
+zh-cn:神奇的是，在使用这个技术时比如说，研究人体系统我们不只是被覆盖在数量众多的微生物中我们身上的微生物种类也是成千上万的我们覆盖的微生物种群有数百类个基因而且每个人身上的微生物种群各不相同在过去的10或15年里，人们一直在思考也许这些微生物这些人体上覆盖的微生物云以及人和人之间的微生物差异对人类的健康和疾病的个体差异有重要影响
+en:And what&#39;s amazing, when you use this technology,for example, looking at humans, we&#39;re not just coveredin a sea of microbes.There are thousands upon thousands of different kinds of microbes on us.We have millions of genes of microbes in our humanmicrobiome covering us.And so this microbial diversity differs between people,and what people have been thinking about in the last 10,maybe 15 years is, maybe these microbes,this microbial cloud in and on us,and the variation between us, may be responsiblefor some of the health and illness differences between us.
+时间： 4:15
+zh-cn:这就回到了我之前和你们说过的糖尿病的故事结果是人们现在认为一型糖尿病诱因之一并不是与病原体的战争却是因为它其实在试着与身体内外的微生物传达错误的信息然后这些在我身体内外的微生物群落不知怎么地消失了这触发了某种免疫反应让我的身体消灭了自身的制造胰岛素的细胞
+en:And that comes back to the diabetes story I was telling you.It turns out that people now think that one of the triggersfor type 1 diabetes is not fighting a pathogen,but is in fact trying to — miscommunicating with the microbesthat live in and on you.And somehow maybe the microbial community that&#39;sin and on me got off, and then this triggered some sortof immune response and led to me killing the cellsthat make insulin in my body.
+时间： 4:41
+zh-cn:所以在接下来几分钟我想和你们分享的是人们通过DNA测序技术了解到哪些内容尤其是对于身体内外的微生物云我想和你们讲一个有关我个人研究课题的故事我自己的第一次研究人体微生物的经历实际上就来自我在街对角的乔治城大学做的一个演讲
+en:And so what I want to tell you about for a few minutes is,what people have learned using DNA sequencing techniquesin particular, to study the microbial cloudthat lives in and on us.And I want to tell you a story about a personal project.My first personal experience with studying the microbeson the human body actually came from a talk that I gave,right around the corner from here at Georgetown.
+时间： 5:05
+zh-cn:我在那做了个演讲，而乔治城大学医学院的院长刚好是我的一个家族方面的朋友，去听了演讲会后他上来和我说，他们正在做人体回肠移植方面的研究他们想要研究移植后的微生物分布情况
+en:I gave a talk, and a family friend who happened to bethe Dean of Georgetown Medical School was at the talk,and came up to me afterwards saying, they were doinga study of ileal transplants in people.And they wanted to look at the microbes after the transplants.
+时间： 5:20
+zh-cn:所以我开始和Michael Zasloff 和 Thomas Fishbein 合作观察回肠移植后微生物繁殖情况我可以和你们聊这项研究的所有细节但是我想给你们讲这个故事的原因是他们在这个课题开始阶段做了特别惊人的尝试他们取得捐赠者的回肠，里边充满捐赠者身上的微生物同时有受赠者，他们体内的微生物菌群可能出了些问题比如说，克罗恩病患者然后他们消毒捐赠者的回肠清除所有的微生物，然后移植到受赠者体内他们这样做，因为这是医学上的通用做法即便它显然不是一个好主意
+en:And so I started a collaboration with this person,Michael Zasloff and Thomas Fishbein, to look at the microbesthat colonized these ilea after they were transplanted into a recipient.And I can tell you all the details about the microbial studythat we did there, but the reason I want to tell you this storyis something really striking that they did at the beginningof this project.They take the donor ileum, which is filled with microbes from a donorand they have a recipient who might have a problemwith their microbial community, say Crohn&#39;s disease,and they sterilized the donor ileum.Cleaned out all the microbes, and then put it in the recipient.They did this because this was common practicein medicine, even though it was obviousthat this was not a good idea.
+时间： 6:06
+zh-cn:幸好在这个研究过程中移植外科医生和其他成员决定抛开通用做法，我们必须换个办法所以他们留下回肠中的部分微生物菌群他们留下了捐赠者体内的微生物理论上说，这可能对接受回肠移植的人有益
+en:And fortunately, in the course of this project,the transplant surgeons and the other peopledecided, forget common practice. We have to switch.So they actually switched to leaving some of the microbialcommunity in the ileum. They leave the microbes with the donor,and theoretically that might help the people who arereceiving this ileal transplant.
+时间： 6:29
+zh-cn:所以，大家，这就是我这些年来所做的研究在过去几年中，通过DNA技术来观察人体内外的微生物研究有了长足进展人类微生物菌落项目正在美国展开在欧洲, 有人类肠道宏基因组计划(MetaHIT)和很多其它研究
+en:And so, people — this is a study that I did now.In the last few years there&#39;s been a great expansionin using DNA technology to study the microbes in and on people.There&#39;s something called the Human Microbiome Projectthat&#39;s going on in the United States,and MetaHIT going on in Europe, and a lot of other projects.
+时间： 6:45
+zh-cn:当他们做了各种研究他们发现了各种现象，比如一个婴儿从产道出生时母体的微生物菌群会移植到婴儿上剖腹产有一些风险其中有可能包括错误移植当婴儿经由剖腹被取出母体而非从产道生出时, 这有可能发生许多不同研究显示在我们身体和表面的微生物对免疫系统的发育有益帮助击退病原体，促进新陈代谢决定我们的代谢速度可能决定我们的体味还可能在很多方面塑造我们的行为
+en:And when people have done a variety of studies,they have learned things such as, when a baby isborn, during vaginal delivery you get colonized by themicrobes from your mother.There are risk factors associated with cesarean sections,some of those risk factors may be due to mis-colonizationwhen you carve a baby out of its motherrather than being delivered through the birth canal.And a variety of other studies have shown that themicrobial community that lives in and on ushelps in development of the immune system,helps in fighting off pathogens, helps in our metabolism,and determining our metabolic rate, probablydetermines our odor, and may even shape our behaviorin a variety of ways.
+时间： 7:29
+zh-cn:因此这些研究证明或者推断了这些微生物群落的各种重要功能这些在我们体内和表面生活的非病原体，这层“云”的功能有个领域我觉得很有意思就是既然刚才我们刚扔了一群菌到人群中你们中间有许多人也许有这个心态, 我叫它“恐菌症”人们真的很重视清洁, 是吗？我们的厨房桌台上有抗菌用品人们时时刻刻都在洗身上的每个部分抗生素大量地流入我们的食物和居住环境中我们无节制地滥用抗生素
+en:And so, these studies have documented or suggestedout of a variety of important functions for the microbial community,this cloud, the non-pathogens that live in and on us.And one area that I think is very interesting,which many of you may have now that we&#39;ve thrownmicrobes into the crowd, is something that I would call &quot;germophobia.&quot;So people are really into cleanliness, right?We have antibiotics in our kitchen counters,people are washing every part of them all of the time,we pump antibiotics into our food, into our communities,we take antibiotics excessively.
+时间： 8:07
+zh-cn:如果你生病了，杀死病原体是件好事但我们要知道，当我们把化工产品和抗生素注入我们的生活中时，我们也在杀死生活在我们体内和表面的微生物云研究发现，过度使用抗生素，尤其在儿童身上和肥胖、自身免疫疾病以及其它各种健康问题都有关因为抗生素破坏了人体的微生物群落
+en:And killing pathogens is a good thing if you&#39;re sick,but we should understand that when we pump chemicalsand antibiotics into our world, that we&#39;re also killingthe cloud of microbes that live in and on us.And excessive use of antibiotics, in particular in children,has been shown to be associated with, again, risk factorsfor obesity, for autoimmune diseases, for a varietyof problems that are probably due to disruptionof the microbial community.
+时间： 8:35
+zh-cn:所以微生物群落可能会出问题不论我们喜不喜欢或者我们可以用抗生素杀死这些微生物但是我们怎样才能重建这些群落?我相信在座的许多人听说过益生菌群人们可以尝试用益生菌来重建体内和体表的微生物群落已经有一些使用益生菌的成功案例在加州大学戴维斯分校有一项研究人们尝试用益生菌来治疗和预防早产儿的坏死性小肠结肠炎早产儿身上有不少和微生物群落相关的问题也许益生菌可以帮助预防早产儿罹患这种可怕的坏死性小肠结肠炎
+en:So the microbial community can go wrongwhether we want it to or not,or we can kill it with antibiotics,but what can we do to restore it?I&#39;m sure many people here have heard about probiotics.Probiotics are one thing that you can try and do to restorethe microbial community that is in and on you.And they definitely have been shown to be effective in some cases.There&#39;s a project going on at UC Davis where people are usingprobiotics to try and treat, prevent,necrotizing enterocolitis in premature infants.Premature infants have real problems with their microbial community.And it may be that probiotics can help preventthe development of this horrible necrotizing enterocolitisin these premature infants.
+时间： 9:15
+zh-cn:但是益生菌是一个非常，非常简单的解决方法许多你可以吃的药丸或酸奶含有一或两种，还可能五种细菌而人体微生物群落包含数千个菌种所以我们怎样才能重建我们的微生物群落在我们身上有数千种微生物的情况下？
+en:But probiotics are sort of a very, very simple solution.Most of the pills that you can take or the yogurts that you can eathave one or two species in them, maybe five species in them,and the human community is thousands upon thousands of species.So what can we do to restore our microbial communitywhen we have thousands and thousands of species on us?
+时间： 9:38
+zh-cn:好吧，动物们所做的一件事是它们吃类便——食粪症实际上许多兽医尤其是老派的兽医一直在用一种叫“粪便茶”的东西不是屁屁，而是粪便茶来治疗马和牛的腹绞痛和其它类似疾病就是用健康动物的粪便做成茶然后喂给生病的动物喝但是，除非你有一头身上装了研究反刍消化装置的牛，肚子一侧开了个大洞你可以把手伸进它的瘤胃很难想象从嘴巴经过整个消化道上部传输微生物是最好的传输方式所以你们可能听说过有人在做粪便移植，与其将少数益生菌种从口腔传入体内他们将一个益生菌群来自一个健康的捐赠者的整个微生物群落从消化道的另一端送入体内
+en:Well, one thing that animals seem to do is,they eat poo — coprophagia.And it turns out that many veterinarians,old school veterinarians in particular,have been doing something called &quot;poo tea,&quot;not booty, but poo tea, to treat colic and otherailments in horses and cows and things like that,where you make tea from the poo from a healthyindividual animal and you feed it to a sick animal.Although, unless you have a fistulated cow with a big hole in its side,and you can put your hand into its rumen,it&#39;s hard to imagine that the delivery of microbesdirectly into the mouth and through the entiretop of the digestive tract is the best delivery system,so you may have heard in people they are now doingfecal transplants, where rather than deliveringa couple of probiotic microbes through the mouth,they are delivering a community of probiotics,a community of microbes from a healthy donor,through the other end.
+时间：10:47
+zh-cn:事实表明这种做法对于某些顽固的传染病很有疗效比如可以在人体内存活多年的艰难梭状芽孢杆菌感染粪便移植从而实现健康捐赠者的粪便中微生物的移植事实上已经有一些成功治愈系统性艰难梭状芽孢杆菌感染的案例
+en:And this has turned out to be very effective in fightingcertain intransigent infectious diseaseslike Clostridium difficile infections that can staywith people for years and years and years.Transplants of the feces, of the microbes from the feces,from a healthy donor has actually been shown to curesystemic C. dif infections in some people.
+时间：11:09
+zh-cn:这些新的移植方法，这些粪便移植或是粪便茶给我还有很多人以启示我们有了共同的想法就是这些在我们体内外的微生物群落，是一个器官我们应该把它看成一个有功能的器官，看成人体的一部分我们应该认真对待它，尊重它我们不应该在不必要的情况下破坏它的平衡比如采用剖腹产，使用抗生素或过度清洁
+en:Now what these transplants, these fecal transplants, orthe poo tea suggest to me, and many other peoplehave come up with this same idea, is thatthe microbial community in and on us, it&#39;s an organ.We should view it as a functioning organ, part of ourselves.We should treat it carefully and with respect,and we do not want to mess with it, say by C-sectionsor by antibiotics or excessive cleanliness,without some real good justification.
+时间：11:46
+zh-cn:因为用DNA测序技术，人们可以做详细的研究就像比较100个克罗恩病患者和100个没有克罗恩病的人或者比较100个在小时候服用过抗生素的人和100个小时候没服用过抗生素的人我们现在可以开始比较他们的微生物群落和它们的基因来看是否存在差异最终我们可能会弄明白，这些人群间的差异是否不仅仅是相关的，还有因果关系小鼠和其它动物实验模型系统也正帮助我们研究，但人们现在使用DNA测序技术是因为成本已经很低如果要研究不同人体内外的微生物的话
+en:And what the DNA sequencing technologies are allowing people to do nowis do detailed studies of, say, 100 patients who have Crohn&#39;s diseaseand 100 people who don&#39;t have Crohn&#39;s disease.Or 100 people who took antibiotics when they were little,and 100 people who did not take antibiotics.And we can now start to compare the community of microbesand their genes and see if there are differences.And eventually we may be able to understand if they&#39;re notjust correlative differences, but causative.Studies in model systems like mouse and other animalsare also helping do this, but people are now usingthese technologies because they&#39;ve gotten very cheap,to study the microbes in and on a variety of people.
+时间：12:32
+zh-cn:所以，总的来说，我想告诉你们的是我并没有告诉你们我患糖尿病的故事实际上我父亲是个医生他研究内分泌激素。很多次我和他说我又累，又渴，感觉不舒服他耸耸肩，我想，他要么认为我只是爱抱怨，要么是一个医生认为“我家的小孩不会生病”的心态我们甚至举家前往魁北克参加国际内分泌学学会我每五分钟就要起来尿尿吃饭时要喝完每个人的水我想，他们可能都认为我嗑药了
+en:So, in wrapping up, what I want to tell you about is,I didn&#39;t tell you a part of the story of coming down with diabetes.It turns out that my father was an M.D.,actually studied hormones. I told him many timesthat I was tired, thirsty, not feeling very good.And he shrugged it off, I think he either thoughtI was just complaining a lot, or it was the typicalM.D. &quot;nothing can be wrong with my children.&quot;We even went to the International Society of Endocrinologymeeting as family in Quebec.And I was getting up every five minutes to pee,and drinking everybody&#39;s water at the table,and I think they all thought I was a druggie.
+时间：13:17
+zh-cn:（笑声）
+en:(Laughter)
+时间：13:19
+zh-cn:但我和你们说这个故事的原因是在医学界，以我的父亲为例有时候看不到眼前发生的事这层微生物云，就在我们眼前很多时候我们看不到它。它是隐形的它们是微生物，微小的生物。但是我们可以通过它们的DNA看到它们我们可以通过它们对人类的影响看到它们
+en:But the reason I&#39;m telling you this is thatthe medical community, my father as an example,sometimes doesn&#39;t see what&#39;s right in front of their eyes.The microbial cloud, it is right in front of us.We can&#39;t see it most of the time. It&#39;s invisible.They&#39;re microbes. They&#39;re tiny.But we can see them through their DNA,we can see them through the effects that they have on people.
+时间：13:42
+zh-cn:我们现在需要做的是开始思考在人类医学每个方面微生物群落的作用这并不意味着它会影响我们的每一部分但是有这个可能性我们需要一份人类体内和表面的微生物的实地指南这样我们才能了解它们对我们生活的影响我们就是它们。它们就是我们
+en:And what we need nowis to start thinking about this microbial community in the contextof everything in human medicine.It doesn&#39;t mean that it affects every part of us,but it might.What we need is a full field guide to the microbesthat live in and on people, so that we can understandwhat they&#39;re doing to our lives.We are them. They are us.
+时间：14:07
+zh-cn:谢谢
+en:Thank you.
+时间：14:09
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,27 @@
+时间： 0:11
+zh-cn:去年十月（2010年10月）海地出现了50年以来的首次霍乱当时没有任何方法能够预测霍乱将通过水源传播多远以及灾情会恶化到什么程度不知道哪里需要帮助就意味着不能向最需要的地区提供足够的帮助
+en:Cholera was reported in Haitifor the first time in over 50 yearslast October.There was no way to predicthow far it would spread through water suppliesand how bad the situation would get.And not knowing where help was neededalways ensured that help was in short supplyin the areas that needed it most.
+时间： 0:33
+zh-cn:我们虽然很擅长预报和防御暴风雨避免造成人员伤亡或不可挽回的损失但是在水质监测方面我们还达不到这种程度我来解释一下原因目前，如果你想检测一个地区的水质需要一名接受过专业训练的人员像这样昂贵的设备然后再等将近一天的时间等那些化学反应结束之后才能得到最后的结果这过程太慢了因为在拿到水质检测报告之前当地水质可能就发生变化了同时在所有需要进行水质检测的地区进行这种检测成本太高了而且这还忽略了一个事实：进行水质检测的时候，人们还是需要饮水我们收集到的大多数关于霍乱爆发的信息并不来自水质检测而是来自这样的表格它显示了有多少人我们没有来得及帮助到的人
+en:We&#39;ve gotten good at predicting and preparing for stormsbefore they take innocent livesand cause irreversible damage,but we still can&#39;t do that with water,and here&#39;s why.Right now, if you want to test water in the field,you need a trained technician,expensive equipment like this,and you have to wait about a dayfor chemical reactions to take place and provide results.It&#39;s too slowto get a picture of conditions on the groundbefore they change,too expensive to implementin all the places that require testing.And it ignores the fact that, in the meanwhile,people still need to drink water.Most of the information that we collected on the cholera outbreakdidn&#39;t come from testing water;it came from forms like this,which documented all the peoplewe failed to help.
+时间： 1:20
+zh-cn:煤矿里无数生命都被矿里的金丝雀挽救了这是一种简单但有效的方法矿工们可以通过金丝雀得知他们是否处于安全地带这个简单的理念启发了我当时我正和一些特别勤奋、聪明的同事一起想办法解决水质检测问题我们认为这个问题有一种更为简单的解决方案–一种可以随时随地由受灾居民操作的水质检测工具
+en:Countless lives have been savedby canaries in coalmines —a simple and invaluable wayfor miners to know whether they&#39;re safe.I&#39;ve been inspired by that simplicity as I&#39;ve been working on this problemwith some of the most hardworking and brilliant people I&#39;ve ever known.We think there&#39;s a simpler solution to this problem —one that can be usedby people who face conditions like this everyday.
+时间： 1:40
+zh-cn:这个产品还处于研制阶段目前它看上去是这个样子的我们叫它“水质金丝雀”它是一个快速见效而且便宜的设备同时能解决一个重要问题：这里的水是否受到了污染？它不需要操作者受过任何特别培训也不需要等任何化学反应的结果它使用光来进行检测这意味着不需要等待任何化学反应的结果也不需要使用那些总会被耗尽的化学试剂不需要操作者是水质检测专家就能获得很有价值的信息
+en:It&#39;s in its early stages,but this is what it looks like right now.We call it the Water Canary.It&#39;s a fast, cheap devicethat answers an important question:Is this water contaminated?It doesn&#39;t require any special training.And instead of waiting for chemical reactions to take place,it uses light.That means there&#39;s no waitingfor chemical reactions to take place,no need to use reagents that can run outand no need to be an expertto get actionable information.
+时间： 2:13
+zh-cn:要检测水质，你只需要把水样放进去等待几秒钟如果红灯亮，代表水样受到污染如果绿灯亮，代表这里的水是安全的这一发明将使每个人都能获得可以挽救自己生命的信息并且可以监测水质的变化
+en:To test water, you simply insert a sampleand, within seconds,it either displays a red light, indicating contaminated water,or a green light, indicating the sample is safe.This will make it possiblefor anyone to collect life-saving informationand to monitor water quality conditions as they unfold.
+时间： 2:30
+zh-cn:除此之外，我们还在它顶部安装了无线网络这样这个并不贵的设备就有了GPS和GSM功能这意味着所有的检测数据都会被自动发送到总服务器并形成一幅实时监测地图只要有足够多的使用者这样的监测地图就可以被用来指导水质污染防治工作在疫情发展到紧急情况之前就控制住它否则可能需要许多年才能恢复该地的水质现在，不用再等好多天的时间才能把这些信息告诉最需要它的人们人们自动就会得到这些信息我们已经见识过广泛分布的网络以及海量的数据和信息是如何改变我们这个社会的我想是时候将这些技术运用到水质检测了
+en:We&#39;re also, on top of that,integrating wireless networkinginto an affordable devicewith GPS and GSM.What that means is that each reading can be automatically transmitted to serversto be mapped in real time.With enough users,maps like this will make it possibleto take preventive action,containing hazards before they turn into emergenciesthat take years to recover from.And then, instead of taking daysto disseminate this information to the people who need it most,it can happen automatically.We&#39;ve seen how distributed networks,big data and informationcan transform society.I think it&#39;s time for us to apply them to water.
+时间： 3:12
+zh-cn:我们明年的目标是将“水质金丝雀”应用于实地检测并对硬件进行开源这样任何人都可以为设备开发和升级做出贡献从而一起来解决水质监控这一问题
+en:Our goal over the next year is to get Water Canary ready for the fieldand to open-source the hardwareso that anyone can contribute to the development and the evaluation,so we can tackle this problem together.
+时间： 3:21
+zh-cn:谢谢大家
+en:Thank you.
+时间： 3:23
+zh-cn:（掌声）
+en:(Applause)

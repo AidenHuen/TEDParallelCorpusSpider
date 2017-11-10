@@ -1,0 +1,93 @@
+时间： 0:11
+zh-cn:在海洋里石油，塑料和放射性物质有什么共同点呢？
+en:In the ocean,what is the common pointbetween oil, plastic and radioactivity?
+时间： 0:20
+zh-cn:最上面一行是 BP 公司的石油泄漏数十亿桶石油迸发而出倾泻在墨西哥湾中间那行是数百万吨塑料废物堆积在我们的海洋中第三行是从福岛核电站泄漏到太平洋的放射性物质
+en:On the top line, this is the BP oil spill:billions of barrels of oil gushingin the Gulf of Mexico.The middle line is millions of tons ofplastic debris accumulating in our ocean,and the third line is radioactive materialleaking from Fukushima nuclear power plantin the Pacific Ocean.
+时间： 0:39
+zh-cn:所以， 这三个严重问题的共同点就是它们都是人类造成的问题但它们都受自然力量所控制这应该使我们感到非常难受但它也应该使我们感到希望因为如果我们有造成这些问题的能力我们也许就同样有能力解决这些问题
+en:Well, the three big problems have in commonthat they are man-made problemsbut they are controlled by natural forces.This should make us feel very, terribly awfulas much as it should make us feel hopeful,because if we have the power to create these problems,we may as well have the powerto remediate these problems.
+时间： 1:01
+zh-cn:但是自然的力量该怎么办呢？这正是我今天想要说的就是我们该怎样利用自然的力量来解决人为问题当BP公司的石油泄漏的时候
+en:But what about natural forces?Well, that&#39;s exactly what I want to talk about today,is how we can use these natural forcesto remediate these man-made problems.When the BP oil spill happened,
+时间： 1:15
+zh-cn:我正在MIT工作， 而且我负责研发一项清理石油泄漏的科技我有机会去墨西哥湾去见一些渔民去看看他们工作的恶劣环境超过700艘渔船被用作清理油污的船只白色的船用来吸收油污橘红色的用来装载油污但他们仅仅清理了漂浮在海洋表面的油污的百分之三而那些工作人员的健康却受到极大的影响
+en:I was working at MIT, and I was in chargeof developing an oil spill-cleaning technology.And I had a chance to go in the Gulf of Mexicoand meet some fishermen and seethe terrible conditions in which they were working.More than 700 of these boats,which are fishermen boats repurposedwith oil absorbent in whiteand oil containment in orange, were used,but they only collected three percent of the oil on the surface,and the health of the cleanerswere very deeply affected.
+时间： 1:45
+zh-cn:我当时在MIT研发一项有趣的技术但它是一种关于如何发展技术的非常长远的观点而且它会是一项昂贵的技术它也会被申请专利所以我想研发一些发展很快的投入相对小并且开源的技术因为原油泄漏并不仅仅发生在墨西哥湾而且那会使用可再生能源所以我放弃了我梦想的工作搬去新奥尔良我继续学习石油泄漏是怎样发生的
+en:I was working on a very interesting technologyat MIT, but it was a very long-term viewof how to develop technology,and it was going to be a very expensive technology,and also it would be patented.So I wanted to develop something that we coulddevelop very fast, that would be cheap,and that would be open-source, so, becauseoil spills are not only happening in the Gulf of Mexico,and that would be using renewable energy.So I quit my dream job,and I moved to New Orleans,and I kept on studying how the oil spill was happening.
+时间： 2:18
+zh-cn:目前，他们所做的是用这些小渔船来清理而且他们只是在大片被污染的海洋中清理出几条干净的航线如果你用同样面积的原油吸收船，但你会注意到更自然的模式，如果你逆风航行就能收集到更多原油如果你增加船只你就能增加吸收材料的层数那你就能收集到更多更多的原油但让吸收原油的船逆着风向，洋流和海浪航行是极其困难的那些都是非常强大的力量所以最简单的方法是用古代的科技来航行和改变航向从而收集或拦截顺着风向蔓延的原油这并不需要任何发明我们只是拿一艘简单的帆船然后设法让它拖着一些又长又重的东西但当我们来回穿梭的时候我们无法保持两件事我们失去了拉动力和方向
+en:Currently, what they were doing isthat they were using these small fishing boats,and they were cleaning clean lines in an ocean of dirt.If you&#39;re using the exact same amount of surfaceof oil absorbent, but you&#39;re just paying attentionto natural patterns, and if you&#39;re going up the winds,you can collect a lot more material.If you&#39;re multiplying the rig,so you multiply how many layers of absorbentyou&#39;re using, you can collect a lot more.But it&#39;s extremely difficult to move oil absorbentagainst the winds, the surface currents and the waves.These are enormous forces.So the very simple idea was to use the ancient techniqueof sailing and tacking of the windto capture or intercept the oilthat is drifting down the wind.So this didn&#39;t require any invention.We just took a simple sailing boatand we tried to pull something long and heavy,but as we tacked back and forth,what we lost was two things:we were losing pulling power and direction.
+时间： 3:13
+zh-cn:所以我想，我们把船舵从船后面拿到前面来会怎么样呢？我们能控制的更好吗？所以我做了这只小帆船机器人它的舵在前面我试图拖曳一些又长又重的东西所以要拖的是个四米长的物体让我惊讶的是仅仅14厘米的船舵就能控制四米长的吸收材料我非常高兴能一直摆弄这个小机器你能看到这只机器船有一个舵在前面正常的话它应该在后面我摆弄它的时候注意到它的可控性是惊人的我能在最后一秒躲开一个障碍物它比一般的船可控性更强
+en:And so, I thought, what about if we just take the rudderfrom the back of the boat to the front,would we have better control?So I built this small sailing robotwith the rudder at the front,and I was trying to pull something very long and heavy,so that&#39;s a four-meter-long object just to pull,and I was surprised with just a 14-centimeter rudder,I could control four meters of absorbent.Then I was so happy that I kept playing with the robot,and so you see the robot hasa front rudder here.Normally it&#39;s at the back.And, playing, I realized that the maneuverabilityof this was really amazing,and I could avoid an obstacle at the very last second,more maneuverable than a normal boat.
+时间： 3:52
+zh-cn:接着我开始在网上发布一些来自韩国的朋友开始对这项发明感兴趣所以我们又做了一艘船它前面后面都有船舵所以我们开始与它互动它又变好了一点尽管它很小还有一点不平衡但之后我们想我们再多加一些控制点会怎样呢？如果整艘船变成一个控制点会怎样呢？整艘船的形状能够改变会怎样呢？
+en:Then I started publishing online, andsome friends from Korea, they started beinginterested in this, and we made a boatwhich has a front rudder and a back rudder,so we started interacting with this,and it was slightly better,although it was very small and a bit off balance,but then we thought,what if we have more than two points of control?What if the entire boat becomes a point of control?What if the entire boat changes shape?
+时间： 4:14
+zh-cn:所以—（掌声）
+en:So — (Applause)
+时间： 4:17
+zh-cn:非常感谢（掌声）
+en:Thank you very much. (Applause)
+时间： 4:19
+zh-cn:这就是Protei的开始这是历史上第一艘能够完全改变船身形状的船这是为了能更好的控制它这艘帆船的性能也比一般的船好得多当我们转向的时候， 我们有一种冲浪的感觉还有它逆风航行的时候，它非常高效这是低速—低风速的状态可控性提高了很多我来做个小转向看帆的位置现在，因为船身变形了前帆的位置和主控帆的位置对风向来说是不同的我们在两个方向都兜住了风这正是我们所期待的如果我们需要拉动一些又长又重的东西我们就既不能失去拉动力也不能失去方向所以我想知道有没有可能把它投入工业化生产所以我们做了一艘有更大的帆的船它的船身非常轻，充气式的在水面激起的涟漪很小我们的船尺寸很大而且动力很强
+en:And so that&#39;s the beginning of Protei,and that&#39;s the first boat in historythat completely changed the shape of the hullin order to control it,and the properties of sailing that we getare very superior compared to a normal boat.When we&#39;re turning, we have the feeling of surfing,and the way it&#39;s going up-wind, it&#39;s very efficient.This is low speed, low wind speed,and the maneuverability is very increased,and here I&#39;m going to do a small jibe,and look at the position of the sail.What&#39;s happening is that, because the boat changes shape,the position of the front sail and the main sailare different to the wind.We&#39;re catching wind from both sides.And this is exactly what we&#39;re looking [for]if we want to pull something long and heavy.We don&#39;t want to lose pulling power, nor direction.So, I wanted to know if this was possibleto put this at an industrial level,so we made a large boat with a large sail,and with a very light hull, inflatable,very small footprint,so we have a very big size and power ratio.
+时间： 5:17
+zh-cn:这之后， 我们想看看我们能否实施并实现系统的自动化所以我们应用了相同的系统但又加了一个结构， 这样我们就能启动这台机器了所以， 我们应用了相同的囊状充气式系统然后我们拿它做了一次测试这是在荷兰我们把它放在水里，没有加外壳和任何装载物只是看看它是如何工作的我们装了一架摄像机来控制它但很快我们就发现底部需要更多重量所以我们只好把它拿回实验室并给它装上外壳我们装了电池，遥控器然后我们把它放在水中，接着我们让它在水中自由航行，看它工作的有多好我们拿掉绳子，希望它能运转的很好它运行的还行，但我们还有很长的路要走我们的小模型让我们相信这项技术会发展的很好但我们还是有很多工作要做
+en:After this, we wanted to see if we couldimplement this and automate the system,so we used the same system but we addeda structure to it so we could activate the machine.So, we used the same bladder-inflated system,and we took it for testing.So this is happening in the Netherlands.We tried in the water without any skin or ballastjust to see how it works.And then we mounted a camera for controlling it,but quickly we saw that we would needa lot more weight at the bottom,so we had to take it back to the lab,and then we built a skin around it,we put batteries, remote controllers, and thenwe put it in the water and then welet it go in the water and see how well it would work,so let some rope out, and hope it&#39;s going to work,and it worked okay, but we still have a long way.Our small prototype has given us good insightthat it&#39;s working very well,but we still need to work a lot more on this.
+时间： 6:11
+zh-cn:所以我们现在所做的是对帆船的改进科技我们从后置船舵到前置船舵从双舵到多船舵再到改变整个船身的形状我们进展的越多这个设计就变得越简单可爱(笑声）
+en:So what we are doing is an accelerated evolutionof sailing technology.We went from a back rudder to a front rudderto two rudders to multiple ruddersto the whole boat changing shape,and the more we are moving forward,and the more the design looks simple and cute. (Laughter)
+时间： 6:30
+zh-cn:但我想给你们看一条鱼，因为——实际上，它和鱼很不同鱼会游是因为—它们会改变形状但我们的船依旧是靠风力推动的而且由船身控制行进轨道
+en:But I wanted to show you a fish because —In fact, it&#39;s very different from a fish.A fish will move because — by changing like this,but our boat is propelled by the wind still,and the hull controls the trajectory.
+时间： 6:45
+zh-cn:所以我第一次在TED上把Protei 八号展示给你们这不是最新型号但这很适合用来做演示
+en:So I brought to you for the first time on the TED stageProtei Number Eight. It&#39;s not the last one,but it&#39;s a good one for making demos.
+时间： 6:54
+zh-cn:就像我在录像里给你们展示的一样，首先我要给你们看的是我们也许可以更好的控制帆船的行进轨道或者我们再也不会背离风向所以不会逆风行驶我们总是可以两面都迎风这些都是帆船的新性能所以如果你从这个方向看这艘船这或许会让你想到飞机的侧面如果是飞机的话， 当你往这个方向移动的时候开始上升， 然后它就这样起飞了现在， 如果你用相同的系统如果你把它竖着放，它就会变弯如果你让它往这个方向移动你的直觉将会告诉你它将往这个方向运动但如果它移动的足够快你将会造成我们所谓的侧面上升所以我们就能走的更远或者更接近风
+en:So the first thing as I show you in the video isthat we may be able to control the trajectoryof a sailing boat better,or we may be able to never be in irons,so never facing the wind,we always can catch the wind from both sides.But new properties of a sailing boat.So if you&#39;re looking at the boat from this side,this might remind you of an airplane profile.An airplane, when you&#39;re moving in this direction,starts to lift, and that&#39;s how it takes off.Now, if you&#39;re taking the same system,and you&#39;re putting vertical, you&#39;re bending,and if you&#39;re moving this way forward,your instinct will tell you that you might go this way,but if you&#39;re moving fast enough,you might create what we call lateral lift,so we could get further or closer to the wind.
+时间： 7:38
+zh-cn:它的另一个性能是一个普通的帆船在这儿有一个中插板和一个在后面的船舵这两件东西给船造成最多阻力和摇晃但因为这个既没有中插板也没有船舵我们希望如果我们在这种船身设计上努力我们能改进并减少阻力
+en:Other property is this:A normal sailing boat has a centerboard hereand a rudder at the back,and these two things are what creates mostresistance and turbulence behind the boat,but because this doesn&#39;t have eithera centerboard or a rudder,we hope that if we keep working on this hull designwe can improve and have less resistance.
+时间： 8:00
+zh-cn:另外， 大部分船， 当它们达到一定的速度，而且在风浪中航行的时候它们就会撞击和拍打水面这样就会消耗很多前进的能量但如果我们顺着水流行进如果我们注意自然的模式而不是试图与之对抗如果你顺着水流航行，我们会吸收很多来自于环境的噪音，也就是海浪的能量这样就能节省一些前进的能量
+en:The other thing is, most boats, when they reacha certain speed, and they are going on waves,they start to hit and slap on the surface of the water,and a lot of the energy moving forward is lost.But if we&#39;re going with the flow,if we pay attention to natural patternsinstead of trying to be strong,but if you&#39;re going with the flow, we may absorba lot of environmental noises, so the wave energy,to actually save some energy to move forward.
+时间： 8:25
+zh-cn:所以我们可能已经研发出一项技术它可以非常高效地拖曳又长又重的东西但问题是，如果不能给合适的人群使用科技的目的又是什么呢？
+en:So we may have developed the technologywhich is very efficient for pulling something long and heavy,but the idea is, what is the purpose of technologyif it doesn&#39;t reach the right hands?
+时间： 8:38
+zh-cn:正常的科技或创新是这样发生的：有人有了一个有趣的想法其他一些科学家或工程师会将它带入下个阶段， 他们建立关于它的理论然后申请专利接着一些企业会签订合约进而独自生产和销售它然后，终于，一个买家将会购买它但我们希望他们会以好的目的去利用它我们真正希望的是这项创造会持续发生 —发明者和工程师还有制造商和所有人同时工作，但如果他们各自的工作以平行的没有交集的方式进行，将毫无结果你想要的不是一连串的互相平行的发展你想要一个创新的网络你希望每个人，就像我们现在所做的在同时工作，这只有在大家共同决定共享信息的情况下才能发生这正是硬件开源所做的它用合作代替了竞争它将新产品推向市场所以，什么是硬件开源呢？实际上， 硬件开源是一个协议它只是一项知识产权计划它意味着每个人都有权使用，改造和贡献，还有交换我们只要求两件事保留这项计划的项目的名字还有那些帮助完善这个计划的人的他们在协作社区中相互分享所以这非常简单
+en:Normal technology or innovation happens like this:Somebody has an interesting idea,some other scientist or engineer,they take it to the next level, they make a theory about itand maybe they patent it,and then some industry will make a contractof exclusivity to manufacture and sell it,and then, eventually, a buyer will buy it,and we hope that they are going to use [it] for a good purpose.What we really want is that this innovation happenscontinuously. The inventor and engineersand also the manufacturers and everybodyworks at the same time, but this would be sterileif this was happening in a parallel and uncrossed process.What you really want is not a sequential,not parallel development.You want to have a network of innovation.You want everybody, like we&#39;re doing now,to work at the same time, and that can only happenif these people all together decide to share the information,and that&#39;s exactly what open hardware is about.It&#39;s to replace competition by collaboration.It&#39;s to transform any new product into a new market.So what is open hardware?Essentially, open hardware is a license.It&#39;s just an intellectual property setup.It means that everybody is free to use,modify and distribute, and in exchangewe only ask for two things:The name is credited — the name of the project —and also the people who make improvement,they share back with the community.So it&#39;s a very simple condition.
+时间： 9:59
+zh-cn:我独自在新奥尔良的一间仓库里开始了这个计划但很快的，我想要发布并分享这个信息，所以我制作了一个Kickstarter,它是一个向大众筹集资金的平台在大约一个月时间里我们就筹集到三万美元我用这些钱雇佣了一组年轻的工程师他们来自世界各地，我们还在荷兰的鹿特丹租了一间工厂我们一起学习，一起实施工程我们做东西，做模型但最重要的是我们尽可能经常地在水里试验我们的技术原型为了从中学习，我们必须让它尽可能快的失败这是我们一位来自韩国的重要成员右边的是一个多重桅杆它是由来自墨西哥的一个团队设计的纽约的Gabriella Levine 非常喜欢这个主意于是她决定做个模型把她看到的做出来，然后把每个过程记录下来然后她把它发布在Instructables 上那是一个分享发明的网站不到一星期这是一个艾恩德霍文（荷兰城市）的小组，他们都是工程师他们将它制造出来，但他们最终发布了一个简单的设计他们也把它发布在Instructable上不到一星期，他们就有将近一万次浏览，而且他们交到很多新朋友我们正在研发的也是简单的科技不是特别复杂，我们中有年轻人也有老人就像这只来自墨西哥的恐龙（笑声）
+en:And I started this project alone in a garage in New Orleans,but quickly after I wanted to publish and sharethis information, so I made a Kickstarter,which is a crowd-fundraising platform,and in about one month we fundraised 30,000 dollars.With this money, I hired a team of young engineersfrom all over the world, and we rented a factoryin Rotterdam in the Netherlands.We were peer-learning, we were engineering,we were making things, prototyping,but most importantly we were trying our prototypesin the water as often as possible,to fail as quickly as possible, to learn from.This is a proud member of Protei from Korea,and on the right side, this is a multiple-mastsdesign proposed by a team in Mexico.This idea really appealed to Gabriella Levinein New York, and so she decided to prototypethis idea that she saw, and she documentedevery step of the process,and she published it on Instructables,which is a website for sharing inventions.Less than one week after,this is a team in Eindhoven, it&#39;s a school of engineering.They made it, but they eventually publisheda simplified design.They also made it into an Instructable,and in less than one week, they hadalmost 10,000 views, and they got many new friends.We&#39;re working on also simpler technology,not that complex, with younger peopleand also older people,like this dinosaur is from Mexico. (Laughter)
+时间：11:19
+zh-cn:所以Protei 项目现在是一个全球性的利用这个变形船身来销售科技的创新网络让我们聚在一起的是对“商业”这个词的相同的全球性理解或者说它的发展方向这就是现在它工作的方式商业，正如通常所说最重要的是盈利，你将会使用科技来达到目标，而人们将会成为你的劳动力工具化和环境通常是最后要考虑的它只是给你的听众的一个绿色假象以此来抬高价格
+en:So Protei is now an international networkof innovation for selling technologyusing this shape-shifting hull.And what puts us together is that we have a common,at least, global understandingof what the word &quot;business&quot; is, or what it should be.This is how most work today.Business as usual is saying, what&#39;s most importantis to make lots of profit, and you&#39;ll be usingtechnology for that, and people will be your work force,instrumentalized,and environment is usually the last priority.It will be just a way to, say, greenwash your audienceand, say, increase your price tag.
+时间：11:56
+zh-cn:我们正在做的是，或者我们相信的是我们相信世界实际上这样运转没有环境你就什么都没有我们需要大众的支持，所以我们需要互相保护，对而且我们是一家科技公司而盈利是使这一切成为可能的必要条件（掌声）
+en:What we&#39;re trying to do, or what we believe,because this is how we believe the world really works,is that without the environment you have nothing.We have the people so we need to protect each other, yes,and we&#39;re a technology company,and profit is necessary to make this happen. (Applause)
+时间：12:13
+zh-cn:非常感谢（掌声）
+en:Thank you very much. (Applause)
+时间：12:17
+zh-cn:如果我们有勇气去理解和接受这世界真正的运转方式那么我们必须选择这样的优先顺序这就非常清楚的解释了为什么我们需要选择硬件开源来发展环境科技因为我们需要共享信息
+en:If we have the courage to understand or acceptthat this actually how the world really works,and this is the order of priority that we need to choose,then it makes obvious why we needto choose open hardware for developing environmentaltechnology, because we need to share information.
+时间：12:32
+zh-cn:对我们来说下一步是什么？
+en:What&#39;s next for us?
+时间：12:34
+zh-cn:你们看到的那台小机器我们希望能制造像那个可以升级和遥控的一米长的Protei那样的小玩具你可以把遥控器换成安卓换成智能手机，还有Arduino微型操控系统所以你就能利用你的手机或平板电脑控制它然后我们要做的是制造六米长的版本这样我们就能测试这些机器的最佳性能这样我们就能达到非常非常大的速度所以你们自己想象吧你躺在一个灵活的鱼雷上高速航行用你的腿控制船身的形状用你的胳膊控制帆那就是我们希望完成的东西
+en:So, this small machine that you&#39;ve seen,we&#39;re hoping to make small toys likeone-meter remote control Protei that you can upgrade —so replace the remote control parts by Androids,so the mobile phone, and Arduino micro-controller,so you could be controlling thisfrom your mobile phone, your tablet.Then what we want to do is create six-meter versionsso we can test the maximum performance of these machines,so we can go at very, very high speed.So imagine yourself.You are laying down in a flexible torpedo,sailing at high speed,controlling the shape of the hull with your legsand controlling the sail with your arms.So that&#39;s what we&#39;re looking for developing. (Applause)
+时间：13:14
+zh-cn:我们还可以替换人类—比如，测量放射性物质的时候你不会想让人类去驾驶那些船所以就用电池，发动机，微型控制器和传感器来代替人类这就是我们的队员每天晚上梦到的事我们希望我们有一天能清理掉泄漏的原油或者收集或聚集海洋中的塑料废物或者我们能够拥有一大群这种机器被多人网络游戏引擎所控制来控制很多这些机器去监测珊瑚礁去监控鱼群
+en:And we replace the human being —to go, for example, for measuring radioactivity,you don&#39;t want a human to be sailing those robots —with batteries, motors, micro-controllers and sensors.This is what our teammates, we dream of at night.We hope that we can sometime clean up oil spills,or we can gather or collect plastic in the ocean,or we can have swarms of our machinescontrolled by multi-player video game enginesto control many of these machines,to monitor coral reefsor to monitor fisheries.
+时间：13:47
+zh-cn:我们希望可以用硬件开源技术来更好的了解和保护我们的海洋
+en:Our hope is that we can use open hardware technologyto better understand and protect our oceans.
+时间：13:55
+zh-cn:非常感谢（掌声）掌声
+en:Thank you very much. (Applause)(Applause)

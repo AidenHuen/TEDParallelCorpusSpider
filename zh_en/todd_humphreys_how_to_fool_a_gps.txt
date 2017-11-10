@@ -1,0 +1,114 @@
+时间： 0:12
+zh-cn:在2000年5月2号的一大早发生了一件事，这件事对我们的社会是如何运作的有着极大的影响。很讽刺的是，几乎没有人注意到它。那个改变是静悄悄的，难以察觉的，除非你非常清楚要注意什么。那天早上，美国总统比尔.克林顿命令在全球定位系统（GPS）的轨道卫星中开启一个特殊的开关。立刻，全球的每一个民用GPS的误差从足球场那么大变成了一个小房间那么大。
+en:Something happened in the early morning hoursof May 2nd, 2000, that had a profound effecton the way our society operates.Ironically, hardly anyone noticed at the time.The change was silent, imperceptible,unless you knew exactly what to look for.On that morning, U.S. President Bill Clintonordered that a special switch be thrownin the orbiting satellites of the Global Positioning System.Instantaneously, every civilian GPS receiveraround the globe went from errors the size of a football fieldto errors the size of a small room.
+时间： 0:53
+zh-cn:这个准确度的变化带给我们的影响怎么强调都不过分。在这个开关开启前，我们没有车载导航系统给我们一个转弯接转弯的指向，因为在过去，GPS连你在哪个街区都不知道，更不用说街道了。
+en:It&#39;s hard to overstate the effect that this changein accuracy has had on us.Before this switch was thrown, we didn&#39;t havein-car navigation systems giving turn-by-turndirections, because back then, GPS couldn&#39;t tell youwhat block you were on, let alone what street.
+时间： 1:09
+zh-cn:对地理定位来说，准确度非常重要，而情况只在过去10年中有所改善。随着更多基站、地面接收站的建设，更好的接收器和算法的发展，GPS现在不仅能告诉你你在哪条街，还能告诉你你在街道的哪部分。
+en:For geolocation, accuracy matters,and things have only improved over the last 10 years.With more base stations, more ground stations,better receivers and better algorithms,GPS can now not only tell you what street you are on,but what part of the street.
+时间： 1:28
+zh-cn:这种程度的准确度引发了一系列的创新。事实上，在座的很多人今天都是靠TomTom或者智能手机的导航摸到这儿的。纸地图变得过时了。
+en:This level of accuracyhas unleashed a firestorm of innovation.In fact, many of you navigated here todaywith the help of your TomTom or your smartphone.Paper maps are becoming obsolete.
+时间： 1:43
+zh-cn:但现在我们站在地理精确定位的另一场革命的边缘。如果我告诉你，我们现有的手机和TomTom给我们的两米定位跟我们接下来能有的定位系统比逊色得多，你会怎么想？相当一段时间以来，我们都知道如果你注意GPS的载波相位，而且有网络连接的话，你的定位精准度可以从米提到高厘米，甚至毫米。
+en:But we now stand on the verge of another revolutionin geolocation accuracy.What if I told you that the two-meter positioningthat our current cell phones and our TomToms give usis pathetic compared to what we could be getting?For some time now, it&#39;s been known that if you pay attentionto the carrier phase of the GPS signal,and if you have an Internet connection,then you can go from meter level to centimeter level,even millimeter-level positioning.
+时间： 2:13
+zh-cn:那么为什么我们的手机不能有这种功能？这仅仅是——我认为——缺乏想象力罢了。制造商还没有把这种载波相位技术装进他们便宜的GPS芯片中，因为他们不确定公众会怎么想，如果地理定位精确到你可以精准找到你手掌中的皱纹。但是你和我和其他的创新者，我们都能看到这个精准度的再次飞跃的潜能。想象一下，比如说，一个放大现实的应用程序。它能在现实世界之上覆盖一个精确到毫米的虚拟世界。我可以在这儿给你造一个3D的结构，精准到毫米，只有你能看见，或者只有我在家的朋友能看见。
+en:So why don&#39;t we have this capability on our phones?Only, I believe, for a lack of imagination.Manufacturers haven&#39;t built this carrier phase techniqueinto their cheap GPS chipsbecause they&#39;re not sure what the general public would dowith geolocation so accurate that you could pinpointthe wrinkles in the palm of your hand.But you and I and other innovators,we can see the potential in this next leap in accuracy.Imagine, for example, an augmented reality appthat overlays a virtual world to millimeter-level precisionon top of the physical world.I could build for you a structure up here in 3D,millimeter accurate, that only you could see,or my friends at home.
+时间： 2:58
+zh-cn:这个程度的定位，才是我们想要的，我相信，在接下来的几年中，我预测，这种极其精准、基于载波相位的定位会变得便宜而普及，其影响将会是无比奇妙的。
+en:So this level of positioning, this is what we&#39;re looking for,and I believe that, within the next few years, I predict,that this kind of hyper-precise, carrier phase-based positioningwill become cheap and ubiquitous,and the consequences will be fantastic.
+时间： 3:17
+zh-cn:圣杯，当然了，就是那个GPS点。你们记得电影《达芬奇密码》么？这是Langdon教授在检查一个GPS点，他的同谋告诉他这是一个跟踪仪器，能精确到全球任何地方两英尺之内。但我们知道在真实世界中，GPS点是不可能的，对吧？问题之一就是，GPS不能在室内工作。还有一个问题，就是他们造不出这么小的仪器，特别是当这些仪器需要依靠后方网络的测量时。
+en:The Holy Grail, of course, is the GPS dot.Do you remember the movie &quot;The Da Vinci Code?&quot;Here&#39;s Professor Langdon examining a GPS dot,which his accomplice tells him is a tracking deviceaccurate within two feet anywhere on the globe,but we know that in the world of nonfiction,the GPS dot is impossible, right?For one thing, GPS doesn&#39;t work indoors,and for another, they don&#39;t make devices quite this small,especially when those devices have to relaytheir measurements back over a network.
+时间： 3:51
+zh-cn:这些反对意见在几年前是充分合理的，但现在事情不一样了。现在的潮流是往小的造，往更精确的造。几年前，一个GPS定位器大小和钥匙左边那个笨重的盒子差不多。对比一下几个月前刚出的新仪器，跟钥匙袋差不多大。如果我们再来看看最先进的完整的GPS接收器，它边长只有一厘米，比以往都更灵敏。我们就会意识到，GPS点将很快从虚构变成现实。
+en:Well, these objections were perfectly reasonablea few years ago, but things have changed.There&#39;s been a strong trend toward miniaturization,better sensitivity, so much so that, a few years ago,a GPS tracking device looked like this clunky boxto the left of the keys.Compare that with the device released just months agothat&#39;s now packaged into something the size of a key fob,and if you take a look at the state of the artfor a complete GPS receiver, which is only a centimeteron a side and more sensitive than ever,you realize that the GPS dot will soon movefrom fiction to nonfiction.
+时间： 4:30
+zh-cn:想象一下如果我们生活在一个满是GPS点的世界里会怎么样。不仅仅是我们再也不会丢钱包丢钥匙了，或者在迪士尼公园把小孩搞丢了。我们会成批量地买GPS点，把它们贴到我们所有的价值超过几十美元的东西上。
+en:Imagine what we could do with a world full of GPS dots.It&#39;s not just that you&#39;ll never lose your wallet or your keysanymore, or your child when you&#39;re at Disneyland.You&#39;ll buy GPS dots in bulk, and you&#39;ll stick them oneverything you own worth more than a few tens of dollars.
+时间： 4:49
+zh-cn:不久前一个早上，我找不到我的鞋子了。和往常一样，我只好问我妻子有没有看见我的鞋子。但我不应该用这种小事来麻烦我妻子。我应该能问我的房子，我的鞋子在哪里。（笑）
+en:I couldn&#39;t find my shoes one recent morning,and, as usual, had to ask my wife if she had seen them.But I shouldn&#39;t have to bother my wife with that kind of triviality.I should be able to ask my house where my shoes are.(Laughter)
+时间： 5:04
+zh-cn:在座的改用Gmail的人，你们还记得从整理你们的所有邮件到简单地搜索邮件，那感觉是多么得耳目一新么？GPS点会为我们的财产做同样的事。
+en:Those of you who have made the switch to Gmail,remember how refreshing it was to go fromorganizing all of your email to simply searching it.The GPS dot will do the same for our possessions.
+时间： 5:19
+zh-cn:当然，GPS点也有不好的一面。几个月前，我在我的办公室里，接到一个电话。电话另一头的女士，我们管她叫Carol，非常惊慌。很显然，Carol的一个来自加州的前男友在德州找到了她，然后一直跟着她不放。你可能会问，那她给你打电话干吗。好吧，我也问了同样的问题。原来在Carol的事件中有个技术上的难题。每次她的前男友出现，在最不合适的时间和最不合适的地点，他都带着一台开着的笔记本电脑。一段时间后，Carol意识到他在她车上放了一个GPS跟踪器。她打电话给我，希望我能把跟踪器拆了。
+en:Now, of course, there is a flip side to the GPS dot.I was in my office some months backand got a telephone call.The woman on the other end of the line, we&#39;ll call her Carol,was panicked.Apparently, an ex-boyfriend of Carol&#39;s from Californiahad found her in Texas and was following her around.So you might ask at this point why she&#39;s calling you.Well, so did I.But it turned out there was a technical twist to Carol&#39;s case.Every time her ex-boyfriend would show up,at the most improbable times and the most improbable locations,he was carrying an open laptop,and over time Carol realized that he had planteda GPS tracking device on her car,so she was calling me for help to disable it.
+时间： 6:07
+zh-cn:“你应该找一个好的技工，让他看下你的车。”我说。
+en:&quot;Well, you should go to a good mechanicand have him look at your car,&quot; I said.
+时间： 6:13
+zh-cn:“我已经找过了。”她告诉我。“他没找到任何明显的东西，他说除非他把车一块儿一块儿地拆了。”
+en:&quot;I already have,&quot; she told me.&quot;He didn&#39;t see anything obvious,and he said he&#39;d have to take the car apart piece by piece.&quot;
+时间： 6:21
+zh-cn:“那么，你最好去见警察。”我说。
+en:&quot;Well then, you&#39;d better go to the police,&quot; I said.
+时间： 6:24
+zh-cn:“我已经见过了。”她回答。“他们不确定这是否构成骚扰，而且他们在技术上无能为力，找不到跟踪器。”
+en:&quot;I already have,&quot; she replied.&quot;They&#39;re not sure this rises to the level of harassment,and they&#39;re not set up technically to find the device.&quot;
+时间： 6:34
+zh-cn:“好吧，联邦调查局怎么样？”
+en:&quot;Okay, what about the FBI?&quot;
+时间： 6:35
+zh-cn:“我也问过他们了，同样的故事。”
+en:&quot;I&#39;ve talked to them too, and same story.&quot;
+时间： 6:39
+zh-cn:我们接下来谈到让她到我的实验室，给她的车做个无线电扫描。但我甚至不确定这有没有用，因为有些跟踪器的设置是只有它们在安全区、或只有在车移动时才会传输信号。
+en:We then talked about her coming to my laband us performing a radio sweep of her car,but I wasn&#39;t even sure that would work,given that some of these devices are configuredto only transmit when they&#39;re inside safe zonesor when the car is moving.
+时间： 6:54
+zh-cn:好吧，问题出现了。Carol不是第一个，也肯定不会是最后一个，处于因GPS跟踪而造成的可怕的情形中的人。
+en:So, there we were.Carol isn&#39;t the first, and certainly won&#39;t be the last,to find herself in this kind of fearsome environment,worrisome situation caused by GPS tracking.
+时间： 7:09
+zh-cn:事实上，在我研究她的事件时，我很吃惊地发现，在别人的车上装跟踪仪器并没有被明确得规定为非法行为。最高法院上个月判决，一个警察如果要延长对某个人的跟踪时。必须得到授权。但是法律没有明确规定平民这样做会如何。我们要担心的不仅仅是“老大哥”，还有“老大邻居”。（笑）
+en:In fact, as I looked into her case,I discovered to my surprise that it&#39;s not clearly illegalfor you or me to put a tracking device on someone else&#39;s car.The Supreme Court ruled last month that a policemanhas to get a warrant if he wants to do prolonged tracking,but the law isn&#39;t clear about civilians doing this to one another,so it&#39;s not just Big Brother we have to worry about,but Big Neighbor. (Laughter)
+时间： 7:36
+zh-cn:Carol可选的另一个做法会非常有效。它叫做电波气泡。它是个开放源码的GPS干扰，是Limor Fried研发的。Limor是麻省理工的一个研究生，她把它叫做“一个收回我们的私人空间的工具”。一旦开启开关，你就在你的周围创造了一个气泡，GPS信号进不了这个气泡。它们被气泡排除在外。Limor设计这个东西的原因之一就是，像Carol一样，她觉得GPS跟踪是个很大的威胁。她把她的设计发布到了网上。如果你没有时间自己造一个的话，你可以买一个。中国的制造商现在在网上出售成千的几乎一模一样的仪器。
+en:There is one alternative that Carol could have taken,very effective. It&#39;s called the Wave Bubble.It&#39;s an open-source GPS jammer,developed by Limor Fried,a graduate student at MIT, and Limor calls it&quot;a tool for reclaiming our personal space.&quot;With a flip of the switch you create a bubble around youwithin which GPS signals can&#39;t reside.They get drowned out by the bubble.And Limor designed this, in part, because, like Carol,she felt threatened by GPS tracking.Then she posted her design to the web,and if you don&#39;t have time to build your own,you can buy one.Chinese manufacturers now sell thousandsof nearly identical devices on the Internet.
+时间： 8:26
+zh-cn:你也许会想，电波气泡听起来棒极了。我应该买一个。如果有人在我的车上放个跟踪器，这个气泡就派上大用场了。但你需要知道，使用气泡在美国是违法的。为什么呢？因为它根本不是一个气泡。它的干扰信号并不限于你的私人空间或你的车。它们还干扰到你周围数英里的无辜的GPS接收器。（笑）
+en:So you might be thinking, the Wave Bubble sounds great.I should have one. Might come in handy if somebody ever puts a tracking device on my car.But you should be aware that its use is very much illegalin the United States.And why is that?Well, because it&#39;s not a bubble at all.Its jamming signals don&#39;t stop at the edgeof your personal space or at the edge of your car.They go on to jam innocent GPS receivers for miles around you. (Laughter)
+时间： 8:54
+zh-cn:如果你是Carol或Limor，或是受GPS跟踪威胁的某个其他人，开启电波气泡也许并不感觉不妥，但事实是，其结果将是灾难性的。想象一下，假设你是一艘游轮的船长，你试图在大雾中找到方向。这时游轮上某个乘客开启了气泡。突然之间，你的GPS读数一片空白，只剩下你和雾，和你能从雷达系统中得到的随便什么东西，如果你还记得怎么使用雷达系统。他们——事实上，他们早已不再更新和保养灯塔了，LORAN，GPS的唯一备用，在去年停止了。
+en:Now, if you&#39;re Carol or Limor,or someone who feels threatened by GPS tracking,it might not feel wrong to turn on a Wave Bubble,but in fact, the results can be disastrous.Imagine, for example, you&#39;re the captain of a cruise shiptrying to make your way through a thick fogand some passenger in the back turns on a Wave Bubble.All of a sudden your GPS readout goes blank,and now it&#39;s just you and the fogand whatever you can pull off the radar systemif you remember how to work it.They — in fact, they don&#39;t update or upkeep lighthousesanymore, and LORAN, the only backup to GPS,was discontinued last year.
+时间： 9:41
+zh-cn:我们的现代社会和GPS有个特别的关系。我们几乎是盲目地依赖它。它深深地被建入到我们的系统和设施中。一些人管它叫“看不见的工具”。所以说，开启一个电波气泡造成的可能不止是不便。其后果可能是致命的。
+en:Our modern society has a special relationship with GPS.We&#39;re almost blindly reliant on it.It&#39;s built deeply into our systems and infrastructure.Some call it &quot;the invisible utility.&quot;So, turning on a Wave Bubble might not just cause inconvenience.It might be deadly.
+时间：10:04
+zh-cn:但事实上是，为了保护个人隐私而牺牲普通GPS的可靠性，有一个比电波气泡更有效、更颠覆性的东西，它就是GPS欺骗器。
+en:But as it turns out, for purposes of protecting your privacyat the expense of general GPS reliability,there&#39;s something even more potentand more subversive than a Wave Bubble,and that is a GPS spoofer.
+时间：10:21
+zh-cn:GPS欺骗器背后的原理很简单。它不发射干扰信号，它发射假信号。你模仿这些信号，如果你做得好的话，你攻击的仪器甚至都不知道它被骗了。
+en:The idea behind the GPS spoofer is simple.Instead of jamming the GPS signals, you fake them.You imitate them, and if you do it right, the deviceyou&#39;re attacking doesn&#39;t even know it&#39;s being spoofed.
+时间：10:34
+zh-cn:我来给大家展示一下它是怎么工作的。任何GPS接收器中都有一个高峰，它对应的是真实的信号。这三个红点代表跟踪点，它们会尽量地保持在高峰中央。但如果你发射一个假GPS信号，另一个高峰就出现了。如果你能让这两个高峰完全重合，跟踪点就分别不出差别，它们就被更强的假信号劫持了，真实的信号被逼走了。到这会儿游戏就结束了。假信号完全控制了GPS接收器。
+en:So let me show you how this works.In any GPS receiver, there&#39;s a peak insidethat corresponds to the authentic signals.These three red dots represent the tracking pointsthat try to keep themselves centered on that peak.But if you send in a fake GPS signal,another peak pops up, and if you can get these two peaksperfectly aligned, the tracking points can&#39;t tell the difference,and they get hijacked by the stronger counterfeit signal,with the authentic peak getting forced off.At this point, the game is over.The fake signals now completely control this GPS receiver.
+时间：11:12
+zh-cn:这真得可能么？有人真得能用一个欺骗器，控制一个GPS接收器的时间和位置，就像图中那样？简单的回到是，可以。问题的关键是，民用GPS信号是完全开放的。它们没有加密。它们没有验证。它们完全开放，对欺骗性的攻击完全没有抵抗力。即使这样，直到最近，还没有人担心过GPS欺骗器这回事儿。人们知道，造这样一个欺骗器太复杂，或者太贵。
+en:So is this really possible?Can someone really manipulatethe timing and positioning of a GPS receiverjust like that, with a spoofer?Well, the short answer is yes.The key is that civil GPS signalsare completely open.They have no encryption. They have no authentication.They&#39;re wide open, vulnerable to a kind of spoofing attack.Even so, up until very recently,nobody worried about GPS spoofers.People figured that it would be too complexor too expensive for some hacker to build one.
+时间：11:43
+zh-cn:但是我，和我同一个研究生院毕业的朋友，我们不这么认为。我们知道它不会很难，我们想成为最先造欺骗器的人。这样我们就可以走在问题前面，打击不良GPS欺骗。我清晰地记得我们成功的那一周。我们在家里造了一个欺骗器。我三岁的儿子Ramon帮了我点儿小忙。这是Ramon——（笑）——他那个星期一直在试图得到爸爸的关注。起初，我们的欺骗器只是一堆电线，还有电脑，虽然最后我们把它装进了一个小盒子里。
+en:But I, and a friend of mine from graduate school,we didn&#39;t see it that way.We knew it wasn&#39;t going to be so hard,and we wanted to be the first to build oneso we could get out in front of the problemand help protect against GPS spoofing.I remember vividly the week it all came together.We built it at my home, which means thatI got a little extra help from my three-year-old son Ramon.Here&#39;s Ramon — (Laughter) —looking for a little attention from Dad that week.At first, the spoofer was just a jumble of cablesand computers, though we eventually got it packagedinto a small box.
+时间：12:24
+zh-cn:科学怪人一刻——当欺骗器终于成真，我瞥见了它的可怕潜力，在我拿欺骗器对着我的iPhone实验时在一个深夜——成为了现实。我来给大家展示几个第一次实验的真实片段。我完全信任这个蓝色小点，和它周围令人放心的光晕。它们好像是在对我说话。它们会说：“你在这儿。你在这儿。”（笑）和“你可以相信我们。”这个世界感觉不太对劲。那种感觉几乎是一种背叛，当这个小蓝点从我家开始往北跑，把我抛在后面。我没有动。我接下来在这个移动的小蓝点中看到的是潜伏的混乱。我看到飞机和轮船偏离航线，而机长和船长发现事情不对劲时已为时太晚。我看到依靠GPS衍生的纽约证券交易所时间被黑客控制。我们根本想象不到我们能造成的肆虐，如果我们有一个GPS欺骗器，而且知道怎么用它。
+en:Now, the Dr. Frankenstein moment,when the spoofer finally came aliveand I glimpsed its awful potential,came late one night when I tested the spooferagainst my iPhone.Let me show you some actual footage from thatvery first experiment.I had come to completely trust this little blue dotand its reassuring blue halo.They seemed to speak to me.They&#39;d say, &quot;Here you are. Here you are.&quot; (Laughter)And &quot;you can trust us.&quot;So something felt very wrong about the world.It was a sense, almost, of betrayal,when this little blue dot started at my house,and went running off toward the northleaving me behind. I wasn&#39;t moving.What I then saw in this little moving blue dotwas the potential for chaos.I saw airplanes and ships veering off course, with the captainlearning only too late that something was wrong.I saw the GPS-derived timingof the New York Stock Exchangebeing manipulated by hackers.You can scarcely imagine the kind of havocyou could cause if you knew what you were doingwith a GPS spoofer.
+时间：13:42
+zh-cn:然而，GPS欺骗器确实有将功赎罪的作用。它是对付GPS点入侵的最终武器。想象一下，假设你被攻击了。你可以愚弄攻击者一番。你假装在工作，实际上你在度假。或者，如果你是Carol，你可以把你的前男友骗到一个空荡荡的停车场，只有警察在那里等候他。
+en:There is, though, one redeeming featureof the GPS spoofer.It&#39;s the ultimate weapon against an invasion of GPS dots.Imagine, for example, you&#39;re being tracked.Well, you can play the tracker for a fool,pretending to be at work when you&#39;re really on vacation.Or, if you&#39;re Carol, you could lure your ex-boyfriendinto some empty parking lotwhere the police are waiting for him.
+时间：14:09
+zh-cn:这个冲突，这个开始隐现的冲突，让我十分着迷。一方面，我们想要隐私。另一方面，我们需要清晰的电波谱。我们不能就这样纵容GPS干扰器和欺骗器。但是，想到人们缺失有效的法律手段来保护自己的隐私免遭GPS点的侵害，我们真的能谴责想开启它们、想使用它们的人么？
+en:So I&#39;m fascinated by this conflict, a looming conflict,between privacy on the one handand the need for a clean radio spectrum on the other.We simply cannot tolerate GPS jammers and spoofers,and yet, given the lack of effective legal meansfor protecting our privacy from the GPS dot,can you really blame people for wanting to turn them on,for wanting to use them?
+时间：14:37
+zh-cn:我满怀希望，相信我们能够运用某种技术，某种还待开发的技术，来解决这个冲突。与此同时，拿些爆米花，准备看好戏吧，因为事情开始变得非常有趣。
+en:I hold out hope that we&#39;ll be able to reconcilethis conflict with some sort of,some yet uninvented technology.But meanwhile, grab some popcorn,because things are going to get interesting.
+时间：14:53
+zh-cn:在接下来的几年中，在座的许多都会成为骄傲的GPS点拥有者。也许你会有一整袋的GPS点。我们再也不会找不到东西了。GPS点基本上记录着我们的生活。但是我们能经受住跟踪他人的诱惑么？或者，我们能经受住开启GPS欺骗器或电波气泡来保护我们的隐私的诱惑么？
+en:Within the next few years,many of you will be the proud owner of a GPS dot.Maybe you&#39;ll have a whole bag full of them.You&#39;ll never lose track of your things again.The GPS dot will fundamentally reorder your life.But will you be able to resist the temptationto track your fellow man?Or will you be able to resist the temptationto turn on a GPS spoofer or a Wave Bubbleto protect your own privacy?
+时间：15:22
+zh-cn:像往常一样，我们看到前方地平线充满了希望和危险。整个事情最后会变成什么样将会非常有趣。
+en:So, as usual, what we see just beyond the horizonis full of promise and peril.It&#39;ll be fascinating to see how this all turns out.
+时间：15:33
+zh-cn:谢谢。（掌声）
+en:Thanks. (Applause)

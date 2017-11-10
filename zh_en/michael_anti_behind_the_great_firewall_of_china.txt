@@ -1,0 +1,102 @@
+时间： 0:11
+zh-cn:在过去几天，我听到一些人在谈论中国我也和朋友谈到过中国和中国的互联网我遇到了一些很具有挑战性的问题我想让我的朋友理解中国很复杂所以， 我一直想讲这样一个故事它从这面看是这样的， 从另一个方面看却是那样的你不能只讲故事的一面举个例子来说， 中国是一个金砖国家BRIC代表着巴西 俄罗斯 印度 和中国中国作为一个新兴经济体确实在为世界经济的复苏做着贡献但是与此同时，在另一方面中国也是一个“有病”的国家这一词源于一篇关于Facebook的IPO的文章文章里提到的SICK国家代表着叙利亚 伊朗 中国和朝鲜在这些国家人们是不能登入Facebook的所以，基本上，中国是一个有病的金砖国家
+en:In the past several days, I heard people talking about China.And also, I talked to friends about China and Chinese Internet.Something is very challenging to me.I want to make my friends understand:China is complicated.So I always want to tell the story, like,one hand it is that, the other hand is that.You can&#39;t just tell a one sided story.I&#39;ll give an example. China is a BRIC country.BRIC country means Brazil, Russia, India and China.This emerging economy really is helping the revival of the world economy.But at the same time, on the other hand,China is a SICK country,the terminology coined by Facebook IPO papers — file.He said the SICK country means Syria, Iran, China and North Korea.The four countries have no access to Facebook.So basically, China is a SICK BRIC country.
+时间： 1:19
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:20
+zh-cn:这里有另一个计划来观察中国和中国的网络现在，我想告诉大家我个人这几年在那堵“墙”内所观察的结果如果你是一个“权利的游戏”的爱好者你一定知道一堵墙对一个王国有多么的重要它会把所有奇怪的东西统统拦在北方
+en:Another project was built upto watch China and Chinese Internet.And now, today I want to tell you my personalobservation in the past several years, from that wall.So, if you are a fan of the Game of Thrones,you definitely know how important a big wall is for an old kingdom.It prevents weird things from the north.
+时间： 1:47
+zh-cn:中国也是这样在中国的北方，有长城它保护中国不受侵袭长达2000多年但是中国同样也有一个火墙它是当今世界上最大的数字屏障它不仅保护着中国政府不受海外普世价值的侵扰， 它也阻止中国的网民接入国际互联网甚至将网民们分散，而不是将其联合
+en:Same was true for China.In the north, there was a great wall, Chang Cheng.It protected China from invaders for 2,000 years.But China also has a great firewall.That&#39;s the biggest digital boundary in the whole world.It&#39;s not only to defend the Chinese regime from overseas,from the universal values, but also to preventChina&#39;s own citizens to access the global free Internet,and even separate themselves into blocks, not united.
+时间： 2:24
+zh-cn:所以，其实现在有两个互联网一个是真正的互联网，而另一个是中国的互联网但是如果你将中国的互联网想象成类似于死亡地带或是荒芜地带的话， 那你就大错特错了我们可以用猫鼠游戏这样简单的词汇来比喻中国在这过去的15年里作为“猫”的角色的中国政府的审查制度和作为“老鼠”角色的中国网民之间的斗争但是有些时候这样的比喻又过于简单了
+en:So, basically the &quot;Internet&quot; has two Internets.One is the Internet, the other is the Chinanet.But if you think the Chinanet is somethinglike a deadland, wasteland, I think it&#39;s wrong.But we also use a very simple metaphor, the cat and the mouse game,to describe in the past 15 yearsthe continuing fight between Chinesecensorship, government censorship, the cat,and the Chinese Internet users. That means us, the mouse.But sometimes this kind of a metaphor is too simple.
+时间： 3:08
+zh-cn:所以今天我要把它升级为一个2.0的版本在中国，有大约5亿的网民这个数字在全世界的网民数量当中也是最大的所以即使中国的网络时刻处于被审查当中但是中国的网络社会却是蕴含着生机怎么做到的这一点呢？其实很简单你们有谷歌 我们就有百度你们有推特 我们就有微博你们有脸谱 我们就有人人你们有youtube 我们就有优酷和土豆中国政府会屏蔽所有国际2.0版本网络服务而我们中国人就复制一切
+en:So today I want to upgrade it to 2.0 version.In China, we have 500 million Internet users.That&#39;s the biggest population of Netizens, Internet users, in the whole world.So even though China&#39;s is a totally censored Internet,but still, Chinese Internet society is really booming.How to make it? It&#39;s simple.You have Google, we have Baidu.You have Twitter, we have Weibo.You have Facebook, we have Renren.You have YouTube, we have Youku and Tudou.The Chinese government blocked everysingle international Web 2.0 service,and we Chinese copycat every one.
+时间： 3:59
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:01
+zh-cn:所以，这是一种在我看来很聪明的审查制度它不只是审查你这么简单有时候中国对国际网络的政策很简单屏蔽加复制另一方面，政府也会考虑到满足民众对于使用社交网络的强烈要求这一点很重要 因为人们对社交网络有着相当的热情但是另一方面，政府又想把服务器放在北京这样他们就能随时监测到这些网络数据而这也恰恰是谷歌被逐出中国大陆的原因因为谷歌无法接受服务器被中国政府监控的事实
+en:So, that&#39;s the kind of the thing I call smart censorship.That&#39;s not only to censor you.Sometimes this Chinese national Internet policy is very simple:Block and clone.On the one hand, he wants to satisfy people&#39;s need of a social network,which is very important; people really love social networking.But on the other hand, they want to keep the serverin Beijing so they can access the data any time they want.That&#39;s also the reason Google was pulled out from China,because they can&#39;t accept the factthat Chinese government wants to keep the server.
+时间： 4:43
+zh-cn:有的时候阿拉伯的独裁者们不理解这两个方面比如，穆巴拉克，他关闭了所有的网络服务因为他想要阻止民众在网上对他的指责但是一旦网民无法上网的话 他们就会走上街头而现在 结果很简单我们都知道穆巴拉克因此而丧了命突尼斯总统 本 阿里没有遵循第二条原则即把服务器掌握在自己的手中他允许facebook这样一个服务器在美国的网络服务商继续留在突尼斯所以他没法阻止网民把有关他腐败的视频上传到网上所以相同的事情发生了 他成了在阿拉伯之春运动中第一个倒台的总统
+en:Sometimes the Arab dictators didn&#39;t understand these two hands.For example, Mubarak, he shut down the Internet.He wanted to prevent the Netizens [from criticizing] him.But once Netizens can&#39;t go online, they go in the street.And now the result is very simple.We all know Mubarak is technically dead.But also, Ben Ali, Tunisian president,didn&#39;t follow the second rule.That means keep the server in your hands.He allowed Facebook, a U.S.-based service,to continue to stay on inside of Tunisia.So he can&#39;t prevent it, his own citizens to postcritical videos against his corruption.The same thing happend. He was the firstto topple during the Arab Spring.
+时间： 5:42
+zh-cn:但是这两个很聪明的审查制度并没有阻止中国的社交媒体变成一个表达民意的公共平台最终成为政府官员噩梦之地的脚步因为我们有3亿的微博用户相当于美国的整个美国的人口所以当这3亿微博用户汇集起来即使他们的微博内容要受到审查但是仅仅是这些中国网民就可以创造出一股很强的力量而这是在中国历史上从未有过的现象
+en:But those two very smart international censorship policiesdidn&#39;t prevent Chinese social media [from] becoming a really public sphere,a pathway of public opinion and the nightmare of Chinese officials.Because we have 300 million microbloggers in China.It&#39;s the entire population of the United States.So when these 300 million people, microbloggers,even they block the tweet in our censored platform.But itself — the Chinanet — but itself can createvery powerful energy, which has never happenedin the Chinese history.
+时间： 6:26
+zh-cn:在2011年的7月份 两辆中国高铁列车在中国南方的一个城市——温州相撞在这次相撞事故发生后当局想要就此埋掉列车残骸 借此掩盖真相这件事引起了中国网民的高度关注就在事故发生后的五天里社交网站上就有大约1000万条的微博批评政府的做法这是在中国历史上从未发生过的事就在今年 中国的铁道部长遭到了撤职并且被判入狱10年
+en:2011, in July, two [unclear] trains crashed,in Wenzhou, a southern city.Right after the train crash,authorities literally wanted to cover up the train, bury the train.So it angered the Chinese Netizens.The first five days after the train crash,there were 10 million criticisms of the postingon social media, which never happened in Chinese history.And later this year, the rail ministerwas sacked and sentenced to jail for 10 years.
+时间： 7:02
+zh-cn:最近 ， 一个很有趣的争执发生在北京环保局和美国驻中国大使馆之间起因是北京环保局指责美国大使馆借助发布北京空气质量指数的方式来插手中国的内部事务美国大使馆发布的关于PM2.5的指数是148，这个数字刺激了民众敏感的神经它表明北京的空气质量并不适合出行但是北京环保局的数据是50这个指数表明北京的空气质量是适宜出行的但是有99%的中国微博用户这次都坚定地站到了美国大使馆这一边我也生活在北京 每天我就是根据美国大使馆的数据来决定今天我是否要打开自己家的窗户
+en:And also, recently, very funny debate betweenthe Beijing Environment Ministryand the American Embassy in Beijingbecause the Ministry blamedthe American Embassy for intervening inChinese internal politics by disclosingthe air quality data of Beijing.So, the up is the Embassy data, the PM 2.5.He showed 148, they showed it&#39;s dangerous for the sensitive group.So a suggestion, it&#39;s not good to go outside.But that is the Ministry&#39;s data. He shows 50.He says it&#39;s good. It&#39;s good to go outside.But 99 percent of Chinese microbloggersstand firmly on the Embassy&#39;s side.I live in Beijing. Every day, I just watchthe American Embassy&#39;s data to decide whether I should open my window.
+时间： 8:11
+zh-cn:为什么中国的社交网络即使在严格的监管下仍然拥有强大的力量呢？部分原因是汉语自身的特点造成的大家知道，推特和它的克隆版本都有140字的字数限制但是如果是英语的话，它仅仅是20个单词或者是短短的一行或许对于德语来说，它仅仅是简单的“Aha&quot;
+en:Why is Chinese social networking, even within the censorship,so booming? Part of the reason is Chinese languages.You know, Twitter and Twitter clones have a kind ofa limitation of 140 characters.But in English it&#39;s 20 words or a sentence with a short link.Maybe in Germany, in German language, it may be just &quot;Aha!&quot;
+时间： 8:33
+zh-cn:(笑声）
+en:(Laughter)
+时间： 8:35
+zh-cn:但是对于汉语来说，那就是真正的140字那代表着一段话，一个故事你可以将所有的新闻要素都包括在这140字里比如，这是莎士比亚笔下哈姆雷特里的一段话同样的内容 但是你可以看到一条用汉语发出的微博相当于3.5条用英语发出的微博内容中国人永远在造假，是吧？也正是因为这个原因 中国的网民是把微博当作真正的新闻媒介 而不仅仅是新闻的标题
+en:But in Chinese language, it&#39;s really about 140 characters,means a paragraph, a story.You can almost have all the journalistic elements there.For example, this is Hamlet, of Shakespeare.It&#39;s the same content. One, you can see exactlyone Chinese tweet is equal to 3.5 English tweets.Chinese is always cheating, right?So because of this, the Chinese really regard thismicroblogging as a media, not only a headline to media.
+时间： 9:14
+zh-cn:中国的推特克隆者 也就是新浪公司完全复制了推特的模式它甚至有自己的名字——微博微博是”microblog&quot;的中文译名它也有自己的创新之处在发表评论的板块， 它更像是脸谱而不是推特所以正是因为有了这样的独创性和模仿，当中国的微博和博客在2009年首次出现时立刻成为了一个媒介它成为了中国3亿微博用户的平台它具有了媒体的作用微博上几乎涵盖了中国社会里的各种话题
+en:And also, the clone, Sina company isthe guy who cloned Twitter.It even has its own name, with Weibo.&quot;Weibo&quot; is the Chinese translation for &quot;microblog&quot;.It has its own innovation.At the commenting area, [it makes] the Chinese Weibomore like Facebook, rather than the original Twitter.So these innovations and clones, as the Weibo and microblogging,when it came to China in 2009,it immediately became a media platform itself.It became the media platform of 300 million readers.It became the media.Anything not mentioned in Weibo,it does not appear to exist for the Chinese public.
+时间： 9:59
+zh-cn:同时，中国的社交媒体正在悄然改变所有中国人的心态和生活比如，它给以前无法发出自己声音的人提供了一个发表自己意见的平台中国曾经有一个上访制度 它是对中国的司法制度的一个补充因为中国的中央政权想要克服这种缺陷中央当权者是好的 但是地方政府却都是恶霸这也是为什么那些乡下的受害者，请愿者想要搭乘火车去北京向中央政府反映的原因他们想要中央的当权者来解决这些问题但是当越来越多的人去北京上访的时候他们也增加了发生革命事件的风险所以这几年他们往往是被遣送回老家他们当中的有些人甚至会因此被送进大牢但是现在我们有了微博这种工具 我把它称之为微博上访人人只要用手机发出微博
+en:But also, Chinese social media isreally changing Chinese mindsets and Chinese life.For example, they give the voiceless peoplea channel to make your voice heard.We had a petition system. It&#39;s a remedy outside the judicial system,because the Chinese central government wants to keep a myth:The emperor is good. The old local officials are thugs.So that&#39;s why the petitioner, the victims, the peasants,want to take the train to Beijing to petition to the central government,they want the emperor to settle the problem.But when more and more people go to Beijing,they also cause the risk of a revolution.So they send them back in recent years.And even some of them were put into black jails.But now we have Weibo, so I call it the Weibo petition.People just use their cell phones to tweet.
+时间：10:54
+zh-cn:你的心声就有机会被一些记者、专家或者是名人选中有一个人的名字不得不提，她就是姚晨她是目前中国最有人气的微博用户她有将近2100万的粉丝这就像一家国营电视台你的微博是有机会被她选中而成为公众关注的焦点的所以这种微博社交媒体即使是在审查制度下也仍然给了3亿中国人每天网上交流的机会它就像一个大的TED大会，对吧？还有一点 微博似乎已经成为中国历史上第一个公共舆论平台中国人开始试着学习如何与人沟通交流
+en:So your sad stories, by some chance your storywill be picked up by reporters, professors or celebrities.One of them is Yao Chen,she is the most popular microblogger in China,who has about 21 million followers.They&#39;re almost like a national TV station.If you — so a sad story will be picked up by her.So this Weibo social media, even in the censorship,still gave the Chinese a real chance for 300 million peopleevery day chatting together, talking together.It&#39;s like a big TED, right?But also, it is like the first time a public spherehappened in China.Chinese people start to learn how to negotiateand talk to people.
+时间：11:46
+zh-cn:但是另一方面，扮演者猫的角色的审查制度也并没有就此放手在中国的微博上 你是很难发布一些带有敏感词的内容的比如，你不能把胡锦涛主席的名字发布在微博上你也不能在微博上提及“重庆”这个词直到现在 你也不能在网上搜索到中国领导人的名字所以，（在这样的环境下）中国网民还是很擅长使用一些双关语和替代词汇来逃避审查的他们甚至使用一些 嗯一些这样的词汇例如“草泥马”和“河蟹”“草泥马”用中文读作“cao ni ma&quot;就是”操你妈“的意思中国网民用”河蟹“来替代”和谐“ 也就是被审查机制屏蔽的意思这就是”草泥马“和”河蟹“的真正用意 确实是很聪明的做法所以，每当一些十分具有政治意味，引人关注的事件发生时你可以在微博上找到这个事件对应的十分离奇的版本对于这些奇奇怪怪的单词和短语 即使你拥有汉语的博士学位 你也是没法完全理解它们的
+en:But also, the cat, the censorship, is not sleeping.It&#39;s so hard to post some sensitive words on the Chinese Weibo.For example, you can&#39;t post the name of the president,Hu Jintao, and also you can&#39;t post the city of Chongqing, the name,and until recently, you can&#39;t search the surname of top leaders.So, the Chinese are very good at these punsand alternative wording and even memes.They even name themselves — you know,use the name of this world-changingbattle between the grass-mud horse and the river crab.The grass-mud horse is caoníma,is the phonogram for motherfucker,the Netizens call themselves.River crab is héxiè, is the phonogram forharmonization, for censorship.So that&#39;s kind of a caoníma versus the héxiè, that&#39;s very good.So, when some very political, exciting moments happened,you can see on Weibo, you see a lot of very weird stories happened.Weird phrases and words, even if you have a PhDof Chinese language, you can&#39;t understand them.
+时间：13:06
+zh-cn:但是微博能做到的也仅仅是这些因为当中国的微博开始出现的时候正是推特在中国被正式屏蔽的时候这意味着从一开始微博的创建者就已经说服了中国政府它不会成为对当权者任何形式的威胁比如， 任何你想发布的诸如”一起行动“ ”聚会“ ”游行“这样的敏感词都会被微博的系统自动识别并被屏蔽掉并且微博系统会将此类信息上报 做进一步的政治审查即使你想组织或参加一些公共聚会活动在你去之前 警察就已经在那里等着你了为什么？ 因为他们掌握着数据他们掌握着一切的信息他们能够用这1984个场景数据系统挖出那些持有不同政见的人而对他们的打压是非常严重的
+en:But you can&#39;t even expand more, no, becauseChinese Sina Weibo, when it was foundedwas exactly one month after the official blocking of Twitter.com.That means from the very beginning,Weibo has already convinced the Chinese government,we will not become the stage forany kind of a threat to the regime.For example, anything you want to post,like &quot;get together&quot; or &quot;meet up&quot; or &quot;walk,&quot;it is automatically recorded and data minedand reported to a poll for further political analyzing.Even if you want to have some gathering,before you go there, the police are already waiting for you.Why? Because they have the data.They have everything in their hands.So they can use the 1984 scenario data mining of the dissident.So the crackdown is very serious.
+时间：14:03
+zh-cn:但是也请大家注意这样一件很有意思的事情在这场猫与鼠的较量中猫代表着审查制度 但是在中国不止有一只猫我们会有本地猫 也就是有来自中央的猫和本地的猫的区别
+en:But I want you to notice a very funny thingduring the process of the cat-and-mouse.The cat is the censorship, but Chinese is not only one cat,but also has local cats. Central cat and local cats.
+时间：14:17
+zh-cn:（笑声）
+en:(Laughter)
+时间：14:19
+zh-cn:你知道，服务器并不在“本地猫”的手里所以即使网民责骂了当地政府当地政府也是无法接触到这些数据的如果当地政府不去贿赂中央政府的话他们就什么都不能做，只能道歉
+en:You know, the server is in the [central] cats&#39; hands,so even that — when the Netizens criticize the local government,the local government has not any access to the data in Beijing.Without bribing the central cats,he can do nothing, only apologize.
+时间：14:36
+zh-cn:所以在过去的3年里微博里的社会运动真真正正地改变了地方政府让他们变得越来越透明化因为他们无法接触到这些网络数据服务器在北京而对于这次动车事故来说也许问题并不在于为什么在短短的5天里就有1000万条责备的声音在微博里被发出 而是在于为什么中央政府允许了这5天的网络言论自由而这是以前从没有发生过的其实原因很简单 因为即使是中国的高层领导也被这个家伙，这个“独立的国王” 激怒了所以他们要找到一个借口而公众的谴责恰恰是一个很好的惩罚他的借口
+en:So these three years, in the past three years,social movements about microbloggingreally changed local government,became more and more transparent,because they can&#39;t access the data.The server is in Beijing.The story about the train crash,maybe the question is not about why 10 millioncriticisms in five days, but why the Chinese central governmentallowed the five days of freedom of speech online.It&#39;s never happened before.And so it&#39;s very simple, because even the top leaderswere fed up with this guy, this independent kingdom.So they want an excuse —public opinion is a very good excuse to punish him.
+时间：15:19
+zh-cn:最近的薄熙来事件也是一个大新闻他是一个“太子党”派从今年的2月份到4月份微博成为了“谣言”的温床你可以随意的拿这些“太子党”开玩笑任何事情都行！这简直就像生活在美国一样但是 如果你胆敢转发或提及任何涉及北京方面的政变的话你是一定会被捕入狱的所以这种自由是有目的的自由 它打开了一扇精准的窗户
+en:But also, the Bo Xilai case recently, very big news,he&#39;s a princeling.But from February to April this year,Weibo really became a marketplace of rumors.You can almost joke everything about these princelings,everything! It&#39;s almost like you&#39;re living in the United States.But if you dare to retweet or mention any fake coupabout Beijing, you definitely will be arrested.So this kind of freedom is a targeted and precise window.
+时间：15:51
+zh-cn:所以对于生活在中国的中国人来说 审查制度便是家常便饭你会发现这种“自由”常常让人难以捉摸因为往往一些事情会发生在它的后面因为薄熙来是一个很有名的左派领导人所以中央政府想要将他清除出党中央政府很聪明，它成功说服了全体中国人薄熙来是一个彻彻底底的坏人所以，微博，这个拥有3亿用户的公共平台就变成了一个很方便的用于政治斗争的工具
+en:So Chinese in China, censorship is normal.Something you find is, freedom is weird.Something will happen behind it.Because he was a very popular Leftist leader,so the central government wanted to purge him,and he was very cute, he convinced all the Chinese people,why he is so bad.So Weibo, the 300 million public sphere,became a very good, convenient tool for a political fight.
+时间：16:19
+zh-cn:这种技术很新颖但是手段上却很陈旧早在毛泽东时期 这种手段就曾被应用过因为他曾经发动了上百万的人民在那场文化大革命当中摧毁了地方政府这很简单 因为中国的中央政府甚至都不需要引领公众意见它只需要给大众一个无需审查的窗口无审查现在已经成为了中国的一个政治工具
+en:But this technology is very new,but technically is very old.It was made famous by Chairman Mao, Mao Zedong,because he mobilized millions of Chinese peoplein the Cultural Revolution to destroy every local government.It&#39;s very simple, because Chinese central governmentdoesn&#39;t need to even lead the public opinion.They just give them a target window to not censor people.Not censoring in China has become a political tool.
+时间：16:48
+zh-cn:这就是关于猫和老鼠的故事的整个剧情了社交媒体改变了中国人的心态越来越多的人开始渴望言论自由和人权自由他们把这些看作是自己生来的权利而不是从美国进口的特权而且，（微博的出现）也给了中国人一个公共平台就像一列火车载着全体中国人驶向民主但是它却没有改变中国的政治制度而且中央政府正是利用了集中化了的结构加强了自己的统治力量来应对地方政府和反对势力
+en:So that&#39;s the update about this game, cat-and-mouse.Social media changed Chinese mindset.More and more Chinese intend to embrace freedom of speechand human rights as their birthright,not some imported American privilege.But also, it gave the Chinese a national public spherefor people to, it&#39;s like a training of their citizenship,preparing for future democracy.But it didn&#39;t change the Chinese political system,and also the Chinese central government utilized thiscentralized server structure to strengthen its powerto counter the local government and the different factions.
+时间：17:28
+zh-cn:那么未来是怎样的呢？毕竟我们还是老鼠不管未来怎样，我们都应该和猫继续做斗争不仅仅在中国 也在美国都会有一些很小 很可爱但却很坏的猫
+en:So, what&#39;s the future?After all, we are the mouse.Whatever the future is, we should fight against the [cat].There is not only in China, but also in the United Statesthere are some very small, cute but bad cats.
+时间：17:46
+zh-cn:（笑声）
+en:(Laughter)
+时间：17:48
+zh-cn:SOPA PIPA ACTA TPP 和ITU一些网络公司像Facebook和Google, 他们宣称自己是老鼠的朋友但是我们有时也会发现他们正在和猫约会所以我想说的其实很简单当我们中国人为了自由而奋斗的时候也请你们管好自己的“坏猫”不要让它们与中国的这些“猫“相互勾结只有这样，在不久的将来我们会实现”老鼠“的梦想：那就是我们可以随时 随地 没有任何约束地发微博
+en:SOPA, PIPA, ACTA, TPP and ITU.And also, like Facebook and Google, they claim they are friends of the mouse,but sometimes we see them dating the cats.So my conclusion is very simple.We Chinese fight for our freedom,you just watch your bad cats.Don&#39;t let them hook [up] with the Chinese cats.Only in this way, in the future,we will achieve the dreams of the mouse:that we can tweet anytime, anywhere, without fear.
+时间：18:27
+zh-cn:（鼓掌）
+en:(Applause)
+时间：18:34
+zh-cn:谢谢大家！
+en:Thank you.
+时间：18:36
+zh-cn:（鼓掌）
+en:(Applause)

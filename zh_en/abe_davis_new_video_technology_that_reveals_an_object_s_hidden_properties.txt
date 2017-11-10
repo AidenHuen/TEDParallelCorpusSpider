@@ -1,0 +1,126 @@
+时间： 0:12
+zh-cn:大部分人认为动作是明显可见的。比如我走过这个舞台，或者边做手势边说话，这些动作都能被大家看到。但还有很多重要的动作肉眼很难察觉到，在过去几年中，我们致力于寻找某种摄像机可以捕捉到人眼看不到的运动。
+en:Most of us think of motionas a very visual thing.If I walk across this stageor gesture with my hands while I speak,that motion is something that you can see.But there&#39;s a world of important motionthat&#39;s too subtle for the human eye,and over the past few years,we&#39;ve started to find that camerascan often see this motioneven when humans can&#39;t.
+时间： 0:39
+zh-cn:请看大屏幕。左边是一个人的手腕，右边是一个熟睡的婴儿，但是如果我不告诉你们这是一段视频，你们可能会认为这只是两张普通的图片，因为乍一看，这两段视频几乎是完全静止的。但实际上，画面中有许多细微的运动变化，如果你能碰到左边的那个手腕，你会感受到脉搏的跳动，如果你抱起右边的婴儿，你能感受到她胸腔的起伏，感受到她的每一次呼吸。这些动作都很重要，但由于过于细微，很难被我们察觉，要想感受到这些动作的存在只能通过直接接触。
+en:So let me show you what I mean.On the left here, you see videoof a person&#39;s wrist,and on the right, you see videoof a sleeping infant,but if I didn&#39;t tell youthat these were videos,you might assume that you were lookingat two regular images,because in both cases,these videos appear to bealmost completely still.But there&#39;s actually a lotof subtle motion going on here,and if you were to touchthe wrist on the left,you would feel a pulse,and if you were to holdthe infant on the right,you would feel the riseand fall of her chestas she took each breath.And these motions carrya lot of significance,but they&#39;re usuallytoo subtle for us to see,so instead, we have to observe themthrough direct contact, through touch.
+时间： 1:29
+zh-cn:然而几年前，我在麻省理工学院的同事们开发出了一种被称为“动作显微镜”的软件，能够发现视频中细微的运动，并将其放大到肉眼可见的级别。如果我们运用这一软件分析左边的视频，我们就能看到手腕上的脉搏跳动，通过计算脉搏数量，就能得知这个人的心率。而用这一软件分析右边的视频，我们就能看清婴儿的每一次呼吸，不需要触碰就能监控她的呼吸。
+en:But a few years ago,my colleagues at MIT developedwhat they call a motion microscope,which is software that findsthese subtle motions in videoand amplifies them so that theybecome large enough for us to see.And so, if we use their softwareon the left video,it lets us see the pulse in this wrist,and if we were to count that pulse,we could even figure outthis person&#39;s heart rate.And if we used the same softwareon the right video,it lets us see each breaththat this infant takes,and we can use this as a contact-free wayto monitor her breathing.
+时间： 2:07
+zh-cn:这项技术非常强大，因为它能帮助我们看到原本要靠触觉才能感受到的东西，并且这一过程是可见和无创的。
+en:And so this technology is really powerfulbecause it takes these phenomenathat we normally haveto experience through touchand it lets us capture them visuallyand non-invasively.
+时间： 2:20
+zh-cn:因此在几年前，我开始与这个软件的编写者们一起工作，我们产生了一个疯狂的想法。我们觉得，运用软件将细微的动作可视化的这个点子非常酷，你甚至可以把它当做拓展人类触觉感官的好方法。那如果我们能用相同的方法来增强我们的听觉呢？如果我们能通过视频捕捉到声音的振动，声音的振动实际上也是一种运动，将“看到”的东西录入麦克风呢？
+en:So a couple years ago, I started workingwith the folks that created that software,and we decided to pursue a crazy idea.We thought, it&#39;s coolthat we can use softwareto visualize tiny motions like this,and you can almost think of itas a way to extend our sense of touch.But what if we could do the same thingwith our ability to hear?What if we could use videoto capture the vibrations of sound,which are just another kind of motion,and turn everything that we seeinto a microphone?
+时间： 2:55
+zh-cn:也许听起来有点不太好理解，我试着为大家解释一下。传统麦克风的工作原理是将其内部薄膜的振动转换成电信号，这个薄膜极易随声音振动，这个振动可以被记录下来并还原成声音。而声音事实上可以引起任何物体的振动。只不过这种振动对我们而言通常很细微而且转瞬即逝。
+en:Now, this is a bit of a strange idea,so let me try to put itin perspective for you.Traditional microphoneswork by converting the motionof an internal diaphragminto an electrical signal,and that diaphragm is designedto move readily with soundso that its motion can be recordedand interpreted as audio.But sound causes all objects to vibrate.Those vibrations are just usuallytoo subtle and too fast for us to see.
+时间： 3:25
+zh-cn:但如果我们用高速摄影机将这种振动录下来，并通过软件从这些高速视频中提取出这些细小的振动，然后分析这些振动来弄清声音的来源，会怎么样呢？这样一来我们可以将远处的可见物体转化为可视化麦克风。我们进行了各种尝试，以下是我们的试验之一，右边是一株盆栽植物，我们用高速摄影机拍下它，同时旁边的音箱在播放这个声音。
+en:So what if we record themwith a high-speed cameraand then use softwareto extract tiny motionsfrom our high-speed video,and analyze those motions to figure outwhat sounds created them?This would let us turn visible objectsinto visual microphones from a distance.And so we tried this out,and here&#39;s one of our experiments,where we took this potted plantthat you see on the rightand we filmed it with a high-speed camerawhile a nearby loudspeakerplayed this sound.
+时间： 4:01
+zh-cn:（音乐：玛丽有一只小羊羔）
+en:(Music: &quot;Mary Had a Little Lamb&quot;)
+时间： 4:10
+zh-cn:这是我们录下的视频，用的是每秒数千帧的速度，但即使你凑得非常近，也只能看到一些叶子静静地呆在那儿，一动不动，因为刚才的音乐只能让叶子移动一微米，也就是一厘米的万分之一，只占这幅图像中一个像素的百分之一到千分之一。你大可以眯着眼使劲儿看，但如此细微的运动从感官上来说是不可见的。但事实证明感官上不可见的东西在数值上可能很惊人,因为通过正确的算法，我们就可以从这段无声的看似静止的视频中还原出这段声音。
+en:And so here&#39;s the video that we recorded,and we recorded it at thousandsof frames per second,but even if you look very closely,all you&#39;ll see are some leavesthat are pretty muchjust sitting there doing nothing,because our sound only moved those leavesby about a micrometer.That&#39;s one ten-thousandth of a centimeter,which spans somewhere betweena hundredth and a thousandthof a pixel in this image.So you can squint all you want,but motion that small is pretty muchperceptually invisible.But it turns out that somethingcan be perceptually invisibleand still be numerically significant,because with the right algorithms,we can take this silent,seemingly still videoand we can recover this sound.
+时间： 5:03
+zh-cn:（音乐：玛丽有一只小羊羔）
+en:(Music: &quot;Mary Had a Little Lamb&quot;)
+时间： 5:11
+zh-cn:（掌声）
+en:(Applause)
+时间： 5:21
+zh-cn:这怎么可能呢？我们怎么能从如此细小的运动中得到如此丰富的信息？我们必须承认这些叶子只移动了一微米，只改变了图像中一个像素的千分之一。看起来很微不足道，但是视频中的每一帧都包含数以万计的像素，当我们将整幅画面中所有细微的运动组合在一起来看的时候，无数个千分之一像素聚在一起就能组合出有十分意义的信息。
+en:So how is this possible?How can we get so much informationout of so little motion?Well, let&#39;s say that those leavesmove by just a single micrometer,and let&#39;s say that that shifts our imageby just a thousandth of a pixel.That may not seem like much,but a single frame of videomay have hundreds of thousandsof pixels in it,and so if we combine allof the tiny motions that we seefrom across that entire image,then suddenly a thousandth of a pixelcan start to add upto something pretty significant.
+时间： 5:57
+zh-cn:老实说，当我们想通这一点的时候真是乐疯了。（笑声）但是，即便运用正确的算法我们还是会丢失掉很多重要的信息。这项技术能否成功取决于很多因素。比如目标物体的距离；摄影机和镜头的选用；光线是否充足，声音是否够大等等。因此，即便我们的算法正确，在早期试验中我们还是得万分谨慎，因为一着不慎，满盘皆输，得不到有用的信息，也查不出原因。还原出来的只有噪音。初期的试验场景是这样的。左边的是我，左下角是我们的高速摄影机，正对着一袋薯片，薯片被一盏明亮的灯照着。就像刚才我说的，在初期试验中我们需要十分小心，得有多小心呢？请看。
+en:On a personal note, we were pretty psychedwhen we figured this out.(Laughter)But even with the right algorithm,we were still missinga pretty important piece of the puzzle.You see, there are a lot of factorsthat affect when and how wellthis technique will work.There&#39;s the object and how far away it is;there&#39;s the cameraand the lens that you use;how much light is shining on the objectand how loud your sound is.And even with the right algorithm,we had to be very carefulwith our early experiments,because if we gotany of these factors wrong,there was no way to tellwhat the problem was.We would just get noise back.And so a lot of our earlyexperiments looked like this.And so here I am,and on the bottom left, you can kind ofsee our high-speed camera,which is pointed at a bag of chips,and the whole thing is litby these bright lamps.And like I said, we had to bevery careful in these early experiments,so this is how it went down.
+时间： 7:02
+zh-cn:（视频：三、二、一，开始）（视频：玛丽有一只小羊羔！小羊羔！小羊羔！）
+en:(Video) Abe Davis: Three, two, one, go.Mary had a little lamb!Little lamb! Little lamb!
+时间： 7:11
+zh-cn:（笑声）
+en:(Laughter)
+时间： 7:16
+zh-cn:这试验看起来真是弱爆了。（笑声）我可是对着一袋薯片在咆哮——（笑声）而且我们用的灯功率太大，差点把第一袋薯片点着了。（笑声）虽然看起来很不靠谱，但结果还是不错的，因为我们最终还原出了这段声音。
+en:AD: So this experimentlooks completely ridiculous.(Laughter)I mean, I&#39;m screaming at a bag of chips —(Laughter) —and we&#39;re blasting it with so much light,we literally melted the first bagwe tried this on. (Laughter)But ridiculous as this experiment looks,it was actually really important,because we were ableto recover this sound.
+时间： 7:39
+zh-cn:（音频：玛丽有一只小羊羔！小羊羔！小羊羔！）
+en:(Audio) Mary had a little lamb!Little lamb! Little lamb!
+时间： 7:44
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:48
+zh-cn:这绝对是一个里程碑，因为这是我们第一次从一段无声录像中还原出具有意义的人声。因此我们以此为出发点不断修正我们的试验，更换试验对象，调整距离，减小光线强度，降低声音等等。我们不断分析试验结果，直到发现这一技术的局限性，因为只有搞清楚局限在哪儿我们才能不断取得突破。
+en:AD: And this was really significant,because it was the first timewe recovered intelligible human speechfrom silent video of an object.And so it gave us this point of reference,and gradually we could startto modify the experiment,using different objectsor moving the object further away,using less light or quieter sounds.And we analyzed all of these experimentsuntil we really understoodthe limits of our technique,because once we understood those limits,we could figure out how to push them.
+时间： 8:21
+zh-cn:于是，就有了下面这个试验，这一次，我还是对着一袋薯片说话，但将摄影机后退到了15英尺（4.572米）远的室外，隔着一层隔音玻璃，只借助自然光线。这是我们拍下的视频。这是在室内，在薯片旁说话的原声。
+en:And that led to experiments like this one,where again, I&#39;m going to speakto a bag of chips,but this time we&#39;ve moved our cameraabout 15 feet away,outside, behind a soundproof window,and the whole thing is litby only natural sunlight.And so here&#39;s the video that we captured.And this is what things sounded likefrom inside, next to the bag of chips.
+时间： 8:48
+zh-cn:（音频：玛丽有一只小羊羔，身上羊毛白又好，无论玛丽走到哪，小羊都会跟着跑。）
+en:(Audio) Mary had a little lambwhose fleece was white as snow,and everywhere that Mary went,that lamb was sure to go.
+时间： 8:58
+zh-cn:这是通过我们从室外隔音玻璃后采集的无声影像还原出来的声音。
+en:AD: And here&#39;s what we were ableto recover from our silent videocaptured outside behind that window.
+时间： 9:05
+zh-cn:（音频：玛丽有一只小羊羔，身上羊毛白又好，无论玛丽走到哪，小羊都会跟着跑。）
+en:(Audio) Mary had a little lambwhose fleece was white as snow,and everywhere that Mary went,that lamb was sure to go.
+时间： 9:14
+zh-cn:（掌声）
+en:(Applause)
+时间： 9:21
+zh-cn:我们还调整了其它参数。比如说降低音量，这有一副耳机，插在笔记本电脑上，在这个实验中，我们想仅通过拍摄下这对塑料耳机的无声视频来还原笔记本里播放的音乐，结果很理想，我甚至能用Shazam来识别出这段音乐。（笑声）
+en:AD: And there are other waysthat we can push these limits as well.So here&#39;s a quieter experimentwhere we filmed some earphonesplugged into a laptop computer,and in this case, our goal was to recoverthe music that was playing on that laptopfrom just silent videoof these two little plastic earphones,and we were able to do this so wellthat I could even Shazam our results.(Laughter)
+时间： 9:48
+zh-cn:（音乐：“皇后乐队”的《重压之下》）
+en:(Music: &quot;Under Pressure&quot; by Queen)
+时间：10:00
+zh-cn:（掌声）
+en:(Applause)
+时间：10:05
+zh-cn:我们还尝试了更换试验设备来完善我们的成果。因为前面我给大家展示的试验都是通过高速摄影机完成的，它的拍摄速度比大多数手机摄像头快100倍，但是我们也找到了用普通摄影机来完成试验的方法，我们利用了叫做“滚动快门”的技术。大部分摄像头是逐行拍摄影像的，因此如果在拍摄单张照片时物体发生了移动，每一行影像间就会出现少许延迟，这种延迟使得视频的每一帧都会产生轻微的变形。通过分析这种变形，运用调整过的算法我们还是可以还原声音。在接下来这个试验里，我们拍摄的是一袋糖果，旁边的喇叭里播放的还是之前那首“玛丽有一只小羊羔”，但这一次我们使用的是能在店里买到的普通摄影机，下面请听我们还原出来的声音，这次的声音有些失真，但仔细听一下，看你能否分辨出来这段音乐。
+en:And we can also push thingsby changing the hardware that we use.Because the experimentsI&#39;ve shown you so farwere done with a camera,a high-speed camera,that can record videoabout a 100 times fasterthan most cell phones,but we&#39;ve also found a wayto use this techniquewith more regular cameras,and we do that by taking advantageof what&#39;s called a rolling shutter.You see, most camerasrecord images one row at a time,and so if an object movesduring the recording of a single image,there&#39;s a slight time delaybetween each row,and this causes slight artifactsthat get coded into each frame of a video.And so what we foundis that by analyzing these artifacts,we can actually recover soundusing a modified version of our algorithm.So here&#39;s an experiment we didwhere we filmed a bag of candywhile a nearby loudspeaker playedthe same &quot;Mary Had a Little Lamb&quot;music from before,but this time, we used just a regularstore-bought camera,and so in a second, I&#39;ll play for youthe sound that we recovered,and it&#39;s going to sounddistorted this time,but listen and see if you can stillrecognize the music.
+时间：11:18
+zh-cn:（音频：玛丽有一只小羊羔）
+en:(Audio: &quot;Mary Had a Little Lamb&quot;)
+时间：11:36
+zh-cn:就是这样，听起来有点失真，但别忘了我们这次用的是普通摄影机，你随便到一家百思买这样的电器商店就可以买到。
+en:And so, again, that sounds distorted,but what&#39;s really amazing hereis that we were able to do thiswith somethingthat you could literally run outand pick up at a Best Buy.
+时间：11:50
+zh-cn:那么目前为止，相信许多人看到这儿立刻想到了监听。说实话，用这个技术去监听还真不是什么难事。但请大家注意，早就有很多成熟的技术被用于监听了。实际上，将激光投射在物体上进行远距离监听的技术已经出现几十年了。但我们这项技术的创新之处，与众不同之处在于我们掌握了一种描绘物体振动的方法，使我们能通过一种全新的镜头去看这个世界。通过这个镜头，不仅能看清使物体产生振动的外力，比如声音，还能了解物体本身的性质。
+en:So at this point,a lot of people see this work,and they immediately thinkabout surveillance.And to be fair,it&#39;s not hard to imagine how you might usethis technology to spy on someone.But keep in mind that there&#39;s alreadya lot of very mature technologyout there for surveillance.In fact, people have been using lasersto eavesdrop on objectsfrom a distance for decades.But what&#39;s really new here,what&#39;s really different,is that now we have a wayto picture the vibrations of an object,which gives us a new lensthrough which to look at the world,and we can use that lensto learn not just about forces like soundthat cause an object to vibrate,but also about the object itself.
+时间：12:35
+zh-cn:因此我想换个角度思考这将如何改变我们使用视频的方式，我们通常用视频来“看”东西，而我刚刚给大家展示的是如何用视频来“听”东西。但是还有一种认识世界的重要方式，就是与世界互动。我们可以移动或触碰某个物体。或者摇晃它，看它会发生什么变化。但这一变化（可能太过微小）视频没法捕捉，至少用传统的方式实现不了。因此我想向大家展示一项新的成果，这项成果基于我几个月前的一个想法，今天其实是我第一次将它公之于众。简而言之就是，我们会利用视频里的振动来与物体进行互动，然后看物体如何反应。
+en:And so I want to take a step backand think about how that might changethe ways that we use video,because we usually use videoto look at things,and I&#39;ve just shown you how we can use itto listen to things.But there&#39;s another important waythat we learn about the world:that&#39;s by interacting with it.We push and pull and poke and prod things.We shake things and see what happens.And that&#39;s something that videostill won&#39;t let us do,at least not traditionally.So I want to show you some new work,and this is based on an idea I hadjust a few months ago,so this is actually the first timeI&#39;ve shown it to a public audience.And the basic idea is that we&#39;re goingto use the vibrations in a videoto capture objects in a waythat will let us interact with themand see how they react to us.
+时间：13:30
+zh-cn:这是我们的试验对象，一个用铁丝做成的小人，我们使用的是一台普通的摄影机。没有任何特别之处。实际上，我用手机也能做到。但如果我们想让这个小人振动，要怎么做呢，我们仅仅在放置小人的台子上敲了几下，并把过程拍了下来。
+en:So here&#39;s an object,and in this case, it&#39;s a wire figurein the shape of a human,and we&#39;re going to film that objectwith just a regular camera.So there&#39;s nothing specialabout this camera.In fact, I&#39;ve actually done thiswith my cell phone before.But we do want to see the object vibrate,so to make that happen,we&#39;re just going to bang a little biton the surface where it&#39;s restingwhile we record this video.
+时间：13:58
+zh-cn:就这样，我们得到了一段五秒钟的普通视频，敲了几下台子，我们将利用视频里的振动来研究这个小人的结构特征和材料特征，并利用这些信息创造出一种新的具有互动性的东西。这就是我们的成果看起来像一张普通的图片，但这不是图片，也不是视频，因为我可以移动鼠标与这个小人进行互动。现在大家看到的是模拟小人在受到外力时会如何反应，即使这种外力是初次施加的，而这都来源于那短短五秒钟的普通视频。
+en:So that&#39;s it: just five secondsof regular video,while we bang on this surface,and we&#39;re going to usethe vibrations in that videoto learn about the structuraland material properties of our object,and we&#39;re going to use that informationto create something new and interactive.And so here&#39;s what we&#39;ve created.And it looks like a regular image,but this isn&#39;t an image,and it&#39;s not a video,because now I can take my mouseand I can start interactingwith the object.And so what you see hereis a simulation of how this objectwould respond to new forcesthat we&#39;ve never seen before,and we created it from justfive seconds of regular video.
+时间：14:58
+zh-cn:（掌声）
+en:(Applause)
+时间：15:08
+zh-cn:这的确是一种审视世界的有效方法，让我们可以预测物体在新的条件下会作何反应，想象一下，前面有一座很旧的桥，我们不知道它是否足够结实，我们能不能把车开过去。而这种问题最好在你开车上桥之前就搞清楚答案。当然，这项技术有它的局限，就像之前的视觉麦克风试验一样，但我们也发现它能在许多场景下发挥作用，有时甚至出乎你的意料，特别是当视频时间足够长的时候。
+en:And so this is a really powerfulway to look at the world,because it lets us predicthow objects will respondto new situations,and you could imagine, for instance,looking at an old bridgeand wondering what would happen,how would that bridge hold upif I were to drive my car across it.And that&#39;s a questionthat you probably want to answerbefore you start drivingacross that bridge.And of course, there are going to belimitations to this technique,just like there werewith the visual microphone,but we found that it worksin a lot of situationsthat you might not expect,especially if you give it longer videos.
+时间：15:46
+zh-cn:举个例子，这段视频拍的是我公寓外的灌木丛，我没有动过它，只是拍了一段1分钟长的视频，微风不断吹动灌木，让我能够收集到足够的信息来完成这段模拟。（掌声）想象一下，如果电影导演掌握了这项技术，他就可以在后期制作时随心所欲地控制风的大小和方向。来看另一个例子，我们拍摄了一副挂起来的窗帘，在这段视频里你甚至看不出来窗帘在动，但是利用2分钟长的一段视频，仅仅靠房间里的自然空气流动引发的无法察觉的动作和振动，就能使我们提取出足够多的信息来完成这段模拟。
+en:So for example,here&#39;s a video that I capturedof a bush outside of my apartment,and I didn&#39;t do anything to this bush,but by capturing a minute-long video,a gentle breeze caused enough vibrationsthat we could learn enough about this bushto create this simulation.(Applause)And so you could imagine giving thisto a film director,and letting him control, say,the strength and direction of windin a shot after it&#39;s been recorded.Or, in this case, we pointed our cameraat a hanging curtain,and you can&#39;t even seeany motion in this video,but by recording a two-minute-long video,natural air currents in this roomcreated enough subtle,imperceptible motions and vibrationsthat we could learn enoughto create this simulation.
+时间：16:47
+zh-cn:神奇的是，以往我们都是针对虚拟物体，针对游戏和3D模型来实现这种互动，而这项技术仅仅是利用普通的视频对现实世界中的真实物体进行采样，它极富新意，具有广阔的应用前景。
+en:And ironically,we&#39;re kind of used to havingthis kind of interactivitywhen it comes to virtual objects,when it comes to video gamesand 3D models,but to be able to capture this informationfrom real objects in the real worldusing just simple, regular video,is something new that hasa lot of potential.
+时间：17:09
+zh-cn:这些是跟我共同研究这项技术的优秀的同事。（掌声）
+en:So here are the amazing peoplewho worked with me on these projects.(Applause)
+时间：17:23
+zh-cn:今天向大家展示的只是一个技术雏形。关于如何使用这种新型图像，我们才刚刚入门，它为我们提供了一种运用已有的普通技术来记录周围事物的新方法。展望一下未来，我们迫不及待地想要看到如何利用这项技术去更好地了解世界。
+en:And what I&#39;ve shown you todayis only the beginning.We&#39;ve just started to scratch the surfaceof what you can dowith this kind of imaging,because it gives us a new wayto capture our surroundingswith common, accessible technology.And so looking to the future,it&#39;s going to bereally exciting to explorewhat this can tell us about the world.
+时间：17:45
+zh-cn:谢谢大家。
+en:Thank you.
+时间：17:46
+zh-cn:（掌声）
+en:(Applause)

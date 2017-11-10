@@ -1,0 +1,87 @@
+时间： 0:11
+zh-cn:这是一个有关于基因驱动的演讲，但首先我先讲一个小故事。20年前，一位名为安东尼·詹姆斯的生物学家正致力于培育不会传播疟疾的蚊子。
+en:So this is a talk about gene drives,but I&#39;m going to startby telling you a brief story.20 years ago, a biologistnamed Anthony Jamesgot obsessed with the ideaof making mosquitosthat didn&#39;t transmit malaria.
+时间： 0:26
+zh-cn:想法很好，但是结果是失败的。首先，让蚊子不携带疟疾是非常困难的。最终，詹姆斯在几年之前利用添加基因的方式才使蚊子抵抗疟原虫的寄生成为可能。
+en:It was a great idea,and pretty much a complete failure.For one thing, it turned outto be really hardto make a malaria-resistant mosquito.James managed it, finally,just a few years ago,by adding some genesthat make it impossiblefor the malaria parasiteto survive inside the mosquito.
+时间： 0:46
+zh-cn:但是接下来还有一个问题。我们有了抵抗疟疾的蚊子，要如何替换那些携带疟疾的蚊子呢？有很多方案，方案一主要依靠培育的办法，向大自然中释放一群新型的经过基因改造的蚊子，寄希望于它们大量繁殖，稀释原来的基因。可是问题在于差不多要释放10倍于原来蚊子数量的转基因蚊子才有效果。如果一个小镇上有一万只蚊子，就要释放十万只转基因蚊子。可以想象小镇村民肯定不会接受这个方案。
+en:But that just created another problem.Now that you&#39;ve gota malaria-resistant mosquito,how do you get it to replaceall the malaria-carrying mosquitos?There are a couple options,but plan A was basically to breed upa bunch of the newgenetically-engineered mosquitosrelease them into the wildand hope that they pass on their genes.The problem was that you&#39;d have to releaseliterally 10 times the numberof native mosquitos to work.So in a village with 10,000 mosquitos,you release an extra 100,000.As you might guess,this was not a very popular strategywith the villagers.
+时间： 1:23
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:25
+zh-cn:后来，今年一月的时候，安东尼詹姆斯收到了一封来自于一名叫伊森比尔的生物学家的邮件。比尔说他和他的研究生瓦伦蒂诺·甘茨无意中发现了一种工具，不仅可以保证特定的基因会被遗传，而且基因传播的速度难以置信的快。如果他们是对的，就从基本上解决了这个詹姆斯潜心研究20年的问题。
+en:Then, last January,Anthony James got an emailfrom a biologist named Ethan Bier.Bier said that heand his grad student Valentino Gantzhad stumbled on a toolthat could not only guaranteethat a particular genetic traitwould be inherited,but that it would spreadincredibly quickly.If they were right,it would basically solve the problemthat he and James had beenworking on for 20 years.
+时间： 1:49
+zh-cn:实验中需要两只携带抗疟疾基因的蚊子，以及新的工具，即基因驱动装置，一会儿我会详细介绍。实验的设计是任何携带抗疟疾基因的蚊子将拥有红色的眼睛，而不是常见的白色眼睛。这只是为了更好的通过肉眼就可以区分它们的基因携带情况。
+en:As a test, they engineered two mosquitosto carry the anti-malaria geneand also this new tool, a gene drive,which I&#39;ll explain in a minute.Finally, they set it upso that any mosquitosthat had inherited the anti-malaria genewouldn&#39;t have the usual white eyes,but would instead have red eyes.That was pretty much just for convenienceso they could tell just at a glancewhich was which.
+时间： 2:13
+zh-cn:研究者把两只抗疟疾红眼蚊子放入一个有30只普通白眼蚊子的盒子中，让它们自由繁殖。两代繁殖之后，培养了3800个子二代。这并不是让人惊讶的部分。下面才是惊人的部分：如果一开始只有两只红眼蚊子，三十只白眼蚊子，它们自由繁殖的后代大多数应该是白眼。然而当詹姆斯打开盒子，3800只蚊子全部都是红眼。
+en:So they took their twoanti-malarial, red-eyed mosquitosand put them in a boxwith 30 ordinary white-eyed ones,and let them breed.In two generations, those had produced3,800 grandchildren.That is not the surprising part.This is the surprising part:given that you startedwith just two red-eyed mosquitosand 30 white-eyed ones,you expect mostly white-eyed descendants.Instead, when James opened the box,all 3,800 mosquitos had red eyes.
+时间： 2:44
+zh-cn:当我问伊森比尔这一时刻的感受时，他太兴奋了，在电话里一直叫喊着。因为只得到了红色眼睛的蚊子打破了生物学的绝对基本定律，孟德尔遗传学定律。这部分我大概讲一下，孟德尔遗传学认为当雄性和雌性交配，它们的后代会遗传父母各一半的基因。所以如果本来蚊子的基因是aa转基因蚊子的基因是aB，B是抗疟疾基因，后代应该呈现下面四种基因组合：aa aB aa Ba。然而使用了新的基因驱动之后，它们全变成了aB型。从生物的角度说这应该是不可能的。
+en:When I asked Ethan Bier about this moment,he became so excited that he was literallyshouting into the phone.That&#39;s because gettingonly red-eyed mosquitosviolates a rule that is the absolutecornerstone of biology,Mendelian genetics.I&#39;ll keep this quick,but Mendelian geneticssays when a male and a female mate,their baby inherits halfof its DNA from each parent.So if our original mosquito was aaand our new mosquito is aB,where B is the anti-malarial gene,the babies should come outin four permutations:aa, aB, aa, Ba.Instead, with the new gene drive,they all came out aB.Biologically, that shouldn&#39;teven be possible.
+时间： 3:23
+zh-cn:到底发生了什么呢？首先，2012年一种叫做CRISPR的基因修改工具进入了人们的视野。很多人可能听说过CRISPR，简而言之CRISPR是一种允许研究者快速，精准，简单地修改基因的工具。这种工具利用了一种存在于细菌中的机制。也就是一个扮演了DNA剪刀角色的蛋白质，在一个RNA分子的指示下剪刀可以作用于任何目标基因组。就像是一个基因文字处理系统。你可以取出整段基因，再加入一个进行替换，甚至可以编辑基因中的单个碱基。这个工具几乎适用于所有物种。
+en:So what happened?The first thing that happenedwas the arrival of a gene-editing toolknown as CRISPR in 2012.Many of you have probablyheard about CRISPR,so I&#39;ll just say briefly that CRISPRis a tool that allows researchersto edit genes very precisely,easily and quickly.It does this by harnessing a mechanismthat already existed in bacteria.Basically, there&#39;s a proteinthat acts like a scissorsand cuts the DNA,and there&#39;s an RNA moleculethat directs the scissorsto any point on the genome you want.The result is basicallya word processor for genes.You can take an entire geneout, put one in,or even edit just a singleletter within a gene.And you can do it in nearly any species.
+时间： 4:04
+zh-cn:前面我提过基因驱动有两大难题。首先是如何培育一只抗疟疾的蚊子。多亏了CRISPR，我们解决了这个难题。但是第二个问题随之而来。如何让这个性状得以传播？这就是这个装置精巧的地方。
+en:OK, remember how I said that gene drivesoriginally had two problems?The first was that it was hardto engineer a mosquitoto be malaria-resistant.That&#39;s basically gone now,thanks to CRISPR.But the other problem was logistical.How do you get your trait to spread?This is where it gets clever.
+时间： 4:23
+zh-cn:几年前，哈佛大学的一名叫做凯文·恩斯福尔特的生物学家探究如果不仅仅在新基因中使用CRISPR，在剪切复制机制中也使用CRISPR，会发生什么情况。换言之，如果CRISPR自己也进行复制粘贴会如何。我们就得到了永动的基因修改工具。事实果真如此。恩斯福尔特创造的CRISPR基因驱动装置不仅保证了性状的传播，而且当它作用于生殖细胞的时候，它会在每个个体的两条染色体上自动复制粘贴新的基因。就像是全面检索并替换的功能，用学术术语来说，就是杂合子性状纯合化。
+en:A couple years ago, a biologistat Harvard named Kevin Esveltwondered what would happenif you made it so thatCRISPR inserted not only your new genebut also the machinerythat does the cutting and pasting.In other words, what if CRISPRalso copied and pasted itself.You&#39;d end up with a perpetualmotion machine for gene editing.And that&#39;s exactly what happened.This CRISPR gene drive that Esvelt creatednot only guaranteesthat a trait will get passed on,but if it&#39;s used in the germline cells,it will automatically copy and pasteyour new geneinto both chromosomesof every single individual.It&#39;s like a global search and replace,or in science terms, it makesa heterozygous trait homozygous.
+时间： 5:10
+zh-cn:那么这意味着什么呢？首先，我们拥有了一个很强大，但同时也令人担忧的新工具。目前为止，基因驱动还并不是很有效，这反而让我们感到欣慰。通常，当我们对有机体的基因进行研究时，会研究一些进化中不太可能发生的改变。生物学家可以随心所欲培育变异果蝇，根本不用担心任何后果。就算有些逃出了实验室，也无法在自然界中存活和繁殖。
+en:So, what does this mean?For one thing, it means we havea very powerful,but also somewhat alarming new tool.Up until now, the fact that gene drivesdidn&#39;t work very wellwas actually kind of a relief.Normally when we mess aroundwith an organism&#39;s genes,we make that thingless evolutionarily fit.So biologists can makeall the mutant fruit flies they wantwithout worrying about it.If some escape, natural selectionjust takes care of them.
+时间： 5:37
+zh-cn:基因驱动的强大和可怕之处在于这种情况不再是理所当然的了。想象新的性状并没有一个像蚊子不会飞那样的很大的进化缺陷，基于CRISPR的基因驱动将很快地让每一个个体拥有这种性状。目前为止基因驱动技术还并不完善，但是詹姆斯和恩斯福尔特相信最终我们可以做到。
+en:What&#39;s remarkable and powerfuland frightening about gene drivesis that that will no longer be true.Assuming that your trait does not havea big evolutionary handicap,like a mosquito that can&#39;t fly,the CRISPR-based gene drivewill spread the change relentlesslyuntil it is in every single individualin the population.Now, it isn&#39;t easy to makea gene drive that works that well,but James and Esvelt think that we can.
+时间： 6:04
+zh-cn:好消息是它拥有美好的前景。只要在1%的疟蚊身上使用含有抗疟疾基因的基因驱动装置，疟蚊就是传播疟疾的蚊子，研究者预测一年之内所有疟蚊都会获得新的基因。所以一年之内就可以根除疟疾。实际上我们还需要几年时间来进行试验，但是目前，每天仍有1000个孩子死于疟疾。一年之内这个数字可能几乎下降为0。登革热、基孔肯雅热、黄热病也可以同样被根除。
+en:The good news is that this opensthe door to some remarkable things.If you put an anti-malarial gene drivein just 1 percent of Anopheles mosquitoes,the species that transmits malaria,researchers estimate that it would spreadto the entire population in a year.So in a year, you could virtuallyeliminate malaria.In practice, we&#39;re still a few years outfrom being able to do that,but still, a 1,000 childrena day die of malaria.In a year, that numbercould be almost zero.The same goes for dengue fever,chikungunya, yellow fever.
+时间： 6:36
+zh-cn:这项技术会越来越成熟。如果你想根除入侵物种，比如五大湖中的亚洲鲤鱼。只要使用基因驱动让鱼群只能繁衍雄性后代。几代之后没有了雌性鲤鱼，鲤鱼种群就会随之消失。理论上我们可以通过这个方式保护上百种濒临灭绝的本地物种。
+en:And it gets better.Say you want to get ridof an invasive species,like get Asian carpout of the Great Lakes.All you have to do is release a gene drivethat makes the fish produceonly male offspring.In a few generations,there&#39;ll be no females left, no more carp.In theory, this means we could restorehundreds of native speciesthat have been pushed to the brink.
+时间： 6:58
+zh-cn:上面都是好的部分，下面说说负面影响。基因驱动的效率太高，以至于不经意释放的样本都可能在短时间内引起整个种群的巨大改变。詹姆斯做好了预防措施。他在一个生物控制实验室繁殖蚊子，并且蚊子也并不是美国本土的种类，所以就算蚊子逃跑了，也会因为没有办法交配而灭绝。但是如果有一些携带只繁殖雄性后代基因驱动的亚洲鲤鱼偶然从五大湖被带回了亚洲，这可能会让整个亚洲鲤鱼种群灭绝。鉴于现在世界联系的紧密程度，这是很有可能的。这也是为什么会出现物种入侵。这是鱼类的情况。而像蚊子和果蝇一类的生物，它们经常漂洋过海，基本上是没有办法限制它们的。
+en:OK, that&#39;s the good news,this is the bad news.Gene drives are so effectivethat even an accidental releasecould change an entire species,and often very quickly.Anthony James took good precautions.He bred his mosquitosin a bio-containment laband he also used a speciesthat&#39;s not native to the USso that even if some did escape,they&#39;d just die off, there&#39;d be nothingfor them to mate with.But it&#39;s also true that if a dozenAsian carp with the all-male gene driveaccidentally got carriedfrom the Great Lakes back to Asia,they could potentially wipe outthe native Asian carp population.And that&#39;s not so unlikely,given how connected our world is.In fact, it&#39;s why we havean invasive species problem.And that&#39;s fish.Things like mosquitos and fruit flies,there&#39;s literally no way to contain them.They cross bordersand oceans all the time.
+时间： 7:52
+zh-cn:另外一个坏消息，基因驱动不一定被限制在我们所谓的靶物种上。这是源于基因流动，基因流动意思是相似的物种偶尔会彼此杂交。如果发生了杂交，有可能基因驱动会穿过物种的限制，比如亚洲鲤鱼可能会影响其他的鲤鱼种类。如果基因驱动只是改变了一个性状，比如眼睛颜色，可能还好。而实际上，近期很可能将会有大量奇怪的果蝇被培育出来。不过如果基因驱动被用于毁灭物种，可能会导致大的灾难。
+en:OK, the other piece of bad newsis that a gene drivemight not stay confinedto what we call the target species.That&#39;s because of gene flow,which is a fancy way of sayingthat neighboring speciessometimes interbreed.If that happens, it&#39;s possiblea gene drive could cross over,like Asian carp could infectsome other kind of carp.That&#39;s not so bad if your drivejust promotes a trait, like eye color.In fact, there&#39;s a decentchance that we&#39;ll seea wave of very weird fruit fliesin the near future.But it could be a disasterif your drive is deignedto eliminate the species entirely.
+时间： 8:25
+zh-cn:更为可怕的是基因驱动的技术，这种能够培育含有基因驱动的有机体的技术，基本上在世界上任何一个实验室都可以做到。本科生就可以做到。甚至有天赋的高中生在有设备的情况下都可以做到。
+en:The last worrisome thingis that the technology to do this,to genetically engineer an organismand include a gene drive,is something that basically any labin the world can do.An undergraduate can do it.A talented high schoolerwith some equipment can do it.
+时间： 8:43
+zh-cn:这就很可怕了。
+en:Now, I&#39;m guessingthat this sounds terrifying.
+时间： 8:46
+zh-cn:（笑声）
+en:(Laughter)
+时间： 8:48
+zh-cn:有趣的是，几乎每一个和我探讨基因驱动的科学家都不认为基因驱动实际上那么可怕和危险。一部分原因是他们相信科学家们使用这个技术时都会非常小心谨慎。
+en:Interestingly though,nearly every scientist I talk toseemed to think that gene drives were notactually that frightening or dangerous.Partly because they believethat scientists will bevery cautious and responsibleabout using them.
+时间： 9:00
+zh-cn:（笑声）
+en:(Laughter)
+时间： 9:01
+zh-cn:目前为止确实如此。不过基因驱动也有一些实际的限制。首先它只能应用于有性生殖的物种。所以谢天谢地，它们并不能用在细菌和病毒的培育上。其次，性状只有在不停繁衍下才会传播。所以只有在繁殖周期很短的物种中改变或者灭绝种群才是可能的。比如昆虫或者类似于鼠类或者鱼类的小型脊椎动物。对于大象或者人类，可能需要几百年，改变的性状才可能传播的足够广。
+en:So far, that&#39;s been true.But gene drives also havesome actual limitations.So for one thing, they workonly in sexually reproducing species.So thank goodness, they can&#39;t be usedto engineer viruses or bacteria.Also, the trait spreadsonly with each successive generation.So changing or eliminating a populationis practical only if that specieshas a fast reproductive cycle,like insects or maybesmall vertebrates like mice or fish.In elephants or people,it would take centuriesfor a trait to spreadwidely enough to matter.
+时间： 9:31
+zh-cn:另外，就算有CRISPR，想要制造一个真正可以引发灭绝的性状也不是简单的事。比如你想制造一种果蝇，它们以普通水果为食，而不是腐烂的水果，打算以此摧毁美国的农业。首先你要搞清楚，哪个基因控制果蝇的择食，这已经是很复杂的项目了。接下来你要根据你的想法通过改变基因去改变果蝇的习性，这将是更加复杂的项目。甚至可能压根儿没什么效果，因为基因对于行为的控制是非常复杂的。所以如果你是一个恐怖分子，你会选择开始一个耗时多年的艰苦卓绝的也许还没有结果的实验，还是直接选择炸毁目的地？多半是后者。
+en:Also, even with CRISPR, it&#39;s not that easyto engineer a truly devastating trait.Say you wanted to make a fruit flythat feeds on ordinary fruitinstead of rotting fruit,with the aim of sabotagingAmerican agriculture.First, you&#39;d have to figure outwhich genes controlwhat the fly wants to eat,which is already a very longand complicated project.Then you&#39;d have to alter those genesto change the fly&#39;s behaviorto whatever you&#39;d want it to be,which is an even longerand more complicated project.And it might not even work,because the genesthat control behavior are complex.So if you&#39;re a terroristand have to choosebetween starting a gruelingbasic research programthat will require years of meticulouslab work and still might not pan out,or just blowing stuff up?You&#39;ll probably choose the later.
+时间：10:14
+zh-cn:而且至少在理论上，制造一个逆转驱动装置也应该很简单。这样就可以覆盖第一个基因驱动进行的改变。所以如果你对于改变的结果不满意，启动第二个装置取消改变，至少理论上是可行的。
+en:This is especially truebecause at least in theory,it should be pretty easyto build what&#39;s called a reversal drive.That&#39;s one that basically overwritesthe change made by the first gene drive.So if you don&#39;t likethe effects of a change,you can just release a second drivethat will cancel it out,at least in theory.
+时间：10:32
+zh-cn:那么这一切到底告诉了我们什么呢？我们现在可以随意改变整个种群。是这样么？我们扮演上帝的角色了么？我不这么认为。我想说的是：首先，很多睿智的人现在已经开始讨论如何规范基因驱动。与此同时另外一些聪明的人开始制定安全保护措施，比如让基因驱动自我调控，或者在经过几代之后逐渐消失。这是很好的。但是这项技术仍然需要更多讨论。而且鉴于基因驱动的本质，全球都应该参与到讨论之中。如果肯尼亚想使用一个基因驱动但坦桑尼亚不想怎么办？谁来决定可以广泛传播的基因驱动什么时候释放？
+en:OK, so where does this leave us?We now have the abilityto change entire species at will.Should we?Are we gods now?I&#39;m not sure I&#39;d say that.But I would say this:first, some very smart peopleare even now debatinghow to regulate gene drives.At the same time,some other very smart peopleare working hard to create safeguards,like gene drives that self-regulateor peter out after a few generations.That&#39;s great.But this technology still requiresa conversation.And given the nature of gene drives,that conversation has to be global.What if Kenya wants to use a drivebut Tanzania doesn&#39;t?Who decides whether to releasea gene drive that can fly?
+时间：11:21
+zh-cn:我不知道答案。接下来我们能做的是实事求是的讨论利弊，并且对我们做出的选择负责。我的意思是，不仅仅是选择使用基因驱动，也可以选择禁用它。人类倾向的最安全的方案就是维持现状。但是事实往往不一定如此。基因驱动确实有风险，也需要认真讨论，但是疟疾现在每天都夺去1000个人的生命。为了对抗疟疾我们播撒了对于其他物种，包括两栖类和鸟类都伤害巨大的杀虫剂。
+en:I don&#39;t have the answer to that question.All we can do going forward, I think,is talk honestlyabout the risks and benefitsand take responsibility for our choices.By that I mean, not just the choiceto use a gene drive,but also the choice not to use one.Humans have a tendency to assumethat the safest optionis to preserve the status quo.But that&#39;s not always the case.Gene drives have risks,and those need to be discussed,but malaria exists nowand kills 1,000 people a day.To combat it, we spray pesticidesthat do grave damage to other species,including amphibians and birds.
+时间：12:02
+zh-cn:所以如果接下来的几个月你听到了基因驱动，你们一定会听到的，请记住我说的话。行动意味着风险，但是有时无动于衷更加致命。
+en:So when you hear about gene drivesin the coming months,and trust me, you willbe hearing about them,remember that.It can be frightening to act,but sometimes, not acting is worse.
+时间：12:15
+zh-cn:（掌声）
+en:(Applause)

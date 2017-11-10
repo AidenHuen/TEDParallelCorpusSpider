@@ -1,0 +1,63 @@
+时间： 0:11
+zh-cn:北海巨妖，一只恐怖的野兽，据说它吞食活人、船只和鲸鱼，并且它是如此巨大以至于会被误认为是一座小岛。在评估这样的故事的真实性时，聪明的做法也许是谨记着老水手对童话和海洋传说的区别的看法是童话往往这样开始：“很久以前……”而一个海洋传说会这样开始：“这不是胡扯。”（笑）
+en:The Kraken, a beast so terrifyingit was said to devour men and ships and whales,and so enormous it could be mistaken for an island.In assessing the merits of such tales,it&#39;s probably wise to keep in mind that old sailor&#39;s sawthat the only difference between a fairytale and a sea storyis a fairytale begins, &quot;Once upon a time,&quot;and a sea story begins, &quot;This ain&#39;t no shit.&quot; (Laughter)
+时间： 0:38
+zh-cn:每次讲一个关于跑掉的鱼的故事时，这条鱼都会随着故事讲的次数而变大。然而大海中也有巨人，并且现在我们有了视频为证，如果你们看过探索频道的纪录片，那肯定知道这个。
+en:Every fish that gets awaygrows with every telling of the tale.Nevertheless, there are giants in the ocean,and we now have video proof,as those of you that saw the Discovery Channel documentary are no doubt aware.
+时间： 0:51
+zh-cn:我是参与探索旅程的三位科学家之一，这次旅程于去年夏天在日本开展。我是照片里最矮的那个。其他两位是窪寺恒己博士和史蒂夫·欧谢伊博士。
+en:I was one of the three scientists on this expeditionthat took place last summer off Japan.I&#39;m the short one.The other two are Dr. Tsunemi Kubodera and Dr. Steve O&#39;Shea.
+时间： 1:03
+zh-cn:我能参与到这个历史性的事件中来这还要感谢 TED。2010年有一场TED活动叫做“蓝色使命”这场活动在停靠于加拉帕戈斯群岛的林德布拉德探险者号上进行作为西尔维亚·厄尔的“TED愿望”的一部分。我讲了探索海洋的新途径，其中一个重点是要吸引动物而不是将它们吓跑。麦克· 德葛鲁也被邀请了，他很有激情的讲了他对大海的热爱并且他还讲到了应用我的方法到一些他参与很久的项目中来，那就是寻找巨型乌贼。是迈克让我能受邀参加乌贼研讨峰会，那是在那个夏天的鲨鱼周中在探索频道开展的一次乌贼专家聚会。（笑声）
+en:I owe my participation in this now-historic eventto TED.In 2010, there was a TED event called Mission Blueheld aboard the Lindblad Explorer in the Galapagosas part of the fulfillment of Sylvia Earle&#39;s TED wish.I spoke about a new way of exploring the ocean,one that focuses on attracting animals instead of scaring them away.Mike deGruy was also invited,and he spoke with great passion about his love of the ocean,and he also talked to me about applying my approachto something he&#39;s been involved with for a very long time,which is the hunt for the giant squid.It was Mike that got me invited to the squid summit,a gathering of squid experts at the Discovery Channelthat summer during Shark Week. (Laughter)
+时间： 1:52
+zh-cn:我发表了一个关于非介入观察和使用光诱饵吸引深海乌贼的演讲。我强调了探索应采用无声、非介入的平台。这个结论源自我几百次的潜水活动，使用这些平台在黑暗中四处观察给我的印象是从潜水器中观察比我使用远程遥控潜艇能够看到更多的动物。但这可能只是因为潜水器具有更广阔的视角。另外我还发觉使用蒂伯龙潜艇比温塔娜潜艇我观察到了更多的动物，两种潜艇的视野相同但采用了不同的推进系统。
+en:I gave a talk on unobtrusive viewingand optical luring of deep sea squidin which I emphasized the importanceof using quiet, unobtrusive platforms for exploration.This came out of hundreds of dives I have made,farting around in the darkusing these platforms,and my impression that I saw more animalsworking from the submersiblethan I did with either of the remote-operated vehicles.But that could just be because the submersible has a wider field of view.But I also felt like I saw more animalsworking with the Tiburon than the Ventana,two vehicles with the same field of viewbut different propulsion systems.
+时间： 2:32
+zh-cn:所以我怀疑这可能跟他们产生的噪音大小有关。因此我在海底安置了一个水听器，然后我让每一个潜艇以同样的速度和距离经过并记录它们发出的声音。约翰逊深海链接潜艇 —-（呼呼声噪音）的声音可能只能被勉强听到，它使用的是电动推进器 —- 非常、 非常安静。蒂伯龙潜艇使用的也是电动推进器。它也相当安静，但是噪音要稍大一点。（稍大的呼呼声噪音）但目前能潜到最深的那些远程遥控潜艇大多使用的是液压驱动系统它们的声音与温塔娜潜艇的一样。（大声蜂鸣音噪音）我认为它的声音会吓跑很多的动物。
+en:So my suspicion was that it might have something to do with the amount of noise they make.So I set up a hydrophone on the bottom of the ocean,and I had each of these fly by at the same speed and distanceand recorded the sound they made.The Johnson Sea-Link — (whirring noise) —which you can probably just barely hear here,uses electric thrusters — very, very quiet.The Tiburon also uses electric powered thrusters.It&#39;s also pretty quiet, but a bit noisier. (Louder whirring noise)But most deep-diving ROVs these days use hydraulicsand they sound like the Ventana. (Loud beeping noise)I think that&#39;s got to be scaring a lot of animals away.
+时间： 3:10
+zh-cn:所以对于深海乌贼的探索，我建议使用光诱饵，将光源安装到一个没有推进器、没有发动机的相机平台上，只有一个电池驱动的相机，并且唯一的光源来自红光红光是大部分的深海生物无法看到的它们适应了只能主要看到蓝色光。这对我们是可见的，但它相当于深海中的红外线。所以这个我们称之为美杜沙的相机平台可以直接从船后方扔到水中，平台用长于610米的绳索连在船上，它会被动地由洋流驱使在周围漂流，深海中动物们唯一可看见的光是光诱饵所发出的蓝色光，我们将其称之为电子水母，因为它的设计是模仿常见的深海棕色水母所发出的生物光。
+en:So for the deep sea squid hunt,I proposed using an optical lureattached to a camera platformwith no thrusters, no motors,just a battery-powered camera,and the only illumination coming from red lightthat&#39;s invisible to most deep-sea animalsthat are adapted to see primarily blue.That&#39;s visible to our eye,but it&#39;s the equivalent of infrared in the deep sea.So this camera platform, which we called the Medusa,could just be thrown off the back of the ship,attached to a float at the surface with over 2,000 feet of line,it would just float around passively carried by the currents,and the only light visible to the animals in the deepwould be the blue light of the optical lure,which we called the electronic jellyfish, or e-jelly,because it was designed to imitatethe bioluminescent displayof the common deep sea jellyfish Atolla.
+时间： 4:12
+zh-cn:棕色水母所发出的这种旋转光被认为是一种生物光报警和一种防御形式。电子水母能成为诱饵的原因不是因为巨型乌贼捕食水母，而是因为这种水母只会在它被捕食者咀嚼的时候发出这种光，水母唯一可以逃生的希望是吸引到更大型捕食者的注意，这样它就会攻击水母的捕食者从而让水母有机会逃跑。这是呼唤帮助的尖叫，逃跑的最后希望，也是深海中一种常见的防御形式。
+en:Now, this pinwheel of light that the Atolla producesis known as a bioluminescent burglar alarmand is a form of defense.The reason that the electronic jellyfish worked as a lureis not because giant squid eat jellyfish,but it&#39;s because this jellyfish only resorts to producing this lightwhen it&#39;s being chewed on by a predatorand its only hope for escapemay be to attract the attention of a larger predatorthat will attack its attackerand thereby afford it an opportunity for escape.It&#39;s a scream for help, a last-ditch attempt for escape,and a common form of defense in the deep sea.
+时间： 4:51
+zh-cn:这个方法是有效的。之前所有的探索活动都没能成功获得巨型乌贼的影像资料，而我们成功录了六段视频，第一次拍到巨型乌贼的视频时我们兴奋极了。
+en:The approach worked.Whereas all previous expeditions had failed to garnera single video glimpse of the giant,we managed six, and the first triggered wild excitement.
+时间： 5:04
+zh-cn:（视频中） 伊迪丝 · 维达： 哦，我的上帝。哦，我的上帝！你在跟我开玩笑吗？其他科学家： 哦呵呵！就在那里。
+en:Edith Widder (on video): Oh my God. Oh my God! Are you kidding me?Other scientists: Oh ho ho! That&#39;s just hanging there.
+时间： 5:17
+zh-cn:就像它在戏弄我们，跳着一种有趣的舞蹈 —-现在你看到我，现在你又看不到我了 —-我们先看到了四次这样的“戏弄”，然后第五次时，它靠近了并完全震撼了我们。”
+en:EW: It was like it was teasing us, doing a kind of fan dance —now you see me, now you don&#39;t —and we had four such teasing appearances,and then on the fifth, it came in and totally wowed us.
+时间： 5:31
+zh-cn:（音乐）讲述人：（日语）
+en:(Music) Narrator: (Speaking in Japanese)
+时间： 5:35
+zh-cn:科学家们： “哦，砰 ！哦，我的上帝！哇噻 ！”
+en:Scientists: Ooh. Bang! Oh my God! Whoa!
+时间： 5:47
+zh-cn:（掌声）
+en:(Applause)
+时间： 5:50
+zh-cn:完全的震撼。
+en:EW: The full monty.
+时间： 5:55
+zh-cn:让我真正震撼的是它来到电子水母上来的方式然后攻击电子水母旁边的巨大东西，我认为它误认为电子水母上面的是水母的捕食者。
+en:What really wowed me about thatwas the way it came in up over the e-jellyand then attacked the enormous thing next to it,which I think it mistook for the predator on the e-jelly.
+时间： 6:04
+zh-cn:但更令人难以置信的是从特里顿潜水器里拍摄的镜头。探索频道纪录片里没有提到的是窪寺恒己博士使用的诱饵乌贼：一只一米长的菱鳍乌贼用延绳捕鱼的渔夫使用的乌贼挂钩将光源附到它身上，我认为正是这个光吸引到了巨型乌贼。
+en:But even more incredible was the footage shotfrom the Triton submersible.What was not mentioned in the Discovery documentarywas that the bait squid that Dr. Kubodera used,a one-meter long diamondback squidhad a light attached to it, a squid jigof the type that longline fishermen use,and I think it was this lightthat brought the giant in.
+时间： 6:29
+zh-cn:现在你们看到的是高敏感相机使用红色光录下的影像，这是窪寺恒己博士在巨型乌贼出现在这里时所看到的全部。然后他变得如此兴奋他打开了他的手电想看的更清楚些，并且巨型乌贼没有逃跑，因此他冒着风险打开了潜水器上的所有白色光，把一种传说中的生物从朦胧的历史变成了高清晰视频。它是如此的惊人，如果这个生物将它的捕食触手完全伸展开的话，它会有两层楼那样高。
+en:Now, what you&#39;re seeingis the intensified camera&#39;s view under red light,and that&#39;s all Dr. Kubodera could see when the giant comes in here.And then he got so excited,he turned on his flashlight because he wanted to see better,and the giant didn&#39;t run away,so he risked turning on the white lights on the submersible,bringing a creature of legendfrom the misty history into high-resolution video.It was absolutely breathtaking,and had this animal had its feeding tentacles intactand fully extended,it would have been as tall as a two-story house.
+时间： 7:09
+zh-cn:为什么如此巨大的东西生活在我们的海洋但直到现在才被拍摄到呢？我们目前只探索了海洋的大约5%。很多伟大的发现将会出现在水下，代表数百万年的进化过程的伟大生物们和很可能发现的生物活性化合物这些发现可能会带给我们无法想象的好处。然而相较于宇宙探索我们只花了一小部分钱用于海洋探索。我们需要一个类似美国国家航空航天局的组织来探索海洋，因为我们需要探索和保护地球上的我们的生命支持系统。
+en:How could something that biglive in our ocean and yet remain unfilmed until now?We&#39;ve only explored about five percent of our ocean.There are great discoveries yet to be made down there,fantastic creatures representing millions of years of evolutionand possibly bioactive compoundsthat could benefit us in ways that we can&#39;t even yet imagine.Yet we have spent only a tiny fractionof the money on ocean explorationthat we&#39;ve spent on space exploration.We need a NASA-like organization for ocean exploration,because we need to be exploring and protectingour life support systems here on Earth.
+时间： 7:51
+zh-cn:我们需要 —- 谢谢。（掌声）
+en:We need — thank you. (Applause)
+时间： 7:58
+zh-cn:探索是推动创新的引擎。创新驱动着经济增长。所以让我们一起去探索吧，但是让我们要用一种不会吓跑动物们的方式，或者如麦克· 德葛鲁曾经说过的：“如果你想要摆脱一切并且看到一些你从未见过的东西，或有绝佳的机会看到一些前所未见的东西，那么下到潜水艇里吧。“他本应和我们一起进行这次冒险。我们缅怀他。（掌声）
+en:Exploration is the engine that drives innovation.Innovation drives economic growth.So let&#39;s all go exploring,but let&#39;s do it in a way that doesn&#39;t scare the animals away,or, as Mike deGruy once said,&quot;If you want to get away from it alland see something you&#39;ve never seen,or have an excellent chance of seeing something that no one&#39;s ever seen,get in a sub.&quot;He should have been with us for this adventure.We miss him.(Applause)

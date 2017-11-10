@@ -1,0 +1,87 @@
+时间： 0:11
+zh-cn:我今天要和大家讲述的是关于我们自身的一个非常强大非常重要的方面：我们的声音，每一个人的声音都带有独特的标记，这个声音的标记能反映出我们的年龄，我们的胖瘦高矮，甚至是我们的生活方式和性格。用诗人朗费罗的话来说，“人类的声音是灵魂的重要器官。”身为一个语音科学家，我非常热衷于研究声音的产生，而且我有一个如何制造声音的想法。这就是我今天想和大家分享的东西。
+en:I&#39;d like to talk todayabout a powerful and fundamental aspectof who we are: our voice.Each one of us has a unique voiceprintthat reflects our age, our size,even our lifestyle and personality.In the words of the poet Longfellow,&quot;the human voice is the organ of the soul.&quot;As a speech scientist, I&#39;m fascinatedby how the voice is produced,and I have an idea for how it can be engineered.That&#39;s what I&#39;d like to share with you.
+时间： 0:44
+zh-cn:首先，我想为大家播放一个声音样本，这个声音你们可能听过。
+en:I&#39;m going to start by playing you a sampleof a voice that you may recognize.
+时间： 0:48
+zh-cn:（录音）史蒂芬·霍金：“我本来以为，我想说的意思很显而易见。”
+en:(Recording) Stephen Hawking: &quot;I would have thoughtit was fairly obvious what I meant.&quot;
+时间： 0:52
+zh-cn:卢帕尔·帕特尔：那是史蒂芬·霍金教授的声音。你们可能不知道的是，同样的声音也被用于这个小女孩身上，她因为大脑神经系统缺陷而不能讲话。事实上，很多不能说话的人都可能在使用同样的声音那是因为可以使用的声音样本太少了。单单在美国，就有250万人不能说话，而且在这些人中很多都是使用电脑化的设备进行交流。也就是全世界数百万的人都在使用一些毫无个性的声音，其中就包括史蒂芬·霍金教授，他使用的声音是带有美国口音的。我真正开始意识到合成声音缺乏个性是我在几年前参加一个辅助技术会议的时候，我记得走进一个展厅，看到一个小女孩和一个成年男子正在用他们的设备进行对话，不同的设备，却是同样的声音。我看向四周，发现身边这种情况很多，几乎是上百个人却只用着为数不多的几种声音，这些声音跟他们的身体特征和性格都很不匹配。我们肯定做梦也不会想到把一个成年男子的假肢装在一个小女孩身上。那为什么他们要用同样的合成声音呢？这深深的触动了我，我想做些什么。
+en:Rupal Patel: That was the voiceof Professor Stephen Hawking.What you may not know is that same voicemay also be used by this little girlwho is unable to speakbecause of a neurological condition.In fact, all of these individualsmay be using the same voice,and that&#39;s because there&#39;sonly a few options available.In the U.S. alone, there are 2.5 million Americanswho are unable to speak,and many of whom use computerized devicesto communicate.Now that&#39;s millions of people worldwidewho are using generic voices,including Professor Hawking,who uses an American-accented voice.This lack of individuation of the synthetic voicereally hit homewhen I was at an assistive technology conferencea few years ago,and I recall walking into an exhibit halland seeing a little girl and a grown manhaving a conversation using their devices,different devices, but the same voice.And I looked around and I saw this happeningall around me, literally hundreds of individualsusing a handful of voices,voices that didn&#39;t fit their bodiesor their personalities.We wouldn&#39;t dream of fitting a little girlwith the prosthetic limb of a grown man.So why then the same prosthetic voice?It really struck me,and I wanted to do something about this.
+时间： 2:26
+zh-cn:现在我想为大家播放一个人的录音——不对，其实是两个人，他们都有很严重的言语障碍。我想让大家听听他们的声音。他们在发出同样一个音。
+en:I&#39;m going to play you now a sampleof someone who has, two people actually,who have severe speech disorders.I want you to take a listen to how they sound.They&#39;re saying the same utterance.
+时间： 2:38
+zh-cn:（第一个声音）
+en:(First voice)
+时间： 2:41
+zh-cn:（第二个声音）大家可能并不明白他们说了什么，但我希望大家听到了他们独特的声音标志。
+en:(Second voice)You probably didn&#39;t understand what they said,but I hope that you heardtheir unique vocal identities.
+时间： 2:53
+zh-cn:所以接下来我想要做的事情就是，我想要找出如何可以利用他们残留的发声能力，并发明一项技术，这项技术能为他们创造出个性化的声音，就是专门为他们定制的声音。所以我联系了我的合作伙伴，蒂姆·邦内尔。邦内尔博士是一位语言合成方面的专家，他一直在为需要帮助的人合成个性化的声音，他把这些人预先录制好的声音样本组合在一起，并重新建立他们的声音。这些人都是在人生后来的某个阶段才失去了语言能力。可是我们没有那些生来就有言语障碍的人的预先录制好的声音样本。但我想，肯定有一个办法可以利用仅存的不管剩下多少的语言能力来逆向重组声音。
+en:So what I wanted to do next is,I wanted to find out how we could harnessthese residual vocal abilitiesand build a technologythat could be customized for them,voices that could be customized for them.So I reached out to my collaborator, Tim Bunnell.Dr. Bunnell is an expert in speech synthesis,and what he&#39;d been doing is buildingpersonalized voices for peopleby putting togetherpre-recorded samples of their voiceand reconstructing a voice for them.These are people who had lost their voicelater in life.We didn&#39;t have the luxuryof pre-recorded samples of speechfor those born with speech disorder.But I thought, there had to be a wayto reverse engineer a voicefrom whatever little is left over.
+时间： 3:39
+zh-cn:于是我们决定去做这样的工作。我们从国家科学基金会的一小笔资金开始，努力打造反映了他们的独特声印的定制的声音。我们称之为VocaliD计划，即声音ID，用于区别不同的声音。
+en:So we decided to do exactly that.We set out with a little bit of fundingfrom the National Science Foundation,to create custom-crafted voices that capturedtheir unique vocal identities.We call this project VocaliD, or vocal I.D.,for vocal identity.
+时间： 3:55
+zh-cn:那么，在我开始讲述声音是如何制作的，以及让大家听这些声音之前，我需要先给大家上一堂关于语音学的快速入门课，可以么？首先，我们知道声音在其发展过程中会发生巨大的改变。儿童的声音与青少年的声音不同，而青少年的声音则与成人的声音不同。我们都经历过这样的改变。第二，语音是声源的组合，也就是你的喉部产生的震动通过声道传出来。这些是你的头部和颈部会震动的腔室，他们会过滤声源并产生辅音和元音。所以声源和过滤器的组合使得我们能够制造语言。而这发生在一个个体身上。
+en:Now before I get into the details of howthe voice is made and let you listen to it,I need to give you a real quickspeech science lesson. Okay?So first, we know that the voice is changingdramatically over the course of development.Children sound different from teenswho sound different from adults.We&#39;ve all experienced this.Fact number two is that speechis a combination of the source,which is the vibrations generated by your voice box,which are then pushed throughthe rest of the vocal tract.These are the chambers of your head and neckthat vibrate,and they actually filter that source soundto produce consonants and vowels.So the combination of source and filteris how we produce speech.And that happens in one individual.
+时间： 4:47
+zh-cn:早先我告诉过你们我花了我职业生涯中的很大一部分时间来了解和学习那些有着严重言语障碍的人的声源的特征，我发现虽然他们的过滤器受损，他们仍然能够控制他们的声源，包括音高、响度和声音的节奏。这些我们称这些为韵律，而我多年的记录表明这些人的韵律能力被保留了下来。所以当我意识到这些同样的线索对讲者身份也是非常重要的时候，我有了这样一个想法。为什么不利用那些我们希望听到的声音的声源，因为这个声源是好的，再借助一个差不多年龄和体型的人的过滤器，因为他们可以清晰地发声，然后把他们组合在一起？因为当我们把它们组合在一起的时候，我们就可以获得一个像代理说话者一样清晰的声音，代理说话者就是我们向其借了过滤器的那个人，而这个声音又跟我们的目标说话者的身份一致。就这么简单。这就是我们在做的研究背后的科学。
+en:Now I told you earlier that I&#39;d spenta good part of my careerunderstanding and studyingthe source characteristics of peoplewith severe speech disorder,and what I&#39;ve foundis that even though their filters were impaired,they were able to modulate their source:the pitch, the loudness, the tempo of their voice.These are called prosody, andI&#39;ve been documenting for yearsthat the prosodic abilities of these individualsare preserved.So when I realized that those same cuesare also important for speaker identity,I had this idea.Why don&#39;t we take the sourcefrom the person we want the voice to sound like,because it&#39;s preserved,and borrow the filterfrom someone about the same age and size,because they can articulate speech,and then mix them?Because when we mix them,we can get a voice that&#39;s as clearas our surrogate talker —that&#39;s the person we borrowed the filter from—and is similar in identity to our target talker.It&#39;s that simple.That&#39;s the science behind what we&#39;re doing.
+时间： 5:59
+zh-cn:有了这样的想法以后，我们又该如何真正去打造这样的声音呢？嗯，你必须找到愿意做代理说话者的人。这并不是什么有着不祥之兆的事情。作为一个代理说话者，你只需要说上几百个到几千个话语。过程大致是这样的。
+en:So once you have that in mind,how do you go about building this voice?Well, you have to find someonewho is willing to be a surrogate.It&#39;s not such an ominous thing.Being a surrogate donoronly requires you to say a few hundredto a few thousand utterances.The process goes something like this.
+时间： 6:19
+zh-cn:（视频）声音：事情成对发生。
+en:(Video) Voice: Things happen in pairs.
+时间： 6:21
+zh-cn:我爱睡觉。
+en:I love to sleep.
+时间： 6:23
+zh-cn:天空很蓝，无云。
+en:The sky is blue without clouds.
+时间： 6:27
+zh-cn:卢帕尔·帕特尔：她就这样继续说上大约三到四个小时，当然她并不需要说出目标说话者会说的所有东西，而只需覆盖到一门语言中的所有发音的不同组合。越多的语音样本就意味着越好的声音质量。一旦有了这些录音之后，我们需要做的就是将这些录音解析成语音的小片段，一两个发声的组合，有的时候甚至整个的词语也会出现在数据库里边。我们就将这个数据库称为声音银行。这个声音银行的作用在于：基于这个声音银行，我们现在可以说出任何新的话语，比如：“我爱巧克力”——每个人都应该有可以说出这句话的能力——从这个数据库中寻找并找到说这句话需要的所有必要的片段。
+en:RP: Now she&#39;s going to go on like thisfor about three to four hours,and the idea is not for her to say everythingthat the target is going to want to say,but the idea is to cover all the different combinationsof the sounds that occur in the language.The more speech you have,the better sounding voice you&#39;re going to have.Once you have those recordings,what we need to dois we have to parse these recordingsinto little snippets of speech,one- or two-sound combinations,sometimes even whole wordsthat start populating a dataset or a database.We&#39;re going to call this database a voice bank.Now the power of the voice bankis that from this voice bank,we can now say any new utterance,like, &quot;I love chocolate&quot; —everyone needs to be able to say that—fish through that databaseand find all the segments necessaryto say that utterance.
+时间： 7:22
+zh-cn:（视频）声音：我爱巧克力。
+en:(Video) Voice: I love chocolate.
+时间： 7:24
+zh-cn:卢帕尔·帕特尔：这就是语音合成。这个被称之为衔接合成，而我们用的就是它。其实这部分并不新奇。新奇的部分是我们如何制作出听起来像是这个年轻女性的声音。
+en:RP: So that&#39;s speech synthesis.It&#39;s called concatenative synthesis,and that&#39;s what we&#39;re using.That&#39;s not the novel part.What&#39;s novel is how we make it soundlike this young woman.
+时间： 7:33
+zh-cn:这是萨曼莎。我第一次见到她的时候，她九岁，从那时候起，我和我的团队就一直在努力给她打造一个属于她自己的声音。我们首先要找到一个代理说话者，然后我们让萨曼莎发出一些声音。她能做的就是发出一些类似元音的声音，但这对于我们提取她的声源特征已经足够了。接下来发生的事情最好可以用我女儿的比喻来描述。她六岁。她称其为“用不同的颜色画声音”。美极了。正是这样。萨曼莎的声音就好比是浓缩的红色食用色素注入了她的代理说话者的录音里面，而产生了这样的粉红色的声音。
+en:This is Samantha.I met her when she was nine,and since then, my team and Ihave been trying to build her a personalized voice.We first had to find a surrogate donor,and then we had to have Samanthaproduce some utterances.What she can produce are mostly vowel-like sounds,but that&#39;s enough for us to extracther source characteristics.What happens next is best describedby my daughter&#39;s analogy. She&#39;s six.She calls it mixing colors to paint voices.It&#39;s beautiful. It&#39;s exactly that.Samantha&#39;s voice is like a concentrated sampleof red food dye which we can infuseinto the recordings of her surrogateto get a pink voice just like this.
+时间： 8:22
+zh-cn:（视频）萨曼莎：啊……
+en:(Video) Samantha: Aaaaaah.
+时间： 8:27
+zh-cn:卢帕尔·帕特尔：那么现在，萨曼莎可以说这样的话。
+en:RP: So now, Samantha can say this.
+时间： 8:29
+zh-cn:（视频）萨曼莎：这是只属于我的声音。我迫不及待地想跟我的朋友用我 的新声音交流。
+en:(Video) Samantha: This voice is only for me.I can&#39;t wait to use my new voice with my friends.
+时间： 8:39
+zh-cn:卢帕尔·帕特尔：谢谢。（掌声）
+en:RP: Thank you. (Applause)
+时间： 8:45
+zh-cn:我永远不会忘记当她第一次听到自己的声音的时候，那个绽放在她脸上的温柔的笑脸。这个世界有上百万和萨曼莎一样的人，上百万，而我们其实才刚刚开始。我们到目前为止所做的就是，我们有来自美国的几个代理说话者，他们捐献了自己的声音，而我们正在用这些声音来打造最初的一些个性化的声音。但是接下来的任务还很重。就萨曼莎，她的代理说话者来自中西部的一个地方，一个将声音赠送给她的陌生人。作为一名科学家，我很期待将这项工作搬到实验室之外，最终搬进现实世界并产生真正的影响。我接下来想跟你们分享的是我对如何将这项工作推进到下一个层次的展望。我想象到一个充满了代理说话者的世界，他们来自不同的行业，有着不同的体型和年龄，他们为这个声音计划走到一起，希望赋予人们和他们的性格一样丰富多彩的声音。实现这个目标的第一步，我们建立了一个网站：VocaliD.org，通过这个网站，我们把愿意以声音捐献者或专业知识捐献者的身份加入到我们的人们团结在一起，不管以何种方式，来一起实现这个愿景。
+en:I&#39;ll never forget the gentle smilethat spread across her facewhen she heard that voice for the first time.Now there&#39;s millions of peoplearound the world like Samantha, millions,and we&#39;ve only begun to scratch the surface.What we&#39;ve done so far is we havea few surrogate talkers from around the U.S.who have donated their voices,and we have been using thoseto build our first few personalized voices.But there&#39;s so much more work to be done.For Samantha, her surrogatecame from somewhere in the Midwest, a strangerwho gave her the gift of voice.And as a scientist, I&#39;m so excitedto take this work out of the laboratoryand finally into the real worldso it can have real-world impact.What I want to share with you nextis how I envision taking this workto that next level.I imagine a whole world of surrogate donorsfrom all walks of life, different sizes, different ages,coming together in this voice driveto give people voicesthat are as colorful as their personalities.To do that as a first step,we&#39;ve put together this website, VocaliD.org,as a way to bring together thosewho want to join us as voice donors,as expertise donors,in whatever way to make this vision a reality.
+时间：10:14
+zh-cn:人们说献血可以拯救生命。那么，捐献您的声音可以改变生命。我们需要的仅仅是几小时的代理说话者的话语，以及目标说话者的一个小小的元音，就可以打造一个独特的声音。
+en:They say that giving blood can save lives.Well, giving your voice can change lives.All we need is a few hours of speechfrom our surrogate talker,and as little as a vowel from our target talker,to create a unique vocal identity.
+时间：10:36
+zh-cn:这就是我们所做的研究背后的科学。作为结尾，我还是想回到人的主题，这也是这项工作的真正灵感来源。大约五年前，我们第一次给一个名为威廉的男孩打造了他的声音。当他的妈妈第一次听到这个声音的时候，她说：“如果威廉可以讲话，他的声音就该是这样的。然后我看到威廉在他的设备上打出一条消息。我在想，他在想什么？想象一下九年来一直用着别人的声音，然后最终找到了你自己的声音。想象一下。
+en:So that&#39;s the science behind what we&#39;re doing.I want to end by circling back to the human sidethat is really the inspiration for this work.About five years ago, we built our very first voicefor a little boy named William.When his mom first heard this voice,she said, &quot;This is what Williamwould have sounded likehad he been able to speak.&quot;And then I saw William typing a messageon his device.I wondered, what was he thinking?Imagine carrying around someone else&#39;s voicefor nine yearsand finally finding your own voice.Imagine that.
+时间：11:22
+zh-cn:威廉说的是：“我从来没有听过我自己的声音。”
+en:This is what William said:&quot;Never heard me before.&quot;
+时间：11:31
+zh-cn:谢谢。
+en:Thank you.
+时间：11:33
+zh-cn:（掌声）
+en:(Applause)

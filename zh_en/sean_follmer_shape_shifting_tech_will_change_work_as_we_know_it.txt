@@ -1,0 +1,60 @@
+时间： 0:11
+zh-cn:人类发明了工具，工具也影响着人类。1500万年前，我们的祖先创造了这些掌上刀具，它们被打磨得不仅适用于手工活计，也十分小巧，方便单手操控。
+en:We&#39;ve evolved with tools,and tools have evolved with us.Our ancestors created thesehand axes 1.5 million years ago,shaping them to not onlyfit the task at handbut also their hand.
+时间： 0:25
+zh-cn:然而，随着时间的流逝，工具变得越来越专业化。这些雕刻工具根据人们的需要不断改变着，每一种都有与它们的作用相对应的形状。它们提高了我们双手的灵活性，使得我们在操纵物品时更加精确。但是当工具变得越来越复杂的同时，控制它们的方式也变得越来越复杂。因此当今设计师们致力于开发一些交互方式，使你在做一件事的同时还能调整其他功能，比如你在照相的同时还可以调整焦距或调整光圈。
+en:However, over the years,tools have becomemore and more specialized.These sculpting toolshave evolved through their use,and each one has a different formwhich matches its function.And they leveragethe dexterity of our handsin order to manipulate thingswith much more precision.But as tools have becomemore and more complex,we need more complex controlsto control them.And so designers have becomevery adept at creating interfacesthat allow you to manipulate parameterswhile you&#39;re attending to other things,such as taking a photographand changing the focusor the aperture.
+时间： 1:04
+zh-cn:但是计算机的出现从根本上改变了我们对工具的认识，因为它的计算功能十分强大。它可以做各种不同的事情，也可以运行数量繁多的应用程序。然而计算机有着它固定的外形，这个外形不会因为运行不同的程序而改变，并且，它和人交互的方式也是不变的。我认为这本身就是一个问题，因为这样一来我们就无法用双手去参与和计算机交互的过程，无法体现人体的灵活性。我的理念是，一定要开发一些新的交互方式，能利用人体的这些优秀特性，能完全适应我们的需要，还能以新的方式与我们互动。这就是我之前一直在MIT媒体实验室，以及现在在斯坦福从事的工作。
+en:But the computer has fundamentallychanged the way we think about toolsbecause computation is dynamic.So it can do a million different thingsand run a million different applications.However, computers havethe same static physical formfor all of these different applicationsand the same staticinterface elements as well.And I believe that thisis fundamentally a problem,because it doesn&#39;t really allow usto interact with our handsand capture the rich dexteritythat we have in our bodies.And my belief is that, then,we must need new types of interfacesthat can capture theserich abilities that we haveand that can physically adapt to usand allow us to interact in new ways.And so that&#39;s what I&#39;ve been doingat the MIT Media Laband now at Stanford.
+时间： 1:52
+zh-cn:我和我的同事，Daniel Leithinger 和 Hiroshi Ishii，我们一起创造了 inFORM，它让交互界面真正意义上脱离了屏幕，你可以亲手操控它。你也可以亲眼目睹它的3D形态，并且触摸它感知它，以全新的方式了解它。你还可以通过手势直接改变它的形状与它互动，塑造一个数码模型。组成界面的配件能够从其表面升起，根据需求变形。这样设计的目的是，对每个应用，这个界面的外形都可以与这个应用相匹配。我相信这代表了一种全新的我们与信息互动的方式，也就是把它具体化。
+en:So with my colleagues,Daniel Leithinger and Hiroshi Ishii,we created inFORM,where the interface can actuallycome off the screenand you can physically manipulate it.Or you can visualize3D information physicallyand touch it and feel itto understand it in new ways.Or you can interact through gesturesand direct deformationsto sculpt digital clay.Or interface elements can ariseout of the surfaceand change on demand.And the idea is that for eachindividual application,the physical form can be matchedto the application.And I believe this represents a new waythat we can interact with information,by making it physical.
+时间： 2:42
+zh-cn:现在问题来了，我们如何应用它呢？一直以来，城建工作者靠实物模型来更好的了解城市和建筑的布局。因此，我们与媒体实验室的Tony Tang一起创造了一个建立在inFORM上的界面，使得城市规划者们得以设计和展望整个城市。所以现在你可以在它周边走动，但是它是动态的，是实体的你还能直接跟它互动。你可以从不同的视角观察它，比如人口数量或者交通信息，但是它被做成了一个实体。
+en:So the question is, how can we use this?Traditionally, urban plannersand architects build physical modelsof cities and buildingsto better understand them.So with Tony Tang at the Media Lab,we created an interface built on inFORMto allow urban plannersto design and view entire cities.And now you can walk around it,but it&#39;s dynamic, it&#39;s physical,and you can also interact directly.Or you can look at different views,such as population or traffic information,but it&#39;s made physical.
+时间： 3:13
+zh-cn:我们还相信这些动态形状的展示会真正改变人们远程合作的方式。当我们面对面工作时，我不仅可以看着你的脸，我还可以比划和操纵物品，这正是我们利用像Skype这样的工具时非常难实现的。当使用inFORM时，你可以触及屏幕以外的东西，并且在远距离操控物品。这些小方块的移动代表了人类双手的动作，使得人们能够真正远程触碰和操作物品。你也可以在3D模型上操作或与人合作，你可以对它们做手势，也可以摆弄它们。这就让人们可以用比传统工具更多元的方式实现在这种新型3D信息上的合作。你还可以在上面放置一些物品，它们会在一边被识别出来，然后把信息传输到另一边。或者你让一件东西两边连通，比如，我在一边移动一个球，这个球会在另一边也移动起来。我们通过捕捉操作者的动作来实现这些，而这由一个可感测空间深度的摄像机完成，类似微软的Kinect。
+en:We also believe that these dynamicshape displays can really changethe ways that we remotelycollaborate with people.So when we&#39;re working together in person,I&#39;m not only looking at your facebut I&#39;m also gesturingand manipulating objects,and that&#39;s really hard to dowhen you&#39;re using tools like Skype.And so using inFORM,you can reach out from the screenand manipulate things at a distance.So we used the pins of the displayto represent people&#39;s hands,allowing them to actually touchand manipulate objects at a distance.And you can also manipulateand collaborate on 3D data sets as well,so you can gesture around themas well as manipulate them.And that allows people to collaborateon these new types of 3D informationin a richer way than mightbe possible with traditional tools.And so you can alsobring in existing objects,and those will be captured on one sideand transmitted to the other.Or you can have an object that&#39;s linkedbetween two places,so as I move a ball on one side,the ball moves on the other as well.And so we do this by capturingthe remote userusing a depth-sensing cameralike a Microsoft Kinect.
+时间： 4:27
+zh-cn:现在你也许想知道这一切是如何运作的，本质上来说，它是把900个线性传动器全部连通到这些机械联动装置上，好让下面的动作能被传送到上面的这些方块上来。所以跟CERN做的事情比起来，它其实没有那么复杂，但是我们把它做出来确实花费了不少时间。我们先做出了一个单独的马达，一个线性传动器，然后定制了一个电路板来控制它们。剩下的就是我们需要做很多同样的装置。问题是，当你需要做900件相同的东西时，你要重复每个制作步骤900次。这意味着我们有大量的工作要做。因此，我们在媒体实验室建立了一个小型的“血汗工厂”，招募了一些本科生，并说服他们这是在参与“研究”——
+en:Now, you might be wonderinghow does this all work,and essentially, what it is,is 900 linear actuatorsthat are connected to thesemechanical linkagesthat allow motion down hereto be propagated in these pins above.So it&#39;s not that complexcompared to what&#39;s going on at CERN,but it did take a long timefor us to build it.And so we started with a single motor,a single linear actuator,and then we had to designa custom circuit board to control them.And then we had to make a lot of them.And so the problem with having900 of somethingis that you have to doevery step 900 times.And so that meant that we hada lot of work to do.So we sort of set upa mini-sweatshop in the Media Laband brought undergrads in and convincedthem to do &quot;research&quot; —
+时间： 5:12
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:13
+zh-cn:之后便有了在深夜看着电影，吃着披萨，拧着成千上万的螺丝的场景。你们懂的，搞研究嘛。
+en:and had late nightswatching movies, eating pizzaand screwing in thousands of screws.You know — research.
+时间： 5:19
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:21
+zh-cn:但不管怎样，我们都对inFORM能够带来的各种可能性感到十分激动。如今，我们越来越多地使用移动设备，便于出行时交流。然而移动设备，就像电脑，有很多种不同的用途。你可以用它们打电话，上网，玩游戏，照相，甚至更多不同的事。但就如之前我提过的，它们都有相同的外形，对每一个不同的应用来讲都一样。所以，我们想知道如何能将这些为inFORM研发的交互行为推广到移动设备上。
+en:But anyway, I think that we werereally excited by the thingsthat inFORM allowed us to do.Increasingly, we&#39;re using mobile devices,and we interact on the go.But mobile devices, just like computers,are used for so manydifferent applications.So you use them to talk on the phone,to surf the web, to play games,to take picturesor even a million different things.But again, they have the samestatic physical formfor each of these applications.And so we wanted to know how can we takesome of the same interactionsthat we developed for inFORMand bring them to mobile devices.
+时间： 5:55
+zh-cn:因此在斯坦福，我们创造了一个触觉边缘显示器。它是一个有着一排线性传动器的手机，这排传动器可以改变形状，当你用手机阅读时可以通过感受它的形状变化了解自己读到哪里了。它放在口袋里时，你也可以感受到这种新的比单纯震动更丰富的触感。为方便操作，按钮会从侧面浮出，你可以指定它们的位置。你也可以在玩游戏时拥有真正的按钮了。这些能够实现是通过在显示器内嵌入40个微型线性传动器，让操作者不仅能触摸按钮，还能反向操纵它们。
+en:So at Stanford, we createdthis haptic edge display,which is a mobile devicewith an array of linear actuatorsthat can change shape,so you can feel in your handwhere you are as you&#39;re reading a book.Or you can feel in your pocketnew types of tactile sensationsthat are richer than the vibration.Or buttons can emerge from the sidethat allow you to interactwhere you want them to be.Or you can play gamesand have actual buttons.And so we were able to do thisby embedding 40 small, tinylinear actuators inside the device,and that allow you not only to touch thembut also back-drive them as well.
+时间： 6:35
+zh-cn:为了创造更复杂的形状变化，我们还研究了其他方式。我们使用气动装置创造了一个变体设备，使用时可以把它弄成一个电话的形状，也可以弄成一个腕带随身佩戴。与媒体实验室的Ken Nakagaki一起，我们创造了这个新的，高精度的版本，它内置一排伺服马达，使得它可以从一个有交互功能的腕带变成一个可触摸输入的设备。再变成一个电话。
+en:But we&#39;ve also looked at other waysto create more complex shape change.So we&#39;ve used pneumatic actuationto create a morphing devicewhere you can go from somethingthat looks a lot like a phone ...to a wristband on the go.And so together with Ken Nakagakiat the Media Lab,we created this newhigh-resolution versionthat uses an array of servomotorsto change from interactive wristbandto a touch-input deviceto a phone.
+时间： 7:06
+zh-cn:（笑声）
+en:(Laughter)
+时间： 7:09
+zh-cn:我们还乐于尝试让用户能真正意义上改变界面的形态，把它们打造成自己想要的样子。你可以把它捏成一个游戏手柄，然后系统就会识别它当前的形态，从而调整成相应的模式。
+en:And we&#39;re also interestedin looking at waysthat users can actuallydeform the interfacesto shape them into the devicesthat they want to use.So you can make somethinglike a game controller,and then the system will understandwhat shape it&#39;s inand change to that mode.
+时间： 7:25
+zh-cn:那么，我们这么做的意义何在呢？这个创意的前景是什么？我认为，我们当前所处的是一个“物联网”主导的新时代。计算机无处不在——在我们口袋里，挂在墙上，在未来五年之内几乎每个你会买的设备里。但设想，如果我们暂且不考虑这些设备，去关心一下我们的环境呢？我们如何设计出智能家具，智能房间，智能的生活环境或城市，能够完全适应我们实际的生活需求，允许我们以新的方式与他人交互合作，实现一些新的功能呢？
+en:So, where does this point?How do we move forward from here?I think, really, where we are todayis in this new ageof the Internet of Things,where we have computers everywhere —they&#39;re in our pockets,they&#39;re in our walls,they&#39;re in almost every devicethat you&#39;ll buy in the next five years.But what if we stoppedthinking about devicesand think instead about environments?And so how can we have smart furnitureor smart rooms or smart environmentsor cities that can adapt to us physically,and allow us to do new waysof collaborating with peopleand doing new types of tasks?
+时间： 8:02
+zh-cn:因此，在米兰设计周上，我们展出了TRANSFORM，它是一个之前展示过的可变交互界面的桌面版本，它可以在其表面上移动物品，比如提醒你拿钥匙。它也可以变形，以便与你进行其他方式的交流。比如，如果你要工作，它会将表面变形成你的工作台。你要拿一个设备过来时，它会设置一个你放设备要用的支撑物，并且塑造一些其他东西帮助你完成工作。
+en:So for the Milan Design Week,we created TRANSFORM,which is an interactive table-scaleversion of these shape displays,which can move physical objectson the surface; for example,reminding you to take your keys.But it can also transformto fit different ways of interacting.So if you want to work,then it can change to sort ofset up your work system.And so as you bring a device over,it creates all the affordances you needand brings other objectsto help you accomplish those goals.
+时间： 8:36
+zh-cn:总的来说，我真的认为我们要思考一种新的，从根本意义上不同的与计算机互动的方式。我们需要计算机完全的适应我们，而且是以我们期待的方式来适应我们，真正利用我们双手丰富的灵巧度，以及我们通过把信息实体化去看问题的能力。但展望未来时，我认为我们需要再跨越一步，跨越这些设备去认真思考新的方式，我们可以集思广益，把我们的想法传递给这个世界，并且考虑如何创造一个完全适应我们的智能环境，我的演讲结束了。
+en:So, in conclusion,I really think that we need to thinkabout a new, fundamentally different wayof interacting with computers.We need computersthat can physically adapt to usand adapt to the waysthat we want to use themand really harness the rich dexteritythat we have of our hands,and our ability to think spatiallyabout information by making it physical.But looking forward, I think we needto go beyond this, beyond devices,to really think about new waysthat we can bring people together,and bring our information into the world,and think about smart environmentsthat can adapt to us physically.So with that, I will leave you.
+时间： 9:15
+zh-cn:非常感谢。
+en:Thank you very much.
+时间： 9:16
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,9 @@
+时间： 0:20
+zh-cn:（音乐）
+en:(Music)
+时间： 4:10
+zh-cn:（音乐）（掌声）
+en:(Music) (Applause)
+时间： 6:12
+zh-cn:（掌声）
+en:(Applause)

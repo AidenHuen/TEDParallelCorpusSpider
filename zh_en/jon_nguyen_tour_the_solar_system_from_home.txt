@@ -1,0 +1,60 @@
+时间： 0:11
+zh-cn:我还是孩子的时候，就着迷于航空航天的一切。我会看PBS电视台的太空节目Nova。我们学校也会放科教节目Bill Nye the Science Guy。我在读小学的时候，我的隔壁邻居在我过生日的时候送了我一本书这是一本天文学的书，接下来的数小时我都沉迷于此书之中这本书里讲了许许多多的事都激励了我要投身于宇宙的探索并将它作为我的人生理想，这个理想中就包括了我想要在太阳系里遨游乘着太空船，造访各大行星、卫星
+en:As a kid, I was fascinated with all things air and space.I would watch Nova on PBS.Our school would show Bill Nye the Science Guy.When I was in elementary school, my next door neighbor,he gave me a book for my birthday.It was an astronomy book,and I poured over that thing for hours on end,and it was a combination of all these thingsthat inspired me to pursue space explorationas my own personal dream, and part of that dream was,I always wanted to just fly around the solar systemand visit different planets and visit moons and spacecraft.
+时间： 0:48
+zh-cn:许多年过去之后，我从加州大学洛杉矶分校毕业了然后开始为美国国家航空航天局NASA做事在其喷气推进实验室工作在那，我所在的团队接受了一项挑战那就是制作太阳系的三维可视化模型今天，我想向大家展示目前我们的成果
+en:Well, a number of years later, I graduated from UCLAand I found myself at NASA,working for the jet propulsion laboratory,and there our team was challengedto create a 3D visualization of the solar system,and today I want to show you what we&#39;ve done so far.
+时间： 1:08
+zh-cn:这当中最值得注意的就是：我接下来在这里做的一切你都可以在家里完成，因为我们的目的就是为了让大家，为了让你们都能够使用
+en:Now, the kicker is, everything I&#39;m about to do hereyou can do at home, because we built thisfor the public for you guys to use.
+时间： 1:18
+zh-cn:现在你所看到的了就是地球这里是美国，这边了就是加州这儿是圣迭戈，你可以用鼠标或者键盘旋转整个画面
+en:So what you&#39;re looking at right now is the Earth.You can see the United States and Californiaand San Diego, and you can use the mouseor the keyboard to spin things around.
+时间： 1:27
+zh-cn:你现在看到的了并没啥新意。只要你用过谷歌地球你就肯定看过这些了，但是我想说的是我们的团队做的是与谷歌地球截然相反的事谷歌地球是从地球然后缩放到你家后院我们则是从地球延伸至星际能看地球固然不错，但是我们最想向大家展示的是航天器所以了，现在我将界面进行缩放你看到的就是数量众多的人造卫星正在绕着地球转这有我们许许多多的地球轨道飞行器我们并没有收入军事卫星、气象卫星通信卫星和侦察卫星也未包括在内如果上述卫星都有的话，那就真的是一团乱麻了因为各种卫星实在是太多了厉害的是，我们为这些数不清的航天器做出了三维模型，所以如果你想要观察这些航天器，只需双击它们即可
+en:Now, this isn&#39;t new. Anyone who&#39;s used Google Earthhas seen this before, but one thing we like to sayin our group is, we do the opposite of Google Earth.Google Earth goes from this view down to your backyard.We go from this view out to the stars.So the Earth is cool, but what we really want to showare the spacecraft,so I&#39;m going to bring the interface back up,and now you&#39;re looking at a number of satellitesorbiting the Earth.These are a number of our science space Earth orbiters.We haven&#39;t included military satellites and weather satellitesand communication satellites and reconnaissance satellites.If we did, it would be a complete mess,because there&#39;s a lot of stuff out there.And the cool thing is, we actually created 3D modelsfor a number of these spacecraft, so if you want to visitany of these, all you need to do is double-click on them.
+时间： 2:18
+zh-cn:我现在就来找找国际空间站双击它，我们就来到了国际空间站现在我们就在跟随着国际空间站飞行并且这就是它此时此刻的实际位置
+en:So I&#39;m going to find the International Space Station,double-click, and it will take us all the way down to the ISS.And now you&#39;re riding along with the ISSwhere it is right now.
+时间： 2:32
+zh-cn:另外一件厉害的事了就是，我们不仅可以移动我们的视角，我们还可以控制时间所以我只要滑动这里的时间轴我就能够将时间往前调，现在我们看到的就是国际空间站上的日落景象这样的景象每90分钟就会出现一次。（笑声）
+en:And the other cool thing is, not only can wemove the camera around, we can also control time,so I can slide this jog dial hereto shuttle time forward, and nowwe can see what a sunset on the ISS would look like,and they get one every 90 minutes. (Laughter)
+时间： 2:51
+zh-cn:那好，其他的还有什么了？我只要点击这里的主页按钮我们就会来到内太阳系的画面现在，我们看到的就是太阳系的其余部分你看，这是土星，这是木星既然我们到看到了这里，我还想多说几句其实这里了是非常热闹的。
+en:All right, so what about the rest of it?Well, I can click on this home button over here,and that will take us up to the inner solar system,and now we&#39;re looking at the rest of the solar system.You can see, there&#39;s Saturn, there&#39;s Jupiter,and while we&#39;re here, I want to point out something.It&#39;s actually pretty busy.
+时间： 3:10
+zh-cn:这里有我们的火星科学实验室它上周末刚发射升空，正奔赴火星
+en:Here we have the Mars Science Laboratoryon its way to Mars, just launched last weekend.
+时间： 3:14
+zh-cn:这还有我们的朱诺号，正向木星飞去，就在这还有绕着灶神星转的曙光号这边了还有我们的新地平线号直接飞奔向冥王星
+en:Here we have Juno on its cruise to Jupiter, there.We have Dawn orbiting Vesta,and we have over here New Horizonson a straight shot to Pluto.
+时间： 3:25
+zh-cn:我之所以要说这些，是因为公众中有这样一种很莫名其妙的说法认为NASA已死，认为宇宙飞船不再翱翔太空突然之间，宇宙之中已没了我们宇宙飞船的影子
+en:And I mention this becausethere&#39;s this strange public perception thatNASA&#39;s dead, that the space shuttles stopped flyingand all of the sudden there&#39;s no more spacecraft out there.
+时间： 3:35
+zh-cn:其实，NASA做的许多工作都是无人太空探索我们的有着数量众多的太空飞行器翱翔在宇宙之中当然，现阶段，我们并没有把宇航员送上太空至少没有通过我们自己发射的飞行器将他们送上太空但是NASA已死纯属无稽之谈我们要编写这一程序的一个原因就是让人们知道有许许多多的事我们正在为之努力
+en:Well, a lot of what NASA does is robotic exploration,and we have a lot of spacecraft out there.Granted, we&#39;re not sending humans up at the moment,well at least with our own launch vehicles,but NASA is far from dead,and one of the reasons why we write a program like thisis so that people realize that there&#39;s so many other thingsthat we&#39;re doing.
+时间： 3:57
+zh-cn:总之就是这样，我想再说一次只要你想亲自探索任何东西只需双击即可完成我现在就双击灶神星这就是绕着灶神星转的曙光号大家看到的就是实时影像我接下来双击天王星，我们就能看到水平自转的天王星，以及它的卫星大家看，它的自转轴倾斜角度大概为89度
+en:Anyway, while we&#39;re here, again,if you want to visit anything,all you need to do is double-click.So I&#39;m just going to double-click on Vesta,and here we have Dawn orbiting Vesta,and this is happening right now.I&#39;m going to double-click on Uranus, and we can seeUranus rotating on its side along with its moons.You can see how it&#39;s tilted at about 89 degrees.
+时间： 4:23
+zh-cn:为了能让大家浏览各个不同的地方以及它们在不同时间的样子我们搜集了1950年至2050年的数据当然，我们不可能囊括这个时间段内的一切因为有些数据很难获得单是探索不同时期的各个地方你就能沉迷于其中好几个小时毫不夸张，连续的几个小时但是我还特别想向大家展示一样东西我现在打开“目的地”菜单然后“航天器”，接着“外太阳系探索”，选择旅行者1号我现我们就能看到它对土卫六的近距离观测我们再将时间往回调我们现在就是在和旅行者1号一同飞行画面显示的是1980年11月11号
+en:And just being able to visit different placesand go through different times,we have data from 1950 to 2050.Granted, we don&#39;t have everything in between,because some of the data is hard to get.Just being able to visit places in different times,you can explore this for hours,literally hours on end,but I want to show you one thing in particular,so I&#39;m going to open up the destination tab,spacecraft outer planet missions, Voyager 1,and I&#39;m going to bring up the Titan flyby.So now we&#39;ve gone back in time.We&#39;re now riding along with Voyager 1.The date here is November 11, 1980.
+时间： 5:05
+zh-cn:这个里面了有一个非常有意思的事这个画面看上去好像是静止的一样感觉就像是我摁了暂停键实际上，一切的物体都是以它们实际的速度在运动一秒接着一秒，并且实际上旅行者1号掠过土卫六的速度我记得是3万8千英里每小时看上去静止的原因是土星大约有70万英里远土卫六则有4千到5千英里远其中相隔着的巨大空间使得一切都好似静止
+en:Now, there&#39;s a funny thing going on here.It doesn&#39;t look like anything&#39;s going on.It looks like I&#39;ve paused the program.It&#39;s actually running at real rate right now,one second per second, and in fact,Voyager 1 here is flying by Titan atI think it&#39;s 38,000 miles per hour.It only looks like nothing&#39;s moving because, well,Saturn here is 700,000 miles away,and Titan here is 4,000 to 5,000 miles away.It&#39;s just the vastness of space makes it look like nothing&#39;s happening.
+时间： 5:36
+zh-cn:还有一件更有意思的事我现在把时间加速，我们可以看到旅行者1号掠过土卫六土星的这个颗卫星蒙着一层面纱它的大气层相当的浓厚我现在把镜头重新聚焦到土星上然后缩放画面，我想向大家展示的是旅行者1号飞过土星的画面
+en:But to make it more interesting,I&#39;m going to speed up time, and we can watchas Voyager 1 flies by Titan,which is a hazy moon of Saturn.It actually has a very thick atmosphere.And I&#39;m going to recenter the camera on Saturn, here.I&#39;m going to pull out, and I want to show youVoyager 1 as it flies by Saturn.
+时间： 5:58
+zh-cn:这里有一点我需要说明凭借这样的一个三维可视化程序我们不仅可以简单地展示旅行者1号飞过土星这里包括了这个过程的所有细节甚至，因为这是一个互动式的程序你可以随心所欲想暂停，就暂停想继续，想改变镜头的角度你都可以做到这样一来，我可以告诉你旅行者1号不仅仅是飞过土星那么简单它实际上是从土星的下面飞过现在，随着旅行者1号从下方飞过土星进入土星的重力场后，旅行者1号受其引力被向上抛出离开了太阳系所以如果我让画面继续你就可以看到旅行者1号的轨迹是这样的接着了，让我们重新回到太阳系我把时间调回今天，此时此刻我想向大家展示旅行者1号现在在哪就在这，太阳系的上方，遥远的上方离太阳系很遥远了
+en:There&#39;s a point to be made here.With a 3D visualization like this,we can not only just say Voyager 1 flew by Saturn.There&#39;s a whole story to tell here.And even better, because it&#39;s an interactive application,you can tell the story for yourself.If you want to pause it, you can pause it.If you want to keep going, if you want to changethe camera angle, you can do that,and because of that, I can show youthat Voyager 1 doesn&#39;t just fly by Saturn.It actually flies underneath Saturn.Now, what happens is, as it flies underneath Saturn,Saturn grabs it gravitationally and flings it upand out of the solar system,so if I just keep letting this go,you can see Voyager 1 fly up like that.And, in fact, I&#39;m going to go back to the solar system.I&#39;m going to go back to today, now,and I want to show you where Voyager 1 is.Right there, above, way above the solar system,way beyond our solar system.
+时间： 7:01
+zh-cn:所以，现在你就知道了旅行者1号是怎么到达那里的你也知道了其中的奥妙，对于我来说这就是这个程序的意义所在你可以自己操作你可以任意地遨游，然后自己学习新知
+en:And here&#39;s the thing. Now you know how it got there.Now you know why, and to me,that&#39;s the point of this program.You can manipulate it yourself.You can fly around yourself and you can learn for yourself.
+时间： 7:14
+zh-cn:大家知道，今天的主题是“您掌中的世界”我们想要做的了就是把太阳系至于你的掌控之中——（笑声）——我们希望大家能利用这个程序学到点什么东西能够了解我们做了些什么，我们即将要做些什么我个人的梦想了，是希望孩子们能够利用它发现和探索宇宙中的奥妙并能因此获得激励，就像我还是孩子的时候受到鼓舞投身于科学、技术、工程、数学之中投身于空间探索之中
+en:You know, the theme today is &quot;The World In Your Grasp.&quot;Well, we&#39;re trying to give youthe solar system in your grasp — (Laughter) —and we hope once it&#39;s there,you&#39;ll be able to learn for yourselfwhat we&#39;ve done out there, and what we&#39;re about to do.And my personal dream is for kids to take thisand explore and see the wonders out thereand be inspired, as I was as a kid,to pursue STEM educationand to pursue a dream in space exploration.
+时间： 7:40
+zh-cn:谢谢
+en:Thank you. (Applause)

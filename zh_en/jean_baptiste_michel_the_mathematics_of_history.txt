@@ -1,0 +1,33 @@
+时间： 0:11
+zh-cn:数学是一门很有用的语言。在解释物理、生物以及经济学方面，它拥有与生俱来的洞察力，但对于历史等人文学科解释力稍弱。我想有人认为用数学解释人文学科是不可能的，因为你不能量化人类的行为，你也不能用数学来度量历史。但我并不这样认为，我想向大家展示几个反例。
+en:So it turns out that mathematics is a very powerful language.It has generated considerable insight in physics,in biology and economics,but not that much in the humanities and in history.I think there&#39;s a belief that it&#39;s just impossible,that you cannot quantify the doings of mankind,that you cannot measure history.But I don&#39;t think that&#39;s right.I want to show you a couple of examples why.
+时间： 0:32
+zh-cn:我和我的合作伙伴Erez考虑了以下事实：这个事实就是身处不同时代的君王会用非常不同的语言交谈。这是一股非常强大的历史作用力。因此英国国王阿尔弗雷德大帝，将会使用一种语法和词汇，而这种语法和词汇是完全不同于hip hop之王Jay-Z所使用的。（笑声）这就是我想说的事实。语言与时俱进，并且拥有强大的力量。
+en:So my collaborator Erez and I were considering the following fact:that two kings separated by centurieswill speak a very different language.That&#39;s a powerful historical force.So the king of England, Alfred the Great,will use a vocabulary and grammarthat is quite different from the king of hip hop, Jay-Z.(Laughter)Now it&#39;s just the way it is.Language changes over time, and it&#39;s a powerful force.
+时间： 0:55
+zh-cn:因此我和Erez想了解更多有关语言的历史。我们研究了一个特定的语法规则：过去式。人们通过在动词后面加“ed”来表示过去。例如：“Today I walk.”今天我走路，“Yesterday I walked.”昨天我走路。但有一些动词的变形是不规则的。例如：“Yesterday I thought.”昨天我思考了。这里有趣的现象是：从阿尔弗雷德大帝到Jay-Z时代，不规则动词变的越来越规则了。例如你们这里看到的动词“to wed”就变成了规则动词。
+en:So Erez and I wanted to know more about that.So we paid attention to a particular grammatical rule, past-tense conjugation.So you just add &quot;ed&quot; to a verb at the end to signify the past.&quot;Today I walk. Yesterday I walked.&quot;But some verbs are irregular.&quot;Yesterday I thought.&quot;Now what&#39;s interesting about thatis irregular verbs between Alfred and Jay-Z have become more regular.Like the verb &quot;to wed&quot; that you see here has become regular.
+时间： 1:18
+zh-cn:因此我和Erez跟踪了100个不规则动词在12个世纪的英语演化中的命运，我们发现了一个非常简单的数学规律来捕捉复杂的历史变化，这个规律就是，如果一个动词比另一个动词的使用频率高一百倍，这个动词规则化的速度就会慢十倍。这是历史的一部分，但却以数学的方式得以展现。
+en:So Erez and I followed the fate of over 100 irregular verbsthrough 12 centuries of English language,and we saw that there&#39;s actually a very simple mathematical patternthat captures this complex historical change,namely, if a verb is 100 times more frequent than another,it regularizes 10 times slower.That&#39;s a piece of history, but it comes in a mathematical wrapping.
+时间： 1:39
+zh-cn:在某些情况下，数学甚至可以帮助解释，或者对历史的推动力加以解释。我和Steve Pinker考虑了过去两个世纪中战争的激烈程度。事实上有一条广为人知的规律：造成一百倍伤亡人数的战争数目只占更少伤亡人数的战争数目的十分之一。有30场战争的伤亡人数与“六日战争”（第三次阿以战争）的几乎持平，但只有4场战争比“六日战争”的伤亡人数高出一百倍，例如第一次世界大战。那么这背后的历史原因是什么呢？什么是这条规律的原因呢？
+en:Now in some cases math can even help explain,or propose explanations for, historical forces.So here Steve Pinker and Iwere considering the magnitude of wars during the last two centuries.There&#39;s actually a well-known regularity to themwhere the number of wars that are 100 times deadlieris 10 times smaller.So there are 30 wars that are about as deadly as the Six Days War,but there&#39;s only four wars that are 100 times deadlier —like World War I.So what kind of historical mechanism can produce that?What&#39;s the origin of this?
+时间： 2:12
+zh-cn:我和Steve通过数学分析，认为这是由一个非常简单的现象导致的，而这个现象植根于我们的意识之中。这是一个众所周知的特征，人们对数量的感觉是相对的，诸如光源的强弱或者声音的大小。下面有个例子，派遣10000名士兵去参加下一场战斗乍一听是很多人。特别是如果你之前只派遣了1000名士兵去参战的话，这个数字就更显得庞大了。但同样的数字也会显得不那么多，当它还不足以造成巨大的差别的时候，假如你之前已经派遣了100000名士兵参加战斗。因此你们会看到由于我们对数字的感觉是相对的，随着战争的延续，参战士兵的数量及伤亡人数将不会线性地增加，例如从10000到11000再到12000，而是呈指数增加的——起先是10000，之后是20000，再后来就成了40000。而这正好解释了我们之前看到的规律。
+en:So Steve and I, through mathematical analysis,propose that there&#39;s actually a very simple phenomenon at the root of this,which lies in our brains.This is a very well-known featurein which we perceive quantities in relative ways —quantities like the intensity of light or the loudness of a sound.For instance, committing 10,000 soldiers to the next battle sounds like a lot.It&#39;s relatively enormous if you&#39;ve already committed 1,000 soldiers previously.But it doesn&#39;t sound so much,it&#39;s not relatively enough, it won&#39;t make a differenceif you&#39;ve already committed 100,000 soldiers previously.So you see that because of the way we perceive quantities,as the war drags on,the number of soldiers committed to it and the casualtieswill increase not linearly —like 10,000, 11,000, 12,000 —but exponentially — 10,000, later 20,000, later 40,000.And so that explains this pattern that we&#39;ve seen before.
+时间： 3:05
+zh-cn:这里数学能够将有关个体认知的常识和长期的历史规律联系起来。这种历史规律可以延续数个世纪并在各个大洲有效。
+en:So here mathematics is able to link a well-known feature of the individual mindwith a long-term historical patternthat unfolds over centuries and across continents.
+时间： 3:17
+zh-cn:今天我们只有有限的几个诸如此类的例子，但我认为在未来的十年间它们（用数学解释历史规律）会越来越多。而其原因则是历史记录正以非常快的速度被数字化存储。自人类的文明史发端至今我们大约拥有了1.3亿本不同的书。而像谷歌这样的公司正致力于将其中很多书数字化存储事实上被数字化的数量已经超过了2千万本。而当历史记录能以数字格式被存取的时候，回顾人类历史文化规律的相关数学分析会变得快捷而且方便。
+en:So these types of examples, today there are just a few of them,but I think in the next decade they will become commonplace.The reason for that is that the historical recordis becoming digitized at a very fast pace.So there&#39;s about 130 million booksthat have been written since the dawn of time.Companies like Google have digitized many of them —above 20 million actually.And when the stuff of history is available in digital form,it makes it possible for a mathematical analysisto very quickly and very convenientlyreview trends in our history and our culture.
+时间： 3:48
+zh-cn:因此我认为在接下来的十年，自然科学和人文科学会更加紧密并能够解释有关人类的深层次问题。我认为数学将会成为进行这项工作的有力工具。数学会帮助我们发现人类历史中的新规律，有时也许可以解释某些规律，甚至在未来我们可以利用数学来预测将要发生的事情。
+en:So I think in the next decade,the sciences and the humanities will come closer togetherto be able to answer deep questions about mankind.And I think that mathematics will be a very powerful language to do that.It will be able to reveal new trends in our history,sometimes to explain them,and maybe even in the future to predict what&#39;s going to happen.
+时间： 4:09
+zh-cn:非常感谢大家。
+en:Thank you very much.
+时间： 4:11
+zh-cn:（掌声）
+en:(Applause)

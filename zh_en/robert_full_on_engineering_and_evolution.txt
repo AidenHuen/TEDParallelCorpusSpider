@@ -1,0 +1,126 @@
+时间： 0:12
+zh-cn:欢迎大家！能调到第一张幻灯片吗？与工程师们所计算的正好相反：蜜蜂能飞海豚能游泳，壁虎甚至可以在最光滑的表面垂直爬行。我现在利用很短的一点时间想让你们都体验一下揭开大自然设计的奥秘有多么刺激我每次都有机会做这个，真是难以置信现在要和你们一同分享窥探自然匠心的挑战我们怎么去理解它、应用它其中的挑战自然是围绕着一个问题：是什么使得动物拥有某些能力，让它们的分布广泛得如此出乎意料，几乎无处不在倘若我们能掌握这些设计的话会发生什么呢？
+en:Welcome. If I could have the first slide, please?Contrary to calculations made by some engineers, bees can fly,dolphins can swim, and geckos can even climbup the smoothest surfaces. Now, what I want to do, in the short time I have,is to try to allow each of you to experiencethe thrill of revealing nature&#39;s design.I get to do this all the time, and it&#39;s just incredible.I want to try to share just a little bit of that with you in this presentation.The challenge of looking at nature&#39;s designs —and I&#39;ll tell you the way that we perceive it, and the way we&#39;ve used it.The challenge, of course, is to answer this question:what permits this extraordinary performance of animalsthat allows them basically to go anywhere?And if we could figure that out, how can we implement those designs?
+时间： 1:23
+zh-cn:好吧，许多生物学家都会跟工程师们说生物们花了上百万年才把这些东西弄对让人叹为观止，这些家伙没什么做不了的所以它们的答案是:直接复制自然通过研究动物我们知道其实这样根本不行。因为进化遵循的是“见好就收”的原则，而不是“精益求精”造化在“设计”任何一种生物时面临的障碍都十分严峻。“自然科技”遇到的困难复杂得无可想象试想你是一个工程师，我告诉你你得造一辆汽车，一开始只能有这么点儿大然后要渐渐长成，而且在每个阶段都能工作想象我要你造这么一辆汽车符合要求的汽车里得藏着一个工厂来制造另一辆汽车
+en:Well, many biologists will tell engineers, and others,organisms have millions of years to get it right;they&#39;re spectacular; they can do everything wonderfully well.So, the answer is bio-mimicry: just copy nature directly.We know from working on animals that the truth isthat&#39;s exactly what you don&#39;t want to do — because evolution workson the just-good-enough principle, not on a perfecting principle.And the constraints in building any organism, when you look at it,are really severe. Natural technologies have incredible constraints.Think about it. If you were an engineer and I told youthat you had to build an automobile, but it had to start off to be this big,then it had to grow to be full size and had to work every step along the way.Or think about the fact that if you build an automobile, I&#39;ll tell you that you also — inside it —have to put a factory that allows you to make another automobile.
+时间： 2:17
+zh-cn:（笑）
+en:(Laughter)
+时间： 2:19
+zh-cn:并且你绝对绝对没法从零开始，因为有进化史和遗传编码的一大堆限制所以生物的历史很重要进化的工作方式更像修理工而不是工程师，太过琐碎了你看看动物体就知道这一点有多重要了我觉得应该是从生物中得到灵感你得寻找自然的一般原理然后在类比的广泛层面上让它们为我所用做到这点真不容易，因为当你真的去研究动物，它们的机理看起来复杂得令人绝望。“设计方案”没有详细的历史备案可以随时查阅它们的关节能做太多种的运动，有太多块不同的肌肉哪怕是最简单的动物，像昆虫它们的神经元和其中的连接方式多到你想不到
+en:And you can absolutely never, absolutely never, because of historyand the inherited plan, start with a clean slate.So, organisms have this important history.Really evolution works more like a tinkerer than an engineer.And this is really important when you begin to look at animals.Instead, we believe you need to be inspired by biology.You need to discover the general principles of nature,and then use these analogies when they&#39;re advantageous.This is a real challenge to do this, because animals,when you start to really look inside them — how they work —appear hopelessly complex. There&#39;s no detailed historyof the design plans, you can&#39;t go look it up anywhere.They have way too many motions for their joints, too many muscles.Even the simplest animal we think of, something like an insect,and they have more neurons and connections than you can imagine.
+时间： 3:18
+zh-cn:你如何去理解这个？嗯..我们相信也假设情况是这样：能让动物的机理简单些的办法可能是将运动的控制内置在身体的构造里我们发现两条腿、四条腿、六条、八条腿的动物动起来时都对地面产生相似的力它们都跟这只袋鼠差不多，它们都在“弹跳”这些都可以用一个弹簧-质量系统来模拟，我们这么叫它因为我们是生物机械学家，其实也就是个弹簧跳跳棒它们都产生这一类的运动。为什么这样呢？这个..一个人的一条腿腿走起来像一只疾跑的狗一侧的两条腿或者像一只昆虫身上三只同时动作的腿或是螃蟹体侧同时行动的四条腿它们提供助推的顺序是交替的但是规律是一样的。几乎所有的动物这样看来—下周你就能看到—暂且先给个提示，会有一篇文章登出来说像霸王龙那样的大家伙可能不会这么动，你下周等着瞧吧
+en:How can you make sense of this? Well, we believed —and we hypothesized — that one way animals could work simply,is if the control of their movementstended to be built into their bodies themselves.What we discovered was that two-, four-, six- and eight-legged animalsall produce the same forces on the ground when they move.They all work like this kangaroo, they bounce.And they can be modeled by a spring-mass system that we call the spring mass systembecause we&#39;re biomechanists. It&#39;s actually a pogo stick.They all produce the pattern of a pogo stick. How is that true?Well, a human, one of your legs works like two legs of a trotting dog,or works like three legs, together as one, of a trotting insect,or four legs as one of a trotting crab.And then they alternate in their propulsion,but the patterns are all the same. Almost every organism we&#39;ve looked at this way— you&#39;ll see next week, I&#39;ll give you a hint,there&#39;ll be an article coming out that says that really big thingslike T. rex probably couldn&#39;t do this, but you&#39;ll see that next week.
+时间： 4:32
+zh-cn:有意思的是动物们就这么在纵平面上“跳跃”，在我们和Pixar公司合作的《一只虫子的生活》时，我们谈到那里面蚂蚁角色们用双脚行走这一点我们告诉他们蚂蚁当然还在另外一个平面里动他们反问了我们一个问题，他们说，“为什么只在径向平面或者纵向平面建模你不是说这些动物在横向平面里也动吗？”这是个好问题生物学里还没有人这么建模过呢我们就接受了建议，在横向平面里也给动物运动建模了。拿蚂蚁的三条腿当做是一条借来世界上最好的数学家们—普林斯顿的人，来弄这个问题我们最后造了一个模型不光模拟动物的上下“弹跳”同时还左右运动许多动物都遵循这个规律为什么这个模型很重要呢？因为很有意思，你拿这个模型干扰它一下，给它一个推力比如说当它撞在什么上面，它自动会趋向稳定，不需要大脑思考不用条件反射，依靠这个结构本身的性质就行很美妙的一个模型。我们来看看其中的数学原理
+en:Now, what&#39;s interesting is the animals, then — we said — bounce alongthe vertical plane this way, and in our collaborations with Pixar,in &quot;A Bug&#39;s Life,&quot; we discussed thebipedal nature of the characters of the ants.And we told them, of course, they move in another plane as well.And they asked us this question. They say, &quot;Why modeljust in the sagittal plane or the vertical plane,when you&#39;re telling us these animals are movingin the horizontal plane?&quot; This is a good question.Nobody in biology ever modeled it this way.We took their advice and we modeled the animals movingin the horizontal plane as well. We took their three legs,we collapsed them down as one.We got some of the best mathematicians in the worldfrom Princeton to work on this problem.And we were able to create a modelwhere animals are not only bouncing up and down,but they&#39;re also bouncing side to side at the same time.And many organisms fit this kind of pattern.Now, why is this important to have this model?Because it&#39;s very interesting. When you take this modeland you perturb it, you give it a push,as it bumps into something, it self-stabilizes, with no brainor no reflexes, just by the structure alone.It&#39;s a beautiful model. Let&#39;s look at the mathematics.
+时间： 5:41
+zh-cn:（笑）
+en:(Laughter)
+时间： 5:43
+zh-cn:够了。
+en:That&#39;s enough!
+时间： 5:44
+zh-cn:（笑）
+en:(Laughter)
+时间： 5:48
+zh-cn:当你看动物们跑的时候他们看上去会这样进行稳定调整用它们的“弹簧腿”。就是说那些腿仿佛能自己做计算，控制这些东西的算法某种意义上被嵌入了动物的形态本身为什么我们没有能从这样的发现中得到更大的启示呢？我认为这是因为人类科技和“自然科技”差别很大，至少迄今一直如此想想你看到的典型的机器人人类科技趋向于又大又笨有棱有角，僵硬，金属构造。它们装备的是滚动装置和轴。一部机械里马达和传感器数量都很少而自然造物趋向于小体积和曲线形弯弯曲曲，带着腿和附加物许多的肌肉和一大堆的感应器所以设计思路很不同。然而，现在正在改变着的真正刺激的东西—下面让你们看看这些—就是当人类科技越来越多地拥有自然物的特征，自然就能更好地教导、启发我们
+en:The animals, when you look at them running,appear to be self-stabilizing like this,using basically springy legs. That is, the legs can docomputations on their own; the control algorithms, in a sense,are embedded in the form of the animal itself.Why haven&#39;t we been more inspired by nature and these kinds of discoveries?Well, I would argue that human technologies are really different fromnatural technologies, at least they have been so far.Think about the typical kind of robot that you see.Human technologies have tended to be large, flat,with right angles, stiff, made of metal. They have rolling devicesand axles. There are very few motors, very few sensors.Whereas nature tends to be small, and curved,and it bends and twists, and has legs instead, and appendages,and has many muscles and many, many sensors.So it&#39;s a very different design. However, what&#39;s changing,what&#39;s really exciting — and I&#39;ll show you some of that next —is that as human technology takes on more of the characteristicsof nature, then nature really can become a much more useful teacher.
+时间： 6:58
+zh-cn:这儿有个真正带劲儿的例子是我们和斯坦福大学合作的他们发明了一种叫形状沉积制造的新技术利用这种技术他们可以把材料混合起来，铸成任意形状并把材料的性质加进去可以把传感器和促动器直接植入形态本身比方说，这儿有一条腿—透明的这一块是固定的白色的一块可以弯曲，你不需要装轴或是什么东西它自己会很漂亮地弯下来所以你可以把那些性质加进来。这项技术给了他们可以卖弄的灵感就创造出了这个叫Sprawl(“匍匐”)的机器人我们的研究还启发了另一个机器人，一个从生物学得到启发的弹跳机器人出自密歇根大学和麦克吉尔大学名叫RHex,“六足机器人”（robot hexapod） 的缩写，它是自动的让我们看一段录像，看看一些动物运动还有些简单的机器人他们都是从对动物的研究发现中受启发的你们有些人早上会去干这个，只不过是在户外不是在跑步机上而这个是我们做的
+en:And here&#39;s one example that&#39;s really exciting.This is a collaboration we have with Stanford.And they developed this new technique, called Shape Deposition Manufacturing.It&#39;s a technique where they can mix materials together and mold any shapethat they like, and put in the material properties.They can embed sensors and actuators right in the form itself.For example, here&#39;s a leg: the clear part is stiff,the white part is compliant, and you don&#39;t need any axles there or anything.It just bends by itself beautifully.So, you can put those properties in. It inspired them to show offthis design by producing a little robot they named Sprawl.Our work has also inspired another robot, a biologically inspired bouncing robot,from the University of Michigan and McGillnamed RHex, for robot hexapod, and this one&#39;s autonomous.Let&#39;s go to the video, and let me show you some of these animals movingand then some of the simple robotsthat have been inspired by our discoveries.Here&#39;s what some of you did this morning, although you did it outside,not on a treadmill.Here&#39;s what we do.
+时间： 8:08
+zh-cn:（笑）
+en:(Laughter)
+时间： 8:10
+zh-cn:这是一只骷髅蟑螂—美国品种不过估计你厨房里没有一只八条腿的蝎子，六条腿的蚂蚁，四十四条腿的蜈蚣我现在告诉你这些动物走起来都像弹簧跳跳棒你看他们朝一个方向移动时也上下跳动比如这只来自巴拿马或北卡罗来纳海岸的幽灵蟹跑起来速度能高达四米每秒其实它经常有脚不沾地的滞空时间而当它这样做的时候—就像匹马似的—你能看见他这里的跳动我们发现无论你观察人类的腿比如说理查的，或者一只蟑螂、螃蟹或是袋鼠的它们腿中那个“弹簧”的相对劲度都是相同的那么弹簧腿有什么好处呢？能做些什么呢？我们想知道它们能否给动物的运动更大的稳定性和可操控性于是我们构建了一个拥有三倍我们所研究的动物髋高度障碍物的地形我们很确定它们翻不过去。可它们是如此反应的：动物飞奔而过，甚至都没有减速它一点都不乐意牺牲自己习惯的速度我们一开始根本不相信的。事实告诉我们如果我们能用简易的弹簧腿造一个机器人就可以使它的可控性出类拔萃
+en:This is a death&#39;s head cockroach. This is an American cockroachyou think you don&#39;t have in your kitchen.This is an eight-legged scorpion, six-legged ant, forty-four-legged centipede.Now, I said all these animals are sort of working like pogo sticks —they&#39;re bouncing along as they move. And you can see thatin this ghost crab, from the beaches of Panama and North Carolina.It goes up to four meters per second when it runs.It actually leaps into the air, and has aerial phaseswhen it does it, like a horse, and you&#39;ll see it&#39;s bouncing here.What we discovered is whether you look at the leg of a humanlike Richard, or a cockroach, or a crab, or a kangaroo,the relative leg stiffness of that spring is the same for everything we&#39;ve seen so far.Now, what good are springy legs then? What can they do?Well, we wanted to see if they allowed the animalsto have greater stability and maneuverability.So, we built a terrain that had obstacles three times the hip heightof the animals that we&#39;re looking at.And we were certain they couldn&#39;t do this. And here&#39;s what they did.The animal ran over it and it didn&#39;t even slow down!It didn&#39;t decrease its preferred speed at all.We couldn&#39;t believe that it could do this. It said to usthat if you could build a robot with very simple, springy legs,you could make it as maneuverable as any that&#39;s ever been built.
+时间： 9:32
+zh-cn:这儿是第一个例子，斯坦福大学的形状沉积技术制造的机器人“匍匐”有着六条腿—协调好了的弹簧腿它采用昆虫的步调行走，这个就是它在跑步机上飞奔呢。与其他机器人相比它的关键就是它什么也看不见也感觉不到，根本就没头脑，然而却能娴熟地跨越障碍，毫不费力正是这个把性质嵌入形态的技术造就了这一切。这是一名研究生的毕业设计内容一个研究生的毕业设计里能干这个可真是了不起
+en:Here&#39;s the first example of that. This is the StanfordShape Deposition Manufactured robot, named Sprawl.It has six legs — there are the tuned, springy legs.It moves in a gait that an insect uses, and here it isgoing on the treadmill. Now, what&#39;s important about this robot,compared to other robots, is that it can&#39;t see anything,it can&#39;t feel anything, it doesn&#39;t have a brain, yet it can maneuverover these obstacles without any difficulty whatsoever.It&#39;s this technique of building the properties into the form.This is a graduate student. This is what he&#39;s doing to his thesis project —very robust, if a graduate studentdoes that to his thesis project.
+时间：10:19
+zh-cn:（笑）
+en:(Laughter)
+时间：10:20
+zh-cn:这是来自麦克吉尔和密歇根大学的RHex演示它首次出去放风
+en:This is from McGill and University of Michigan. This is the RHex,making its first outing in a demo.
+时间：10:27
+zh-cn:（笑）
+en:(Laughter)
+时间：10:31
+zh-cn:一样的原理。它只有六处能动的部分六个电机，可是它具有协调了的弹簧腿，昆虫的步法中间的腿和前腿同步运动后退则在另一边，交替地形成三角架形它们能够像动物一样避开障碍物
+en:Same principle: it only has six moving parts,six motors, but it has springy, tuned legs. It moves in the gait of the insect.It has the middle leg moving in synchrony with the front,and the hind leg on the other side. Sort of an alternating tripod,and they can negotiate obstacles just like the animal.
+时间：10:54
+zh-cn:（笑）
+en:(Laughter)
+时间：11:00
+zh-cn:我的天哪
+en:(Voice: Oh my God.)
+时间：11:01
+zh-cn:（掌声）
+en:(Applause)
+时间：11:06
+zh-cn:它现在要在不同的表面上走，这是沙子尽管我们尚未把腿再完善一些，我等一会儿会谈到这个RHex正在进入丛林
+en:Robert Full: It&#39;ll go on different surfaces — here&#39;s sand —although we haven&#39;t perfected the feet yet, but I&#39;ll talk about that later.Here&#39;s RHex entering the woods.
+时间：11:16
+zh-cn:（笑）
+en:(Laughter)
+时间：11:31
+zh-cn:跟刚才一样，这个机器人也没有视力，没有知觉没有头脑。只是凭借着一个协调的机械系统和简单的各个部分。然而灵感都来源于动物的基本运动原理啊，我喜欢它—鲍勃，他正在下坡我把这个展示给NASA的喷气动力实验室看，他们说他们缺一个能走下撞击坑寻找冰最终寻找生命的技术，是用于火星的。他说—他强调有腿的机器人不能胜任，因为造出来实在太复杂根本不现实。我接着发言。我给他们看了这个短片和RHex的简单构造，为了使他们相信我们2011年得上一趟火星，我把短片背景设成橘黄色让他们感觉仿佛是在火星上
+en:Again, this robot can&#39;t see anything, it can&#39;t feel anything,it has no brain. It&#39;s just working with a tuned mechanical system,with very simple parts, but inspired from the fundamental dynamics of the animal.(Voice: Ah, I love him, Bob.) RF: Here&#39;s it going down a pathway.I presented this to the jet propulsion lab at NASA, and they saidthat they had no ability to go down craters to look for ice,and life, ultimately, on Mars. And he said —especially with legged-robots, because they&#39;re way too complicated.Nothing can do that. And I talk next. I showed them this videowith the simple design of RHex here. And just to convince themwe should go to Mars in 2011, I tinted the video orangejust to give them the sense of being on Mars.
+时间：12:27
+zh-cn:（笑）
+en:(Laughter)
+时间：12:28
+zh-cn:（掌声）
+en:(Applause)
+时间：12:36
+zh-cn:动物们生存能力极强分布极广的另一个原因，就是他们能够与环境进行有效交流。我下面给你们看的我们所研究的动物是壁虎这儿就有一只，注意看它的姿势，它紧抓着不放我现在要给你们出个题目，给你们看一段短片其中一只动物将在平地上跑另一只在爬上一堵墙。哪一只对应哪一只呢？它们的速度都是一米每秒。有多少人认为左边的这只正在爬墙？
+en:Another reason why animals have extraordinary performance,and can go anywhere, is because they have an effective interactionwith the environment. The animal I&#39;m going to show you,that we studied to look at this, is the gecko.We have one here and notice its position. It&#39;s holding on.Now I&#39;m going to challenge you. I&#39;m going show you a video.One of the animals is going to be running on the level,and the other one&#39;s going to be running up a wall. Which one&#39;s which?They&#39;re going at a meter a second. How many think the one on the leftis running up the wall?
+时间：13:12
+zh-cn:（掌声）
+en:(Applause)
+时间：13:16
+zh-cn:好的。看来是真的很难说，不是吗？难以置信啊我们的学生们也很难分辨出来壁虎以每秒一米的速度爬墙，每秒迈出15步看起来就像在平地上跑。怎么做到的呢？实在是了不起。右边的那只正在上墙是如何做的呢—它们的脚趾十分奇特—它们像被吹过的聚会小礼物一样翻开如同带子一样从表面剥张开来比方说像我们这么剥开一条带子它们的脚趾能做这个。真是出了奇了。这个翻开的动作启发了与我们共事的iRobot，于是制造出了Mecho-Geckos （机械壁虎）这里有带腿型的、拖拉机型的和推土机型的我们先从短片里看看壁虎的运动然后我再给你们看机器人壁虎正在冲上一个垂直表面，一蹴而就这是实时播放，再来一遍。显然我们得慢放一点点
+en:Okay. The point is it&#39;s really hard to tell, isn&#39;t it? It&#39;s incredible,we looked at students do this and they couldn&#39;t tell.They can run up a wall at a meter a second, 15 steps per second,and they look like they&#39;re running on the level. How do they do this?It&#39;s just phenomenal. The one on the right was going up the hill.How do they do this? They have bizarre toes. They have toesthat uncurl like party favors when you blow them out,and then peel off the surface, like tape.Like if we had a piece of tape now, we&#39;d peel it this way.They do this with their toes. It&#39;s bizarre! This peeling inspirediRobot — that we work with — to build Mecho-Geckos.Here&#39;s a legged version and a tractor version, or a bulldozer version.Let&#39;s see some of the geckos move with some video,and then I&#39;ll show you a little bit of a clip of the robots.Here&#39;s the gecko running up a vertical surface. There it goes,in real time. There it goes again. Obviously, we have to slow this down a little bit.
+时间：14:21
+zh-cn:不能用普通镜头你得每秒捕捉1000张图像才能看到这个这个短片是每秒1000帧的现在我要你们注意看这只动物的背部你能看出它弯曲了多少吗？我们搞不清楚—这还是个未解之谜。不知道它的工作原理是什么如果你的儿子或者女儿想来伯克利念书就来我的实验室我们把它弄清楚。是啊，送他们到伯克利来因为我下面就想研究那个问题。这是壁虎跑步机
+en:You can&#39;t use regular cameras.You have to take 1,000 pictures per second to see this.And here&#39;s some video at 1,000 frames per second.Now, I want you to look at the animal&#39;s back.Do you see how much it&#39;s bending like that? We can&#39;t figure that out —that&#39;s an unsolved mystery. We don&#39;t know how it works.If you have a son or a daughter that wants to come to Berkeley,come to my lab and we&#39;ll figure this out. Okay, send them to Berkeleybecause that&#39;s the next thing I want to do. Here&#39;s the gecko mill.
+时间：14:47
+zh-cn:（笑）
+en:(Laughter)
+时间：14:48
+zh-cn:是个透明的跑步机，透明的跑步带我们能观察动物们的脚，给它们录像透过这个跑步带，看它们如何运动这是我们的动物正在垂直面上跑选一只脚，试着观察一根脚趾，看你能否察觉动物在干嘛看看它翻开又剥张这些脚趾14毫秒之内就完成了，实在是难以置信这就是受它们启发的机器人，iRobot的机械壁虎首先我们看到动物的脚趾剥开—看看这个这就是机械壁虎的那个剥开的动作它用一个对压强敏感的粘合物来完成这个动作这是动物的剥开动作，这是机械壁虎的都使他们能够自己攀爬，先走在平面上移到墙上，再上天花板这是推土机版本的。这个用的可不是压强敏感性的粘胶动物可不用那个但是我们现在只有这个可用
+en:It&#39;s a see-through treadmill with a see-through treadmill belt,so we can watch the animal&#39;s feet, and videotape themthrough the treadmill belt, to see how they move.Here&#39;s the animal that we have here, running on a vertical surface.Pick a foot and try to watch a toe, and see if you can see what the animal&#39;s doing.See it uncurl and then peel these toes.It can do this in 14 milliseconds. It&#39;s unbelievable.Here are the robots that they inspire, the Mecho-Geckos from iRobot.First we&#39;ll see the animals toes peeling — look at that.And here&#39;s the peeling action of the Mecho-Gecko.It uses a pressure-sensitive adhesive to do it.Peeling in the animal. Peeling in the Mecho-Gecko —that allows them climb autonomously. Can go on the flat surface,transition to a wall, and then go onto a ceiling.There&#39;s the bulldozer version. Now, it doesn&#39;t use pressure-sensitive glue.The animal does not use that.But that&#39;s what we&#39;re limited to, at the moment.
+时间：15:51
+zh-cn:动物怎么做呢？它有怪异的脚趾如果你看仔细点它们有这些细小的叶片如果你把它们放大你会看见这些叶片里面有小条纹你要是放大270倍，你会看见它其实长得像条毯子如果你再放大900倍你看到有毛，细小的毛，再看仔细些这些毛上又有条纹。如果你再把它们都放大三万倍你看到每一根细毛头上都有分叉你要是再放大就会看到它们的头上都有一些小结构毛最小的分枝看起来像小铲这样一个小动物能用10亿根纳米级的分叉毛贴近物体的表面。这是你头发的直径一只壁虎有200万个这样的，每根毛有100到1000个分叉想象一下它们能形成的接触
+en:What does the animal do? The animal has weird toes.And if you look at the toes, they have these little leaves there,and if you blow them up and zoom in, you&#39;ll seethat&#39;s there&#39;s little striations in these leaves.And if you zoom in 270 times, you&#39;ll see it looks like a rug.And if you blow that up, and zoom in 900 times,you see there are hairs there, tiny hairs. And if you look carefully,those tiny hairs have striations. And if you zoom in on those 30,000 times,you&#39;ll see each hair has split ends.And if you blow those up, they have these little structures on the end.The smallest branch of the hairs looks like spatulae,and an animal like that has one billion of these nano-size split ends,to get very close to the surface. In fact, there&#39;s the diameter of your hair —a gecko has two million of these, and each hair has 100 to 1,000 split ends.Think of the contact of that that&#39;s possible.
+时间：16:57
+zh-cn:我们有幸和另外一个斯坦福的小组合作造出了一个特殊控制的感应器能够帮我们测量一根单个毛发受到的力这是一根带了点分叉的毛当我们测量受力时发现大得惊人大到像一片这样尺寸的毛就壁虎脚这么大—能轻易撑起一个小孩的重量大约40磅。它们怎么做到的呢？我们最近发现了。是摩擦力吗?不是，摩擦力太小了。是静电吗？不是，你改变一下电荷它们还是抓得牢牢地是通过形状的互相咬合吗？是像维可劳（尼龙剌粘搭链）那样的吗？不是，你把它们放到分子级的光滑平面上—就不起作用了空气吸力吗？它们在真空里一样能贴着湿粘合呢？或者毛细管作用呢？它们可没有用胶，而且在水下抓得一样地紧把脚放在水里也能抓住怎么回事呢？信不信由你它们用了分子间作用力，范德华力
+en:We were fortunate to work with another groupat Stanford that built us a special manned sensor,that we were able to measure the force of an individual hair.Here&#39;s an individual hair with a little split end there.When we measured the forces, they were enormous.They were so large that a patch of hairs about this size —the gecko&#39;s foot could support the weight of a small child,about 40 pounds, easily. Now, how do they do it?We&#39;ve recently discovered this. Do they do it by friction?No, force is too low. Do they do it by electrostatics?No, you can change the charge — they still hold on.Do they do it by interlocking? That&#39;s kind of a like a Velcro-like thing.No, you can put them on molecular smooth surfaces — they don&#39;t do it.How about suction? They stick on in a vacuum.How about wet adhesion? Or capillary adhesion?They don&#39;t have any glue, and they even stick under water just fine.If you put their foot under water, they grab on.How do they do it then? Believe it or not, they grab onby intermolecular forces, by Van der Waals forces.
+时间：17:57
+zh-cn:你可能还是很久以前在化学里学的这个两个原子，靠得挺近电子绕着它们动。这个小小的力足够完成这个因为它被加成了许多许多次通过这些小小的结构我们正在做的就是利用这些毛带来的灵感和我在伯克利的另一位同事一起制造它们就是在最近我们有了一项突破，现在我们相信我们就要制出第一种合成的，自我清洁干性的粘合物。许多公司都很感兴趣
+en:You know, you probably had this a long time ago in chemistry,where you had these two atoms, they&#39;re close together,and the electrons are moving around. That tiny force is sufficientto allow them to do that because it&#39;s added up so many timeswith these small structures.What we&#39;re doing is, we&#39;re taking that inspiration of the hairs,and with another colleague at Berkeley, we&#39;re manufacturing them.And just recently we&#39;ve made a breakthrough, where we now believewe&#39;re going to be able to create the first synthetic, self-cleaning,dry adhesive. Many companies are interested in this.
+时间：18:33
+zh-cn:（笑）
+en:(Laughter)
+时间：18:36
+zh-cn:我们甚至给耐克做了展示
+en:We also presented to Nike even.
+时间：18:38
+zh-cn:（笑）
+en:(Laughter)
+时间：18:41
+zh-cn:（掌声）
+en:(Applause)
+时间：18:47
+zh-cn:我们得看看它的前景了。真是让人兴奋呢发现在极小的尺寸下所有的东西都粘在一块儿，重力再也不重要了我们需要看看蚂蚁和它们的脚，因为伯克利的另一位同事，造了一个六毫米的带腿的硅制机器人。但是它老卡住，动得不灵活可是蚂蚁相当灵活，我们就要知道为什么，就可以相应作出改变。想象一下，你很快就可以让一大群的六毫米大小的机器人到处乱跑这有什么前景呢？我觉得你现在已经想到了
+en:We&#39;ll see where this goes. We were so excited about thisthat we realized that that small-size scale —and where everything gets sticky, and gravity doesn&#39;t matter anymore —we needed to look at ants and their feet, becauseone of my other colleagues at Berkeley has built a six-millimeter siliconerobot with legs. But it gets stuck. It doesn&#39;t move very well.But the ants do, and we&#39;ll figure out why, so that ultimatelywe&#39;ll make this move. And imagine: you&#39;re going to be ableto have swarms of these six-millimeter robots available to run around.Where&#39;s this going? I think you can see it already.
+时间：19:21
+zh-cn:显然互联网已经拥有了眼睛和耳朵有网络摄像头等等东西，但是以后它还会有腿与手你就可以用这些机器人完成可编程的工作，可以到处跑啊飞啊游啊。我们开始的时候看到了David Kelly和他的鱼所以综上所述，我觉得这个信息很清楚如果你需要一个信息，如果光是自然造物还不够，如果你关注搜救工作、矿井清理、医药还有我们在做的各种各样的事情，我们必须好好保管大自然的精妙设计，不然这些秘密会永远消失谢谢你们
+en:Clearly, the Internet is already having eyes and ears,you have web cams and so forth. But it&#39;s going to also have legs and hands.You&#39;re going to be able to do programmablework through these kinds of robots, so that you can run,fly and swim anywhere. We saw David Kelly is at the beginning of that with his fish.So, in conclusion, I think the message is clear.If you need a message, if nature&#39;s not enough, if you care aboutsearch and rescue, or mine clearance, or medicine,or the various things we&#39;re working on, we must preservenature&#39;s designs, otherwise these secrets will be lost forever.Thank you.
+时间：20:01
+zh-cn:（掌声）
+en:(Applause)

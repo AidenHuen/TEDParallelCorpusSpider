@@ -1,0 +1,186 @@
+时间： 0:15
+zh-cn:克里斯 安德森：威廉，你好，很高兴见到你。
+en:Chris Anderson: William, hi. Good to see you.
+时间： 0:17
+zh-cn:威廉 凯门卡巴：谢谢。
+en:William Kamkwamba: Thanks.
+时间： 0:18
+zh-cn:CA:那么，我想我们应该有一张图片吧？这是在哪？
+en:CA: So, we&#39;ve got a picture, I think? Where is this?
+时间： 0:23
+zh-cn:wk:这是我的家，我住的地方
+en:WK: This is my home. This is where I live.
+时间： 0:27
+zh-cn:CA:哪里呢？那个国家？
+en:CA: Where? What country?
+时间： 0:29
+zh-cn:WK:在马拉维，卡森固。在卡森固，是的，马拉。
+en:WK: In Malawi, Kasungu. In Kasungu. Yeah, Mala.
+时间： 0:32
+zh-cn:CA:好的，现在你19岁吗？
+en:CA: OK. Now, you&#39;re 19 now?
+时间： 0:35
+zh-cn:WK:是的，我现在19岁。
+en:WK: Yeah. I&#39;m 19 years now.
+时间： 0:37
+zh-cn:CA:五年前，你有个想法，什么想法啊？
+en:CA: Five years ago you had an idea. What was that?
+时间： 0:40
+zh-cn:WK:我想做一个风车。
+en:WK: I wanted to make a windmill.
+时间： 0:42
+zh-cn:CA:一个风车？
+en:CA: A windmill?
+时间： 0:43
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 0:44
+zh-cn:CA:然后呢，拿来发电什么的吗？
+en:CA: What, to power — for lighting and stuff?
+时间： 0:48
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 0:50
+zh-cn:CA:那你怎么做的呢？你怎么实现的的呢？
+en:CA: So what did you do? How did you realize that?
+时间： 0:53
+zh-cn:WK:我放学之后，就去图书馆。我就去查阅会“应用能源”的书，然后我就得到了有关制作风车的信息。后来我就试着做了一个。
+en:WK: After I dropped out of school, I went to library,and I read a book that would — &quot;Using Energy,&quot;and I get information about doing the mill.And I tried, and I made it.
+时间： 1:06
+zh-cn:掌声。
+en:(Applause)
+时间： 1:16
+zh-cn:CA:那你是模仿的—你就照着一本书里的设计就这么模仿做出来的？
+en:CA: So you copied — you exactly copied the design in the book.
+时间： 1:20
+zh-cn:WK:啊，不，我只是—
+en:WK: Ah, no. I just —
+时间： 1:22
+zh-cn:CA:怎么回事呢？
+en:CA: What happened?
+时间： 1:24
+zh-cn:WK:实际上，风车的设计在书里已经有了，它有四个-嗯-三个扇片，而我的有四个扇片。
+en:WK: In fact, a design of the windmill that was in the book,it has got four — ah — three blades,and mine has got four blades.
+时间： 1:35
+zh-cn:CA:书里有三个，你的有四个。
+en:CA: The book had three, yours had four.
+时间： 1:37
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 1:38
+zh-cn:CA:你为什么要这么做呢？
+en:CA: And you made it out of what?
+时间： 1:40
+zh-cn:WK:我用四个扇片，只是因为我想增加电力。
+en:WK: I made four blades, just because I want to increase power.
+时间： 1:45
+zh-cn:CA:好的。
+en:CA: OK.
+时间： 1:46
+zh-cn:wk:嗯。
+en:WK: Yeah.
+时间： 1:47
+zh-cn:CA:你是测试了一下，发现四个比三个好，是吗？
+en:CA: You tested three, and found that four worked better?
+时间： 1:49
+zh-cn:WK:是的，我测试过。
+en:WK: Yeah. I test.
+时间： 1:51
+zh-cn:CA:你用什么来做这个风车的？用什么材料来做的？
+en:CA: And what did you make the windmill out of?What materials did you use?
+时间： 1:56
+zh-cn:WK:我用了一个自行车的架子，一个滑轮，还有用来牵拉的塑胶管—
+en:WK: I use a bicycle frame, and a pulley, and plastic pipe, what then pulls —
+时间： 2:02
+zh-cn:CA:我们有那个的图片吗？可以跳到下一张幻灯片吗？
+en:CA: Do we have a picture of that? Can we have the next slide?
+时间： 2:05
+zh-cn:WK:有吧，风车。
+en:WK: Yeah. The windmill.
+时间： 2:07
+zh-cn:CA:那么，啊什么？这是一个风车—能工作？
+en:CA: And so, and that windmill, what — it worked?
+时间： 2:11
+zh-cn:WK:有风的时候，他就会转然后发电。
+en:WK: When the wind blows, it rotates and generates.
+时间： 2:16
+zh-cn:CA:能发多少电？
+en:CA: How much electricity?
+时间： 2:17
+zh-cn:WK:12瓦。
+en:WK: 12 watts.
+时间： 2:19
+zh-cn:CA:那，够家里的电灯用吗？多少盏灯？
+en:CA: And so, that lit a light for the house? How many lights?
+时间： 2:24
+zh-cn:WK:四个灯泡，还有两台收音机。
+en:WK: Four bulbs and two radios.
+时间： 2:26
+zh-cn:CA:哇。
+en:CA: Wow.
+时间： 2:27
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 2:28
+zh-cn:CA:那—（掌声）—下一张图片—他们是谁？
+en:(Applause) CA: Next slide —so who&#39;s that?
+时间： 2:40
+zh-cn:WK:这是我的父母，在买收音机。
+en:WK: This is my parents, holding the radio.
+时间： 2:43
+zh-cn:CA:他们怎么看待的？你那时候才14，15岁。他们怎么想的呢？他们很惊讶/高兴吗？
+en:CA: So what did they make of — that you were 14, 15 at the time —what did they make of this? They were impressed?
+时间： 2:50
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 2:51
+zh-cn:CA:那，你的—你接下来要做什么呢？
+en:CA: And so what&#39;s your — what are you going to do with this?
+时间： 2:53
+zh-cn:WK:嗯—
+en:WK: Um —
+时间： 2:55
+zh-cn:CA:我的意思是，你是想要再做一个吗？
+en:CA: What do you — I mean — do you want to build another one?
+时间： 2:59
+zh-cn:WK:是的，我想再做一个—用来抽水和灌溉—给农作物灌溉。
+en:WK: Yeah, I want to build another one —to pump water and irrigation for crops.
+时间： 3:07
+zh-cn:CA:那新建的这个会更大些吗？
+en:CA: So this one would have to be bigger?
+时间： 3:09
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 3:10
+zh-cn:CA:多大呢？
+en:CA: How big?
+时间： 3:11
+zh-cn:WK:我想这个应该要发多于20瓦的电。
+en:WK: I think it will produce more than 20 the watts.
+时间： 3:17
+zh-cn:CA:那这够灌溉整个村子吗？
+en:CA: So that would produce irrigation for the entire village?
+时间： 3:21
+zh-cn:WK:是的。
+en:WK: Yeah.
+时间： 3:23
+zh-cn:CA:哇，所以你来TED和人们谈这件事让可以帮忙的人以某种方式帮助你来实现这个梦想？
+en:CA: Wow. And so you&#39;re talking to people here at TEDto get people who might be able to help in some wayto realize this dream?
+时间： 3:32
+zh-cn:WK:是的，如果他们能我—提供材料，是的。
+en:WK: Yeah, if they can help me with materials, yeah.
+时间： 3:36
+zh-cn:CA:你想过你将来的生活吗，你现在19，你—你想继续这个梦想，在能源领域工作？
+en:CA: And as you think of your life going forward,you&#39;re 19 now,do you picture continuing with this dream of working in energy?
+时间： 3:46
+zh-cn:WK:是的，我想继续做能源方面的工作。
+en:WK: Yeah. I&#39;m still thinking to work on energy.
+时间： 3:51
+zh-cn:CA:哇，威廉，非常荣幸你能参加TED的会议。非常谢谢你的到来。
+en:CA: Wow. William, it&#39;s a real honor to have you at the TED conference.Thank you so much for coming.
+时间： 3:57
+zh-cn:WK:谢谢。
+en:WK: Thank you.
+时间： 3:59
+zh-cn:掌声。
+en:(Applause)

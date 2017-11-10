@@ -1,0 +1,72 @@
+时间： 0:11
+zh-cn:今天，我要给大家展示这台平板电脑和我戴的这个虚拟现实头盔将如何彻底改革科学教育。我还会给大家展示它如何让所有科学教师的教学效率翻倍。但是在我向大家展示这些之前，我们先来简要谈一谈为什么提高科学教育质量是如此的重要。
+en:Today, I am going to show youhow this tablet and this virtual-realityheadset that I&#39;m wearingare going to completelyrevolutionize science education.And I&#39;m also going to show youhow it can make any science teachermore than twice as effective.But before I show youhow all of this is possible,let&#39;s talk briefly about why improvingthe quality of science educationis so vitally important.
+时间： 0:42
+zh-cn:你仔细想一想，当今世界发展速度快得惊人。但伴随着发展，一系列的挑战也层出不穷这些挑战包括应对全球变暖，解决温饱和水资源短缺问题，还要治疗疾病，这些只是几个例子。
+en:If you think about it,the world is growing incredibly fast.And with that growth comesa whole list of growing challenges,challenges such as dealingwith global warming,solving starvation and water shortagesand curing diseases,to name just a few.
+时间： 0:59
+zh-cn:那么，究竟谁能帮助我们应对这些巨大的挑战呢？其实很大程度上，这些人会是年轻的学生们。这些人是下一代年轻聪慧的科学家。在很多方面，我们都得靠他们提出崭新的、伟大的创新观点，来帮助我们解决人类面临的种种挑战。就在几年之前，我和我的合伙人正是这样教导着大学生们，只是我们所教的这些学生看上去更像是这样。
+en:And who, exactly, is going to help ussolve all of these great challenges?Well, to a very last degree,it is these young students.This is the next generationof young, bright scientists.And in many ways, we all rely on themfor coming up with new, great innovationsto help us solve allthese challenges ahead of us.And so a couple of years back,my cofounder and I were teachinguniversity students just like these,only the students we were teachinglooked a little bit more like this here.
+时间： 1:35
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:36
+zh-cn:是的，这真的是目前的现状，在世界上太多的大学都是如此：学生们很无聊，很散漫，有时甚至不确定最初为什么要去学某项东西。
+en:And yes, this is reallythe reality out therein way too many universitiesaround the world:students that are bored, disengagedand sometimes not even surewhy they&#39;re learning about a topicin the first place.
+时间： 1:50
+zh-cn:所以我们开始探索新的创新性教学方式，但是得到的结果却很令人失望。只见纸质书慢慢转变为电子书，黑板渐渐被YouTube视频替代，讲堂里的讲座变成了慕课——大规模的网络公开课。如果你仔细想一想，我们所做的一切就是把相同的内容，还有相同的格式，传递给更多的学生——其实这挺好的，别误会，我觉得这非常好——但是教学方式或多或少都是相同的，这一点没有真正的创新。
+en:So we started looking around for new,innovative teaching methods,but what we found was quite disappointing.We saw that books were beingturned into e-books,blackboards were being turnedinto YouTube videosand lecture hall monologueswere being turned into MOOCs —massive online open courses.And if you think about it,all we&#39;re really doing hereis taking the same contentand the same format,and bringing it out to more students —which is great, don&#39;t get mewrong, that is really great —but the teaching methodis still more or less the same,no real innovation there.
+时间： 2:30
+zh-cn:所以我们开始探索新思路。我们发现的是，当与真正的飞行训练相结合时，飞行模拟器在训练飞行员方面一直以来都非常有效。于是我们就思考：何不将其应用到科学领域呢？为什么不建一台虚拟的实验室模拟器呢？
+en:So we started looking elsewhere.What we found was that flight simulatorshad been proven over and over againto be far more effectivewhen used in combination with real,in-flight training to train the pilots.And so we thought to ourselves:Why not just apply that to science?Why not build a virtuallaboratory simulator?
+时间： 2:54
+zh-cn:我们就这么做了。我们开始创造一个完全模拟的，一对一的虚拟现实的实验室模拟器，在这里学生们可以做实验，让数学公式来模拟现实实验室中会发生的事情。但是又不只是简单的模拟，我们也可以与麻省理工这样的顶尖大学合作创造更高级的模拟效果，把顶尖的癌症治疗成果分享给学生。这样，大学就可以一下子省下上百万美金，只需让学生们在进真正实验室之前先做一遍虚拟的实验。不仅如此；现在他们同样可以搞懂机器内部正在发生着什么，即使小至分子水平。他们也可以一下子就能在实验室里做更危险的实验了。比如说这里，我们可以教授一个重要内容：沙门氏菌，目前很多学校基于安全考虑是不开设这门课程的。我们当然也可以给学生小测，然后给老师们一个完整的反馈，这样他们可以清晰地了解学生们学得如何。
+en:Well, we did it.We basically set out to createa fully simulated, one-to-one,virtual reality laboratory simulator,where the studentscould perform experimentswith mathematical equationsthat would simulate what wouldhappen in a real-world lab.But not just simple simulations —we would also create advanced simulationswith top universities like MIT,to bring out cutting-edge cancerresearch to these students.And suddenly, the universitiescould save millions of dollarsby letting the studentsperform virtual experimentsbefore they go into the real laboratory.And not only that; now,they could also understand —even on a molecular levelinside the machine —what is happening to the machines.And then they could suddenly performdangerous experiments in the labs as well.For instance also here,learning about salmonella bacteria,which is an important topicthat many schools cannot teachfor good safety reasons.And we, of course, quiz the studentsand then give the teachersa full dashboard,so they fully understandwhere the students are at.
+时间： 4:01
+zh-cn:但是我们没有就此停止，因为我们才刚看到学生在课程中的投入度有多么深远的意义。于是我们找来游戏设计师，写一些有趣、有吸引力的故事。比如在这个例子中，学生们需要运用核心科学知识解决神秘的犯罪现场谋杀案。
+en:But we didn&#39;t stop there,because we had seen justhow important meaning isfor the students&#39; engagement in the class.So we brought in game designersto create fun and engaging stories.For instance, here in this case,where the students have to solvea mysterious CSI murder caseusing their core science skills.
+时间： 4:22
+zh-cn:我们在发布这些之后所得到的反馈，简直是铺天盖地的好评。这里的300名学生，都无比投入地解决谋杀案件，与此同时还学习了核心科学技能。我对此最爱的一点就是有时候学生们在玩过这些之后找到我，很惊讶、很疑惑地看着我说：“我刚刚在虚拟实验室里待了两个钟头，而且……我一直都没刷Facebook。”
+en:And the feedback we gotwhen we launched all of thiswas quite overwhelmingly positive.Here we have 300 students,all passionately solving CSI murder caseswhile learning core science skills.And what I love the most about thisis really when the studentscome up to me sometimes afterwards,all surprised and a little confused,and say, &quot;I just spent two hoursin this virtual lab,and ... and I didn&#39;t check Facebook.&quot;
+时间： 4:49
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:50
+zh-cn:对于学生来说，它就是如此迷人、令人沉浸其中。
+en:That&#39;s how engaging and immersivethis really is for the students.
+时间： 4:55
+zh-cn:于是为了探究这是否有实效，一个教育心理学家对160名学生做了研究——这些学生们来自斯坦福大学和丹麦技术大学。他们所做的是，把学生们分成两个小组。一个小组只使用虚拟的模拟实验室，另外一组只使用传统的教学方式，然后给他们相同的时间。十分有趣的是，他们在实验之前和之后都对学生进行测试，这样他们就可以量化教学过程对学生的影响。他们发现，虚拟实验室方法相比传统教学方法，教学有效性提高了惊人的76%！
+en:And so, to investigatewhether this really worked,a learning psychologistdid a study with 160 students —that was from Stanford Universityand Technical University of Denmark.And what they did is splitthe students into two groups.One group would only usethe virtual laboratory simulations,the other group would only usetraditional teaching methods,and they had the same amount of time.Then, interestingly,they gave the students a testbefore and after the experiment,so they could clearly measurethe learning impact of the students.And what they foundwas a surprisingly high 76 percentincrease in the learning effectivenesswhen using virtual laboratoriesover traditional teaching methods.
+时间： 5:43
+zh-cn:但是更有趣的是，这个研究的第二部分调查了教师对教学过程的影响。他们发现，当你把虚拟实验室方法与教师的教学辅导相结合，我们可以看到101%的教学有效性增长，这从效率上相当于在相同的一段时间里把科学教师的影响翻了一番。几个月前，我们开始问自己——我们有一个超棒的团队，有教育心理学家，有教师和科学家，还有游戏设计师——我们就在扪心自问：我们怎么才能信守承诺，不断地重构教育方式？
+en:But even more interestingly,the second part of this study investigatedwhat the teacher&#39;s impactwas on the learning.And what they foundwas that when you combinedthe virtual laboratorieswith teacher-led coaching and mentoring,then we saw a total 101 percentincrease in the learning effectiveness,which effectively doublesthe science teacher&#39;s impactwith the same amount of time spent.So a couple of months back,we started asking ourselves —we have a wonderful team nowof learning psychologistsand teachers and scientistsand game developers —and we started asking ourselves:How can we keep ourselves to our promiseof constantly reimagining education?
+时间： 6:29
+zh-cn:而今天，能向大家展示我们的研究成果，我感到非常兴奋，这是我们花了很大的努力创造出来的。我简单介绍一下这个是什么。基本上，我只用我的手机——大多数学生都有这种智能手机，然后把它接到这个低成本的虚拟现实头盔上。那么现在我完全可以做到的就是，我可以直接走进这个虚拟世界里。我们等下会让一些观众来尝试，因为这个东西你们必须得尝试过，才能体会到沉浸式体验的强大。这感觉上就好像我直接踏进了这个虚拟实验室！你们在屏幕上看到我了吗？
+en:And today, I am really excitedto be presenting what we came up withand have been workingincredibly hard to create.I will explain briefly what this is.Basically, I take my mobile phone —most students alreadyhave these, smartphones —and I plug it into this virtual-realityheadset, a low-cost headset.And now what I can effectively do is,I can literally stepinto this virtual world.We&#39;ll have some of youin the audience also get to try this,because it is really somethingthat you have to tryto fully feel how immersive it really is.It literally feels like I just steppedinside this virtual lab.Do you see me up on the screen?
+时间： 7:11
+zh-cn:观众：看到了。
+en:Audience: Yes.
+时间： 7:12
+zh-cn:Michael Bodekaer:好的！棒极了！
+en:Michael Bodekaer: Great! Awesome.
+时间： 7:13
+zh-cn:那么，我刚刚把我的手机变成了一个全模拟的，百万美元级的常青藤大学实验室，里面满是我可以操作的神奇仪器。比如说，我可以用移液管来做实验，还有有电泳仪、PCR仪······哦，看那边，那是下一代的基因测序仪，这里还有一台电子显微镜。我在想，谁会在裤子口袋里放一台电子显微镜呢？这里有一台电脑，我可以在电脑上做各种实验。这里还有扇门，我可以到其它的实验室，去做其它的实验。在这里我有一台学习电脑。这是一台智能的平板电脑，可以让我阅读相关的理论知识。你们可以看到，我可以与之互动。我可以看视频，学习一些跟我正在做的实验密切相关的东西。然后来到这儿，这位是玛丽。她是我的老师，也是我在实验室的助手——她所做的就是引导我使用整个实验室的仪器。很快地，老师们就真正可以传送到我所在的这个虚拟世界里，然后帮助我，引导我完成整个实验。
+en:So basically, I have justturned my mobile phoneinto a fully simulated, million-dollarIvy League laboratorywith all this amazing equipmentthat I can interact with.I can, for instance, pick up the pipetteand do experiments with it.I have my E-Ggel, my PCRand — oh, look there,I have my next-generationsequencing machine,and there I even havemy electron microscope.I mean, who&#39;s carrying aroundan electron microscope in their pocket?And here I have my machine,I can do different experimentson the machine.And over here I have the door,I can go into other experiments,I can perform in the laboratories.And here, I have my learning tablet.This is an intelligent tabletthat allows me to readabout relevant theory.As you can see, I can interact with it.I can watch videos and seecontent that is relevantto the experimentthat I&#39;m performing right now.Then over here, I have Marie.She is my teacher —my lab assistant —and what she does is guides methrough this whole laboratory.And very soon,the teachers will be ableto literally teleport themselvesinto this virtual worldthat I&#39;m in right nowand help me, guide me,through this whole experiment.
+时间： 8:23
+zh-cn:现在，在我结束之前，我想给你们看一个更酷炫的东西，在真实实验室里根本做不到的事。这是一台PCR仪。我要开始做实验了。我刚刚做的就是把自己缩小了一百万倍，变成分子的大小——感觉就像是这样，你们必须得试试！现在感觉像是我站在机器里，我看到这里所有的DNA，还有分子，我看到聚合酶还有生化酶等等。在这种情况下，我看到DNA是如何被复制上百万次的，就像现在你的身体里正在进行的那样。我真的可以感受、理解这些原理了。
+en:And now before I finalize this,I want to show youan even cooler thing, I think —something you cannoteven do in real laboratories.This is a PCR machine.I&#39;m now going to start this experiment.And what I just did is literallyshrunk myself a million timesinto the size of a molecule —and it really feels like it,you have to try this.So now it feels likeI&#39;m standing inside the machineand I&#39;m seeing all the DNA,and I see the molecules.I see the polymeraseand the enzymes and so forth.And I can see how in this case,DNA is being replicated millions of times,just like it&#39;s happeninginside your body right now.And I can really feel and understandhow all of this works.
+时间： 9:05
+zh-cn:我希望这些能够给你们一点概念，就是这种全新教学方式的可能性。此外我还想强调一下，刚刚你们看到的一切也可以在iPad和笔记本电脑上实现，而完全不需要这个头盔。我讲这个是有很重要原因的。为了让我们真正地激发、启迪下一代的科学家，我们迫切需要教师们推动这些课堂新科技的推广。从很多角度来看，我相信科学教育的下一个伟大的、质的飞跃，已不在于科技发展本身，而在于教师们的作为，将这些新科技推广及采用，带到课堂上去。我们的期望是让更多的大学、学校和老师，都与科技公司合作，来实现它全部的潜能。
+en:Now, I hope that gives youa little bit of a senseof the possibilitiesin these new teaching methods.And I want to also emphasizethat everything you just sawalso works on iPads and laptopswithout the headsets.I say that for a very important reason.In order for us to reallyempower and inspirethe next generation of scientists,we really need teachersto drive the adoptionof new technologies in the classroom.And so in many ways,I believe that the next big,quantum leap in science educationlies no longer with the technology,but rather with the teachers&#39; decisionto push forward and adoptthese technologiesinside the classrooms.And so it is our hope that moreuniversities and schools and teacherswill collaborate with technology companiesto realize this full potential.
+时间：10:03
+zh-cn:讲到这里，最后，我想告诉大家一个特别鼓舞我的小故事。是关于杰克·安德拉卡的故事。你们有些人可能知道他。杰克研究出了一种全新的、突破性的、低成本的胰腺癌检测法，那时他只有15岁。当杰克分享自己做出这个伟大突破的经历时，他也讲述了一件几乎阻止了他取得这项突破的事。那就是他没办法进入真正的实验室里，因为他经验非常不足，不被允许进入。
+en:And so,lastly, I&#39;d like to leave youwith a little storythat really inspires me.And that is the story of Jack Andraka.Some of you might already know him.Jack invented a new, groundbreakinglow-cost test for pancreatic cancerat the age 15.And when Jack shares his storyof how he did this huge breakthrough,he also explains that one thingalmost prevented himfrom making this breakthrough.And that was that he did nothave access to real laboratories,because he was too inexperiencedto be allowed in.
+时间：10:44
+zh-cn:那么想象一下，如果我们能把常青藤名校，百万美元级的虚拟实验室带给像杰克一样的所有学生，在全世界范围推广，把你能想象到的最新、最棒、最花哨的仪器都给他们，那就真的会让这里的所有科学家都兴奋得活蹦乱跳了。再想象一下，这样定会激励和启迪全新一代的年轻聪慧的科学家，准备好做出创新，改变世界。
+en:Now, imagine if we could bringIvy League, million-dollarvirtual laboratoriesout to all these students just like Jack,all over the world,and give them the latest, greatest,most fancy machines you can imaginethat would quite literallymake any scientist in herejump up and down out of pure excitement.And then imagine how thatwould empower and inspirea whole new generationof young and bright scientists,ready to innovate and change the world.
+时间：11:15
+zh-cn:非常感谢。
+en:Thank you very much.
+时间：11:16
+zh-cn:（掌声）
+en:(Applause)

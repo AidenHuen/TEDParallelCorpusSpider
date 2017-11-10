@@ -1,0 +1,198 @@
+时间： 0:11
+zh-cn:Chris Anderson：Julian，欢迎你有报道说“维基揭密”——你的心血结晶在过去的几年所公布的机密文件数目超过了世界所有媒体公布数的总和这有可能吗？
+en:Chris Anderson: Julian, welcome.It&#39;s been reported that WikiLeaks, your baby,has, in the last few yearshas released more classified documentsthan the rest of the world&#39;s media combined.Can that possibly be true?
+时间： 0:24
+zh-cn:Julian Assange：是的，这有可能吗？这是个问题，不是吗？世界上的其他媒体得有多糟糕啊以至于一群社会活动家就能公开比世界上所有媒体加起来还要多的机密文件
+en:Julian Assange: Yeah, can it possibly be true?It&#39;s a worry — isn&#39;t it? — that the rest of the world&#39;s mediais doing such a bad jobthat a little group of activistsis able to release moreof that type of informationthan the rest of the world press combined.
+时间： 0:39
+zh-cn:CA：这是如何运作的？你们是怎样公开这些文件的？你们如何确保他们的隐私？
+en:CA: How does it work?How do people release the documents?And how do you secure their privacy?
+时间： 0:47
+zh-cn:JA：最多能告诉你们他们是传统的告密者我们提供一些方式让他们把信息告诉我们我们运用最先进的加密方式来在网上传播信息，隐藏痕迹在司法管辖区内传递比如瑞典和比利时以求获得法律保护我们通过信件获得信息最普通的邮递信件不论是否加密我们和任何新闻机构一样对信息进行审查，排版尽管有时这显得相当困难考虑到所涉及的透露给公众的巨大的信息量然后保护我们不受不可避免的法律和政治攻击的影响
+en:JA: So these are — as far as we can tell —classical whistleblowers,and we have a number of ways for themto get information to us.So we use this state-of-the-art encryptionto bounce stuff around the Internet, to hide trails,pass it through legal jurisdictionslike Sweden and Belgiumto enact those legal protections.We get information in the mail,the regular postal mail,encrypted or not,vet it like a regular news organization, format it —which is sometimes something that&#39;s quite hard to do,when you&#39;re talking aboutgiant databases of information —release it to the publicand then defend ourselvesagainst the inevitable legal and political attacks.
+时间： 1:32
+zh-cn:CA：所以说你们尽量保证这些文件是正确的但实际上你们几乎不了解消息来源的身份？
+en:CA: So you make an effort to ensurethe documents are legitimate,but you actuallyalmost never know who the identity of the source is?
+时间： 1:41
+zh-cn:JA：没错，我们很少知道如果在某阶段我们的确发现了其身份我们也会尽快销毁这一信息(电话铃声)该死！
+en:JA: That&#39;s right, yeah. Very rarely do we ever know,and if we find out at some stagethen we destroy that information as soon as possible.(Phone ring) God damn it.
+时间： 1:53
+zh-cn:(笑声)
+en:(Laughter)
+时间： 1:57
+zh-cn:CA：我想那是中情局在询问TED成员的代码是什么
+en:CA: I think that&#39;s the CIA asking what the code isfor a TED membership.
+时间： 2:01
+zh-cn:(笑声)
+en:(Laughter)
+时间： 2:04
+zh-cn:现在我们来看个实际例子这是几年前泄露的消息现在我们可以公布这个文件这是几年前发生在肯尼亚的故事你能告诉我们你们泄露了什么以及后来发生了些什么吗？
+en:So let&#39;s take [an] example, actually.This is somethingyou leaked a few years ago.If we can have this document up ...So this was a story in Kenya a few years ago.Can you tell us what you leaked and what happened?
+时间： 2:17
+zh-cn:JA：这是所谓的克勒尔报告这是一份秘密情报由肯尼亚政府在2004年大选之后授权制作的2004年之前，肯尼亚在Daniel arap Moi的统治下长达18年他是肯尼亚的软独裁者后来当Kibaki试图掌权时——他利用了试图肃清肯尼亚腐败现象的一些联合力量——他们便授权搜集了这样一份报告一共花费了两百万英镑在这份及另一份相关报告上然后Kibaki政府以此为据推翻了Moi——这个自始至终的肯尼亚首富——在肯尼亚的统治这是肯尼亚新闻界的圣杯我2007年到了那里我们设法在大选之前得到了这份报告——全国大选定于12月28日当我们公布这份报告时正是新任总统，Kibaki决定同那位他企图打击的人进行合作的三日之后那人即Daniel arap Moi所以这份报告在当时成为了一个致命的负担压在了Kibaki总统的身上
+en:JA: So this is the Kroll Report.This was a secret intelligence reportcommissioned by the Kenyan governmentafter its election in 2004.Prior to 2004, Kenya was ruledby Daniel arap Moifor about 18 years.He was a soft dictator of Kenya.And when Kibaki got into power —through a coalition of forces that were tryingto clean up corruption in Kenya —they commissioned this report,spent about two million poundson this and an associated report.And then the government sat on itand used it for political leverage on Moi,who was the richest man —still is the richest man — in Kenya.It&#39;s the Holy Grail of Kenyan journalism.So I went there in 2007,and we managed to get hold of thisjust prior to the election —the national election, December 28.When we released that report,we did so three days after the new president, Kibaki,had decided to pal up withthe man that he was going to clean out,Daniel arap Moi,so this report thenbecame a dead albatrossaround President Kibaki&#39;s neck.
+时间： 3:34
+zh-cn:CA：接下来——长话短说关于此份报告的消息在肯尼亚走漏不是通过正规媒体，而是间接地而以你的观点，它实际上改变了选举的进程JA：是的，这件事上了卫报的头版然后被肯尼亚所有周边国家转载如坦桑尼亚和南非的媒体接着从外部流入肯尼亚国内几天之后肯尼亚的媒体认为是时候谈论此事了他们通过电视对此事进行了连续二十晚的报道影响了百分之十的选票根据肯尼亚的情报报告由此改变了大选的结果
+en:CA: And — I mean, to cut a long story short —word of the report leaked into Kenya,not from the official media, but indirectly,and in your opinion, it actually shifted the election.JA: Yeah. So this became front page of the Guardianand was then printed in all the surrounding countries of Kenya,in Tanzanian and South African press.And so it came in from the outside.And that, after a couple of days,made the Kenyan press feel safe to talk about it.And it ran for 20 nights straight on Kenyan TV,shifted the vote by 10 percent,according to a Kenyan intelligence report,which changed the result of the election.
+时间： 4:11
+zh-cn:CA：哇，所以你泄露的消息确实从实质上改变了世界？
+en:CA: Wow, so your leakreally substantially changed the world?
+时间： 4:15
+zh-cn:JA：没错
+en:JA: Yep.
+时间： 4:17
+zh-cn:(掌声)
+en:(Applause)
+时间： 4:21
+zh-cn:CA：在这里，我们将播放一小段视频出自这份巴格达空袭录像这段视频本身要长一些这里我们只截取了一小段这是段很激烈的视频，我先提醒大家
+en:CA: Here&#39;s — We&#39;re going to just showa short clip from thisBaghdad airstrike video.The video itself is longer,but here&#39;s a short clip.This is — this is intense material, I should warn you.
+时间： 4:35
+zh-cn:无线电：...去你的，对准就崩了他们我看到你的人了，呃，大概有4辆悍马，呃，一起的你安全了。很好。开火瞄准给我信号。开枪！把他们都干掉来吧，开火！(机关枪射击)继续射击。继续射击。(机关枪射击)继续射击。HB26，HB26转移，现在！很好，我们刚解决了8个人我看到两个逃跑的，别熄火Roger,我搞的定26，这是26，我们移动中糟糕，抱歉，刚才是怎么回事？该死的，凯尔。算了，哈哈哈，我打到他们了。
+en:Radio: ... just fuckin&#39;, once you get on &#39;em just open &#39;em up.I see your element, uh, got about four Humvees, uh, out along ...You&#39;re clear. All right. Firing.Let me know when you&#39;ve got them. Let&#39;s shoot.Light &#39;em all up.C&#39;mon, fire!(Machine gun fire)Keep shoot &#39;n. Keep shoot &#39;n.(Machine gun fire)Keep shoot &#39;n.Hotel ... Bushmaster Two-Six, Bushmaster Two-Six,we need to move, time now!All right, we just engaged all eight individuals.Yeah, we see two birds [helicopters], and we&#39;re still firing.Roger. I got &#39;em.Two-Six, this is Two-Six, we&#39;re mobile.Oops, I&#39;m sorry. What was going on?God damn it, Kyle. All right, hahaha. I hit &#39;em.
+时间： 5:25
+zh-cn:CA：所以，刚才那段视频有什么影响？
+en:CA: So, what was the impact of that?
+时间： 5:28
+zh-cn:JA：对视频中的人物其后果很严重我们派了2个人去巴格达来跟踪调查这个故事这只是在视频中出现的三次袭击中的第一次
+en:JA: The impact on the people who worked on itwas severe.We ended up sending two people to Baghdadto further research that story.So this is just the first of three attacksthat occurred in that scene.
+时间： 5:42
+zh-cn:CA：我知道，11个人在这此空袭中丧生包括两名路透社职员，是吧
+en:CA: So, I mean, 11 people died in that attack, right,including two Reuters employees?
+时间： 5:46
+zh-cn:JA：是的，包括两名路透社职员还有两名儿童受伤总共有18到26个人丧生
+en:JA: Yeah. Two Reuters employees,two young children were wounded.There were between 18 and 26 people killed all together.
+时间： 5:54
+zh-cn:CA：这段视频的公布引起了广泛的愤慨你认为引起这些愤怒情绪的关键因素是什么？
+en:CA: And releasing this causedwidespread outrage.What was the key element of thisthat actually caused the outrage, do you think?
+时间： 6:03
+zh-cn:我不知道。我猜人们能看出军队中的明显差异有些人很放松地在街上巡视有些人坐在角落的阿帕奇直升机里发射30毫米的子弹扫射所有人然后为自己的做法找借口杀掉那些拯救伤员的人两个牵涉其中的记者明显不是叛乱者因为记者才是他们的工作
+en:JA: I don&#39;t know. I guess people can seethe gross disparity in force.You have guys walking in a relaxed way down the street,and then an Apache helicopter sitting up at one kilometerfiring 30-millimeter cannon shellson everyone —looking for any excuse to do so —and killing people rescuing the wounded.And there was two journalists involved that clearly weren&#39;t insurgentsbecause that&#39;s their full-time job.
+时间： 6:29
+zh-cn:CA：接着有位美国的情报分析人员叫Bradley Manning，被捕据称他在审讯室里承认曾向你泄露了这段视频以及28万份美国大使馆机密电报是吗？
+en:CA: I mean, there&#39;s been this U.S. intelligence analyst,Bradley Manning, arrested,and it&#39;s alleged that he confessed in a chat roomto have leaked this video to you,along with 280,000classified U.S. embassy cables.I mean, did he?
+时间： 6:47
+zh-cn:JA：恩，我们曾否认收到了这些电报他已经被起诉就在5天前被控取得15万电报并且公布了50条目前，我们公布了今年年初的一条来自雷克雅未克（冰岛首都）美国大使馆的电报但这条并不相关我是说，我是这个大使馆的熟客
+en:JA: We have denied receiving those cables.He has been charged,about five days ago,with obtaining 150,000 cablesand releasing 50.Now, we had released,early in the year,a cable from the Reykjavik U.S. embassy,but this is not necessarily connected.I mean, I was a known visitor of that embassy.
+时间： 7:11
+zh-cn:CA：我是说，如果你们确实收到了成千上万美国大使馆的外交电报……
+en:CA: I mean, if you did receive thousandsof U.S. embassy diplomatic cables ...
+时间： 7:16
+zh-cn:JA：那我们应该已经公布出去了(CA：你真的会这样做？)
+en:JA: We would have released them. (CA: You would?)
+时间： 7:18
+zh-cn:JA：是的(CA：原因是?)
+en:JA: Yeah. (CA: Because?)
+时间： 7:21
+zh-cn:JA：因为这些东西揭露了什么是真实的恩，例如阿拉伯政府的样子在这些政府中漠视人权的真相所以应该这样看待这些机密电报以及存在的相关资料
+en:JA: Well, because these sort of thingsreveal what the true stateof, say,Arab governments are like,the true human-rights abuses in those governments.If you look at declassified cables,that&#39;s the sort of material that&#39;s there.
+时间： 7:37
+zh-cn:CA：让我们谈得概括一些概括来讲，你的人生哲学是什么？为什么鼓励泄露机密信息对你来说是正确的事？
+en:CA: So let&#39;s talk a little more broadly about this.I mean, in general, what&#39;s your philosophy?Why is it rightto encourage leaking of secret information?
+时间： 7:47
+zh-cn:JA：这个问题涉及到什么样的信息对于这个世界是重要的什么样的信息能够推动改革世界上有各种信息所以那些组织机构花钱想要隐瞒的信息这是个好的征兆即当这些信息泄露出去后会产生有益的后果因为这些机构知道得太多彻头彻尾而他们在试图隐藏消息这是我们的经验之谈而这也是新闻的历史之鉴
+en:JA: Well, there&#39;s a question as to what sort of information is important in the world,what sort of informationcan achieve reform.And there&#39;s a lot of information.So information that organizationsare spending economic effort into concealing,that&#39;s a really good signalthat when the information gets out,there&#39;s a hope of it doing some good —because the organizations that know it best,that know it from the inside out,are spending work to conceal it.And that&#39;s what we&#39;ve found in practice,and that&#39;s what the history of journalism is.
+时间： 8:19
+zh-cn:CA：但其中会不会有风险无论对相关个人还是对整个社会来讲这样的泄密会不会导致预料之外的后果？
+en:CA: But are there risks with that,either to the individuals concernedor indeed to society at large,where leaking can actually havean unintended consequence?
+时间： 8:31
+zh-cn:就目前我们所公布的材料而已还没有遇到过我的意思是，我们有一套危害预防政策我们有一整套处理涉及个人——个人身份相关信息的方法但确实存在一些合法的机密比如，你的医疗记录这就是一个合法的机密但是与我们交流的告密者他们确实有着好的动机
+en:JA: Not that we have seen with anything we have released.I mean, we have a harm immunization policy.We have a way of dealing with informationthat has sort of personal —personally identifying information in it.But there are legitimate secrets —you know, your records with your doctor;that&#39;s a legitimate secret —but we deal with whistleblowers that are coming forwardthat are really sort of well-motivated.
+时间： 8:55
+zh-cn:CA：所以你说他们的动机是善意的那你又怎么向其他人解释，比如说你知道的，某些父母他们的儿子在美国军队服役他们会说，你知道吗，你揭露的东西表明你动机不纯因为它展示了美国大兵嘲笑那些濒死的人这向全世界成千上万的人留下了一个不好的印象那就是美国大兵是没有人性的一群人而实际上他们并不是，至少我儿子不是，所以你怎么敢这么做？你对这样的父母怎么解释？
+en:CA: So they are well-motivated.And what would you say to, for example,the, you know, the parent of someonewhose son is out serving the U.S. military,and he says, &quot;You know what,you&#39;ve put up something that someone had an incentive to put out.It shows a U.S. soldier laughingat people dying.That gives the impression, has given the impression,to millions of people around the worldthat U.S. soldiers are inhuman people.Actually, they&#39;re not. My son isn&#39;t. How dare you?&quot;What would you say to that?
+时间： 9:23
+zh-cn:JA：没错，我们确实得到了这样的反馈但请记住，在巴格达的人们在伊拉克和阿富汗的人们他们并不需要看到这段视频这样的事每天都在现实生活中上演所以这并不能改变他们的意见和想法这就是他们每天所看到的它将会改变那些为这场战争买单的人们的观念和想法而这正是我们的希望
+en:JA: Yeah, we do get a lot of that.But remember, the people in Baghdad,the people in Iraq, the people in Afghanistan —they don&#39;t need to see the video;they see it every day.So it&#39;s not going to change their opinion. It&#39;s not going to change their perception.That&#39;s what they see every day.It will change the perception and opinionof the people who are paying for it all,and that&#39;s our hope.
+时间： 9:47
+zh-cn:CA：所以你是在试图揭露你所认为的那些公司和政府所隐藏的事实真相真相是好的但你是否发现了其中矛盾的地方，实际上为了揭露真相你自己却不得不将你的消息来源隐藏起来？
+en:CA: So you found a way to shine lightinto what you seeas these sort of dark secrets in companies and in government.Light is good.But do you see any irony in the fact that,in order for you to shine that light,you have to, yourself,create secrecy around your sources?
+时间：10:08
+zh-cn:JA：并不尽然。我是说，就目前而言我们并没有任何“维基揭密”的反对者并没有一个消息来源是另一个消息来源的反对者如果他们真的出现，对我们来说才是棘手的情况可能我们的角色让人们感觉道义上的责任来继续我们的行为，而不是搞砸它
+en:JA: Not really. I mean, we don&#39;t haveany WikiLeaks dissidents yet.We don&#39;t have sources who are dissidents on other sources.Should they come forward, that would be a tricky situation for us,but we&#39;re presumably acting in such a waythat people feelmorally compelledto continue our mission, not to screw it up.
+时间：10:33
+zh-cn:CA：我确实非常感兴趣，就目前我们听到的而言我对TED观众的意见很感兴趣对于“维基揭密”以及Julian本人可能会有很多不同意见比如，英雄—人民的英雄—揭露关键真相危险的麻烦制造者谁认为他是英雄？谁认为他是个大麻烦？
+en:CA: I&#39;d actually be interested, just based on what we&#39;ve heard so far —I&#39;m curious as to the opinion in the TED audience.You know, there might be a couple of viewsof WikiLeaks and of Julian.You know, hero — people&#39;s hero —bringing this important light.Dangerous troublemaker.Who&#39;s got the hero view?Who&#39;s got the dangerous troublemaker view?
+时间：11:02
+zh-cn:JA：噢拜托，肯定有人这么想
+en:JA: Oh, come on. There must be some.
+时间：11:05
+zh-cn:CA：他们心肠软，Julian我们再来试一试。再给大家一个例子这份资料你还没有泄露过将在TED上首次披露这是个相当引人入胜的故事，刚发生，对吧？这是什么故事？
+en:CA: It&#39;s a soft crowd, Julian, a soft crowd.We have to try better. Let&#39;s show them another example.Now here&#39;s something that you haven&#39;t yet leaked,but I think for TED you are.I mean it&#39;s an intriguing story that&#39;s just happened, right?What is this?
+时间：11:19
+zh-cn:JA：这只是我们每天所做事情的其中一个例子去年年末—去年11月—发生了一系列的油井泄露事件在阿尔巴尼亚类似墨西哥湾的油井泄露只是没有那么大规模我们得到了一份报告一份所谓对泄露的机械分析阐明，其实一些来自竞争对手石油公司的保全人员蓄意引起爆炸阿尔巴尼亚政府也有份参与，等等这份机械报告并没具体说明细节对我们来说这份文件很有难度我们不能证实这个消息因为我们不知道谁写的，涉及些什么所以我们怀疑，也许这是竞争对手的石油公司从中作梗在这样的条件下，我们发布了这份文件并声明“我们对此事表示怀疑，我们并不知道真相，也无计可施这份材料看起来揭露了些真相但是我们没法证实。”然后我们收到了一封信就在这周信来自写这份报告的公司他们想追踪消息来源(笑声)他们说“嘿，我们想找到消息来源”而我们的反应是，“再跟我们说一点你说的究竟是哪个文件？你能证明你们对这份文件有法律权限吗？这真的与你们有关吗？”所以他们给我们发来了这个截屏包含作者和微软文字处理软件的标题没错(鼓掌)这样的情况经常发生这是我们的方法之一来识别，证实这是怎样的材料来试着让更多的人给我们写信
+en:JA: So this is a sample of what we dosort of every day.So late last year — in November last year —there was a series of well blowoutsin Albania,like the well blowout in the Gulf of Mexico,but not quite as big.And we got a report —a sort of engineering analysis into what happened —saying that, in fact, security guardsfrom some rival, various competing oil firmshad, in fact, parked trucks there and blown them up.And part of the Albanian government was in this, etc., etc.And the engineering reporthad nothing on the top of it,so it was an extremely difficult document for us.We couldn&#39;t verify it because we didn&#39;t knowwho wrote it and knew what it was about.So we were kind of skeptical that maybe it wasa competing oil firm just sort of playing the issue up.So under that basis, we put it out and said,&quot;Look, we&#39;re skeptical about this thing.We don&#39;t know, but what can we do?The material looks good, it feels right,but we just can&#39;t verify it.&quot;And we then got a letterjust this weekfrom the company who wrote it,wanting to track down the source —(Laughter)saying, &quot;Hey, we want to track down the source.&quot;And we were like, &quot;Oh, tell us more.What document is it, precisely, you&#39;re talking about?Can you show that you had legal authority over that document?Is it really yours?&quot;So they sent us this screen shotwith the authorin the Microsoft Word ID.Yeah.(Applause)That&#39;s happened quite a lot though.This is like one of our methodsof identifying, of verifying, what a material is,is to try and get these guys to write letters.
+时间：13:13
+zh-cn:CA：是吗。那你们有没有收到来自英国石油公司内部的消息？
+en:CA: Yeah. Have you had informationfrom inside BP?
+时间：13:18
+zh-cn:JA：确实有，而且不少。但目前我们正在进行一系列的资金筹集和技术改良工作所以我们发布的信息量在过去的几个月里大大减少了我们利用这段时间更新系统以适应我们所受到的巨大的公众关注度这是个问题我是说，正如任何处于起步阶段的机构一样我们的发展跟不上我们扩张的速度这意味着我们得到了越来越多的告密者所揭露的非常高端的真相但是我们没有足够的人手来处理和审查这些信息
+en:JA: Yeah, we have a lot, but I mean, at the moment,we are undergoing a sort of serious fundraising and engineering effort.So our publication rateover the past few monthshas been sort of minimizedwhile we&#39;re re-engineering our back systemsfor the phenomenal public interest that we have.That&#39;s a problem.I mean, like any sort of growing startup organization,we are sort of overwhelmedby our growth,and that means we&#39;re getting enormous quantityof whistleblower disclosuresof a very high caliberbut don&#39;t have enough people to actuallyprocess and vet this information.
+时间：13:55
+zh-cn:CA：这就是瓶颈所在主要在于处理信息的人手和/或这些人手的工资？
+en:CA: So that&#39;s the key bottleneck,basically journalistic volunteersand/or the funding of journalistic salaries?
+时间：14:02
+zh-cn:JA：是的，还有可靠的人手我的意思是，我们是一个组织但要迅速扩张是很困难的这是由我们所处理的材料决定的所以我们必须重组以求获得更多线人尤其是涉及高级国家机密的人员以降低安全级别
+en:JA: Yep. Yeah, and trusted people.I mean, we&#39;re an organizationthat is hard to grow very quicklybecause of the sort of material we deal with,so we have to restructurein order to have peoplewho will deal with the highest national security stuff,and then lower security cases.
+时间：14:20
+zh-cn:CA：让我们来更多的了解下你个人以及你为什么开始做这件事我记得我看到过，你小的时候一共去过37个学校上学这是真的吗？
+en:CA: So help us understand a bit about you personallyand how you came to do this.And I think I read that as a kidyou went to 37 different schools.Can that be right?
+时间：14:32
+zh-cn:JA: 这个，我父母从事电影业然后叛离异教所以二者结合...
+en:JA: Well, my parents were in the movie businessand then on the run from a cult,so the combination between the two ...
+时间：14:39
+zh-cn:(笑声)
+en:(Laughter)
+时间：14:43
+zh-cn:CA：我想，心理学家可能会说这真是产生偏执狂的绝佳条件啊
+en:CA: I mean, a psychologist might saythat&#39;s a recipe for breeding paranoia.
+时间：14:48
+zh-cn:JA: 什么？电影业吗？
+en:JA: What, the movie business?
+时间：14:50
+zh-cn:(笑声)
+en:(Laughter)
+时间：14:53
+zh-cn:(掌声)
+en:(Applause)
+时间：14:56
+zh-cn:CA：你也是——你年轻的时候也是个黑客开始的时候侵入权威网站JA：我那时是个记者我是个非常年轻的记者和激进分子我为杂志写专栏而由此在青少年时代就遭到起诉所以对黑客这个行为要非常谨慎我是说这是种非常手段有不同的目的加以利用不幸的是，现阶段它主要被俄罗斯黑手党用来窃取个人银行账户所以现阶段情况并不如以前的好
+en:CA: And you were also — I mean,you were also a hacker at an early ageand ran into the authorities early on.JA: Well, I was a journalist.You know, I was a very young journalist activist at an early age.I wrote a magazine,was prosecuted for it when I was a teenager.So you have to be careful with hacker.I mean there&#39;s like — there&#39;s a methodthat can be deployed for various things.Unfortunately, at the moment,it&#39;s mostly deployed by the Russian mafiain order to steal your grandmother&#39;s bank accounts.So this phrase is not,not as nice as it used to be.
+时间：15:30
+zh-cn:CA：是的，但我当然不认为你会偷任何人的账号但是什么是你的核心价值观呢？你能向我们描述一下或者说明你人生中的何种变故使你产生了这样的价值观呢？
+en:CA: Yeah, well, I certainly don&#39;t thinkyou&#39;re stealing anyone&#39;s grandmother&#39;s bank account,but what aboutyour core values?Can you give us a sense of what they areand maybe some incident in your lifethat helped determine them?
+时间：15:49
+zh-cn:JA：我并不确定所谓的人生变故但关于我的核心价值观我认为，宅心仁厚的人们不会直接制造受害者他们却能影响受害者这个事实是我的父亲以及其他一些我生命中出现的宅心仁厚的人让我感受到的
+en:JA: I&#39;m not sure about the incident.But the core values:well, capable, generous mendo not create victims;they nurture victims.And that&#39;s something from my fatherand something from other capable, generous menthat have been in my life.
+时间：16:09
+zh-cn:CA：宅心仁厚的人们并不直接制造受害者却能影响受害者？
+en:CA: Capable, generous men do not create victims;they nurture victims?
+时间：16:13
+zh-cn:JA：是的，你知道我是个好斗的人我并不是个成长中的大人物但某种程度上讲——有另一种方式能影响受害者那就是监督罪犯的犯罪行为而这个认识已经成为我性格的一部分持续很长时间
+en:JA: Yeah. And you know,I&#39;m a combative person,so I&#39;m not actually so big on the nurture,but some way —there is another way of nurturing victims,which is to police perpetratorsof crime.And so that is somethingthat has been in my characterfor a long time.
+时间：16:38
+zh-cn:CA：现在，趁着最后的时间，给我们讲下这个故事在冰岛发生了什么事？你在那里发布了些信息在银行那儿遇到些麻烦然后那里的新闻机构被禁止报道此事而他们却引起了公众对你的注意这使得你在冰岛非常高调。然后呢？
+en:CA: So just tell us, very quickly in the last minute, the story:what happened in Iceland?You basically published something there,ran into trouble with a bank,then the news service therewas injuncted from running the story.Instead, they publicized your side.That made you very high-profile in Iceland. What happened next?
+时间：17:00
+zh-cn:JA：是的，这是个很好的例子冰岛度过了这次的金融危机遭受到了比任何国家都更严重的打击其银行业收入是其他行业GDP收入的10倍长话短说，我们公布了这份报告在去年的7月在直播前的5分钟国家电视台禁止播放这条消息就像电影里的情节，禁令从天而降新闻播报员措手不及“这件事从未发生过，我们该怎么办”于是，我们一直显示我们的网页填充这段新闻空白于是我们在冰岛变得非常有名我去了冰岛说明这个事件在这个国家当时有种感觉这件事不应该再次发生所以我们同冰岛的政治家以及其他一些国际法律专家合作我们拟定了一份新的适合于冰岛的法律条文这成为了冰岛新闻自由的一个避风港并带来了世界上最强硬的一次记者游行示威以及一个奖励自由言论的诺贝尔奖冰岛是一个日耳曼国家所以，就像挪威一样，它能将这些融入国家系统就在一个月前这项法案在冰岛议会获得一致通过
+en:JA: Yeah, this is a great case, you know.Iceland went through this financial crisis.It was the hardest hit of any country in the world.Its banking sector was 10 times the GDPof the rest of the economy.Anyway, so we release this reportin July last year.And the national TV station was injunctedfive minutes before it went on air,like out of a movie: injunction landed on the news desk,and the news reader was like,&quot;This has never happened before. What do we do?&quot;Well, we just show the website instead,for all that time, as a filler,and we became very famous in Iceland,went to Iceland and spoke about this issue.And there was a feeling in the communitythat that should never happen again,and as a result,working with Icelandic politiciansand some other international legal experts,we put together a new sort ofpackage of legislation for Icelandto sort of become an offshore havenfor the free press,with the strongest journalistic protections in the world,with a new Nobel Prizefor freedom of speech.Iceland&#39;s a Nordic country,so, like Norway, it&#39;s able to tap into the system.And just a month ago,this was passed by the Icelandic parliament unanimously.
+时间：18:14
+zh-cn:CA：噢！
+en:CA: Wow.
+时间：18:16
+zh-cn:(鼓掌)
+en:(Applause)
+时间：18:22
+zh-cn:最后一个问题，Julian当你展望未来你觉得未来更倾向于发生老大哥(出自小说&quot;1984&quot;，指无处不在的监视者)施加更多的控制拥有更多秘密还是我们监视老大哥的行为或者为双方服务？
+en:Last question, Julian.When you think of the future then,do you think it&#39;s more likely to beBig Brother exerting more control,more secrecy,or us watchingBig Brother,or it&#39;s just all to be played for either way?
+时间：18:39
+zh-cn:JA：我不清楚会按照何种方式我们面临很大压力要使言论自由的条例和世界范围内的司法透明相协调不仅在欧盟也要在中国和美国到底会以何种方式进行？这很难说所以这个时期才会让人非常有兴趣因为只需要一点努力我们就能决定其方向
+en:JA: I&#39;m not sure which way it&#39;s going to go.I mean, there&#39;s enormous pressuresto harmonize freedom of speech legislationand transparency legislation around the world —within the E.U.,between China and the United States.Which way is it going to go? It&#39;s hard to see.That&#39;s why it&#39;s a very interesting time to be in —because with just a little bit of effort,we can shift it one way or the other.
+时间：19:03
+zh-cn:CA：好了，看起来我要来传达一下观众的意见Julian，小心点希望你得偿所愿
+en:CA: Well, it looks like I&#39;m reflecting the audience&#39;s opinionto say, Julian, be careful,and all power to you.
+时间：19:10
+zh-cn:JA：谢谢你，Chris.(CA：谢谢)
+en:JA: Thank you, Chris. (CA: Thank you.)
+时间：19:12
+zh-cn:(掌声)
+en:(Applause)

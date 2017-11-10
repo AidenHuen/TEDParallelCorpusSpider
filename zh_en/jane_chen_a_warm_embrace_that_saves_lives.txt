@@ -1,0 +1,30 @@
+时间： 0:11
+zh-cn:请闭上眼睛打开双手想象下,你们的手中可以放些什么?一只苹果?或者钱包?请睁开眼睛.你曾否想过一个生命?
+en:Please close your eyes,and open your hands.Now imagine what you could place in your hands:an apple, maybe your wallet.Now open your eyes.What about a life?
+时间： 0:27
+zh-cn:这是一个早产儿。看起来，他似乎在安睡，但实际上，他正与死神作斗争。因为他无法调节自己的体温。这个婴儿实在太小了，他没有足够的脂肪来维持体温。很悲哀...每年都有两千万这样的婴儿诞生在世界上。其中的四百万无法存活。
+en:What you see here is a premature baby.He looks like he&#39;s resting peacefully, but in fact he&#39;s struggling to stay alivebecause he can&#39;t regulate his own body temperature.This baby is so tiny he doesn&#39;t haveenough fat on his body to stay warm.Sadly, 20 million babies like thisare born every year around the world.Four million of these babies die annually.
+时间： 0:47
+zh-cn:但更严重的问题是，如果他们侥幸存活一些慢性病将伴随他们一生。因为在婴儿诞生的第一个月他们唯一要做的就是成长。如果体温不稳定，器官不能正常发育随之而来的，就是一连串健康问题如糖尿病，心脏病，或弱智。想象下，这些问题本可避免只要能让婴儿保暖。
+en:But the bigger problem is that the ones who do survivegrow up with severe, long-term health problems.The reason is because in the first month of a baby&#39;s life,its only job is to grow.If it&#39;s battling hypothermia, its organs can&#39;t develop normally,resulting in a range of health problemsfrom diabetes, to heart disease,to low I.Q.Imagine: Many of these problems could be preventedif these babies were just kept warm.
+时间： 1:13
+zh-cn:给婴儿保暖是恒温箱的主要功能。但传统的恒温箱需要电源且售价高达2万美元。在发展中国家的偏远地区，恒温箱根本不存在。因此，父母们只能就地取材，如在早产儿身体周围绑上热水壶或如你们所看的这张图，将早产儿放在灯泡下—这些方法效果差，且不安全。我多次亲眼目睹这些惨剧。
+en:That is the primary function of an incubator.But traditional incubators require electricityand cost up to 20 thousand dollars.So, you&#39;re not going to find them in rural areas of developing countries.As a result, parents resort to local solutionslike tying hot water bottles around their babies&#39; bodies,or placing them under light bulbs like the ones you see here —methods that are both ineffective and unsafe.I&#39;ve seen this firsthand over and over again.
+时间： 1:38
+zh-cn:头几次去印度时，我遇到了这样一位年轻的女性，Sevitha，她刚刚诞下了一个瘦小的早产儿，Rani。她带着孩子去了村子里最近的诊所，医生建议她带Rani去市区的医院把Rani放在恒温箱里。但去医院要花四个多小时。Sevitha没办法去，于是，她的宝贝走了。
+en:On one of my first trips to India, I met this young woman, Sevitha,who had just given birth to a tiny premature baby, Rani.She took her baby to the nearest village clinic,and the doctor advised her to take Ranito a city hospital so she could be placed in an incubator.But that hospital was over four hours away,and Sevitha didn&#39;t have the means to get there,so her baby died.
+时间： 2:02
+zh-cn:由这个故事，及其他类似的故事中受到启发，我和我的团队意识到，必须要有一个能够就地取材的办法，一个可不插电的工具，简单易用，不会难倒母亲和产婆，因为大多数的婴儿仍然是在家中被接生的。这个工具需方便携带，能够被消毒，并给不同的婴儿重复使用，价格得极其便宜，远低于两万美元，这就是我们要设计的恒温箱。
+en:Inspired by this story, and dozens of other similar stories like this,my team and I realized what was needed was a local solution,something that could work without electricity,that was simple enough for a mother or a midwife to use,given that the majority of births still take place in the home.We needed something that was portable,something that could be sterilized and reused across multiple babiesand something ultra-low-cost,compared to the 20,000 dollarsthat an incubator in the U.S. costs.
+时间： 2:28
+zh-cn:这就是我们的成果。它看起来一点也不像个恒温箱。反似婴儿用的睡袋。你可以把它完全打开。它是防水的。无缝设计，便于消毒。但神奇的地方就在这一包蜡里。这是一种渐变性材料。形似蜡，融点为人体体温37摄氏度。用热水就可以把它融化当它融化时，它将保持恒定的温度每次维持4到6小时，之后，你可以对包囊再加热。将它放在背后的小口袋里，它会为婴儿营造一个温暖的小环境。
+en:So, this is what we came up with.What you see here looks nothing like an incubator.It looks like a small sleeping bag for a baby.You can open it up completely. It&#39;s waterproof.There&#39;s no seams inside so you can sterilize it very easily.But the magic is in this pouch of wax.This is a phase-change material.It&#39;s a wax-like substance with a melting pointof human body temperature, 37 degrees Celsius.You can melt this simply using hot waterand then when it melts it&#39;s able to maintain one constant temperaturefor four to six hours at a time,after which you simply reheat the pouch.So, you then place it into this little pocket back here,and it creates a warm micro-environmentfor the baby.
+时间： 3:16
+zh-cn:看似简单，但我们为此多次造访当地的医生，母亲，诊所以确保它能满足当地的要求。我们计划于2010年在印度投放该产品。目标价格定为每只25美元，不到传统恒温箱价格的0.1%。
+en:Looks simple, but we&#39;ve reiterated this dozens of timesby going into the field to talk to doctors, moms and cliniciansto ensure that this really meets the needs of the local communities.We plan to launch this product in India in 2010,and the target price point will be 25 dollars,less than 0.1 percent of the costof a traditional incubator.
+时间： 3:38
+zh-cn:在接下来的五年，我们希望能够救助一百万名婴儿。但它长期的社会影响是降低人口增长。听起来似乎有违常理，但只要婴儿的死亡率降低，人口也将减少，因为父母们不用担心孩子会过早夭折而生更多的孩子。我们希望这款&quot;温暖的拥抱&quot;以及其他类似的小创新能代表未来科技的趋势：简约化，本土化，经济化，这将对社会产生巨大影响力。
+en:Over the next five years we hope to save the livesof almost a million babies.But the longer-term social impact is a reduction in population growth.This seems counterintuitive,but turns out that as infant mortality is reduced,population sizes also decrease,because parents don&#39;t need to anticipatethat their babies are going to die.We hope that the Embrace infant warmerand other simple innovations like thisrepresent a new trend for the future of technology:simple, localized, affordable solutionsthat have the potential to make huge social impact.
+时间： 4:11
+zh-cn:在设计中，我们遵循了一些基本的法则。我们急用户之所急，想用户之所想，了解Sevitha他们的需求。我们努力挖掘问题的根源不受表面现象的影响。我们希望寻找最简单的方法来解决问题。这样一来，我相信科技必将造福于大众。通过简单的&quot;温暖的拥抱&quot;，我们可以拯救许多生命。
+en:In designing this we followed a few basic principles.We really tried to understand the end user,in this case, people like Sevitha.We tried to understand the root of the problemrather than being biased by what already exists.And then we thought of the most simple solution we couldto address this problem.In doing this, I believe we can truly bring technology to the masses.And we can save millions of lives through the simple warmth of an Embrace.

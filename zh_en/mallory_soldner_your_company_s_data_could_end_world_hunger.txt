@@ -1,0 +1,84 @@
+时间： 0:11
+zh-cn:2010年6月，我第一次来到意大利罗马。我不是去那儿观光旅游的。我是去解决世界饥饿问题的。
+en:June 2010.I landed for the first timein Rome, Italy.I wasn&#39;t there to sightsee.I was there to solve world hunger.
+时间： 0:24
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:26
+zh-cn:就是这样的。我是一名25岁的博士生，带着在大学研发的设备原型，去帮助世界粮食计划署解决饥饿问题。所以我大步跨入总部大楼，用眼睛扫视了那一排联合国旗帜，我边笑边暗自想：“工程师来啦。”
+en:That&#39;s right.I was a 25-year-old PhD studentarmed with a prototype tooldeveloped back at my university,and I was going to helpthe World Food Programme fix hunger.So I strode into the headquarters buildingand my eyes scanned the row of UN flags,and I smiled as I thought to myself,&quot;The engineer is here.&quot;
+时间： 0:47
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:49
+zh-cn:把你们的数据给我，我要优化这一切。
+en:Give me your data.I&#39;m going to optimize everything.
+时间： 0:53
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:55
+zh-cn:告诉我你们购买过的食物，告诉我食物需要何时送达何地我就能告诉你最短，最快，最便宜的最佳食物运输道路。我们就能节约资金，我们就能避免延误和干扰，最重要的是，我们能挽救生命。不用谢。
+en:Tell me the food that you&#39;ve purchased,tell me where it&#39;s goingand when it needs to be there,and I&#39;m going to tell youthe shortest, fastest, cheapest,best set of routes to take for the food.We&#39;re going to save money,we&#39;re going to avoiddelays and disruptions,and bottom line,we&#39;re going to save lives.You&#39;re welcome.
+时间： 1:12
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:14
+zh-cn:我想这大概会需要用12个月的时间来实现，好吧，或者是13个月。但这并不怎么成功。当我加入这个项目几个月之后，我的法国老板就告诉我：“你知道的，马洛里，这是一个好想法，但是你的算法需要的数据并不在这儿。这想法的思路正确，但是出现在了错误的时间点上错误时间点上的所谓正确想法，就是错误的想法。”
+en:I thought it was going to take 12 months,OK, maybe even 13.This is not quite how it panned out.Just a couple of months into the project,my French boss, he told me,&quot;You know, Mallory,it&#39;s a good idea,but the data you needfor your algorithms is not there.It&#39;s the right idea but at the wrong time,and the right idea at the wrong timeis the wrong idea.&quot;
+时间： 1:39
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:41
+zh-cn:于是项目中止。我非常沮丧。
+en:Project over.I was crushed.
+时间： 1:48
+zh-cn:现在当我回顾我在罗马度过的第一个夏天，我看到了六年来发生的巨大变化，真是绝对的大改变。这是一个让我们将数据带到人道主义世界的时代。这真是令人兴奋，鼓舞人心。但是我们还没完全做到。请振作精神，高管们，因为我正要把企业放到焦点位置，提高它们的作用并尽其所能。
+en:When I look back nowon that first summer in Romeand I see how much has changedover the past six years,it is an absolute transformation.It&#39;s a coming of age for bringing datainto the humanitarian world.It&#39;s exciting. It&#39;s inspiring.But we&#39;re not there yet.And brace yourself, executives,because I&#39;m going to be putting companieson the hot seat to step upand play the role that I know they can.
+时间： 2:16
+zh-cn:我在罗马的经历证明了数据可以拯救生命。好吧，并不是第一次的尝试，但是我们最终做到了。让我来展开这幅图景。假设你需要为50万人准备三餐，你的预算是固定的，比方说每月650万美元。好的，那你应该怎么做呢？处理这件事的最好方法是什么呢？你是该买大米、小麦、鹰嘴豆还是油呢？又要买多少呢？这听起来很简单，实则不然。你有30种食物可供选择，你需要从中选出五种。那样就会有超过14万种不同的食物组合。针对你所挑选的每一种食物，你还需要考虑购买量的问题，考虑购买地的问题，考虑储存地的问题，考虑运输时间的问题。你还需要查看所有不同的运输线路。这样下来就会有超过9亿种不同的选择。如果考虑一种选择需要1秒钟，那你就需要28年时间才能把它们全过一遍。9亿种选择。
+en:My experiences back in Rome proveusing data you can save lives.OK, not that first attempt,but eventually we got there.Let me paint the picture for you.Imagine that you have to planbreakfast, lunch and dinnerfor 500,000 people,and you only havea certain budget to do it,say 6.5 million dollars per month.Well, what should you do?What&#39;s the best way to handle it?Should you buy rice, wheat, chickpea, oil?How much?It sounds simple. It&#39;s not.You have 30 possible foods,and you have to pick five of them.That&#39;s already over 140,000different combinations.Then for each food that you pick,you need to decide how much you&#39;ll buy,where you&#39;re going to get it from,where you&#39;re going to store it,how long it&#39;s going to take to get there.You need to look at all of the differenttransportation routes as well.And that&#39;s alreadyover 900 million options.If you considered each optionfor a single second,that would take youover 28 years to get through.900 million options.
+时间： 3:20
+zh-cn:所以我们设计了一种工具，使得决策者能够在短短几天之内，就成功过滤完这9亿种选择。事实证明，工具十分成功。在伊拉克的一次行动中，我们节约了原成本中17%的开销，这就意味着你有额外的能力再供养8万人这一切都要归功于数据以及对复杂系统建模的能力。
+en:So we created a toolthat allowed decisionmakersto weed through all 900 million optionsin just a matter of days.It turned out to be incredibly successful.In an operation in Iraq,we saved 17 percent of the costs,and this meant that you had the abilityto feed an additional 80,000 people.It&#39;s all thanks to the use of dataand modeling complex systems.
+时间： 3:43
+zh-cn:但这并不是我们独自完成的。我在罗马工作的单位十分独特。他们相信合作的力量。他们引入学术界的帮助，引入企业界的帮助。如果我们希望能在像全球饥饿问题等重大问题上创造奇迹，我们需要每一个社会成员的加入。我们需要来自人道组织的数据人员指引道路，将观点一致的学者们和政府紧密连接在一起。还有一个群体没有被充分利用。猜到了吗？是企业。
+en:But we didn&#39;t do it alone.The unit that I worked with in Rome,they were unique.They believed in collaboration.They brought in the academic world.They brought in companies.And if we really want to make big changesin big problems like world hunger,we need everybody to the table.We need the data peoplefrom humanitarian organizationsleading the way,and orchestratingjust the right types of engagementswith academics, with governments.And there&#39;s one group that&#39;s not beingleveraged in the way that it should be.Did you guess it? Companies.
+时间： 4:15
+zh-cn:企业将在解决我们的世界重大问题上发挥重要作用。我已经在私人部门干了两年了。我见识到了企业的能力，以及他们没有充分去做的部分，我认为主要有三种方式去填补那些空缺：通过贡献数据，通过贡献决策科学家，和通过贡献收集新数据的技术。这是一种数据慈善事业，是未来的企业社会责任。当然它也有很好的商业意义。
+en:Companies have a major role to playin fixing the big problems in our world.I&#39;ve been in the private sectorfor two years now.I&#39;ve seen what companies can do,and I&#39;ve seen what companies aren&#39;t doing,and I think there&#39;s three main waysthat we can fill that gap:by donating data,by donating decision scientistsand by donating technologyto gather new sources of data.This is data philanthropy,and it&#39;s the future of corporatesocial responsibility.Bonus, it also makes good business sense.
+时间： 4:45
+zh-cn:当今的企业，收集大量的数据，所以他们所能做的第一件事就是贡献这些数据一部分企业已经开始提供数据。就以一家主流电信公司为例，他们开放了位于塞内加尔和科特迪瓦的数据研究人员由此发现，通过观察信号塔接收到的手机信号模式图你就能了解人们正前往何处。通过这些数据你还能了解到疟疾可能传播的地方，你可以由此作出预测。或者再举一个创新性卫星公司的例子。他们公开提供了他们的数据，通过那些数据，你就能够追踪干旱是如何影响粮食产量的。有了这些数据，你甚至可以在危机发生之前就启动援助资金。
+en:Companies today,they collect mountains of data,so the first thing they can dois start donating that data.Some companies are already doing it.Take, for example,a major telecom company.They opened up their datain Senegal and the Ivory Coastand researchers discoveredthat if you look at the patternsin the pings to the cell phone towers,you can see where people are traveling.And that can tell you things likewhere malaria might spread,and you can make predictions with it.Or take for examplean innovative satellite company.They opened up their data and donated it,and with that data you could trackhow droughts are impactingfood production.With that you can actually triggeraid funding before a crisis can happen.
+时间： 5:26
+zh-cn:这是一个好的开始。在企业们的数据中，封存着许多重要的信息。是的，你需要格外的小心。你需要尊重隐私问题，比如可以将数据匿名化。
+en:This is a great start.There&#39;s important insightsjust locked away in company data.And yes, you need to be very careful.You need to respect privacy concerns,for example by anonymizing the data.
+时间： 5:38
+zh-cn:但即使放开了约束，即使所有的公司都将他们的数据捐献给学术界，非政府组织和人道主义组织，这依然不足以充分使用数据，实现人道主义目标。为什么？为了解锁数据中的重要信息，你仍需要决策科学家。像我一样的决策科学家。他们得到数据，整理它，改造它，再把数据用于有用的算法中，这是企业解决手头的业务需求的最好选择。在人道主义救援领域，决策科学家十分短缺。他们中的大部分都为企业工作。所以公司需要做的第二件事，除了贡献他们的数据以外，他们还需要贡献决策科学家。
+en:But even if the floodgates opened up,and even if all companiesdonated their datato academics, to NGOs,to humanitarian organizations,it wouldn&#39;t be enoughto harness that full impact of datafor humanitarian goals.Why?To unlock insights in data,you need decision scientists.Decision scientists are people like me.They take the data, they clean it up,transform it and put itinto a useful algorithmthat&#39;s the best choiceto address the business need at hand.In the world of humanitarian aid,there are very few decision scientists.Most of them work for companies.So that&#39;s the second thingthat companies need to do.In addition to donating their data,they need to donatetheir decision scientists.
+时间： 6:22
+zh-cn:然后企业就会说，“啊！别带走我们的决策科学家。我们每时每刻都需要他们。”当然有解决方法。如果说一家公司愿意贡献出它的决策科学家的部分时间，那我们应该把这部分贡献时间分散到很长的周期里去使用，比如说五年，这样更加有意义。这样分配之后，每个月可能就只需要几个小时，对于一家公司来说微不足道，但这促成的结果却意义非凡：一种长期的合作关系。长期的合作关系能够促成友谊，提供渠道去接触数据，真正理解它们，从而体会人道主义组织正面对的需求与挑战。在罗马，我们在世界粮食计划署花费了整整五年，五年时间。前三年，好吧，我们用于讨论解决不了的问题。然后我们又花了两年时间去更新，完善我们的工具就像在伊拉克和其他一些国家的行动一样。当讨论到使用数据，做出可操作改变时，我认为我们提出的时间线是十分现实的。这是一种投资。我们需要有耐心。至少最终取得的效益是不可忽视的。对我们而言，这种效益就是供养成千上万的人口。
+en:Now, companies will say, &quot;Ah! Don&#39;t takeour decision scientists from us.We need every spare second of their time.&quot;But there&#39;s a way.If a company was going to donatea block of a decision scientist&#39;s time,it would actually make more senseto spread out that block of timeover a long period,say for example five years.This might only amountto a couple of hours per month,which a company would hardly miss,but what it enables is really important:long-term partnerships.Long-term partnershipsallow you to build relationships,to get to know the data,to really understand itand to start to understandthe needs and challengesthat the humanitarianorganization is facing.In Rome, at the World Food Programme,this took us five years to do,five years.That first three years, OK,that was just what we couldn&#39;t solve for.Then there was two years after thatof refining and implementing the tool,like in the operations in Iraqand other countries.I don&#39;t think that&#39;san unrealistic timelinewhen it comes to using datato make operational changes.It&#39;s an investment. It requires patience.But the types of resultsthat can be produced are undeniable.In our case, it was the abilityto feed tens of thousands more people.
+时间： 7:38
+zh-cn:所以企业贡献了数据，企业还贡献了决策科学家，其实企业还有第三种帮忙的方式：通过贡献收集新数据的技术。就像你能看到的，我们在很多地方还缺失数据。此时此刻，叙利亚的难民还在持续涌入希腊，联合国难民委员会忙的不可开交。现行的体系是通过笔和纸追踪人员的这就是说，当一位母亲领着她的五个孩子走进难民营的时候，总部基本上就无视这件事的发生。在未来几周中，这一切都将会改变，感谢私企的合作。我正在工作的物流公司，给我们提供了一种全新的基于包裹跟踪的数据技术。这样一个系统，将为我们提供数据追踪，这样当妈妈和她的孩子们走进难民营的那一刻你就会知道这件事。不仅如此，你还会得知下个月和下下个月，她是否会有足够的物需供给。信息的可视性驱动了效率。对于企业来说，使用技术去收集重要数据，是它们的主要经济来源。他们多年来都在从事这件事，并带来了卓越的效率提升。想象一下你最喜欢的饮料公司将要计划下一批产品清单，却对正在货架上的饮料数量毫不知情。这听起来该多荒唐。数据驱使我们做出更好的决策。
+en:So we have donating data,we have donating decision scientists,and there&#39;s actually a third waythat companies can help:donating technologyto capture new sources of data.You see, there&#39;s a lot of thingswe just don&#39;t have data on.Right now, Syrian refugeesare flooding into Greece,and the UN refugee agency,they have their hands full.The current system for tracking peopleis paper and pencil,and what that means isthat when a mother and her five childrenwalk into the camp,headquarters is essentiallyblind to this moment.That&#39;s all going to changein the next few weeks,thanks to private sector collaboration.There&#39;s going to be a new system basedon donated package tracking technologyfrom the logistics companythat I work for.With this new system,there will be a data trail,so you know exactly the momentwhen that mother and her childrenwalk into the camp.And even more, you knowif she&#39;s going to have suppliesthis month and the next.Information visibility drives efficiency.For companies, using technologyto gather important data,it&#39;s like bread and butter.They&#39;ve been doing it for years,and it&#39;s led to majoroperational efficiency improvements.Just try to imagineyour favorite beverage companytrying to plan their inventoryand not knowing how many bottleswere on the shelves.It&#39;s absurd.Data drives better decisions.
+时间： 8:56
+zh-cn:现在，假设你正代表着一家公司。你是一个实用主义而并非理想主义的人你也许会对自己说：“好吧，这听起来不错，马洛里，但是我为什么会想要加入其中呢？”首先，除了有好的公共关系外，人道救援组织是一个价值240亿的行业，所以来自发展中国家超过50亿的人口，他们都可能成为你的下一批用户。另一方面，从事数据慈善业的那些公司，他们正在挖掘封存在数据当中的新信息。举个例子，一家信用卡公司开放了一个集中场所，作为一个中心使学者，非政府组织和政府能够一起工作。他们查看信用卡中刷出的信息，运用这些信息从而得出在印度的家庭是如何生活，工作，获得收入和开销的。对于人道主义世界来说，这就为我们提供了帮助人们摆脱贫困问题的方案。但对于公司来说，这就是向他们提供了在印度的用户和潜在用户信息。这是双赢的局面。现在，对于数据慈善业——贡献数据，贡献决策科学家，以及贡献技术——我激动不已，对于像我一样选择在公司工作的年轻学者而言意义非凡。研究表明，新一代的劳动者更加关注他们的工作是否能对社会产生更大的影响力。我们都想为世界做出不同，所以通过数据慈善业，公司更容易留得住他们的决策科学家特别是对于这种高需求的职业来说尤其重要。
+en:Now, if you&#39;re representing a company,and you&#39;re pragmaticand not just idealistic,you might be saying to yourself,&quot;OK, this is all great, Mallory,but why should I want to be involved?&quot;Well for one thing, beyond the good PR,humanitarian aidis a 24-billion-dollar sector,and there&#39;s over five billion people,maybe your next customers,that live in the developing world.Further, companies that are engagingin data philanthropy,they&#39;re finding new insightslocked away in their data.Take, for example, a credit card companythat&#39;s opened up a centerthat functions as a hub for academics,for NGOs and governments,all working together.They&#39;re looking at informationin credit card swipesand using that to find insightsabout how households in Indialive, work, earn and spend.For the humanitarian world,this provides informationabout how you mightbring people out of poverty.But for companies, it&#39;s providinginsights about your customersand potential customers in India.It&#39;s a win all around.Now, for me, what I findexciting about data philanthropy —donating data, donating decisionscientists and donating technology —it&#39;s what it meansfor young professionals like mewho are choosing to work at companies.Studies show thatthe next generation of the workforcecare about having their workmake a bigger impact.We want to make a difference,and so through data philanthropy,companies can actually help engageand retain their decision scientists.And that&#39;s a big deal for a professionthat&#39;s in high demand.
+时间：10:28
+zh-cn:数据慈善业有很好的商业价值，它同时也能够为人道主义事业做出巨大变革。如果我们能够把这些策划和物流进度运用到人道主义进程的各种领域之中，我们就能够给更多的人提供食物，衣物和住所，公司需要去加强和充分发挥他们在这场革新当中能够发挥的那些作用。
+en:Data philanthropymakes good business sense,and it also can helprevolutionize the humanitarian world.If we coordinatedthe planning and logisticsacross all of the major facetsof a humanitarian operation,we could feed, clothe and shelterhundreds of thousands more people,and companies need to step upand play the role that I know they canin bringing about this revolution.
+时间：10:55
+zh-cn:你也许听过这个短语“值得思考的食物”（英文习语，意思是：值得深思的问题）字面意思就是思考食物。我们终于在正确的时间想出了正确的主意。
+en:You&#39;ve probably heard of the saying&quot;food for thought.&quot;Well, this is literally thought for food.It finally is the right ideaat the right time.
+时间：11:06
+zh-cn:（笑声）
+en:(Laughter)
+时间：11:07
+zh-cn:多么美妙！
+en:Très magnifique.
+时间：11:09
+zh-cn:谢谢！
+en:Thank you.
+时间：11:10
+zh-cn:（掌声）
+en:(Applause)

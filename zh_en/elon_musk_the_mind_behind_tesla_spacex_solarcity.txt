@@ -1,0 +1,225 @@
+时间： 0:11
+zh-cn:克里斯特.安德森: 埃隆，怎样的疯狂梦想会让你想去尝试从事汽车行业然后建造出全电动汽车的呢？
+en:Chris Anderson: Elon, what kind of crazy dreamwould persuade you to think of tryingto take on the auto industry and build an all-electric car?
+时间： 0:20
+zh-cn:埃隆.马斯克: 嗯，那是我还在上大学的时候。我当时在想，有哪些问题最可能影响世界或人类的未来？我觉得拥有可持续的交通方式和可持续的能源生产是极其重要的。那类有关于可持续能源的问题是我们这个世纪需要解决的最大问题，如果不考虑环境问题的话。实际上，即便CO2的产生对于环境是有好处的，假设我们将要耗尽碳氢化合物，我们仍然需要找到一个可持续的运作方式。
+en:Elon Musk: Well, it goes back to when I was in university.I thought about, what are the problems that are most likelyto affect the future of the world or the future of humanity?I think it&#39;s extremely important that we have sustainable transportand sustainable energy production.That sort of overall sustainable energy problemis the biggest problem that we have to solve this century,independent of environmental concerns.In fact, even if producing CO2 was good for the environment,given that we&#39;re going to run out of hydrocarbons,we need to find some sustainable means of operating.
+时间： 0:51
+zh-cn:克里斯特.安德森：大多数美国的电力都来自于燃烧化石燃料。那么一个使用这一类电能的电动汽车又有什么用呢？
+en:CA: Most of American electricity comes fromburning fossil fuels.How can an electric car that plugs into that electricity help?
+时间： 1:01
+zh-cn:埃隆.马斯克：对。这个答案有两个要素。一个是，即便你采用同一类燃料然后在发电厂发电并用它来给汽车充电，这仍会好很多。因为如果你用，比如说，天然气吧，这是最常见的碳氢化合物燃料，如果你在一部现代通用电气天然气涡轮中燃烧它，你会得到60%的燃烧效率。如果你把它用在一个使用内燃机的汽车中，那你的使用效率只有大约20%。这个道理是这样的，在固定的发电站，你可以支付得起更重的东西，非常大量的，然后你可以利用余热发动蒸汽涡轮机接着进行二次发电。一个二次能源。实际上，即使你将传输损耗等等一切也考虑进去，就算使用同类的燃料，给一辆车充电至少要两倍优于你之后在发电站燃烧这些燃料。
+en:EM: Right. There&#39;s two elements to that answer.One is that, even if you take the same source fueland produce power at the power plantand use it to charge electric cars, you&#39;re still better off.So if you take, say, natural gas,which is the most prevalent hydrocarbon source fuel,if you burn that in a modernGeneral Electric natural gas turbine,you&#39;ll get about 60 percent efficiency.If you put that same fuel in an internal combustion engine car,you get about 20 percent efficiency.And the reason is, in the stationary power plant,you can afford to have something that weighs a lot more,is voluminous,and you can take the waste heatand run a steam turbine and generatea secondary power source.So in effect, even after you&#39;ve taken transmission loss into account and everything,even using the same source fuel, you&#39;re at least twice as better offcharging an electric car, then burning it at the power plant.
+时间： 1:48
+zh-cn:克里斯特.安德森: 这个规模能够带来效率。
+en:CA: That scale delivers efficiency.
+时间： 1:50
+zh-cn:埃隆·马斯克: 是的，的确如此。然后另外一点是，我们不论如何必须要有可以持续生产能源的方法，发电。所以假设我们必须解决可持续发电的问题，那我们就理所当然要用电动车作为交通方式。
+en:EM: Yes, it does.And then the other point is, we have to have sustainable meansof power generation anyway, electricity generation.So given that we have to solve sustainable electricity generation,then it makes sense for us to have electric carsas the mode of transport.
+时间： 2:06
+zh-cn:克里斯.安德森：我们这里有一些正在组装 ‘特斯拉‘ （Telsa 电力车）的短片，嗯，如果我们播放第一个视频的话 –那这辆车的组装过程有什么创新之处呢？
+en:CA: So we&#39;ve got some video hereof the Tesla being assembled,which, if we could play that first video —So what is innovative about this process in this vehicle?
+时间： 2:18
+zh-cn:埃隆·马斯克: 当然。那么为了加快电力交通到来的步伐，我要说的是我个人认为，实际上，所有的交通方式都会变成全电力驱动的，讽刺的是，除了火箭以外。因为实在是没有办法可以绕开牛顿第三定律。问题是怎么加快电动交通到来的步伐呢？为了让小车更快的全电动化，人们要发明出一种真正节能的车，也就是说这个车要难以置信地轻巧，你现在所看到的是在北美制造的唯一一个全铝车身和车底盘。其实，我们用了非常多的火箭设计技术来减轻车身重量，即便还装有一个很大的电池组。然后它的阻力系数是相同大小车型当中最低的。所以，它的能耗也非常低的，它的电池组也是最先进的，正因为如此它的行驶里程非常有竞争力，因此它拥有行驶大概250英里的能力。
+en:EM: Sure. So, in order to accelerate the advent of electric transport,and I should say that I think, actually,all modes of transport will become fully electricwith the ironic exception of rockets.There&#39;s just no way around Newton&#39;s third law.The question is how do you acceleratethe advent of electric transport?And in order to do that for cars, you have to come up witha really energy efficient car,so that means making it incredibly light,and so what you&#39;re seeing hereis the only all-aluminum body and chassis carmade in North America.In fact, we applied a lot of rocket design techniquesto make the car light despite having a very large battery pack.And then it also has the lowest drag coefficientof any car of its size.So as a result, the energy usage is very low,and it has the most advanced battery pack,and that&#39;s what gives it the range that&#39;s competitive,so you can actually have on the order of a 250-mile range.
+时间： 3:12
+zh-cn:克里斯·安德森: 我是说，那些电池组特别的重，但是你认为通过数学计算还是能够巧妙解决问题的 –就是通过组合轻的车身、重的电池，最后你还是可以得到惊人的效率。
+en:CA: I mean, those battery packs are incredibly heavy,but you think the math can still work out intelligently —by combining light body, heavy battery,you can still gain spectacular efficiency.
+时间： 3:23
+zh-cn:埃隆·马斯克：正是这样。车的其他部分必须要很轻才能抵消电池组的质量，然后你必须要有很低的阻力系数这样才能达到良好的里程数。事实上，S型号的客户都在相互竞争以获取可能的最高行程范围。我知道有人近期已经实现了一次充电就可以跑420英里的效果。
+en:EM: Exactly. The rest of the car has to be very lightto offset the mass of the pack,and then you have to have a low drag coefficient so that you have good highway range.And in fact, customers of the Model Sare sort of competing with each otherto try to get the highest possible range.I think somebody recently got 420 miles out of a single charge.
+时间： 3:41
+zh-cn:克里斯·安德森：布鲁诺.波登, 在座的这位，他做到了，他打破了世界纪录。埃隆·马斯克：恭喜。
+en:CA: Bruno Bowden, who&#39;s here, did that,broke the world record.EM: Congratulations.
+时间： 3:47
+zh-cn:克里斯·安德森: 那是个好消息。坏消息是为了达成目的，他必须要以每小时18英里的恒速行驶然后被警察拦下来。（笑）
+en:CA: That was the good news. The bad news was thatto do it, he had to drive at 18 miles an hour constant speedand got pulled over by the cops. (Laughter)
+时间： 3:55
+zh-cn:埃隆·马斯克：我是说，你当然可以开到 –如果你开到每小时65英里，在正常情况下，250英里是一个合理的数据。
+en:EM: I mean, you can certainly drive —if you drive it 65 miles an hour,under normal conditions,250 miles is a reasonable number.
+时间： 4:06
+zh-cn:克里斯·安德森：我们播一下第二个视频，是 Tesla 在雪地上运行的视频。绝对不是挖苦纽约时报，这个，顺便说一下。关于驾驶体验最令人惊喜的是什么？
+en:CA: Let&#39;s show that second videoshowing the Tesla in action on ice.Not at all a dig at The New York Times, this, by the way.What is the most surprising thing about the experienceof driving the car?
+时间： 4:16
+zh-cn:埃隆·马斯克: 创造一辆电动车的时候，这个车的反应能力是非常难以置信的。所以我们真想让人们觉得他们和车的思想已经融汇到一起了，所以你会觉得你和车已经合二为一了，所以你要转弯和要加速的时候，它马上就会做到，好像这个车有ESP（电子稳定程序）。电动车能够做到这点是因为它有很好的反映能力。而汽油车是不行的。我觉得这真的是个很大的差别，而人们只有在试驾的时候会感受到这个差别。
+en:EM: In creating an electric car,the responsiveness of the car is really incredible.So we wanted really to have people feel as thoughthey&#39;ve almost got to mind meld with the car,so you just feel like you and the car are kind of one,and as you corner and accelerate, it just happens,like the car has ESP.You can do that with an electric car because of its responsiveness.You can&#39;t do that with a gasoline car.I think that&#39;s really a profound difference,and people only experience that when they have a test drive.
+时间： 4:44
+zh-cn:克里斯·安德森：我想说，这个是个很漂亮的车不过它也很贵。你有什么样的计划来让它变成一种畅销车吗？
+en:CA: I mean, this is a beautiful but expensive car.Is there a road map where this becomesa mass-market vehicle?
+时间： 4:53
+zh-cn:埃隆·马斯克：是的。 实现Tesla 的目标需要有三个步骤，首先是生产少批量昂贵的车型，然后第二是中批量的中等价位的车型，最后是低价高批量的车型。我们现在正处在第二步骤。我们生产了10万美金的跑车，也就是 Roadster。然后我们还有S型号，大概以5万美金起价。而我们的第三代车型，应该会在大约3到4年发布出来，定价是3万美金。不过无论什么时候，你拥有真正的新技术，大概都要设计出3种主要车型最有才能让它成为真正的畅销产品。最后我觉得我们正在朝这个方向一直在进步，我也觉得有信心能够实现目标。
+en:EM: Yeah. The goal of Tesla has always beento have a sort of three-step process,where version one was an expensive car at low volume,version two is medium priced and medium volume,and then version three would be low price, high volume.So we&#39;re at step two at this point.So we had a $100,000 sports car, which was the Roadster.Then we&#39;ve got the Model S, which starts at around 50,000 dollars.And our third generation car, which should hopefullybe out in about three or four yearswill be a $30,000 car.But whenever you&#39;ve got really new technology,it generally takes about three major versionsin order to make it a compelling mass-market product.And so I think we&#39;re making progress in that direction,and I feel confident that we&#39;ll get there.
+时间： 5:34
+zh-cn:克里斯·安德森：我想说，目前，如果通勤距离短的话，你就可以开这个车，你可以回家，然后在家充电。目前全国范围内尚未普及一个庞大的快速充电站网络。你是否预见到这种网络的到来，真的，实实在在地预计到了，还是只是说在一些主要的道路上普及充电站？
+en:CA: I mean, right now, if you&#39;ve got a short commute,you can drive, you can get back, you can charge it at home.There isn&#39;t a huge nationwide network of charging stations now that are fast.Do you see that coming, really, truly,or just on a few key routes?
+时间： 5:49
+zh-cn:埃隆·马斯克：实际上充电站的数量要比人们知道的多得多，而在 Tesla 我们研发了一种叫做“超级充电”的技术，而我们可以提供这个服务，如果你买了 S 型号，而且是免费的，永久的。然后这可能是很多人都没有意识到的事情。我们其实已经在加州和内华达州都建设了网络，然后在东部滨海的波士顿到华盛顿特区也都覆盖了。到今年底，你就可以从洛杉矶开车到纽约了，只需要使用超级充电网络就行，它的充电速率是其他地方的五倍。然后关键的一点是要有一个开车与停车的比率，停车的时间，这个比率大概是6到7这样。所以如果你开了3个小时，你会想要停20到30分钟，因为通常人们也会停这么久。所以如果你早上9点开始开车，你中午也会想要停下来去吃午餐，去上洗手间，喝咖啡，然后再继续开。
+en:EM: There actually are far more charging stationsthan people realize,and at Tesla we developed somethingcalled a Supercharging technology,and we&#39;re offering that if you buy a Model Sfor free, forever.And so this is something that maybe a lot of people don&#39;t realize.We actually have California and Nevada covered,and we&#39;ve got the Eastern seaboardfrom Boston to D.C. covered.By the end of this year, you&#39;ll be able to drivefrom L.A. to New Yorkjust using the Supercharger network,which charges at five times the rate of anything else.And the key thing is to have a ratio of drive to stop,to stop time, of about six or seven.So if you drive for three hours,you want to stop for 20 or 30 minutes,because that&#39;s normally what people will stop for.So if you start a trip at 9 a.m.,by noon you want to stop to have a bite to eat,hit the restroom, coffee, and keep going.
+时间： 6:43
+zh-cn:克里斯·安德森：那你给消费者的提议是，为了充满电，大概需要一个小时的时间。这是正常情况 – 不要期待10分钟就可以冲完。要等一个小时，不过好消息是，你为拯救地球除了一份力，然后顺便说下，电是免费的。你不用花钱。
+en:CA: So your proposition to consumers is, for the full charge, it could take an hour.So it&#39;s common — don&#39;t expect to be out of here in 10 minutes.Wait for an hour, but the good news is,you&#39;re helping save the planet,and by the way, the electricity is free. You don&#39;t pay anything.
+时间： 6:56
+zh-cn:埃隆·马斯克：其实，我们想要做到的是，让人们只等20到30分钟，而不是一小时。实际上开大概160、170英里然后停半个小时再走会更好。这是一个比较自然的节奏。克里斯·安德森：好。那么这只是你在能源方面的一个优势。你其实还经营了一家太阳能公司“太阳城”。那又有什么特别之处呢？
+en:EM: Actually, what we&#39;re expecting is for peopleto stop for about 20 to 30 minutes, not for an hour.It&#39;s actually better to drive for about maybe 160, 170 milesand then stop for half an hourand then keep going.That&#39;s the natural cadence of a trip.CA: All right. So this is only one string to your energy bow.You&#39;ve been working on this solar company SolarCity.What&#39;s unusual about that?
+时间： 7:26
+zh-cn:埃隆·马斯克：嗯，我刚刚说了，我们耗电的同时必须要能可持续的发电，所以我相当确信首要的发电方式会是太阳能。我是说，它是一种间接的融合发电，是这样的。我们在天上有一个巨大的融合发电器叫做太阳，而我们只需开采其中的一点点能源来为人类文明服务。大部分人都知道却又没有意识到的是这个世界基本上早已全都依靠着太阳能发电了。如果我们没有太阳，我们就会在3凯氏度下冻成了一个冰球，而太阳它为整个降水系统提供了电力。整个生态系统都是靠太阳能发电的。
+en:EM: Well, as I mentioned earlier,we have to have sustainable electricity productionas well as consumption,so I&#39;m quite confident that the primary meansof power generation will be solar.I mean, it&#39;s really indirect fusion, is what it is.We&#39;ve got this giant fusion generator in the sky called the sun,and we just need to tap a little bit of that energyfor purposes of human civilization.What most people know but don&#39;t realize they knowis that the world is almost entirely solar-powered already.If the sun wasn&#39;t there, we&#39;d be a frozen ice ballat three degrees Kelvin,and the sun powers the entire system of precipitation.The whole ecosystem is solar-powered.
+时间： 8:08
+zh-cn:克里斯·安德森：但是在一加仑的汽油中，有，实际上，是在一个很小的空间当中压缩了上千年积累而来的太阳能，所以这个数据说明利用太阳能是有难度的，而且远远不能和，比如说，和天然气相提并论，水力压裂开采的天然气。这样的话你怎么做生意呢？
+en:CA: But in a gallon of gasoline, you have,effectively, thousands of years of sun powercompressed into a small space,so it&#39;s hard to make the numbers work right now on solar,and to remotely compete with, for example, natural gas,fracked natural gas. How are you going to build a business here?
+时间： 8:24
+zh-cn:埃隆·马斯克:嗯，其实，我还是很确信太阳能会压倒一切，也容易开采，也比天然气更胜一筹。
+en:EM: Well actually, I&#39;m confident that solarwill beat everything, hands down, including natural gas.
+时间： 8:32
+zh-cn:（掌声）克里斯·安德森：怎么说？
+en:(Applause)CA: How?
+时间： 8:34
+zh-cn:埃隆·马斯克：着肯定的，其实。如果它不是这样的话，那我们麻烦可就大了。
+en:EM: It must, actually. If it doesn&#39;t, we&#39;re in deep trouble.
+时间： 8:38
+zh-cn:克里斯·安德森：不过你没有把太阳能电池板卖给顾客啊。你们都经营些什么呢？埃隆·马斯克：不是的，我们其实有卖的。你可以买一个太阳能系统或者租一个。大部分人都选择租。而太阳能有个优势是它没有任何的原料或者经营成本，所以一旦装好了，就都一切就绪了。可以用几十年。甚至可能可以用100年。所以，关键的一部是把降低第一次的安装费用，然后减少融资成本，因为那 —— 那些是推涨太阳能价格的两个因素。而我们朝这个方向已经取得了很大的进步，所以我才这么确信我们可以把天然气比下去。
+en:CA: But you&#39;re not selling solar panels to consumers.What are you doing?EM: No, we actually are. You can buy a solar systemor you can lease a solar system.Most people choose to lease.And the thing about solar power is thatit doesn&#39;t have any feed stock or operational costs,so once it&#39;s installed, it&#39;s just there.It works for decades. It&#39;ll work for probably a century.So therefore, the key thing to do is to get the costof that initial installation low,and then get the cost of the financing low,because that interest — those are the two factors that drive the cost of solar.And we&#39;ve made huge progress in that direction,and that&#39;s why I&#39;m confident we&#39;ll actually beat natural gas.
+时间： 9:19
+zh-cn:克里斯·安德森：那你目前给消费者的提议是，先不要花那么多钱。
+en:CA: So your current proposition to consumers is,don&#39;t pay so much up front.
+时间： 9:24
+zh-cn:埃隆·马斯克：零。克里斯·安德森：先不要花钱。我们会在你的屋顶上安装太阳能板。你之后再付款，租用期一般是多久？
+en:EM: Zero.CA: Pay zero up front.We will install panels on your roof.You will then pay, how long is a typical lease?
+时间： 9:33
+zh-cn:埃隆·马斯克：一般租用期是20年，不过我们的价值定位是这样的，你也差不多暗示了，应该是说的蛮直白的了。不用花钱，然后你的物业费也会降低。非常合算的。
+en:EM: Typical leases are 20 years,but the value proposition is, as you&#39;re sort of alluding to, quite straightforward.It&#39;s no money down, and your utility bill decreases.Pretty good deal.
+时间： 9:47
+zh-cn:克里斯·安德森：所以这看起来好像是消费者成了赢家。没有风险，你花的钱会比现在少。对你来说，理想是——我是说，是谁长期享用有这些太阳能发电呢？我是说，你怎么，你的公司，怎么获利？
+en:CA: So that seems like a win for the consumer.No risk, you&#39;ll pay less than you&#39;re paying now.For you, the dream here then is that —I mean, who owns the electricity from those panels for the longer term?I mean, how do you, the company, benefit?
+时间：10:02
+zh-cn:埃隆·马斯克：其实吧，太阳城公司从很多地方筹集到了大笔资金，比如说，其他公司或者银行。谷歌是我们的大合作伙伴。而他们的投资也会有回报。有了资金，太阳城可以购买太阳能然后在安装在屋顶上，然后每月向住户或者企业收取租金，这比物业费要低。
+en:EM: Well, essentially,SolarCity raises a chunk of capitalfrom say, a company or a bank.Google is one of our big partners here.And they have an expected return on that capital.With that capital, SolarCity purchases and installs the panel on the roofand then charges the homeowner or business ownera monthly lease payment, which is less than the utility bill.
+时间：10:31
+zh-cn:克里斯·安德森：但是你自己要从经营太阳能当中长期获取商业利益。你差不多是在建立一种新型的分散式发电。
+en:CA: But you yourself get a long-term commercial benefit from that power.You&#39;re kind of building a new type of distributed utility.
+时间：10:38
+zh-cn:正是如此。这就相当于一个大规模的分散式发电。我觉得这很好，因为发电长期都是一个垄断的行业，然后人们没有多少选择。所以实际上这是与垄断的第一次抗衡，因为发电厂一直是唯一一个拥有这些输电线路的人，不过现在你可以在你的屋顶上发电。所以我觉得这对于各个家庭和企业实际上都是非常有利的。
+en:EM: Exactly. What it amounts tois a giant distributed utility.I think it&#39;s a good thing, because utilitieshave been this monopoly, and people haven&#39;t had any choice.So effectively it&#39;s the first timethere&#39;s been competition for this monopoly,because the utilities have been the only onesthat owned those power distribution lines, but now it&#39;s on your roof.So I think it&#39;s actually very empoweringfor homeowners and businesses.
+时间：11:05
+zh-cn:那你真的能够想象的出在美国的未来大部分的电力，也就是在一二十年内，或者在你有生之年力，能够是由太阳能创造的？
+en:CA: And you really picture a futurewhere a majority of power in America,within a decade or two, or within your lifetime, it goes solar?
+时间：11:15
+zh-cn:我极其确信太阳能至少会成为一种多数能源，而且非常可能成为一种主要方式，而我也预言不到20年就会实现。我也和某人打了个赌 — 克里斯·安德森：“多数”的定义什么？
+en:EM: I&#39;m extremely confident that solar will be at least a plurality of power,and most likely a majority,and I predict it will be a plurality in less than 20 years.I made that bet with someone —CA: Definition of plurality is?
+时间：11:31
+zh-cn:埃隆·马斯克：太阳能发的电比其他的要多。
+en:EM: More from solar than any other source.
+时间：11:33
+zh-cn:克里斯·安德森：哦。那你和谁打赌了？
+en:CA: Ah. Who did you make the bet with?
+时间：11:37
+zh-cn:埃隆·马斯克：一个无名朋友。
+en:EM: With a friend who will remain nameless.
+时间：11:40
+zh-cn:克里斯·安德森：就是我们两个啦。（笑）
+en:CA: Just between us. (Laughter)
+时间：11:44
+zh-cn:埃隆·马斯克：我打了这个赌，应该是两三年前的时候，我说大概18年后，我认为我们能够从太阳那里获取比其他能源更多的电力。
+en:EM: I made that bet, I think, two or three years ago,so in roughly 18 years,I think we&#39;ll see more power from solar than any other source.
+时间：11:53
+zh-cn:克里斯·安德森:那好，我们回头继续聊聊另外一个你和自己打的赌，我猜，是一个疯狂的赌注。你从PayPal上面赚了些钱。你又决定要建立一个航天公司。到底为什么有人会那么做呢？（笑）
+en:CA: All right, so let&#39;s go back to another bet that you madewith yourself, I guess, a kind of crazy bet.You&#39;d made some money from the sale of PayPal.You decided to build a space company.Why on Earth would someone do that?(Laughter)
+时间：12:08
+zh-cn:埃隆·马斯克: 经常有人问我这个问题，确实如此。人们都说“你有没听过一个笑话，是一个人在航空领域挣了点小钱？”显然，“他一开始投入了大笔资金”是其中的幽默点。然后我会和他们说，恩，我想要找出一个把大笔财富转化成小笔财富的最快方式。然后他们都看着我说，“他是认真的吗？”
+en:EM: I got that question a lot, that&#39;s true.People would say, &quot;Did you hear the joke about the guywho made a small fortune in the space industry?&quot;Obviously, &quot;He started with a large one,&quot; is the punchline.And so I tell people, well, I was trying to figure outthe fastest way to turn a large fortune into a small one.And they&#39;d look at me, like, &quot;Is he serious?&quot;
+时间：12:28
+zh-cn:克里斯·安德森: 奇怪的是，你确实是认真的。之后怎么样？
+en:CA: And strangely, you were. So what happened?
+时间：12:33
+zh-cn:埃隆·马斯克：很侥幸了。本来是几乎不可能成功的事。我们几乎要失败了，不过还是熬过了2008年的难关。我们SpaceX的目标是推进火箭技术，特别是要解决一个问题，我认为这个问题对于人类进入太空文明来说是至关重要的，也就是要拥有一个能够迅速且完全可重复使用的火箭。
+en:EM: It was a close call. Things almost didn&#39;t work out.We came very close to failure,but we managed to get through that point in 2008.The goal of SpaceX is to try to advance rocket technology,and in particular to try to crack a problemthat I think is vitalfor humanity to become a space-faring civilization,which is to have a rapidly and fully reusable rocket.
+时间：12:58
+zh-cn:克里斯·安德森：人类会成为太空文明吗？这是是你的梦想，甚至是，你小时候的梦想？你曾梦想过去火星甚至更远的地方？
+en:CA: Would humanity become a space-faring civilization?So that was a dream of yours, in a way, from a young age?You&#39;ve dreamed of Mars and beyond?
+时间：13:08
+zh-cn:埃隆·马斯克：我在小的时候确实造过火箭，不过我不觉得我会参与其中。更多的只是这样一个角度，就是我们需要创造哪些东西来使我们的未来变得令人激动而且鼓舞人心？而我真的觉得有一个基本的区别，如果你想象下未来，在太空文明中的人类，他们会出去探索星球，不同的星球，而我觉得那真是激动人心，比起我们永远的困在地球上直至灭绝来说，确实如此。
+en:EM: I did build rockets when I was a kid,but I didn&#39;t think I&#39;d be involved in this.It was really more from the standpoint ofwhat are the things that need to happen in order forthe future to be an exciting and inspiring one?And I really think there&#39;s a fundamental difference,if you sort of look into the future,between a humanity that is a space-faring civilization,that&#39;s out there exploring the stars, on multiple planets,and I think that&#39;s really exciting,compared with one where we are forever confined to Earthuntil some eventual extinction event.
+时间：13:40
+zh-cn:克里斯·安德森：那你还是把火箭的建造成本降低了75%，按照你的计算方式。你到底怎么做到的？NASA（美国宇航局）为此花了数年的时间。你却是怎么成功的？
+en:CA: So you&#39;ve somehow slashed the cost of buildinga rocket by 75 percent, depending on how you calculate it.How on Earth have you done that?NASA has been doing this for years. How have you done this?
+时间：13:51
+zh-cn:埃隆·马斯克：嗯，我们在机身技术上有了巨大的进步，同时还有引擎，电子设备还有发射操作技术。我们还有一串的创新技术，在这里讲这些可能有点困难，但是 ——
+en:EM: Well, we&#39;ve made significant advancesin the technology of the airframe, the engines,the electronics and the launch operation.There&#39;s a long list of innovationsthat we&#39;ve come up with therethat are a little difficult to communicate in this talk, but —
+时间：14:10
+zh-cn:克里斯·安德森：尤其是因为你还是可以将其申请专利的，对吗？你还没有申请。这真的令我感兴趣。
+en:CA: Not least because you could still get copied, right?You haven&#39;t patented this stuff. It&#39;s really interesting to me.
+时间：14:16
+zh-cn:埃隆·马斯克：没，我们不申请。克里斯·安德森：你没申请是因为你觉得申请比不申请更危险。
+en:EM: No, we don&#39;t patent.CA: You didn&#39;t patent because you think it&#39;smore dangerous to patent than not to patent.
+时间：14:21
+zh-cn:埃隆·马斯克：既然我们的首要竞争对手是国家政府，那专利的执行性就不可靠了。（笑）
+en:EM: Since our primary competitors are national governments,the enforceability of patents is questionable.(Laughter) (Applause)
+时间：14:28
+zh-cn:克里斯·安德森：那真是，真是太有意思了。不过将来还有一个大创新，你目前正在着手。和我们说一下吧。
+en:CA: That&#39;s really, really interesting.But the big innovation is still ahead,and you&#39;re working on it now. Tell us about this.
+时间：14:37
+zh-cn:埃隆·马斯克: 对,这个大创新制作 —
+en:EM: Right, so the big innovation—
+时间：14:38
+zh-cn:克里斯·安德森：其实，我们播放一下视频然后你可以一边跟我们说，视频上都是些什么。
+en:CA: In fact, let&#39;s roll that video and you can talk us through it, what&#39;s happening here.
+时间：14:43
+zh-cn:埃隆·马斯克：好。那关于这个火箭呢，它们目前都不能重复使用。如今所有的火箭都完全是不可重复利用的。航天飞机的目的就是为了使火箭可以重复利用，但是即便是航天飞机的主油箱每次都要用完就扔，而可以重复使用的零部件要用1万人的队伍花9个月的时间来更新。所以一个航天飞机每次飞行的最后成本都高达10亿美元。显然这不是很理想 —
+en:EM: Absolutely. So the thing about rockets is thatthey&#39;re all expendable.All rockets that fly today are fully expendable.The space shuttle was an attempt at a reusable rocket,but even the main tank of the space shuttle was thrown away every time,and the parts that were reusabletook a 10,000-person group nine months to refurbish for flight.So the space shuttle ended up costing a billion dollars per flight.Obviously that doesn&#39;t work very well for —
+时间：15:08
+zh-cn:克里斯·安德森：然后这是什么？我们看到有什么降落了？
+en:CA: What just happened there? We just saw something land?
+时间：15:12
+zh-cn:埃隆·马斯克：对。所以能让火箭的底座回到陆地上，能够回到发射基地然后准备在几个小时内做好下一次发射的准备，这是很重要的。
+en:EM: That&#39;s right. So it&#39;s important that the rocket stagesbe able to come back, to be able to return to the launch siteand be ready to launch again within a matter of hours.
+时间：15:22
+zh-cn:克里斯·安德森：哇。可循环利用的火箭。埃隆·马斯克：对。（掌声）还有一个很多人没意识到的是，燃料的成本，也就是推进物的成本，很低。和喷气式飞机的差不多。所以推进物的成本大约是火箭成本的0.3%。所以我们可以让，比如说，太空行程的成本改善大约100倍，只要你能够做到重复利用火箭。所以说为什么这很重要。我们用的每一种交通，飞机、火车、汽车、单车、马都是可重复利用的，唯独火箭不是。所以我们必须要解决这个问题从而进入太空文明。
+en:CA: Wow. Reusable rockets.EM: Yes. (Applause)And so what a lot of people don&#39;t realize is,the cost of the fuel, of the propellant, is very small.It&#39;s much like on a jet.So the cost of the propellant is about .3 percentof the cost of the rocket.So it&#39;s possible to achieve, let&#39;s say,roughly 100-fold improvement in the cost of spaceflightif you can effectively reuse the rocket.That&#39;s why it&#39;s so important.Every mode of transport that we use,whether it&#39;s planes, trains, automobiles, bikes, horses,is reusable, but not rockets.So we must solve this problem in order to become a space-faring civilization.
+时间：16:00
+zh-cn:克里斯·安德森：你之前问我一个问题，如果你必须在用完轮船后把它烧毁，那么邮轮这种出行方式还会有多受欢迎。埃隆·马斯克：一些邮轮旅游显然会出现大问题。
+en:CA: You asked me the question earlierof how popular traveling on cruises would beif you had to burn your ships afterward.EM: Certain cruises are apparently highly problematic.
+时间：16:12
+zh-cn:克里斯·安德森：肯定会更贵。所以那很有可能是绝对性的破坏技术，而且，我猜，它为你的梦想铺平了道路，从某点上来说，就是那个让人类大规模的移居火星的梦想。你想看到人们在火星上殖民。
+en:CA: Definitely more expensive.So that&#39;s potentially absolutely disruptive technology,and, I guess, paves the way for your dream to actually take,at some point, to take humanity to Mars at scale.You&#39;d like to see a colony on Mars.
+时间：16:28
+zh-cn:埃隆·马斯克：对，正是这样。SpaceX，或者其他一些公司和政府的合作，需要在多星球生活圈的道路上更进一步，在另外一个星球建立基地，就是火星 — 唯一个实际的选择，—然后接着扩建基地直至我们成为真正能在多星球上生存的物种。
+en:EM: Yeah, exactly. SpaceX, or some combinationof companies and governments, needs to make progressin the direction of making life multi-planetary,of establishing a base on another planet,on Mars — being the only realistic option —and then building that base upuntil we&#39;re a true multi-planet species.
+时间：16:48
+zh-cn:克里斯·安德森：那么“让它循环利用”的行动进展如何？我们刚刚就看到了一个模拟视频。现在如何了？
+en:CA: So progress on this &quot;let&#39;s make it reusable,&quot;how is that going? That was just a simulation video we saw.How&#39;s it going?
+时间：16:56
+zh-cn:埃隆·马斯克：实际上我们，我们近期在一个叫做“蚱蜢测验计划”中取得了不错的进展，我们在这个计划当中测试了火箭垂直降落的这一个部分，这个最后的部分相当复杂。那我们在测验中取得了不错的成绩。
+en:EM: We&#39;re actually, we&#39;ve been making some good progress recentlywith something we call the Grasshopper Test Project,where we&#39;re testing the vertical landing portion of the flight,the sort of terminal portion which is quite tricky.And we&#39;ve had some good tests.
+时间：17:12
+zh-cn:克里斯·安德森：我们能看下吗？埃隆·马斯克：可以。那只是给你一个规模上的感受。我们把一个牛仔打扮成约翰尼.卡什然后把这个人体模型拴在火箭上。（笑）
+en:CA: Can we see that?EM: Yeah.So that&#39;s just to give a sense of scale.We dressed a cowboy as Johnny Cashand bolted the mannequin to the rocket. (Laughter)
+时间：17:21
+zh-cn:克里斯·安德森：好，我们看一下这个视频，因为实际上你想一下就会觉得它其实很令人惊异。你从来没见过。一个火箭发射后然后——
+en:CA: All right, let&#39;s see that video then,because this is actually amazing when you think about it.You&#39;ve never seen this before. A rocket blasting off and then —
+时间：17:30
+zh-cn:埃隆·马斯克：是啊，那个火箭大约是一座12层建筑的大小。（火箭发射）那现在在空中40米处停悬，然后一直在调整角度，主发动机的俯仰和偏航，然后用煤气推进器保持滚动。
+en:EM: Yeah, so that rocket is about the sizeof a 12-story building.(Rocket launch)So now it&#39;s hovering at about 40 meters,and it&#39;s constantly adjustingthe angle, the pitch and yaw of the main engine,and maintaining roll with cold gas thrusters.
+时间：18:05
+zh-cn:克里斯·安德森：这不是很酷吗？（掌声）埃隆，你怎么做到的？这些计划都——Paypal，太阳城，Tesla，SpaceX，他们都彼此那么不同，都是大规模的宏伟计划。怎么会有人可以用这样的方式创新？你到底如何做到的？
+en:CA: How cool is that? (Applause)Elon, how have you done this?These projects are so — Paypal, SolarCity,Tesla, SpaceX, they&#39;re so spectacularly different,they&#39;re such ambitious projects at scale.How on Earth has one personbeen able to innovate in this way?What is it about you?
+时间：18:33
+zh-cn:埃隆·马斯克：我也不知道，其实。我没法很好的回答你。我做了很多工作。真的，很多。
+en:EM: I don&#39;t know, actually.I don&#39;t have a good answer for you.I work a lot. I mean, a lot.
+时间：18:44
+zh-cn:克里斯·安德森：恩，我有个理论。埃隆·马斯克：好。不错。
+en:CA: Well, I have a theory.EM: Okay. All right.
+时间：18:46
+zh-cn:克里斯·安德森：我的理论就是你有一种能力，可以让你在设计的层面系统地思考，汇聚了设计、科技和商业，所以如果TED是TBD，Design（设计）、Technology（科技）和 Business （商业），把他们打包起来，以一种人们很少能够做到的方式融合起来然后 ——然后关键的是——你对这个拼接的组合非常的有信心，甚至会去冒疯狂的风险。你赌上了你的财富，而且你好像还赌了好几次。我想说，基本没别人会这么做了。是不是——我们能不能分享一下秘诀？我们能否将它放进我们的教育系统中？人们可以向你学习到什么吗？你所做的真的太令人惊叹了。
+en:CA: My theory is that youhave an ability to think at a system level of designthat pulls together design, technology and business,so if TED was TBD, design, technology and business,into one package,synthesize it in a way that very few people can and —and this is the critical thing — feel so damn confidentin that clicked-together package that you take crazy risks.You bet your fortune on it, and you seem to have done that multiple times.I mean, almost no one can do that.Is that — could we have some of that secret sauce?Can we put it into our education system? Can someone learn from you?It is truly amazing what you&#39;ve done.
+时间：19:30
+zh-cn:埃隆·马斯克：嗯，谢谢。谢谢。呃，我真的觉得我们有一个非常好的思考框架。就是物理。你知道，它是推理的第一原理。我大体上认为有——我想说的是，把一切都归结于事物的基本本质然后从此处开始推理，这不同于类比推理。我们生活当中，我们都是用类比推理，实际上就是说我们要照搬别人的做法然后稍加改动。你必须这样做。否则，从心理层面看，你这一天就过不去了。不过当你想要做一件新的事情，你必须按物理原则办事。物理正是一种用反直觉的方式来发现新事物的方法，就像量子力学。它就非常反直觉。所以我觉得这是非常重要的事情，然后也要非常注重负面的反馈，寻求反馈，特别是从朋友那里。这可能听起来像个很简单的建议，但是很少人这么做，这是非常有帮助的。
+en:EM: Well, thanks. Thank you.Well, I do think there&#39;s a good framework for thinking.It is physics. You know, the sort of first principles reasoning.Generally I think there are — what I mean by that is,boil things down to their fundamental truthsand reason up from there,as opposed to reasoning by analogy.Through most of our life, we get through lifeby reasoning by analogy,which essentially means copying what other people do with slight variations.And you have to do that.Otherwise, mentally, you wouldn&#39;t be able to get through the day.But when you want to do something new,you have to apply the physics approach.Physics is really figuring out how to discovernew things that are counterintuitive, like quantum mechanics.It&#39;s really counterintuitive.So I think that&#39;s an important thing to do,and then also to really pay attention to negative feedback,and solicit it, particularly from friends.This may sound like simple advice,but hardly anyone does that,and it&#39;s incredibly helpful.
+时间：20:35
+zh-cn:克里斯·安德森：男孩们女孩们，要学物理啊。向这个人学习。埃隆·马斯克，我希望我们可以聊一整天，不过谢谢你来到TED。
+en:CA: Boys and girls watching, study physics.Learn from this man.Elon Musk, I wish we had all day, but thank you so much for coming to TED.
+时间：20:43
+zh-cn:埃隆·马斯克：谢谢。克里斯·安德森：真是太厉害了。真的，真的很酷。看看。（掌声）
+en:EM: Thank you. CA: That was awesome. That was really, really cool.Look at that. (Applause)
+时间：20:49
+zh-cn:鞠个躬。太奇妙了。非常感谢。
+en:Just take a bow. That was fantastic.Thank you so much.

@@ -1,0 +1,105 @@
+时间： 0:11
+zh-cn:先请大家观看一段有关孟加拉的视频。
+en:I&#39;ll just take you to Bangladesh for a minute.
+时间： 0:53
+zh-cn:在我开始演讲之前，我想请大家先思考一个问题。贫穷为什么会存在？我是说，人类实现了许多知识和科技的突破。我们生活在同一星球，但世界上仍存在许多贫穷的地方。我想先谈谈我的观点，然后看看我的项目或者其他项目，究竟是拉大还是缩小了贫富差距。
+en:Before I tell that story, we should ask ourselves the question:Why does poverty exist?I mean, there is plenty of knowledge and scientific breakthroughs.We all live in the same planet,but there&#39;s still a great deal of poverty in the world.And I think — so I want to throw a perspective that I have,so that we can assess this project, or any other project, for that matter,to see whether it&#39;s contributing or —contributing to poverty or trying to alleviate it.
+时间： 1:24
+zh-cn:60年来，富国一直为穷国提供援助。总体来说，这些努力并未收到成效。大家可以看看这本书，作者曾为世界银行工作了20年。他发现，这个国家难以实现经济增长。总的来说，这些援助对经济增长并不奏效。问题是，为什么？
+en:Rich countries have been sending aid to poor countries for the last 60 years.And by and large, this has failed.And you can see this book,written by someone who worked in the World Bank for 20 years,and he finds economic growth in this country to be elusive.By and large, it did not work.So the question is, why is that?
+时间： 1:49
+zh-cn:在我看来，我们可以从欧洲的历史得到启发。我是说，即使在这里，昨天我过马路的地方，就是三位主教在500年前被处死的地方。就在街对面。我想说的是，在欧洲，人们经历过许多斗争，他们由于技术的进步而变得更有力量。他们要求至高的权威走下神坛。最终，权威与公民之间的地位发生了变化民主、资本主义和一切其他的制度得到充分发展。所以大家可以看到这样一个过程，这本长达500页的书也支持这一结论，权威地位下降，而公民地位上升。
+en:In my mind, there is something to learn from the history of Europe.I mean, even here, yesterday I was walking across the street,and they showed three bishops were executed 500 years ago,right across the street from here.So my point is, there&#39;s a lot of struggle has gone in Europe,where citizens were empowered by technologies.And they demanded authorities from —to come down from their high horses.And in the end, there&#39;s better bargainingbetween the authorities and citizens,and democracies, capitalism — everything else flourished.And so you can see, the real process of —and this is backed up by this 500-page book —that the authorities came down and citizens got up.
+时间： 2:38
+zh-cn:但是，如果你持这样一个观点，可以看看过去60年来发生的事件。援助所起的作用恰恰相反。它使权威的地位得到巩固和加强。而公民却因此被边缘化。权威并没有理由为征收更多税赋而推动经济发展，并聚集财富发展自己的商业。因为他们能从海外得到资金援助。事实上， 在那些石油资源国中，这些国家的人民缺乏自主权，情况也是如此。诸如尼日利亚、沙特阿拉伯都在这些国家之列。因为援助、石油或矿产的作用相同。它们强化权威，但并未激发公民的作用，包括他们的手脚，头脑和拥有的资源。
+en:But if you look, if you have that perspective,then you can see what happened in the last 60 years.Aid actually did the opposite.It empowered authorities,and, as a result, marginalized citizens.The authorities did not have the reason to make economic growth happenso that they could tax peopleand make more money for to run their business.Because they were getting it from abroad.And in fact, if you see oil-rich countries,where citizens are not yet empowered, the same thing goes —Nigeria, Saudi Arabia, all sorts of countries.Because the aid and oil or mineral money acts the same way.It empowers authorities, without activating the citizens —their hands, legs, brains, what have you.
+时间： 3:28
+zh-cn:如果你们同意这一观点，我认为改善这些国家状况的最好方法，是认识到经济发展的本质是民有、民治和民享。这才是真正的网络效应。如果公民能通过形成网络而更有组织、更具生产力从而能表达民声，情况将会得以改善。
+en:And if you agree with that, then I think the best way to improve these countriesis to recognize that economic development is of the people,by the people, for the people.And that is the real network effect.If citizens can network and make themselves more organized and productive,so that their voices are heard,so then things would improve.
+时间： 3:50
+zh-cn:与之形成对比的是，作为世界上最为重要的机构，世界银行是政府组织，由政府运营、为政府谋利。对比非常明显。这就是我的出发点，接下来讲一讲我的故事。
+en:And to contrast that, you can see the most important institution in the world,the World Bank, is an organization of the government,by the government, for the governments.Just see the contrast.And that is the perspective I have, and then I can start my story.
+时间： 4:09
+zh-cn:如何才能赋予公民更多的主动权？我们可以利用各种各样的技术，手机就是其中之一。最近，《经济学家》发表文章，认识到了这一点，而我在12年前就偶然想到了这一点，并且一直以来致力于此。12年前，我曾经试图成为纽约的一名投资银行家。
+en:Of course, how would you empower citizens?There could be all sorts of technologies. And one is cell phones.Recently &quot;The Economist&quot; recognized this,but I stumbled upon the idea 12 years ago,and that&#39;s what I&#39;ve been working on.So 12 years ago, I was trying to be an investment banker in New York.
+时间： 4:31
+zh-cn:我和一些同事在计算机网络上相互连接。由于不需要交换软盘，我们变得更有效率，相互交流也更为频繁。但有一次，网络崩溃了。这使我想起1971年的一天。那时，我的祖国正经历一场战争，我们家从之前所住的城市搬到了更为安全的偏远郊区。记得有一次，我母亲让我去为家中一个更小的孩子买药。我花了一上午的时间，走了大约10英里，才来到了卖药人的家。可那里没人，于是我又花了一下午的时间走回家。这是毫无作为的一天。
+en:We had — quite a few our colleagues were connected by a computer network.And we got more productive because we didn&#39;t have to exchange floppy disks;we could update each other more often.But one time it broke down.And it reminded me of a day in 1971.There was a war going on in my country.And my family moved out of an urban place, where we used to live,to a remote rural area where it was safer.And one time my mother asked me to get some medicine for a younger sibling.And I walked 10 miles or so, all morning, to get there, to the medicine man.And he wasn&#39;t there, so I walked all afternoon back.So I had another unproductive day.
+时间： 5:22
+zh-cn:所以，当我坐在纽约一幢高楼里的时候，我将这两次经历比较了一下，基本得出一个结论，那就是，连线就是效率，无论是在现代化的办公室还是在落后的村庄。所以，这很自然地意味着，电话是消除贫穷的武器。如果是这样，问题在于，当时我们有多少电话？
+en:So while I was sitting in a tall building in New York,I put those two experiences together side by side,and basically concluded that connectivity is productivity —whether it&#39;s in a modern office or an underdeveloped village.So naturally, I — the implication of that isthat the telephone is a weapon against poverty.And if that&#39;s the case, then the question ishow many telephones did we have at that time?
+时间： 5:50
+zh-cn:结果发现，当时在孟加拉，每500人仅有1部电话。而且所有电话都集中在在少数几个城区。有1亿多人居住的广阔农村，根本没有电话。可以想像，有多少人像我浪费了那一天那样，浪费了几个月，甚至几年。如果每人每月浪费一天，乘以1亿人，可以看到大量的资源都被浪费了。毕竟，穷国和富国至少在一项资源上是平等的那就是一天24小时的时间。如果丧失了这一宝贵资源，而原本与富国之间并无差距，这将是巨大的浪费。
+en:And it turns out, that there was one telephone in Bangladeshfor every 500 people.And all those phones were in the few urban places.The vast rural areas, where 100 million people lived,there were no telephones.So just imagine how many man-months or man-years are wasted,just like I wasted a day.If you just multiply by 100 million people, let&#39;s say losing one day a month,whatever, and you see a vast amount of resource wasted.And after all, poor countries, like rich countries, one thing we&#39;ve got equal,is their days are the same length: 24 hours.So if you lose that precious resource,where you are somewhat equal to the richer countries,that&#39;s a huge waste.
+时间： 6:36
+zh-cn:所以，我开始寻找证据，检验连线是否能增加效率。然而，事实上我并没有找到许多证据，但发现了总部设在日内瓦的国际电信联盟发布的这张图表。它说明了一个有趣的现象。大家看，横轴代表国家。比如美国、英国在这里，图表以外。竖轴表示每增加一部新电话的作用，在这些国家非常小。
+en:So I started looking for any evidence that —does connectivity really increase productivity?And I couldn&#39;t find much, really, but I found this graph produced by the ITU,which is the International Telecommunication Union, based in Geneva.They show an interesting thing.That you see, the horizontal axis is where you place your country.So the United States or the UK would be here, outside.And so the impact of one new telephone,which is on the vertical axis, is very little.
+时间： 7:13
+zh-cn:但如果大家看欠发达国家，假设人均国民生产总值仅500美元或300美元，每增加一部新电话的作用非常明显：6000美元或5000美元。问题是，在孟加拉安装一部新电话的成本是多少？结果发现，需要2000美元。所以，如果花2000美元安装一部电话，假设可以用10年，每年增加5000美元的人均国民生产总值，10年就是50000美元。
+en:But if you come back to a poorer country, where the GNP per capita is,let&#39;s say, 500 dollars, or 300 dollars,then the impact is huge: 6,000 dollars. Or 5,000 dollars.The question was,how much did it cost to install a new telephone in Bangladesh?It turns out: 2,000 dollars.So if you spend 2,000 dollars, and let&#39;s say the telephone lasts 10 years,and if 5,000 dollars every year — so that&#39;s 50,000 dollars.
+时间： 7:41
+zh-cn:很明显，电话的作用不可忽视。当然，如果随着数字革命的发展，安装一部电话的成本下降，其产生的作用将更大。
+en:So obviously this was a gadget to have.And of course, if the cost of installing a telephone is going down,because there&#39;s a digital revolution going on,then it would be even more dramatic.
+时间： 7:56
+zh-cn:当时，我对经济学也略知一二。亚当•史密斯告诉我们，分工能提高生产力。但是如何进行分工呢？假如我是渔民和农场主，克里斯也是渔民和农场主。 我们都可以做很多生意。我们之间只有通过相互联系，才能相互依靠。如果我们是邻居，我可以走到他家。
+en:And I knew a little economics by then —it says Adam Smith taught us that specialization leads to productivity.But how would you specialize?Let&#39;s say I&#39;m a fisherman and a farmer.And Chris is a fisherman farmer. Both are generalists.So the point is that we could only — the only way we could depend on each other,is if we can connect with each other.And if we are neighbors, I could just walk over to his house.
+时间： 8:27
+zh-cn:但即便如此，我们只能将生意局限在非常小的区域。为了拓展生意，需要一条河，一条高速公路，或者电话。无论如何，相互连接才能相互依靠，从而实现专业分工，继而提高生产力。
+en:But then we are limiting our economic sphere to something very small area.But in order to expand that, you need a river,or you need a highway, or you need telephone lines.But in any event, it&#39;s connectivity that leads to dependability.And that leads to specialization.That leads to productivity.
+时间： 8:45
+zh-cn:所以，我开始反复思考这一问题并往返于孟加拉和纽约之间。人们告诉我许多没有足够电话的原因。其中之一是缺乏购买力。显然，穷人买不起电话 。
+en:So the question was, I started looking at this issue,and going back and forth between Bangladesh and New York.There were a lot of reasons people told mewhy we don&#39;t have enough telephones.And one of them is the lacking buying power.Poor people apparently don&#39;t have the power to buy.
+时间： 9:03
+zh-cn:关键是，如果电话能提高生产力，我们为什么要为此担心呢？我的意思是，在美国，人们购买汽车，并不需要一次付清很多现款。他们买了汽车，开车上班，并用上班挣来的薪水分期支付汽车款。以车养车。
+en:But the point is, if it&#39;s a production tool, why do we have to worry about that?I mean, in America, people buy cars,and they put very little money down.They get a car, and they go to work.The work pays them a salary;the salary allows them to pay for the car over time.The car pays for itself.
+时间： 9:22
+zh-cn:所以，如果电话是生产工具，我们不需要过于担心购买力。当然即便如此，最初的购买力从哪里来？那么，为什么不可以几人合用一部电话呢？在美国，每个人都需要银行服务，但很少有人想要买下一家银行。所以，一家银行为许多客户服务。对于电话，我们也可以采用相同的办法。
+en:So if the telephone is a production tool,then we don&#39;t quite have to worry about the purchasing power.And of course, even if that&#39;s true, then what about initial buying power?So then the question is, why can&#39;t we have some kind of shared access?In the United States, we have — everybody needs a banking service,but very few of us are trying to buy a bank.So it&#39;s — a bank tends to serve a whole community.So we could do that for telephones.
+时间： 9:52
+zh-cn:此外，人们告诉我，他们有许多基本的需求需要满足，吃、穿、住等等。但是，这是一种非常家长主义的做法。应该提高收入，让人们自己决定如何支配他们的财富。
+en:And also people told me that we have a lot of important primary needs to meet:food, clothing, shelter, whatever.But again, it&#39;s very paternalistic.You should be raising incomeand let people decide what they want to do with their money.
+时间：10:10
+zh-cn:真正的问题在于缺乏其他一些基础设施。促使人们接纳新事物需要一些基础设施。比如，互联网在美国发展得如火如荼，因为人们有电脑。他们有调制解调器。他们有电话线，所以很容易接纳新概念，比如互联网。不发达国家缺少的正是这种基础设施。
+en:But the real problem is the lack of other infrastructures.See, you need some kind of infrastructure to bring a new thing.For instance, the Internet was booming in the U.S.because there were — there were people who had computers.They had modems.They had telephone lines, so it&#39;s very easy to bring in a new idea, like the Internet.But that&#39;s what&#39;s lacking in a poor country.
+时间：10:33
+zh-cn:比如，人们无法查询信用记录，很少有银行提供代收费服务，诸如此类，不一而足。但这也正是为什么我会注意到孟加拉乡村银行。这家银行为穷人服务，拥有大约1100家分行，12000名员工和230万贷款人。他们有这些分行。我想，可以通过基站将这些分行连接成一个网络。
+en:So for example, we didn&#39;t have ways to have credit checks,few banks to collect bills, etc.But that&#39;s why I noticed Grameen Bank, which is a bank for poor people,and had 1,100 branches, 12,000 employees, 2.3 million borrowers.And they had these branches.I thought I could put cell towers and create a network.
+时间：10:57
+zh-cn:长话多说。之后，我开始到银行与他们谈谈我的想法。“你知道，也许我可以将你们所有的分行连接起来，使你们的工作更有效率。”但是，要知道，他们毕竟在一个没有电话的国家里，所以实行分散管理。我想，当然有其他原因，但这一定是原因之一。他们对于将所有分行连成网络的想法并不感兴趣，只想安于现状。
+en:And anyway, to cut the time short — so I started —I first went to them and said,&quot;You know, perhaps I could connect all your branches and make you more efficient.&quot;But you know, they have, after all, evolved in a country without telephones,so they are decentralized. I mean, of course there might be other good reasons,but this was one of the reasons — they had to be.And so they were not that interested to connect all their branches,and then to be — and rock the boat.
+时间：11:24
+zh-cn:所以，我进一步思考这个问题。他们真正的业务是什么？通常，某人向银行贷款，买一头母牛，牛会产奶，于是，那人将牛奶卖给村民，还清贷款。对这人来说这是一门生意，但为所有其他人提供了牛奶。
+en:So I started focusing. What is it that they really do?So what happens is that somebody borrows money from the bank.She typically buys a cow. The cow gives milk.And she sells the milk to the villagers, and pays off the loan.And this is a business for her, but it&#39;s milk for everybody else.
+时间：11:44
+zh-cn:于是，我忽然意识到，手机也可以起到一头母牛的作用。因为那人可以向银行贷款200美元，购买一部手机，然后将手机租给其他人使用。对这人来说，这是一门生意。
+en:And suddenly I realized that a cell phone could be a cow.Because some way she could borrow 200 dollars from the bank,get a phone and have the phone for everybody.And it&#39;s a business for her.
+时间：11:56
+zh-cn:于是，我写信给银行，他们想了想，说：“这主意有点疯狂，但不乏逻辑。如果你觉得可行，就过来实现它吧。”于是，我辞去了工作，来到了孟加拉。我在美国成立了一家公司，名为Gonofone，在孟加拉语里意为“人民的手机”。
+en:So I wrote to the bank, and they thought for a while, and they said,&quot;It&#39;s a little crazy, but logical.If you think it can be done, come and make it happen.&quot;So I quit my job; I went back to Bangladesh.I created a company in America called Gonofone,which in Bengali means &quot;people&#39;s phone.&quot;
+时间：12:15
+zh-cn:这家公司得到了美国天使投资。之后我开始奔走于世界各地。大约100万英里的行程中，我被许多人拒绝过，由于我不仅是在贫穷国家做生意，而且是做这些国家里穷人的生意。
+en:And angel investors in America put in money into that.I flew around the world.After about a million — I mean, I got rejected from lots of places,because I was not only trying to go to a poor country,I was trying to go to the poor of the poor country.
+时间：12:27
+zh-cn:大约100万英里的行程中，我虽然掉了不少头发，却很有意义，因为最终我成立了一个联盟来推广这项服务，这其中包括提供专有技术的挪威电信公司，以及提供基础设施的孟加拉乡村银行。
+en:After about a million miles, and a meaningful —a substantial loss of hair, I eventually put together a consortium, and —which involved the Norwegian telephone company,which provided the know-how,and the Grameen Bank provided the infrastructure to spread the service.
+时间：12:47
+zh-cn:长话短说，这是整个国家的覆盖面，可以看到覆盖率很高。即使在孟加拉，也有一些空无人烟的地方。但是，我们今年投资了大约3亿美元来扩大覆盖面积。
+en:To make the story short, here is the coverage of the country.You can see it&#39;s pretty much covered.Even in Bangladesh, there are some empty places.But we are also investing around another 300 million dollars this yearto extend that coverage.
+时间：13:06
+zh-cn:现在，再回到我刚才说到的母牛模式。约有115,000人在其居住的社区提供公共电话服务。这些服务覆盖了52000个村庄，共8千万人。
+en:Now, about that cow model I talked about.There are about 115,000 people who are retailing telephone servicesin their neighborhoods.And it&#39;s serving 52,000 villages, which represent about 80 million people.
+时间：13:23
+zh-cn:这些电话为公司产出了1亿美元的经济效益。对于每个零售服务提供者，每天获得2美元的利润，每年大约700美元。
+en:And these phones are generatingabout 100 million dollars for the company.And two dollars profit per entrepreneur per day, which is like 700 dollars per year.
+时间：13:39
+zh-cn:当然，这一模式还有很多好处。它能增加收入，提高福利等等。结果是，现在，这一公司已成为最大的电话公司，拥有350万用户，115,000部电话产生的流量占到整个网络的三分之一。2004年，税后净利润为1亿2千万美元，尽管税收数字本身也十分可观。公司为政府财政收入贡献了大约1亿9千万美元。
+en:And of course, it&#39;s very beneficial in a lot of ways.It increases income, improves welfare, etc.And the result is, right now, this company is the largest telephone company,with 3.5 million subscribers,115,000 of these phones I talked about —that produces about a third of the traffic in the network.And 2004, the net profit, after taxes —very serious taxes — was 120 million dollars.And the company contributed about 190 million dollars to the government coffers.
+时间：14:12
+zh-cn:这里是我们获得的一些经验。“政府需要提供经济上可行的服务。”事实上，私营公司可以做到这一点。“政府需要资助私营公司”。有些人会这样想。而事实上，私营公司为政府提供税收收入。“穷人总是接受者”。事实上，穷人是资源。为穷人服务成本太高”。事实上，他们可以降低成本。“穷人教育程度低，无法成大事”。事实上，他们求知欲望强，生存本领高。对此，我感到十分惊讶。他们中的大多数人在一天内学会如何使用电话。“穷国需要援助。”事实上，如果数据的准确率只有5%，仅这一家公司为该国贡献的国民生产总值也已远远超过其所接受的援助。就我而言，我想让大家知道，援助有害，因为它让政府远离其公民。
+en:And again, here are some of the lessons.&quot;The government needs to provide economically viable services.&quot;Actually, this is an instance where private companies can provide that.&quot;Governments need to subsidize private companies.&quot;This is what some people think.And actually, private companies help governments with taxes.&quot;Poor people are recipients.&quot;Poor people are a resource.&quot;Services cost too much for the poor.&quot;Their involvement reduces the cost.&quot;The poor are uneducated and cannot do much.&quot;They are very eager learners and very capable survivors.I&#39;ve been very surprised.Most of them learn how to operate a telephone within a day.&quot;Poor countries need aid.&quot;Businesses — this one company has raised the —if the ideal figures are even five percent true, this one companyis raising the GNP of the country much more than the aid the country receives.And as I was trying to show you, as far as I&#39;m concerned,aid does damages because it removes the government from its citizens.
+时间：15:13
+zh-cn:这是我与美国著名发明家迪恩•卡门（Dean Kamen）合作的新项目。他制造了一些发电机，我们正在孟加拉的两个村庄对其进行一项试验，利用牛粪产生的沼气为发电机提供动力。每个发电机向20户人家输送电力。这还只是一项试验。我们不知道它能走多远，但目前还在进行中。
+en:And this is a new project I have with Dean Kamen, the famous inventor in America.He has produced some power generators,which we are now doing an experiment in Bangladesh,in two villages where cow manure is producing biogas,which is running these generators.And each of these generators is selling electricity to 20 houses each.It&#39;s just an experiment.We don&#39;t know how far it will go,but it&#39;s going on.
+时间：15:41
+zh-cn:谢谢。
+en:Thank you.

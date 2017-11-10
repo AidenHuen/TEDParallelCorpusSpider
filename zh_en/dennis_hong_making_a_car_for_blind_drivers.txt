@@ -1,0 +1,66 @@
+时间： 0:11
+zh-cn:很多人认为开车是一件仅仅那些能看见的人才能做的事情。盲人想单独的安全的驾驶一辆车直到现在，也被认为是一件不可能的任务。大家好，我叫丹尼斯·洪，我们为了盲人的自由和独立制造了一辆针对视觉障碍有问题的人们而设计的汽车。
+en:Many believe driving is an activitysolely reserved for those who can see.A blind person driving a vehicle safely and independentlywas thought to be an impossible task, until now.Hello, my name is Dennis Hong,and we&#39;re bringing freedom and independence to the blindby building a vehicle for the visually impaired.
+时间： 0:29
+zh-cn:在我讲述这辆盲人用的车之前，让我简略的说一下我曾经做过的另外一个项目叫做美国国防部高级研究计划局城市挑战赛。这是关于制造一辆能自己驾驶的机械车。你按下开始键，不再碰任何东西，它也能完全自动的到达它的目的地。在2007年的挑战赛上，我们团队赢得了50万美元获得比赛的第三名。大概那个时候，全国盲人协会，或盲协，对设计团队提出了挑战关于谁能设计出一辆能让盲人独立安全驾驶的汽车。我们觉得要尝试一下，因为我们觉得，哎，这个会难到哪里去呢。我们已经有了辆自动的汽车。我们只要让盲人做到里面开车，那不就完事啦，对吧？（笑声）但是我们错的不靠谱了。盲协想要的不是一辆能载着盲人乱逛的车，而是一辆盲人能主动做出选择并驾驭的一辆车。所以我们不得不放弃我们原有的所有东西从头开始做起。
+en:So before I talk about this car for the blind,let me briefly tell you about another project that I worked oncalled the DARPA Urban Challenge.Now this was about building a robotic carthat can drive itself.You press start, nobody touches anything,and it can reach its destination fully autonomously.So in 2007, our team won half a million dollarsby placing third place in this competition.So about that time,the National Federation of the Blind, or NFB,challenged the research committeeabout who can develop a carthat lets a blind person drive safely and independently.We decided to give it a try,because we thought, &quot;Hey, how hard could it be?&quot;We have already an autonomous vehicle.We just put a blind person in it and we&#39;re done, right?(Laughter)We couldn&#39;t have been more wrong.What NFB wantedwas not a vehicle that can drive a blind person around,but a vehicle where a blind person can make active decisions and drive.So we had to throw everything out the windowand start from scratch.
+时间： 1:24
+zh-cn:为了测试这个疯狂的想法，我们设计出了一个小型沙地车的原型车来测试其可行性。在2009年暑期，我们邀请了全国很多盲人青年并给他们次机会用这车来兜风。这绝对是一个炫酷的体验。但是这车的问题在于它的设计只能让盲人在很有限的环境下驾驶，像一个封闭的停车场—甚至能在用红色交通锥搭成的小路上行驶。
+en:So to test this crazy idea,we developed a small dune buggy prototype vehicleto test the feasibility.And in the summer of 2009,we invited dozens of blind youth from all over the countryand gave them a chance to take it for a spin.It was an absolutely amazing experience.But the problem with this car wasit was designed to only be driven in a very controlled environment,in a flat, closed-off parking lot —even the lanes defined by red traffic cones.
+时间： 1:48
+zh-cn:所以有了这次成功，我们决定进行重要的下一步，制造一辆能在真正马路上行驶的真正的车。那它怎么运作的呢？嗯，这是个相对复杂的系统，但是让我来解释一下，来简化一下。我们有三个阶段。我们有感应阶段，计算阶段和非视觉界面。驾驶员明显是看不见的，所以系统必须能感知周围环境并为驾驶员收集数据。这点，我们使用初始计量元件。它测量加速度，角加速度—就像人耳，内耳。我把这信息和全球定位系统结合在一起来预测车辆所处的位置。我们还用两个摄像头来探测行车的路径。我们还用三个激光测距仪。激光扫描环境来探测障碍物—从前方，后方靠经的车辆同时还有闯进路上的任何障碍物，在车辆周围的任何障碍物。
+en:So with this success,we decided to take the next big step,to develop a real car that can be driven on real roads.So how does it work?Well, it&#39;s a rather complex system,but let me try to explain it, maybe simplify it.So we have three steps.We have perception, computationand non-visual interfaces.Now obviously the driver cannot see,so the system needs to perceive the environmentand gather information for the driver.For that, we use an initial measurement unit.So it measures acceleration, angular acceleration —like a human ear, inner ear.We fuse that information with a GPS unitto get an estimate of the location of the car.We also use two cameras to detect the lanes of the road.And we also use three laser range finders.The lasers scan the environment to detect obstacles —a car approaching from the front, the backand also any obstacles that run into the roads,any obstacles around the vehicle.
+时间： 2:41
+zh-cn:所有海量的信息接着汇总到电脑中，电脑会做两件事。首先的，一件事是处理信息来了解周围环境—哪些是行车路径，哪些是障碍物—并转化这些信息给驾驶者。这系统也是十分智能化能算出最安全的行车路径。我们也能发出指令关于如何操作车辆的运行程序。但是问题是：我们怎么才能把信息和指令够快又够准确地传输给盲人来确保他能驾驶？为此，我们设计了很多种不同的非视觉用户界面技术。最初的三维平音响系统，震动背心，声控齿轮，腿带，甚至给脚施压的鞋子。但是今天我们讲的是关于其中三样非视觉用户界面技术。
+en:So all this vast amount of information is then fed into the computer,and the computer can do two things.One is, first of all, process this informationto have an understanding of the environment —these are the lanes of the road, there&#39;s the obstacles —and convey this information to the driver.The system is also smart enoughto figure out the safest way to operate the car.So we can also generate instructionson how to operate the controls of the vehicle.But the problem is this: How do we conveythis information and instructionsto a person who cannot seefast enough and accurate enough so he can drive?So for this, we developed many different typesof non-visual user interface technology.So starting from a three-dimensional ping sound system,a vibrating vest,a click wheel with voice commands, a leg strip,even a shoe that applies pressure to the foot.But today we&#39;re going to talk aboutthree of these non-visual user interfaces.
+时间： 3:31
+zh-cn:第一个界面叫做驾驶手柄。这是一对手套，在指节部它有震动元件，以此你能传输如何行驶的指令—方向和幅度。另外一个设备叫做速度震带。这个车椅—实际上，这是个按摩椅。我们把它拆出来，我们重组不同模式的震动元件。我们让它们来传输速度的信息，同时也有如何使用油门和刹车的指示。在这里，你能看到电脑如何理解周围环境。因为你无法看出震动，我们实际在驾驶员身上安装了红色发光二极管，所以他能看到什么正在发生。这是感应的数据，这数据从感应器被传输到电脑里。
+en:Now the first interface is called a DriveGrip.So these are a pair of gloves,and it has vibrating elements on the knuckle partso you can convey instructions about how to steer —the direction and the intensity.Another device is called SpeedStrip.So this is a chair — as a matter of fact, it&#39;s actually a massage chair.We gut it out, and we rearrange the vibrating elements in different patterns,and we actuate them to convey information about the speed,and also instructions how to use the gas and the brake pedal.So over here, you can seehow the computer understands the environment,and because you cannot see the vibration,we actually put red LED&#39;s on the driver so that you can see what&#39;s happening.This is the sensory data,and that data is transferred to the devices through the computer.
+时间： 4:12
+zh-cn:所以这两种设备，驾驶手柄和速度震带，是很有效的。但是问题是这些是指令暗示装置。所以这不是真正意义上的自由，对吧？电脑告诉你如何驾驶—左转，右转，加速，刹车。我把这叫做副驾驶问题。所以我们正避免指令暗示装置，并更关注于信息装置。这种非视觉信息界面的一个典型例子是叫做空图。把这个看成盲人的显示器。这是个小桌面，有很多孔在上面，压缩空气从中排除，以此它就能描述成图片。所以即使你是盲人，你把手放在它上面，你也能感应到行径路线和障碍物。实际上，你还能改变空气中释放出的频率有可能还有温度。这实际就是一个多维的用户界面。这里，你能看到左，右两边的摄像头以及电脑如何解析并传送这些信息给空图。就这样，我们正展示一个模拟程序，一个盲人正在用空图驾驶。这个程序在依据不同种类的非视觉用户界面方面对于训练盲人驾驶者和快速地测试不同的理论有很大的帮助。这就是基本上它如何运作的。
+en:So these two devices, DriveGrip and SpeedStrip,are very effective.But the problem isthese are instructional cue devices.So this is not really freedom, right?The computer tells you how to drive —turn left, turn right, speed up, stop.We call this the &quot;backseat-driver problem.&quot;So we&#39;re moving away from the instructional cue devices,and we&#39;re now focusing moreon the informational devices.A good example for this informational non-visual user interfaceis called AirPix.So think of it as a monitor for the blind.So it&#39;s a small tablet, has many holes in it,and compressed air comes out,so it can actually draw images.So even though you are blind, you can put your hand over it,you can see the lanes of the road and obstacles.Actually, you can also change the frequency of the air coming outand possibly the temperature.So it&#39;s actually a multi-dimensional user interface.So here you can see the left camera, the right camera from the vehicleand how the computer interprets that and sends that information to the AirPix.For this, we&#39;re showing a simulator,a blind person driving using the AirPix.This simulator was also very useful for training the blind driversand also quickly testing different types of ideasfor different types of non-visual user interfaces.So basically that&#39;s how it works.
+时间： 5:19
+zh-cn:就在一个月前1月29日，我们第一次把此车向大众公布在世界著名的代托纳国际赛道举办劳力士24小时赛车活动期间。我们也收获了一些惊喜。一睹为快吧。
+en:So just a month ago,on January 29th,we unveiled this vehicle for the very first time to the publicat the world-famous Daytona International Speedwayduring the Rolex 24 racing event.We also had some surprises. Let&#39;s take a look.
+时间： 5:33
+zh-cn:（音乐）
+en:(Music)
+时间： 5:43
+zh-cn:（录像）播音员：这是个历史性的一天。他转向主看台，伙计们。
+en:(Video) Announcer: This is an historic day in January.He&#39;s coming up to the grandstand, fellow Federationists.
+时间： 5:51
+zh-cn:（欢呼）
+en:(Cheering)
+时间： 5:57
+zh-cn:（汽车喇叭声）
+en:(Honking)
+时间： 6:00
+zh-cn:现在他到主看台了。他跟随着前方的那辆货车。那第一个箱子出现了。让我们看看马克能不能躲开它。他做到了。他从右侧穿过了它。第三个箱子出现了。第四个箱子出现了。他完美地从中间穿了过去。他接近货车准备超车过去。这就是它的全部，这种大胆而独创的激情的表演。他接近最后的终点了，从那设障的塑料桶中间穿过成功抵达。
+en:There&#39;s the grandstand now.And he&#39;s [unclear] following that van that&#39;s out in front of him.Well there comes the first box.Now let&#39;s see if Mark avoids it.He does. He passes it on the right.Third box is out. The fourth box is out.And he&#39;s perfectly making his way between the two.He&#39;s closing in on the vanto make the moving pass.Well this is what it&#39;s all about,this kind of dynamic display of audacity and ingenuity.He&#39;s approaching the end of the run,makes his way between the barrels that are set up there.
+时间： 6:43
+zh-cn:（汽车喇叭声）
+en:(Honking)
+时间： 6:46
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:52
+zh-cn:丹尼斯·洪：我为你感到高兴。马克等会儿会开车送我回旅馆的。
+en:Dennis Hong: I&#39;m so happy for you.Mark&#39;s going to give me a ride back to the hotel.
+时间： 6:56
+zh-cn:马克·里科博诺：没错。
+en:Mark Riccobono: Yes.
+时间： 7:01
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:10
+zh-cn:丹尼斯·洪：自此我们开始这个项目，我们已经收到了来自全世界的人们的上百封来信，邮件，电话。有的信感谢我们，但是有时候你也会收到些有趣的信比如这个：“现在我知道为什么布莱叶点字法(盲人用点字法)会使用在自动取款机上了。”（笑声）但是有时—（笑声）但是有时我也会收到—我不觉得它是带有攻击性的信—而是些十分强烈关注的信：“洪博士，你疯了吗，试着让盲人开车上路？你肯定是疯了。”但是这车是一个模型车，它也不会上路除非它被证明和如今的汽车一样驾驶安全，或者更安全而言。我真地坚信这会发生。
+en:DH: So since we started this project,we&#39;ve been getting hundreds of letters, emails, phone callsfrom people from all around the world.Letters thanking us, but sometimes you also get funny letters like this one:&quot;Now I understand why there is Braille on a drive-up ATM machine.&quot;(Laughter)But sometimes —(Laughter)But sometimes I also do get —I wouldn&#39;t call it hate mail —but letters of really strong concern:&quot;Dr. Hong, are you insane,trying to put blind people on the road?You must be out of your mind.&quot;But this vehicle is a prototype vehicle,and it&#39;s not going to be on the roaduntil it&#39;s proven as safe as, or safer than, today&#39;s vehicle.And I truly believe that this can happen.
+时间： 7:51
+zh-cn:但是，社会是否，它们是否能接受这个激进的想法呢？我们将如何来处理保险呢？我们将如何签发驾照呢？在技术挑战的背后还有很多各种不同的障碍在其真正成为现实前我们需要去解决。当然，这个项目的主要目的是设计一辆盲人驾驶的车。但是潜在的比这更重要的是这个项目中的副产品中蕴含的巨大价值。能用来透视黑暗，雨雾的传感器。以及这新种类的界面，我们能利用这些技术让它们为可视人群提供更安全的车辆。或者为了盲人，每天生活上的家用装置—教育设施，办公设施应用服务。想象下，在课堂上老师在黑板上写笔记盲人学生也能用这些非视觉界面来了解和阅读老师所写的东西。这是极其珍贵的。今天，我所展示给大家的，只是一个开始。
+en:But still, will the society,would they accept such a radical idea?How are we going to handle insurance?How are we going to issue driver&#39;s licenses?There&#39;s many of these different kinds of hurdles besides technology challengesthat we need to address before this becomes a reality.Of course, the main goal of this projectis to develop a car for the blind.But potentially more important than thisis the tremendous value of the spin-off technologythat can come from this project.The sensors that are used can see through the dark,the fog and rain.And together with this new type of interfaces,we can use these technologiesand apply them to safer cars for sighted people.Or for the blind, everyday home appliances —in the educational setting, in the office setting.Just imagine, in a classroom a teacher writes on the blackboardand a blind student can see what&#39;s written and readusing these non-visual interfaces.This is priceless.So today, the things I&#39;ve showed you today, is just the beginning.
+时间： 8:45
+zh-cn:非常感谢。
+en:Thank you very much.
+时间： 8:47
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,153 @@
+时间： 0:15
+zh-cn:今天我在这里代表了一队艺术家、技术专家和电影制作者在过去的四年里，他们在一起为一个了不起的电影项目工作。在这一过程中，他们在计算机视觉特效做出了突破。
+en:I&#39;m here today representing a team of artists and technologists and filmmakersthat worked together on a remarkable film project for the last four years.And along the way they created a breakthrough in computer visualization.
+时间： 0:27
+zh-cn:所以我现在想为你们播放一段电影片段。但愿播放不会卡。若是我们做得好的话，你们不会觉察到我们曾参与其中。
+en:So I want to show you a clip of the film now.Hopefully it won&#39;t stutter.And if we did our jobs well, you won&#39;t know that we were even involved.
+时间： 0:36
+zh-cn:电影内容：我不知道这怎么可能。。。但是看上去你的头发多了。
+en:Voice (Video): I don&#39;t know how it&#39;s possible ...but you seem to have more hair.
+时间： 0:42
+zh-cn:本杰明·巴顿：如果我告诉你我没有变老。。。却变得比比人年轻了会怎样？
+en:Brad Pitt: What if I told you that I wasn&#39;t getting older ...but I was getting younger than everybody else?
+时间： 0:50
+zh-cn:我生来就得了一种病。
+en:I was born with some form of disease.
+时间： 0:53
+zh-cn:声音：什么病？
+en:Voice: What kind of disease?
+时间： 0:55
+zh-cn:本杰明·巴顿：我生来年老。
+en:BP: I was born old.
+时间： 0:58
+zh-cn:男声：抱歉。
+en:Man: I&#39;m sorry.
+时间： 1:00
+zh-cn:本杰明·巴顿：没必要。年老没有什么错。
+en:BP: No need to be. There&#39;s nothing wrong with old age.
+时间： 1:05
+zh-cn:女声：你病了吗？
+en:Girl: Are you sick?
+时间： 1:07
+zh-cn:本杰明·巴顿：我听到妈妈和Tizzy偷偷说话，他们说我就快要死了。但是。。。或许不会。
+en:BP: I heard momma and Tizzy whisper,and they said I was gonna die soon.But ... maybe not.
+时间： 1:15
+zh-cn:女声：你同我见过的所有人都不一样。
+en:Girl: You&#39;re different than anybody I&#39;ve ever met.
+时间： 1:19
+zh-cn:本杰明·巴顿：变化了好多。。。一些你能看到，一些你不能。毛发开始在身体的各个地方生长，一些别的东西也是。我感觉相当好。
+en:BB: There were many changes ...some you could see, some you couldn&#39;t.Hair started growing in all sorts of places,along with other things.I felt pretty good, considering.
+时间： 1:35
+zh-cn:Ed Ulbrich：刚刚播放的是来自《本杰明巴顿奇事》的电影片段。你们中的许多人可能已经看过或者听说过这个故事。但是你或许有所不知的是在电影的接近一小时里，由布拉德皮特扮演的主角，本杰明巴顿他脖子以上的部分完全是由计算机生成的。注意，我们没有使用假体化妆或者将布拉德的照片附加到另一个演员的身体上。我们创造了一个完全数字的人类头部。
+en:Ed Ulbrich: That was a clip from &quot;The Curious Case of Benjamin Button.&quot;Many of you, maybe you&#39;ve seen it or you&#39;ve heard of the story,but what you might not knowis that for nearly the first hour of the film,the main character, Benjamin Button, who&#39;s played by Brad Pitt,is completely computer-generated from the neck up.Now, there&#39;s no use of prosthetic makeupor photography of Brad superimposed over another actor&#39;s body.We&#39;ve created a completely digital human head.
+时间： 2:02
+zh-cn:现在我想开始讲一点这个项目的历史。这是基于菲兹杰拉德的一部短篇故事。讲的是一个生下来就很老然后过着相反的生活。现在，这个电影已经在好莱坞发行了半个世纪了在九十年代早期，我们第一次参与了这个项目当时的导演是朗·霍华德我们开了很多会并认真的考虑了但是当时我们不得不投降认输当时被认为是不可能的。刻画一个人从老到年轻，这超越了当时的技术能力。人类的构型，尤其是头部，被看作是我们工业里的圣杯。
+en:So I&#39;d like to start with a little bit of history on the project.This is based on an F. Scott Fitzgerald short story.It&#39;s about a man who&#39;s born old and lives his life in reverse.Now, this movie has floated around Hollywoodfor well over half a century,and we first got involved with the project in the early &#39;90s,with Ron Howard as the director.We took a lot of meetings and we seriously considered it.But at the time we had to throw in the towel.It was deemed impossible.It was beyond the technology of the day to depict a man aging backwards.The human form, in particular the human head,has been considered the Holy Grail of our industry.
+时间： 2:36
+zh-cn:十年后这个项目由回到我们这里，这一回导演的名字是大卫·芬奇芬奇是个有趣的家伙。他无惧于技术，并且绝对固执。并且大卫不会接受“不”。大卫相信，就像我们对视觉特效工业的观点一样，没有不可能前提是你有足够的时间，资源，当然，还有钱因此大卫有兴趣接手这部电影，并且给我们抛来一个挑战。他希望电影中的主角从摇篮里出来一直到进入坟墓，都由一个演员来演。刚好是这个人。
+en:The project came back to us about a decade later,and this time with a director named David Fincher.Now, Fincher is an interesting guy.David is fearless of technology,and he is absolutely tenacious.And David won&#39;t take &quot;no.&quot;And David believed, like we do in the visual effects industry,that anything is possibleas long as you have enough time, resources and, of course, money.And so David had an interesting take on the film,and he threw a challenge at us.He wanted the main character of the film to be playedfrom the cradle to the grave by one actor.It happened to be this guy.
+时间： 3:14
+zh-cn:我们经历了削减和发现的过程同大卫一道，当然，我们放弃了换演员的想法。那个想法就是：我们会有不同的演员，并且我们会用一个又一个演员。
+en:We went through a process of elimination and a process of discoverywith David, and we ruled out, of course, swapping actors.That was one idea: that we would have different actors,and we would hand off from actor to actor.
+时间： 3:25
+zh-cn:我们划掉了使用化妆的想法。我们意识到假体化妆就是没法做得真。特别是近看的时候。而且化妆是一个额外的步骤。 你不得不在脸的外边来化。大卫想让皱纹深深的刻在布拉德的脸上以显示出这个角色的年纪变化。他需要一个非常的意气相投的人物。所以我们决定拍摄一系列的小人物他们扮演本杰明在不同时候的不同的身体并且我们事实上会创造一个计算机生成的布拉德的头部。随本杰明年纪而变化，并将它附到真的演员身体上。听上去很棒。
+en:We even ruled out the idea of using makeup.We realized that prosthetic makeup just wouldn&#39;t hold up,particularly in close-up.And makeup is an additive process. You have to build the face up.And David wanted to carve deeply into Brad&#39;s faceto bring the aging to this character.He needed to be a very sympathetic character.So we decided to cast a series of little peoplethat would play the different bodies of Benjaminat the different increments of his lifeand that we would in fact create a computer-generated version of Brad&#39;s head,aged to appear as Benjamin,and attach that to the body of the real actor.Sounded great.
+时间： 4:00
+zh-cn:当然，这曾经是我们这一行离得圣杯，事实上布拉德作为一个全球符号也没能帮上一把，因为我很确信如果你们任何人站成一行在杂货店里，你知道，我们总是看到他的脸。所以这里边没有容错的空间。华纳兄弟和派拉蒙参与在其中。他们都相信这无疑会是一个令人惊奇的电影但是它也是一个非常高风险的提议。很多的钱与声誉都处在危险关头。我们相信我们有一个非常坚实的方法可能管用。。。
+en:Of course, this was the Holy Grail of our industry,and the fact that this guy is a global icon didn&#39;t help either,because I&#39;m sure if any of you ever stand in line at the grocery store,you know — we see his face constantly.So there really was no tolerable margin of error.There were two studios involved: Warner Brothers and Paramount.And they both believed this would make an amazing film, of course,but it was a very high-risk proposition.There was lots of money and reputations at stake.But we believed that we had a very solid methodologythat might work ...
+时间： 4:32
+zh-cn:但是无论我们如何口头承诺，他们要一些证明。为此，在2004年，他们委托我们做一次本杰明的试镜。我们差不多五周后做给他们看。但是我们在其中参了好多假并走了捷径。基本上我们把一些东西搁了一块儿就通过了会议。我现在把那些拿出来给你们看。 这是本杰明巴顿的第一个测试。然后在这里，你肯一看到，那是一个计算机生成的头部。相当不错。附到演员的身体后的样子。这个成了。 制片厂松了一口气。在这个项目拍拍停停好多年，并做了艰难的选择后，他们最终决定为这个电影开绿灯。我可以记起来，事实上，但我收到祝贺我们的电话，说电影要拍了的时候，我其实是一团糟。（笑声）你知道，这是一些艰难的东西。
+en:But despite our verbal assurances,they wanted some proof.And so, in 2004, they commissioned us to do a screen test of Benjamin.And we did it in about five weeks.But we used lots of cheats and shortcuts.We basically put something together to get through the meeting.I&#39;ll roll that for you now. This was the first test for Benjamin Button.And in here, you can see, that&#39;s a computer-generated head —pretty good — attached to the body of an actor.And it worked. And it gave the studio great relief.After many years of starts and stops on this project,and making that tough decision,they finally decided to greenlight the movie.And I can remember, actually, when I got the phone call to congratulate us,to say the movie was a go,I actually threw up.(Laughter)You know, this is some tough stuff.
+时间： 5:21
+zh-cn:然后我们开始了早期的团队会议，并且把所有人聚起来，开始的时候更像是治疗，得相互说服、保证对方说我们确实能承担这些。我们得支撑一部单人物持续一小时的电影而且他并不是一部特效电影；中间得有一个人。我们觉得自己就好像是在—-某种戒瘾过程中。当然，第一步是：承认自己有一个问题。我们有一个大问题。我们不知道我们该怎样去做。但我们知道一件事。在视觉特效工业里，我们，连同大卫，相信我们现在有足够的时间，足够的资源，然后，天哪，我们希望我们有足够的钱。并且我们有足够的激情去用意志趋势工序与技术变成实际。
+en:So we started to have early team meetings,and we got everybody together,and it was really more like therapy in the beginning,convincing each other and reassuring each other that we could actually undertake this.We had to hold up an hour of a movie with a character.And it&#39;s not a special effects film; it has to be a man.We really felt like we were in a — kind of a 12-step program.And of course, the first step is: admit you&#39;ve got a problem. (Laughter)So we had a big problem:we didn&#39;t know how we were going to do this.But we did know one thing.Being from the visual effects industry,we, with David, believed that we now had enough time,enough resources, and, God, we hoped we had enough money.And we had enough passion to will the processes and technology into existence.
+时间： 6:06
+zh-cn:所以，当你面对一些这样的事情时，当然你会把它分块儿。你取一个大问题然后把它分成几个小问题然后开始攻破。我们有三个主要的需要专注的地方。我们需要让布拉德看上去老许多。我们需要他差不多45岁的样子。我们也需要确保我们可以抓住布拉德的特殊癖好行为，他的小抽搐，那些能体现他的细微之处并将它们转移到我们的处理过程中使得它出现在银幕上的本杰明中。
+en:So, when you&#39;re faced with something like that,of course you&#39;ve got to break it down.You take the big problem and you break it down into smaller piecesand you start to attack that.So we had three main areas that we had to focus on.We needed to make Brad look a lot older —needed to age him 45 years or so.And we also needed to make sure that we could take Brad&#39;s idiosyncrasies,his little tics, the little subtleties that make him who he isand have that translate through our processso that it appears in Benjamin on the screen.
+时间： 6:32
+zh-cn:我们还需要创造一个角色他可以支撑起所有情况。他得能够行走在大白天，晚上，烛光中，他得能够撑住大特写镜头，他得能够传递对话，他得会跑，出汗，他还得会洗澡，哭泣，他甚至得会呕吐。当然不是同时做这些事情。但是他得会，你知道，做所有这些事情。
+en:And we also needed to create a characterthat could hold up under, really, all conditions.He needed to be able to walk in broad daylight,at nighttime, under candlelight,he had to hold an extreme close-up,he had to deliver dialogue,he had to be able to run, he had to be able to sweat,he had to be able to take a bath, to cry,he even had to throw up.Not all at the same time —but he had to, you know, do all of those things.
+时间： 6:53
+zh-cn:并且这些工作得支撑电影的差不多前一个小时。我们拍摄了325个镜头因此我们需要一个系统能够让本杰明去做任何人可以做的事情。我们意识到一个大分歧出现在2004年的技术艺术水平和我们的愿望之间。
+en:And the work had to hold up for almost the first hour of the movie.We did about 325 shots.So we needed a system that would allow Benjaminto do everything a human being can do.And we realized that there was a giant chasmbetween the state of the art of technology in 2004and where we needed it to be.
+时间： 7:12
+zh-cn:因此我们集中在运动捕捉。我相信你们中许多人已经看过运动捕捉了。当时的工艺水平叫做基于标记的动作捕捉。这里我给你们举一个例子。想法基本上就是，你穿一个连衣裤，然后安放一些反光标志用来替换摄像机的，是围绕在一个空间内的红外感应传感器那些红外传感器实时地跟踪那些标记的空间位置然后动画师收集这些数据并应用到计算机生成的人物中。你可以看到右边的计算机人物正做着着同舞蹈者相同的复杂运动。
+en:So we focused on motion capture.I&#39;m sure many of you have seen motion capture.The state of the art at the timewas something called marker-based motion capture.I&#39;ll give you an example here.It&#39;s basically the idea of, you wear a leotard,and they put some reflective markers on your body,and instead of using cameras,there&#39;re infrared sensors around a volume,and those infrared sensors track the three-dimensional positionof those markers in real time.And then animators can take the data of the motion of those markersand apply them to a computer-generated character.You can see the computer characters on the rightare having the same complex motion as the dancers.
+时间： 7:45
+zh-cn:与此同时我们也关注其他的运用脸部捕捉技术的电影将标志放在脸部进行同样的处理正如你所看到的，这种技术所生成的画面相当糟糕这并不十分引人注目。我们意识到我们所需要的是那些在这些标志点之间的信息我们需要皮肤的细节我们需要透过皮肤看到肌肉和骨骼的运动我们需要皱纹，酒窝之类的
+en:But we also looked at numbers of other films at the timethat were using facial marker tracking,and that&#39;s the idea of putting markers on the human faceand doing the same process.And as you can see, it gives you a pretty crappy performance.That&#39;s not terribly compelling.And what we realizedwas that what we neededwas the information that was going on between the markers.We needed the subtleties of the skin.We needed to see skin moving over muscle moving over bone.We needed creases and dimples and wrinkles and all of those things.
+时间： 8:12
+zh-cn:我们第一件要做的事就是抛弃现今所用的技术这一天的技术，现状，最先进的。所以我们放弃了动作捕捉我们离开了我们所熟悉的领域进入了从未涉及过的新领域我们进入了一个技术上的难点我们结束了通话“技术炖。”我们开始在其他领域需求帮助我们相信我们会找到我们所需要的技术金块或技术宝石这项技术可能是从其他领域， 例如医药或是家庭游戏机或是重新调整他们或者我们需要一项全新的技术这项技术可以编写成一个软件允许我们将这些零散的信息组合在一起走到一起，齐心协力。
+en:Our first revelation was to completely abort and walk away fromthe technology of the day, the status quo, the state of the art.So we aborted using motion capture.And we were now well out of our comfort zone,and in uncharted territory.So we were left with this ideathat we ended up calling &quot;technology stew.&quot;We started to look out in other fields.The idea was that we were going to findnuggets or gems of technologythat come from other industries like medical imaging,the video game space,and re-appropriate them.And we had to create kind of a sauce.And the sauce was code in softwarethat we&#39;d written to allow these disparate pieces of technologyto come together and work as one.
+时间： 8:55
+zh-cn:起初，我们遇见一些研究由Paul在70年代早期得到的他认为 他可以将人类的面部表情归类目录中的人脸。他设计了面部动作编码系统他认为有10个基本的面部表情人类面对或形状借由这些动作去构成无数种可能它们可以结合起来，创造无限的可能性一切人类面对的就是这样做的能力。这些全部不受年龄 种族 文化 性别的限制这成为我们继续的基石
+en:Initially, we came across some remarkable researchdone by a gentleman named Dr. Paul Ekman in the early &#39;70s.He believed that he could, in fact,catalog the human face.And he came up with this idea of Facial Action Coding System, or FACS.He believed that there were 70 basic posesor shapes of the human face,and that those basic poses or shapes of the facecan be combined to create infinite possibilitiesof everything the human face is capable of doing.And of course, these transcend age, race, culture, gender.So this became the foundation of our research as we went forward.
+时间： 9:29
+zh-cn:即接着我们遇到了一些卓越的科技被称作Contour你可以看到这个人的面部 具有磷 标记点刻在她的脸上。我们现在说看到的是一个真实面部捕捉而不是那种标记捕捉它站于一组由电脑驱动的相机阵列前这些相机将会准确的描绘出物体的运动重建几何正是这一主题的目前做的事情。我们可一有效的获得物体在3D空间的运动数据对比下这两种技术在左侧，我们看到的数据给了我们什么容积并在右边你看到什么标记给我们。显而易见，这种技术是多么优越了但是这还只是这项技术的雏形，还没有被完全证实。但是，我们可以对比多边形定点个数做个比较。在多边形数计算。左侧的是100，000个顶点右边这个却已经打到了上亿个顶点或者可以认为是无限个
+en:And then we came across some remarkable technologycalled Contour.And here you can see a subject having phosphorus makeupstippled on her face.And now what we&#39;re looking at is really creating a surface captureas opposed to a marker capture.The subject stands in front of a computer array of cameras,and those cameras can, frame-by-frame,reconstruct the geometry of exactly what the subject&#39;s doing at the moment.So, effectively, you get 3D data in real time of the subject.And if you look in a comparison,on the left, we see what volumetric data gives usand on the right you see what markers give us.So, clearly, we were in a substantially better place for this.But these were the early days of this technology,and it wasn&#39;t really proven yet.We measure complexity and fidelity of datain terms of polygonal count.And so, on the left, we were seeing 100,000 polygons.We could go up into the millions of polygons.It seemed to be infinite.
+时间：10:21
+zh-cn:这令我们豁然开朗这是我们这个项目的一个中重大突破啊这令我们有一种我们可以完成这部电影的信心了这一定会成功的和“一哈！”是，如果我们可以采取布拉德皮特，我们可以把布拉德本装置，并利用这一轮廓的过程中，我们可以在这个点画磷光化妆并把他下黑灯，我们可以，事实上，他在实时扫描表演埃克曼的流式细胞仪构成。看 非常有效我们最终完成了一个3D数据库包含了所有Brad Pitt 的所有表情大笑
+en:This was when we had our &quot;Aha!&quot;This was the breakthrough.This is when we&#39;re like, &quot;OK, we&#39;re going to be OK,This is actually going to work.&quot;And the &quot;Aha!&quot; was, what if we could take Brad Pitt,and we could put Brad in this device,and use this Contour process,and we could stipple on this phosphorescent makeupand put him under the black lights,and we could, in fact, scan him in real timeperforming Ekman&#39;s FACS poses.Right? So, effectively,we ended up with a 3D databaseof everything Brad Pitt&#39;s face is capable of doing.(Laughter)
+时间：10:53
+zh-cn:这里， 我们实际上是分割了这些面部表情分解为许多组成部分我们获得了上千种形状一个他面部所能做到的各种表情的数据库他面对的就是这样做的能力。
+en:From there, we actually carved up those facesinto smaller pieces and components of his face.So we ended up with literally thousands and thousands and thousands of shapes,a complete database of all possibilitiesthat his face is capable of doing.
+时间：11:08
+zh-cn:这一切看起来都很不错， 不过这是他44岁的模样我们需要将这个年龄加上40岁我们于是请来了Rick Baker,他是一名强力的化妆和特效天才，在电影行业中。我们的工业。我们还有Kazu sujiKazu 是一名非常好的动态光影建模师我们的人任务就是做一个模型或是 毁了他 本杰明因此，在“大揭幕精神” - 我不得不这样做我已经推出的东西。这是ben 80岁的样子我们做了三个模型分别是本 80 70 60这是我们继续的模板
+en:Now, that&#39;s great, except we had him at age 44.We need to put another 40 years on him at this point.We brought in Rick Baker,and Rick is one of the great makeup and special effects gurusof our industry.And we also brought in a gentleman named Kazu Tsuji,and Kazu Tsuji is one of the great photorealist sculptors of our time.And we commissioned them to make a maquette,or a bust, of Benjamin.So, in the spirit of &quot;The Great Unveiling&quot; — I had to do this —I had to unveil something.So this is Ben 80.We created three of these:there&#39;s Ben 80, there&#39;s Ben 70, there&#39;s Ben 60.And this really became the template for moving forward.
+时间：11:44
+zh-cn:现在，这是从一个生命铸造的布拉德。因此，事实上，在解剖学上，这是正确的。的眼睛，下巴，牙齿...一切都是在完美的路线是什么真正的家伙。我们这些maquettes扫描进电脑在非常高的分辨率。巨大的多边形数。所以现在我们有三个年龄递增本杰明在计算机中。
+en:Now, this was made from a life cast of Brad.So, in fact, anatomically, it is correct.The eyes, the jaw, the teeth:everything is in perfect alignment with what the real guy has.We have these maquettes scanned into the computerat very high resolution —enormous polygonal count.And so now we had three age increments of Benjaminin the computer.
+时间：12:07
+zh-cn:但是，我们必须找到他的数据库做不止于此。我们经历了这一过程，那么，所谓的重新定向。这是布拉德埃克曼流式细胞仪做的一个姿势。这里的结果数据来自该来了，该模型从该来。和重定目标的过程是数据的移调到另一个模型。而且因为生活投，或胸部 - 在maquette - 本雅明是从布拉德，我们可以在44转布拉德数据在87到布拉德。所以，现在，我们有一个三维数据库的一切布拉德皮特的脸可以做87岁的他70多岁，在他60岁。
+en:But we needed to get a database of him doing more than that.We went through this process, then, called retargeting.This is Brad doing one of the Ekman FACS poses.And here&#39;s the resulting data that comes from that,the model that comes from that.Retargeting is the process of transposing that dataonto another model.And because the life cast, or the bust — the maquette — of Benjaminwas made from Brad,we could transpose the data of Brad at 44onto Brad at 87.So now, we had a 3D database of everything Brad Pitt&#39;s face can doat age 87, in his 70s and in his 60s.
+时间：12:42
+zh-cn:下一步，我们已进入了拍摄过程。因此，尽管所有这回事，我们下来在新奥尔良和世界各地的位置。我们的身体，我们拍摄的演员，我们向他们拍摄身穿蓝色头巾。因此，这是绅士玩本杰明。和蓝盖帮我们两件事情：1，我们可以很容易抹掉他们的头上;我们也把他们的头标记跟踪这样我们就可以重新相机的动作从镜头的光学设置。
+en:Next we had to go into the shooting process.So while all that&#39;s going on,we&#39;re down in New Orleans and locations around the world.And we shot our body actors,and we shot them wearing blue hoods.So these are the gentleman who played Benjamin.And the blue hoods helped us with two things:one, we could easily erase their heads;and we also put tracking markers on their headsso we could recreate the camera motionand the lens optics from the set.
+时间：13:04
+zh-cn:但现在我们需要得到布拉德的表现，以推动我们的虚拟本杰明。因此，我们编辑了这是拍摄画面上的位置与其他演员和演员的身体约6个月后我们带来了布拉德到一个在洛杉矶的声场他看着屏幕上当时他的工作成为本杰明。因此，我们循环的场景。他一遍又一遍。我们鼓励他即兴。他带成有趣和不寻常的地方本杰明我们不认为他会去。我们打到了他与4高清摄像机所以我们会得到他的多个视图然后戴维会选择利用被本杰明布拉德他认为最匹配的镜头同其他演员。
+en:But now we needed to get Brad&#39;s performance to drive our virtual Benjamin.And so we edited the footage that was shot on locationwith the rest of the cast and the body actorsand about six months laterwe brought Brad onto a sound stage in Los Angelesand he watched on the screen.His job, then, was to become Benjamin.And so we looped the scenes.He watched again and again.We encouraged him to improvise.And he took Benjamin into interesting and unusual placesthat we didn&#39;t think he was going to go.We shot him with four HD camerasso we&#39;d get multiple views of himand then David would choose the take of Brad being Benjaminthat he thought best matched the footagewith the rest of the cast.
+时间：13:41
+zh-cn:从那里我们去到一个名为图像分析过程。所以在这里，你可以再次看到，所选择的需要。我们看到，现在，该数据被调换到本87。因此，有趣的是这我们使用一种叫做图像分析，它正在从本雅明的脸不同部分的时间安排。所以我们可以选择，例如，他的左眼眉。而且，软件会告诉我们，好，在14帧的左眼眉开始从这里到这里，并得出结论朝框架32。因此，我们可以选择的职位数量在脸上拉从数据。
+en:From there we went into a process called image analysis.And so here, you can see again, the chosen take.And you are seeing, now, that data being transposed on to Ben 87.And so, what&#39;s interesting about this iswe used something called image analysis,which is taking timings from different components of Benjamin&#39;s face.And so we could choose, say, his left eyebrow.And the software would tell us that, well,in frame 14 the left eyebrow begins to move from here to here,and it concludes moving in frame 32.And so we could choose numbers of positions on the faceto pull that data from.
+时间：14:11
+zh-cn:然后，我谈酱油与我们的技术炖，这是秘密酱油，有效，使我们的软件布拉德性能相匹配的镜头与我们的老年生活本杰明数据库的行动，流式细胞仪的形状，我们有。上一帧一帧的基础上，其实，我们可以重建一个三维头部这正好符合了布拉德的表现。
+en:And then, the sauce I talked about with our technology stew —that secret sauce was, effectively, software that allowed us tomatch the performance footage of Bradin live action with our database of aged Benjamin,the FACS shapes that we had.On a frame-by-frame basis,we could actually reconstruct a 3D headthat exactly matched the performance of Brad.
+时间：14:34
+zh-cn:因此，这是如何拍摄完成的影片中出现。在这里你可以看到演员的身体。然后，这就是我们所谓的“死头”，不向杰里加西亚参考。
+en:So this was how the finished shot appeared in the film.And here you can see the body actor.And then this is what we called the &quot;dead head,&quot; no reference to Jerry Garcia.
+时间：14:42
+zh-cn:然后这里的改造企业绩效现在的表现计时。然后，再次，最后一幕。这是一个漫长的过程。（鼓掌）
+en:And then here&#39;s the reconstructed performancenow with the timings of the performance.And then, again, the final shot.It was a long process.(Applause)
+时间：15:04
+zh-cn:下一节在这里，我要通过这个刚刚爆炸，因为我们可以做多张幻灯片的下一个整体TEDTalk。
+en:The next section here, I&#39;m going to just blast through this,because we could do a whole TEDTalk on the next several slides.
+时间：15:10
+zh-cn:我们必须创造一个照明系统。因此，其实我们的很大一部分是在创造过程中的照明环境对于每一个位置，本杰明已经出现这样我们可以把任何场景本的头它会完全匹配的照明，关于其他方面的在现实世界中。
+en:We had to create a lighting system.So really, a big part of our processes was creating a lighting environmentfor every single location that Benjamin had to appearso that we could put Ben&#39;s head into any sceneand it would exactly match the lighting that&#39;s on the other actorsin the real world.
+时间：15:25
+zh-cn:我们还必须建立一个眼系统。我们发现旧的格言，你知道，“眼睛是灵魂之，窗口”千真万确。因此，这里的关键是保持大家在Ben的眼睛。如果你能感受到温暖，感受到人类，他的意图和感受来通过眼睛，然后我们会成功。因此，我们有一个人对眼睛的聚焦系统几乎整整两年。
+en:We also had to create an eye system.We found the old adage, you know,&quot;The eyes are the window to the soul,&quot;absolutely true.So the key here was to keep everybody looking in Ben&#39;s eyes.And if you could feel the warmth, and feel the humanity,and feel his intent coming through the eyes,then we would succeed.So we had one person focused on the eye systemfor almost two full years.
+时间：15:46
+zh-cn:我们还必须创建一个口系统。我们还必须创建一个口系统。我们必须随着时间的推移年龄的牙齿。
+en:We also had to create a mouth system.We worked from dental molds of Brad.We had to age the teeth over time.
+时间：15:52
+zh-cn:我们还必须创造一个阐明舌头，让他阐述他的话。整个系统有一个软件书面阐明了舌头。我们有一个人专门为约9个月的舌头。他很受欢迎。
+en:We also had to create an articulating tongue that allowed him to enunciate his words.There was a whole system written in software to articulate the tongue.We had one person devoted to the tongue for about nine months.He was very popular.
+时间：16:01
+zh-cn:皮肤位移：另一个大问题。皮肤必须绝对准确，而且他也有一老年之家，他在一家养老院周围的其他老人，所以他看的人完全一样。因此，大量的工作，对皮肤变形，你可以看到在这些情况下，一些作品，在某些情况下，它看起来不错，这是一个非常，非常，很早就在我们的测试过程。所以，我们创建了一个有效的数字傀儡可经营的布拉德皮特与他自己的脸。有没有必要来在动画和解释行为或加强他的表现。
+en:Skin displacement: another big deal.The skin had to be absolutely accurate.He&#39;s also in an old age home, he&#39;s in a nursing homearound other old people,so he had to look exactly the same as the others.So, lots of work on skin deformation,you can see in some of these cases it works,in some cases it looks bad.This is a very, very, very early test in our process.So, effectively we created a digital puppetthat Brad Pitt could operate with his own face.There were no animators necessary to come in and interpret behavioror enhance his performance.
+时间：16:30
+zh-cn:有些东西，我们遇到的，虽然，这要求我们结束了“数字肉毒杆菌的效果。”因此，在这个过程中经历的事情，芬奇总是说：“这sandblasts边关闭的表现。”其中一件我们的工艺和技术不能做它是无法理解的意图，该演员意图。因此，它认为，作为一个微笑的微笑。它不承认一个具有讽刺意味的微笑，或者一个幸福的微笑，或沮丧的笑容。因此，它确实需要人类推到一个或另一种方式。
+en:There was something that we encountered, though,that we ended up calling &quot;the digital Botox effect.&quot;So, as things went through this process,Fincher would always say, &quot;It sandblasts the edges off of the performance.&quot;And thing our process and the technology couldn&#39;t do,is they couldn&#39;t understand intent,the intent of the actor.So it sees a smile as a smile.It doesn&#39;t recognize an ironic smile, or a happy smile,or a frustrated smile.So it did take humans to kind of push it one way or another.
+时间：16:59
+zh-cn:但我们最终调用的全过程和所有的技术“情感捕捉”而不仅仅是动作捕捉。再来看看。
+en:But we ended up calling the entire processand all the technology &quot;emotion capture,&quot;as opposed to just motion capture.Take another look.
+时间：17:08
+zh-cn:布拉德皮特：嗯，我听到妈妈和如痴如醉的耳语，他们说我是将要死去不久，但是...也许不会。
+en:Brad Pitt: Well, I heard momma and Tizzy whisper,and they said I was gonna die soon,but ... maybe not.
+时间：17:34
+zh-cn:埃德尔布里奇：这是如何创建一个数字人体在18分钟。（掌声）
+en:EU: That&#39;s how to create a digital human in 18 minutes.(Applause)
+时间：17:45
+zh-cn:一个快速改编过的夫妇。他花费了155人超过两年的时间，我们甚至没有谈到60发型和全数字理发。但是，这是本杰明。谢谢。
+en:A couple of quick factoids;it really took 155 people over two years,and we didn&#39;t even talk about 60 hairstyles and an all-digital haircut.But, that is Benjamin. Thank you.

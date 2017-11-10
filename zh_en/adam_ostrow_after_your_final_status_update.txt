@@ -1,0 +1,36 @@
+时间： 0:11
+zh-cn:截止今年年底，这个星球上将有接近十亿人口在很活跃地使用社交网站。他们有一个共同点，就是他们终将死去。也许这是个有点病态的想法，但是我认为它有一些深远的意义值得探究。
+en:By the end of this year,there&#39;ll be nearly a billion people on this planetthat actively use social networking sites.The one thing that all of them have in commonis that they&#39;re going to die.While that might be a somewhat morbid thought,I think it has some really profound implicationsthat are worth exploring.
+时间： 0:30
+zh-cn:第一次让我思考这个问题，是今年早些时期，戴瑞克·米勒发布的一个博客。他曾是一名科学和科技记者，死于癌症。米勒让他的家人和朋友在他去世不久后写一个通知。这是他最初写的。他说，“这个时刻还是到了。我已经死了，这是我在博客上的最后一条信息在此之前，我已恳请我的家人和朋友，一旦我的身体因为癌症的折磨而停止运转，他们将发布这条我事先写好的信息－－这是把一个活跃的网站转变成一种档案的第一部分。”
+en:What first got me thinking about thiswas a blog post authored earlier this year by Derek K. Miller,who was a science and technology journalistwho died of cancer.And what Miller did was have his family and friends write a postthat went out shortly after he died.Here&#39;s what he wrote in starting that out.He said, &quot;Here it is. I&#39;m dead,and this is my last post to my blog.In advance, I asked that once my body finally shut downfrom the punishments of my cancer,then my family and friends publish this prepared message I wrote —the first part of the processof turning this from an active website to an archive.&quot;
+时间： 1:05
+zh-cn:现在，作为一名记者，米勒的档案或许可以比其他人更好地被记录，更好地被展示，事情的真相是今天我们所有的人都在创造一种档案，一种完全不同于任何被前辈们创造出的事物。
+en:Now, while as a journalist,Miller&#39;s archive may have been better writtenand more carefully curated than most,the fact of the matter is that all of us todayare creating an archivethat&#39;s something completely differentthan anything that&#39;s been createdby any previous generation.
+时间： 1:21
+zh-cn:请大家来看看这些数据。此时此刻，每分钟有48个小时的视频正在被上传到Youtube上。每天，有2亿条的微博被发布。平均每个脸书用户每月产生90条的内容。所以，当你回想你的父母或曾父母们时，他们至多制作了一些照片或家庭视频，或者一本躺在某处箱子里的日记。但是今天，我们正在创造这个丰富到不可思议的数码档案，甚至在我们离开世界的若干年之后，它们仍然可以在世界上永恒地存在。我想，那将为技术专家创造很多有趣到难以置信的机会。
+en:Consider a few stats for a moment.Right now there are 48 hours of videobeing uploaded to YouTube every single minute.There are 200 million Tweets being posted every day.And the average Facebook useris creating 90 pieces of content each month.So when you think about your parents or your grandparents,at best they may have createdsome photos or home videos,or a diary that lives in a box somewhere.But today we&#39;re all creating this incredibly rich digital archivethat&#39;s going to live in the cloud indefinitely,years after we&#39;re gone.And I think that&#39;s going to create some incredibly intriguing opportunitiesfor technologists.
+时间： 2:01
+zh-cn:我先声明，我是一个记者，而不是技术专家，所以我主要想做的是描绘一幅画面，一幅关于现在和未来将会怎样的画面。目前，我们已经看到一些服务，它们被设定好以让我们决定我们网上的个人主页和社交媒体的账户在我们去世之后会发生什么。事实上，它们中的一个，很合时宜地，当我在纽约四方区的一家餐馆买熟食的时候发现了我。
+en:Now to be clear, I&#39;m a journalist and not a technologist,so what I&#39;d like to do brieflyis paint a pictureof what the present and the future are going to look like.Now we&#39;re already seeing some servicesthat are designed to let us decidewhat happens to our online profile and our social media accountsafter we die.One of them actually, fittingly enough,found me when I checked into a deliat a restaurant in New Yorkon foursquare.
+时间： 2:28
+zh-cn:（录音）亚当·奥斯丘：你好。死神：亚当？亚当：是。死神：死神可以在任何时间，任何地点抓到你，甚至在你还是有机体的时候。亚当：你是谁？死神：去”如果我死了.net“在一切都太迟以前。
+en:(Recording) Adam Ostrow: Hello.Death: Adam?AO: Yeah.Death: Death can catch you anywhere, anytime,even at the Organic.AO: Who is this?Death: Go to ifidie.netbefore it&#39;s too late.
+时间： 2:47
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:49
+zh-cn:亚当·奥斯丘：有点吓人，对吧？这种服务，其实很简单，就是让你准备一条信息或一段视频，它们会在你死后被发布在脸书上。最近的另一种服务，叫做1000个回忆。这种服务可以让你创造一种在线的称赞给你的亲友们，他们可以在你去世后，发布照片、视频、和你们之间的故事。但是我认为下面的这个例子要有趣的多。
+en:Adam Ostrow: Kind of creepy, right?So what that service does, quite simply,is let you create a message or a videothat can be posted to Facebook after you die.Another service right nowis called 1,000 Memories.And what this lets you do is create an online tribute to your loved ones,complete with photos and videos and storiesthat they can post after you die.But what I think comes next is far more interesting.
+时间： 3:13
+zh-cn:现在，你们中的很多人可能都很熟悉戴·罗伊他在3月份的演讲中，演示了他是如何解析那长于9万小时的家庭录影。我想既然机器有能力去理解人类的语言，并处理大量的数据,如果持续地改进，很有可能，它们将可以解析一个人的一生－－微博，照片，视频，博客－－所有我们产生的，大量的信息。并且我认为，如果那真的发生了，我们的数码角色就很有可能在我们离开很久之后持续地与现实世界中的我们互动。这要归功于我们创造的大量的内容和科技的力量，让它们得以付诸实践。
+en:Now a lot of you are probably familiar with Deb Roywho, back in March,demonstrated how he was able to analyze more than 90,000 hours of home video.I think as machines&#39; abilityto understand human language and process vast amounts of datacontinues to improve,it&#39;s going to become possibleto analyze an entire life&#39;s worth of content —the Tweets, the photos, the videos, the blog posts —that we&#39;re producing in such massive numbers.And I think as that happens,it&#39;s going to become possible for our digital personasto continue to interact in the real world long after we&#39;re gonethanks to the vastness of the amount of content we&#39;re creatingand technology&#39;s ability to make sense of it all.
+时间： 3:51
+zh-cn:现在，我们已经开始着手一些实验。其中一个服务叫做”我的下一条微博“，分析你的整个微博档案，所有你在微博上发布的信息，去预测你接下来会说什么。现在，正如你看到的，结果会有点滑稽。你可以想象这样的事物在5年、10年，或者20年后会看起来怎样，基于我们的科技能力在不断提升。进一步地说，麻省理工的媒体实验室正忙于研究能更像人类那样互动的机器人。但是如果这些机器人能够正常互动，基于具体个人的独特个性，基于人一生中创造的千千万万条的内容，那将会怎样？
+en:Now we&#39;re already starting to see some experiments here.One service called My Next Tweetanalyzes your entire Twitter stream, everything you&#39;ve posted onto Twitter,to make some predictions as to what you might say next.Well right now, as you can see,the results can be somewhat comical.You can imagine what something like this might look likefive, 10 or 20 years from nowas our technical capabilities improve.Taking it a step further,MIT&#39;s media lab is working on robotsthat can interact more like humans.But what if those robots were able to interactbased on the unique characteristics of a specific personbased on the hundreds of thousands of pieces of contentthat person produces in their lifetime?
+时间： 4:30
+zh-cn:最后，让我们的思绪回到这个著名的一幕，2008年的选举之夜，在美国，CNN发送了一张嘻哈歌手”我是威尔“的现场全息图去他们的演播室，那是为安德森·库珀的采访准备的。如果我们可以用同样的科技发送一个我们亲人的重现影像到我们的客厅，非常逼真地互动，基于他们活着时候创造的内容，那将会怎样？我认为这是完全有可能的，因为我们使用的数据流量和科技对其认知的能力，都在成倍地增长。在结束之际，我认为我们都需要思考的是，我们是否想要此成为现实，如果是，它对生命的定义，以及随之而来的一切事物，又意味着什么？非常感谢。
+en:Finally, think back to this famous scenefrom election night 2008back in the United States,where CNN beamed a live hologramof hip hop artist will.i.am into their studiofor an interview with Anderson Cooper.What if we were able to use that same type of technologyto beam a representation of our loved ones into our living rooms —interacting in a very lifelike waybased on all the content they created while they were alive?I think that&#39;s going to become completely possibleas the amount of data we&#39;re producingand technology&#39;s ability to understand itboth expand exponentially.Now in closing, I think what we all need to be thinking aboutis if we want that to become our reality —and if so,what it means for a definition of life and everything that comes after it.Thank you very much.
+时间： 5:15
+zh-cn:（鼓掌）
+en:(Applause)

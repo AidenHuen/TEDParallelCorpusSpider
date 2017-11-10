@@ -1,0 +1,54 @@
+时间： 0:11
+zh-cn:话说，我是学应用数学的对于每一个学应用数学的人来说有一个特殊的难题，就是我们和管理顾问都很像没人知道我们是干嘛的所以我今天会给你们一些实例来解释我们是干什么的
+en:So, well, I do applied math,and this is a peculiar problemfor anyone who does applied math, is thatwe are like management consultants.No one knows what the hell we do.So I am going to give you some — attempt todayto try and explain to you what I do.
+时间： 0:25
+zh-cn:嗯，跳舞是人类众多的活动之一我们会因芭蕾舞大师和踢踏舞蹈者而感到欣悦稍后你们就会知道了如今芭蕾需要非凡的专业知识和杰出的专业技巧甚至一定的初级适应性这可能就是所说的天赋不过，可悲的是，神经系统疾病，例如帕金森症慢慢地在摧毁这一卓越的才能这正发生在我的朋友Jan Striling身上他曾是他那个时代的芭蕾舞大师这些年他接受过很多治疗也有很大的进步然而，世上有630万的人患有这种疾病，而且他们还得忍受无法治愈的虚弱，震颤，僵化等其他伴随而来的症状的折磨所以我们需要客观的工具在病重之前将之检测出来我们需要客观地测量进展最后，想要知道何时有治愈之方的唯一方法就是当我们拥有了能准确回答那些问题的客观测量法
+en:So, dancing is one of the most human of activities.We delight at ballet virtuosos and tap dancersyou will see later on.Now, ballet requires an extraordinary level of expertiseand a high level of skill,and probably a level of initial suitabilitythat may well have a genetic component to it.Now, sadly, neurological disorders such as Parkinson&#39;s diseasegradually destroy this extraordinary ability,as it is doing to my friend Jan Stripling, who wasa virtuoso ballet dancer in his time.So great progress and treatment has been made over the years.However, there are 6.3 million people worldwidewho have the disease, and they have to live withincurable weakness, tremor, rigidityand the other symptoms that go along with the disease,so what we need are objective toolsto detect the disease before it&#39;s too late.We need to be able to measure progression objectively,and ultimately, the only way we&#39;re going to knowwhen we actually have a cure is when we havean objective measure that can answer that for sure.
+时间： 1:25
+zh-cn:但令人泄气的是，帕金森症和其他运动障碍疾病，都没有生物标志物所以你没法做简单的血液检查我们能做到的最好的就是像这个20分钟的神经学测试你必须得到诊所去，而且花费相当相当大这也意味着，在临床试验之外从来没人做过这个测试，从来没有
+en:But frustratingly, with Parkinson&#39;s diseaseand other movement disorders, there are no biomarkers,so there&#39;s no simple blood test that you can do,and the best that we have is likethis 20-minute neurologist test.You have to go to the clinic to do it. It&#39;s very, very costly,and that means that, outside the clinical trials,it&#39;s just never done. It&#39;s never done.
+时间： 1:44
+zh-cn:但如果病人能在家完成这个测试呢？这也能为病人节省下那段去诊所的路程如果病人能独立完成这个测试呢？就不需要花大量的钱去雇佣员工顺便提下，如果去神经科诊所做的话这个费用要300美金
+en:But what if patients could do this test at home?Now, that would actually save on a difficult trip to the clinic,and what if patients could do that test themselves, right?No expensive staff time required.Takes about $300, by the way,in the neurologist&#39;s clinic to do it.
+时间： 1:59
+zh-cn:所以我想向你们提出一个非常规的的方法一个我们能尝试去达到目的的方法因为你也知道，在某种意义上，至少我们都是像我朋友Jan Stripling一样的艺术大师
+en:So what I want to propose to you as an unconventional wayin which we can try to achieve this,because, you see, in one sense, at least,we are all virtuosos like my friend Jan Stripling.
+时间： 2:08
+zh-cn:我这里有一个关于声襞颤动的视频这个是健康状态下的某人在发声我们把自己想当作是声音的芭蕾舞者因为当我们发声时我们得去协调这些发声器官，确实这些是与生俱来的，例如Foxp2基因而且和芭蕾一样，这也需要经过特殊地训练可以想一想，小孩学说话得花多长时间从声音里，我们可以追寻到声襞颤动时的位置正如帕金森能影响我们四肢它也能影响我们发声器官你可以看到底部的颤动轨迹是一种不规则的声襞颤动我们看到了一样的症状声音颤动，虚弱，和僵化讲话会变得小声而且之后伴随更多气息音这些都是症状的例子
+en:So here we have a video of the vibrating vocal folds.Now, this is healthy and this is somebody making speech sounds,and we can think of ourselves as vocal ballet dancers,because we have to coordinate all of these vocal organswhen we make sounds, and we all actuallyhave the genes for it. FoxP2, for example.And like ballet, it takes an extraordinary level of training.I mean, just think how long it takes a child to learn to speak.From the sound, we can actually trackthe vocal fold position as it vibrates,and just as the limbs are affected in Parkinson&#39;s,so too are the vocal organs.So on the bottom trace, you can see an example ofirregular vocal fold tremor.We see all the same symptoms.We see vocal tremor, weakness and rigidity.The speech actually becomes quieter and more breathyafter a while, and that&#39;s one of the example symptoms of it.
+时间： 2:53
+zh-cn:事实上，这些声效大部分时候挺难以捉摸的但只要有任何一款数码麦克风搭上精密的声音分析软件再组合用上最新的目前已非常先进的机器研究现在我们就能准确地定量他人处于健康和疾病这一直线上的位置这仅仅只需要语音信号而已
+en:So these vocal effects can actually be quite subtle,in some cases, but with any digital microphone,and using precision voice analysis softwarein combination with the latest in machine learning,which is very advanced by now,we can now quantify exactly where somebody lieson a continuum between health and diseaseusing voice signals alone.
+时间： 3:14
+zh-cn:那么这些以语音为基础的测试，他们会怎样与专业的临床测试展开较量呢？其实他们都是无创技术神经学测试是无创性的，而且他们都使用现有的基础设备你无需去设计一系列新的医院来完成测试他们也都具有精确性。虽然这么说，但是基于语音的测试却不是专家级别的这意味着患者能自己搞定而且速度也快，最多只要30秒价格很低，我们也知道是怎么一回儿事一旦价格低廉它也就能被大规模地扩展我这儿有些现在能拿出来说的伟大的目标我们能减少和病人有关的后勤问题没必要去诊所做例行的检查我们能进行高频率的监测以获取客观数据我们能为临床试验组织大量征召且耗费很低我们也能使人数的规模的展示在第一时间变得可行我们也有机会开始寻找这种疾病在病入膏肓前的早期生物标志物
+en:So these voice-based tests, how do they stack up againstexpert clinical tests? We&#39;ll, they&#39;re both non-invasive.The neurologist&#39;s test is non-invasive. They both use existing infrastructure.You don&#39;t have to design a whole new set of hospitals to do it.And they&#39;re both accurate. Okay, but in addition,voice-based tests are non-expert.That means they can be self-administered.They&#39;re high-speed, take about 30 seconds at most.They&#39;re ultra-low cost, and we all know what happens.When something becomes ultra-low cost,it becomes massively scalable.So here are some amazing goals that I think we can deal with now.We can reduce logistical difficulties with patients.No need to go to the clinic for a routine checkup.We can do high-frequency monitoring to get objective data.We can perform low-cost mass recruitment for clinical trials,and we can make population-scale screeningfeasible for the first time.We have the opportunity to start to searchfor the early biomarkers of the disease before it&#39;s too late.
+时间： 4:07
+zh-cn:所以，从今天开始朝这个方向迈出第一步我们开始了Parkinson&#39;s Voice Initiative(帕金森主创声音测试)这个项目和Aculab还有PatientsLikeMe一起合作，我们希望记录下大量世界各地的声音收集足够的数据来达到这四个目标我们的市话号码能接通地球上7亿5000万人的来电任何健康或者患有帕金森疾病的人都能打进来，很便宜留下录音，每次只要几分钱我很高兴宣布我们仅在8小时内就达到了我们目标的6%谢谢（掌声）（掌声）
+en:So, taking the first steps towards this today,we&#39;re launching the Parkinson&#39;s Voice Initiative.With Aculab and PatientsLikeMe, we&#39;re aimingto record a very large number of voices worldwideto collect enough data to start to tackle these four goals.We have local numbers accessible to three quartersof a billion people on the planet.Anyone healthy or with Parkinson&#39;s can call in, cheaply,and leave recordings, a few cents each,and I&#39;m really happy to announce that we&#39;ve already hitsix percent of our target just in eight hours.Thank you. (Applause)(Applause)
+时间： 4:43
+zh-cn:Tom Rielly: Max，靠着这些采样
+en:Tom Rielly: So Max, by taking all these samples of,
+时间： 4:47
+zh-cn:不妨说，在一万人中你能够辨别出谁是健康的，谁是患病的？你又想从这些采样中得出什么呢？
+en:let&#39;s say, 10,000 people,you&#39;ll be able to tell who&#39;s healthy and who&#39;s not?What are you going to get out of those samples?
+时间： 4:54
+zh-cn:Max Little:对，是的。所以是这样的在来电期间，你得告诉我们你是否患有这种疾病。TR：嗯ML:要知道，有些人可能不会打给我们，或者没接通但我们还是会得到大量来自不同环境下的采样数据而且重点是不同的环境，因为这样我们才能消除掉那些混淆的因素寻求这种疾病真正的标记
+en:Max Little: Yeah. Yeah. So what will happen is that,during the call you have to indicate whether or notyou have the disease or not, you see. TR: Right.ML: You see, some people may not do it. They may not get through it.But we&#39;ll get a very large sample of data that is collectedfrom all different circumstances, and it&#39;s getting itin different circumstances that matter because thenwe are looking at ironing out the confounding factors,and looking for the actual markers of the disease.
+时间： 5:15
+zh-cn:TR:所以你现在拥有86%的准确率了？
+en:TR: So you&#39;re 86 percent accurate right now?
+时间： 5:18
+zh-cn:ML:已经远远不止了事实上，我的学生Thanasis，我得提一下他因为他做出一些出色的成果现在他已经证明了在移动电话网上也能进行这个项目所以现在我们接近99%的准确率了
+en:ML: It&#39;s much better than that.Actually, my student Thanasis, I have to plug him,because he&#39;s done some fantastic work,and now he has proved that it works over the mobile telephone network as well,which enables this project, and we&#39;re getting 99 percent accuracy.
+时间： 5:30
+zh-cn:TR:九十九，好吧，这还挺了不起的所以这也意味着人们能——ML:（笑）TR:人们能用手机打进你们的电话然后做这项测试，帕金森病人也能打通电话然后记录下声音，之后他们的医生就能检查他们的进展确定他们处于这种疾病的哪个阶段
+en:TR: Ninety-nine. Well, that&#39;s an improvement.So what that means is that people will be able to —ML: (Laughs)TR: People will be able to call in from their mobile phonesand do this test, and people with Parkinson&#39;s could call in,record their voice, and then their doctor can check upon their progress, see where they&#39;re doing in this course of the disease.
+时间： 5:46
+zh-cn:ML:就是这样
+en:ML: Absolutely.
+时间： 5:47
+zh-cn:TR:非常感谢，Max Little和所有人
+en:TR: Thanks so much. Max Little, everybody.
+时间： 5:48
+zh-cn:ML:谢谢你Tom（掌声）
+en:ML: Thanks, Tom. (Applause)

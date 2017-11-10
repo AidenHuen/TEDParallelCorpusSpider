@@ -1,0 +1,66 @@
+时间： 0:13
+zh-cn:服务器：先生，请问有什么可以帮您吗？
+en:Server: May I help you, sir?
+时间： 0:18
+zh-cn:顾客：恩，让我看看。
+en:Customer: Uh, let&#39;s see.
+时间： 0:21
+zh-cn:服务器： 我们有注册错误烤盘，洒有最好的已损坏数据，二进制奶油蛋卷、随机存取储存三明治配飞客蠕虫病毒，和脚本沙拉，以及多态酱汁供您选择，还有编码烤肉串。
+en:Server: We have pan seared registry errorsprinkled with the finest corrupted data,binary brioche, RAM sandwiches,Conficker fitters,and a scripting salad with orwithout polymorphic dressing,and a grilled coding kabob.
+时间： 0:37
+zh-cn:客户：我选随机存取存储器三明治和一杯最好的代码 39 酒。
+en:Customer: I&#39;d like a RAM sandwichand a glass of your finest Code 39.
+时间： 0:43
+zh-cn:服务器： 请问先生需要甜品吗？我们特别菜是网路跟踪器曲奇。
+en:Server: Would you like any desserts, sir?Our special is tracking cookie.
+时间： 0:48
+zh-cn:客户： 我想要一份僵尸跟踪曲奇，谢谢。
+en:Customer: I&#39;d like a batch of somezombie tracking cookies, thank you.
+时间： 0:51
+zh-cn:服务器： 马上就好，先生。不久将为你呈上菜品。
+en:Server: Coming right up, sir.Your food will be served shortly.
+时间： 0:56
+zh-cn:（掌声）
+en:(Applause)
+时间： 1:03
+zh-cn:玛雅·佩恩: 在我会拿蜡笔的时候我就开始画画了，从三岁开始，我就在制作动画手翻书，很小的时候，我就知道动画片绘制者是什么。那时有一个关于工作的电视节目，大多数孩子都不知道那是什么。当我了解到，我在电视上看到的卡通都出自动画设计者之手的时候，我马上说：&quot;我想要成为这样的人。&quot;我不知道是否以一种疯狂或大声的语气，但那是我生命中重大的决定性时刻。
+en:Maya Penn: I&#39;ve been drawing eversince I could hold a crayon,and I&#39;ve been making animated flip bookssince I was three years old.At that age, I also learnedabout what an animator was.There was a program on TV about jobsmost kids don&#39;t know about.When I understood that an animatormakes the cartoons I saw on TV,I immediately said, &quot;That&#39;s what I want to be.&quot;I don&#39;t know if I said it mentally or out loud,but that was a greatly defining moment in my life.
+时间： 1:31
+zh-cn:动画和艺术一直是我的最爱。我对技术的热爱点亮了“邪恶菜肴”这个想法，我的电脑上有病毒，我一直在试图消除它，突然之间，我想到，病毒们在计算机内部有自己的小世界吗？也许有个餐厅，病毒们时常在那里碰面做坏事？因此，&quot;邪恶菜肴&quot;出现了。
+en:Animation and art has always been my first love.It was my love for technology that sparked the ideafor &quot;Malicious Dishes.&quot;There was a virus on my computer,and I was trying to get rid of it,and all of a sudden, I just thought,what if viruses have their ownlittle world inside the computer?Maybe a restaurant where they meet upand do virusy things?And thus, &quot;Malicious Dishes&quot; was born.
+时间： 1:55
+zh-cn:在我四岁的时候，我爸爸展示了如何拆开计算机，再把它拼装回去的过程。这开启了我对技术的喜爱。我用超文本标记语言搭建了自己的第一个网站，我正在学习脚本语言和和 Python 语言。
+en:At four years old, my dad showed mehow to take apart a computerand put it back together again.That started my love for technology.I built my first website myself in HTML,and I&#39;m learning JavaScript and Python.
+时间： 2:08
+zh-cn:我同时还在制作一个动画系列，叫作&quot;传粉者&quot;。有关于自然界中蜜蜂和其它传粉者以及它们为什么如此重要。如果传粉昆虫不给植物授粉，所有依靠这些植物生存的生物包括我们自己就会被挨饿。所以我将这些很酷的生物组建成一个超级英雄团队。（掌声）(跺脚声)（音乐）（大吼）传粉者： 破坏森林的惧龙! 我就知道是你！我需要呼叫其它的传粉者们！（音乐）
+en:I&#39;m also working on an animated seriescalled &quot;The Pollinators.&quot;It&#39;s about bees and otherpollinators in our environmentand why they&#39;re so important.If plants aren&#39;t pollinated by the pollinators,then all creatures, including ourselves,that depend on these plants, would starve.So I decided to take these cool creaturesand make a superhero team.(Applause)(Foot stomp)(Music)(Roar)Pollinator: Deforestsaurus! I should have known!I need to call on the rest of the Pollinators!(Music)
+时间： 3:06
+zh-cn:谢谢。（掌声）
+en:Thank you. (Applause)
+时间： 3:08
+zh-cn:所有我的动画都起源于创意，但什么是创意？创意能激发行动。创意意味着机会和创新。创意是世界运转的源泉。如果不是有创意，我们就不会是现在这样有科技、 医药、艺术、 文化以及我们的生活方式。八岁那年，我将我的创意付诸实践开创了自己的生意，叫作“玛雅的创意”和我的非盈利性组织—“玛雅有关地球的创意”。（笑声）我制作环保材料的服装和配饰。我现在 13 岁，尽管我在 2008 年开始了我的生意，我的艺术之旅在那之前很早就开始了。艺术给予我极大地影响，我想要把它纳入我所做的一切，甚至是我的生意。我会在房子周围找寻不同的面料，并说，&quot;这可以是一条围巾或帽子。&quot;我有着很多设计灵感，当我穿着我自己的作品时，我注意到人们会暂住脚步问说，&quot;哇，这真的很可爱。在哪儿能买到呢?&quot;我想，我可以开始自己的生意了。
+en:All of my animations start with ideas,but what are ideas?Ideas can spark a movement.Ideas are opportunities and innovation.Ideas truly are what make the world go round.If it wasn&#39;t for ideas, we wouldn&#39;t bewhere we are now with technology, medicine,art, culture, and how we even live our lives.At eight years old, I took my ideasand started my own business called Maya&#39;s Ideas,and my nonprofit, Maya&#39;s Ideas for the Planet.(Laughter)And I make eco-friendly clothing and accessories.I&#39;m 13 now, and although I started my businessin 2008,my artistic journey started way before then.I was greatly influenced by art, and I wanted toincorporate it in everything I did, even my business.I would find different fabrics around the house,and say, &quot;This could be a scarf or a hat,&quot;and I had all these ideas for designs.I noticed when I wore my creations,people would stop me and say,&quot;Wow, that&#39;s really cute. Where can I get one?&quot;And I thought, I can start my own business.
+时间： 4:15
+zh-cn:那时我没有任何的商业计划，也只有八岁。我只知道我想要制作漂亮的饰品，用对环境安全无害的材料和方式我想要回馈自然。我妈妈教我缝纫技术，我坐在走廊后面，用缎带制作发箍，并写下产品名和价格。我开始制作更多的饰品，像是帽子，围巾和包袋。很快，我的作品销往世界各地，购买的客户来自丹麦、 意大利、 澳大利亚、加拿大和其它国家。
+en:Now I didn&#39;t have any business plansat only eight years old.I only knew I wanted to make pretty creationsthat were safe for the environmentand I wanted to give back.My mom taught me how to sew,and on my back porch, I would sit and makelittle headbands out of ribbon,and I would write down the namesand the price of each item.I started making more items like hats,scarves and bags.Soon, my items began selling all over the world,and I had customers in Denmark, Italy, Australia,Canada and more.
+时间： 4:44
+zh-cn:现在，我有学习更多商业知识，像品牌塑造和市场营销，同我的老客户沟通，看看什么卖得最好，什么销量最糟。很快，我的生意真的开始飞黄腾达了。然后有一天，《福布斯》杂志联系我，那时我只有 10 岁。（笑声）他们想要写关于我和我公司的文章。
+en:Now, I had a lot to learn about my business,like branding and marketing,staying engaged with my customers,and seeing what sold the most and the least.Soon, my business really started to take off.Then one day, Forbes magazine contacted me when I was 10 years old.(Laughter)They wanted to feature me and my companyin their article.
+时间： 5:07
+zh-cn:现在很多人问我，为什么你的生意是环境友好型的？从小开始，我就有保护环境和生活在其中的小小生物的热情。我很小的时候，父母就教给我要回馈和善待环境。我了解到，一些衣物的染料或衣物的生产过程对人类和地球是有害的。所以我开始研究，我发现甚至在染色完成后，废弃的污水还会造成环境污染。例如，磨材料，或倾倒干粉材料。这些行为会污染空气，对于人体和环境是有毒的。所以，当我开始自己生意的时候，两件事是很确定的：我的作品必须是环保的，利润的 10% 到 20%要捐给当地和世界上的慈善机构和环境保护组织。（掌声）我觉得我是新兴企业家的一部分不单只追求建立一个成功的企业，而且要建立一个可持续的未来。我觉得可以满足客户的需求，在不损害后代享有更加绿色的未来的前提下。
+en:Now a lot of people ask me,why is your business eco-friendly?I&#39;ve had a passion for protecting the environmentand its creatures since I was little.My parents taught me at an early ageabout giving back and being agood steward to the environment.I heard about how the dyes in some clothingor the process of even making the itemswas harmful to the people and the planet,so I started doing my own research,and I discovered that evenafter dyeing has being completed,there is a waste issue that gives a negative impacton the environment.For example, the grinding of materials,or the dumping of dried powder materials.These actions can pollute the air,making it toxic to anyone or anything that inhales it.So when I started my business,I knew two things:All of my items had to be eco-friendly,and 10 to 20 percent of the profits I madewent to local and global charitiesand environmental organizations.(Applause)I feel I&#39;m part of the new wave of entrepreneursthat not only seeks to have a successful business,but also a sustainable future.I feel that I can meet the needs of my customerswithout compromising theability of future generationsto live in a greener tomorrow.
+时间： 6:18
+zh-cn:我们生活在一个广阔的、 多样的美丽世界，这让我更有保护这一切的热情。但只用头脑来想想，我们的世界正在发生些什么是远远不够的。还要通过你们的心，因为当你用心感受这件事，就会有所行动。那时，机会和创新就会出现这也就是为什么创意能成为现实。
+en:We live in a big, diverse and beautiful world,and that makes me even more passionate to save it.But it&#39;s never enough to justto get it through your headsabout the things that are happening in our world.It takes to get it through your hearts,because when you get it through your heart,that is when movements are sparked.That is when opportunitiesand innovation are created,and that is why ideas come to life.
+时间： 6:40
+zh-cn:谢谢你，和平与祝福。
+en:Thank you, and peace and blessings.
+时间： 6:45
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:50
+zh-cn:谢谢。（掌声）
+en:Thank you. (Applause)
+时间： 6:53
+zh-cn:帕特 · 米切尔： 玛雅谈到在她背后支持她的令人赞叹的父母他们在哪里？有请佩恩先生和夫人 ！（掌声）
+en:Pat Mitchell: So, you heard Maya talk aboutthe amazing parents who are behindthis incredible woman. Where are they?Please, Mr. and Mrs. Penn. Would you just — Ah!(Applause)

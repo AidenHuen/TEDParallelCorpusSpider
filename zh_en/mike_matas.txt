@@ -1,0 +1,39 @@
+时间： 0:11
+zh-cn:在过去的一年半中，我在Push Pop出版社的团队和查理·梅尔彻以及梅尔彻媒体一直致力于创造第一本长篇的交互式图书。它叫《我们的选择》作者是阿尔·戈尔。它是《难以忽视的真相》的续集它探索了用于解决气候问题的所有方法。
+en:So for the past year and a half,my team at Push Pop Pressand Charlie Melcher and Melcher Mediahave been working on creatingthe first feature-length interactive book.It&#39;s called &quot;Our Choice&quot;and the author is Al Gore.It&#39;s the sequel to &quot;An Inconvenient Truth,&quot;and it explores all the solutionsthat will solve the climate crisis.
+时间： 0:31
+zh-cn:这书是这样开头的。这是封面。随着地球的旋转，我们可以看到我们所在位置。然后打开书翻阅各个章节来浏览这本书。或者我们可以滚动到底部页面如果我们想放大一个页面，我们就能放大它。你在书中看到的任何东西，你用两个指头捡起来那一页就可以放大。如果你想返回重新阅读，你只要把它折叠起来，放回书中。这都是同样使用方法；你选出它，把它放大。
+en:The book starts like this. This is the cover.As the globe spins,we can see our location,and we can open the bookand swipe through the chaptersto browse the book.Or, we can scroll through the pages at the bottom.And if we wanted to zoom into a page,we can just open it up.And anything you see in the book,you can pick up with two fingersand lift off the pageand open up.And if you want to go backand read the book again,you just fold it back up and put it back on the page.And so this works the same way; you pick it up and pop it open.
+时间： 1:14
+zh-cn:（音频）阿尔·戈尔：我认为我自己包括大部分人看到风车都会感到它们是一个锦上添花的美景。
+en:(Audio) Al Gore: I consider myselfamong the majoritywho look at windmills and feelthey&#39;re a beautiful addition to the landscape.
+时间： 1:22
+zh-cn:马克 麦塔斯：贯穿全书，阿尔·戈尔会与你同行，并讲解所有的图片。在这幅图片，你能看到交互式地图。放大地图，看它是在哪。全书有一个多小时的纪录片片段和交互式动画制作。所以你可以打开这个。
+en:Mike Matas: And so throughout the whole book,Al Gore will walk you through and explain the photos.This photo, you can you can even see on an interactive map.Zoom into it and see where it was taken.And throughout the book,there&#39;s over an hour of documentary footageand interactive animations.So you can open this one.
+时间： 1:45
+zh-cn:(音频)AG： 最现代化风力计划的组成由...
+en:(Audio) AG: Most modern wind turbines consist of a large ...
+时间： 1:48
+zh-cn:MM:这视频会立即开始播放。在它播放时，我们可以缩小，放到页面上面，视频还在继续播放。或者我们可以缩小到目录表，视频还在继续播放。但这书中最酷的事之一是交互式信息图像。这展示了美国各地的风能潜力图。但不只是展示给我们信息我们能用我们的手指去探索，看看各个州的准确的风能潜力到底是多少。我们也能知道地热能和太阳能的信息图。
+en:MM: It starts playing immediately.And while it&#39;s playing, we can pinch and peak back at the page,and the movie keeps playing.Or we can zoom out to the table of contents,and the video keeps playing.But one of the coolest things in this bookare the interactive infographics.This one shows the wind potentialall around the United States.But instead of just showing us the information,we can take our finger and explore,and see, state by state,exactly how much wind potential there is.We can do the same for geothermal energyand solar power.
+时间： 2:34
+zh-cn:这是我最喜欢的交互之一。如这显示...（笑声）（掌声）当风开始吹动时，来自风车的任何过多的能量都被转化为电池能。随着风力开始变小，任何过多的能量被转化到房子里—灯会永不熄灭。这全书不只是在iPad上运行。它也可以在iPhone上运行。在起居室，你可以在iPad上开始读书然后在iPhone上继续阅读。同样的操作。你可以选择任何页面。放大它。
+en:This is one of my favorites.So this shows ...(Laughter)(Applause)When the wind is blowing,any excess energy coming from the windmillis diverted into the battery.And as the wind starts dying down,any excess energy will be diverted back into the house —the lights never go out.And this whole book, it doesn&#39;t just run on the iPad.It also runs on the iPhone.And so you can start reading on your iPad in your living roomand then pick up where you left off on the iPhone.And it works the exact same way.You can pinch into any page.Open it up.
+时间： 3:34
+zh-cn:这就是Push Pop出版社的第一本书,阿尔·戈尔的《我们的选择》。谢谢。（掌声）
+en:So that&#39;s Push Pop Press&#39; first title,Al Gore&#39;s &quot;Our Choice.&quot;Thank you.(Applause)
+时间： 3:48
+zh-cn:克里斯·安德森：这太神奇了。你想成为一个出版者，一个技术许可颁发者？这是做什么生意？其它人也可以做到这个吗？
+en:Chris Anderson: That&#39;s spectacular.Do you want to be a publisher,a technology licenser?What is the business here?Is this something that other people can do?
+时间： 3:59
+zh-cn:MM:是的，我们创建了一个能让出版者立即建立类似内容的便捷工具。所以梅尔彻媒体的团队在美国东海岸—我们在西海岸，创建这个软件—使用我们的工具每天，拖动图像和文本。
+en:MM: Yeah, we&#39;re building a toolthat makes it really easy for publishers right now to build this content.So Melcher Media&#39;s team, who&#39;s on the East coast —and we&#39;re on the West coast, building the software —takes our tooland, every day, drags in images and text.
+时间： 4:14
+zh-cn:CA：所以你想把这软件的许可发行给出版商让图书像这个演讲里的一样美？（MM：是的。）好的。迈克，十分感谢。
+en:CA: So you want to license this software to publishersto make books as beautiful as that? (MM: Yes.)All right. Mike, thanks so much.
+时间： 4:21
+zh-cn:MM:谢谢。(CA:好运。)
+en:MM: Thank you. (CA: Good luck.)
+时间： 4:23
+zh-cn:（掌声）
+en:(Applause)

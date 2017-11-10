@@ -1,0 +1,42 @@
+时间： 0:11
+zh-cn:听起来可能有点怪，我是个水泥砖的狂热爱好者。第一块水泥砖制造于1868年是源于一个非常简单的想法：把水泥制成的固定大小的块组装到一起。很快水泥砖就成为了全世界使用最多的建筑单元，它使得我们能制造远大于自身的东西，建筑，桥梁，就这样一砖一瓦砌成。水泥砖实质上已经成为我们这个时代的积木。
+en:This may sound strange,but I&#39;m a big fan of the concrete block.The first concrete blocks were manufactured in 1868with a very simple idea:modules made of cement of a fixed measurementthat fit together.Very quickly concrete blocks becamethe most-used construction unit in the world.They enabled us to to build things that were larger than us,buildings, bridges,one brick at a time.Essentially concrete blocks had becomethe building block of our time.
+时间： 0:41
+zh-cn:在大约100年后的1947年，乐高带来了这个当时被叫做自动组装积木。然后在短短几年内，乐高积木占领了每个家庭，据估计已经制造出的乐高积木超过4千亿块 —或者说全球人均75块你不必是一个工程师也可以建造漂亮的房子，漂亮的桥梁，漂亮的建筑。乐高使之成为可能。乐高实质上就是把水泥砖，这种真实世界中的积木，运用到建造我们想象中的建筑积木。
+en:Almost a hundred years later in 1947,LEGO came up with this.It was called the Automatic Binding Brick.And in a few short years,LEGO bricks took place in every household.It&#39;s estimated that over 400 billion bricks have been produced —or 75 bricks for every person on the planet.You don&#39;t have to be an engineerto make beautiful houses, beautiful bridges, beautiful buildings.LEGO made it accessible.LEGO has essentially taken the concrete block, the building block of the world,and made it into the building blockof our imagination.
+时间： 1:13
+zh-cn:恰恰在同一年，在贝尔实验室，一项新的革命即将发布，下一代积木。晶体管是一个小的塑料元件它将把我们从静态的砖块堆积起来的世界带入到一切都可以交互的新世界。像水泥砖一样，你可以运用它一个晶体管一个晶体管地制造出更大的、更复杂的电路。
+en:Meanwhile the exact same year,at Bell Labs the next revolution was about to be announced,the next building block.The transistor was a small plastic unitthat would take us from a worldof static bricks piled on top of each otherto a world where everything was interactive.Like the concrete block,the transistor allows you to buildmuch larger, more complex circuits, one brick at a time.
+时间： 1:35
+zh-cn:但是有一个主要的区别：只有专家才能玩转晶体管。我个人不能接受我们这个时代的积木只有专家才可以玩，所以我决定改变它。8年前当我在媒体实验室的时候，我开始思索如何才能把工程师所独有的力量也赋予艺术家和设计师。
+en:But there&#39;s a main difference:The transistor was only for experts.I personally don&#39;t accept this,that the building block of our timeis reserved for experts,so I decided to change that.Eight years ago when I was at the Media Lab,I started exploring this ideaof how to put the power of engineersin the hands of artists and designers.
+时间： 1:56
+zh-cn:几年前我开始开发littleBits。我给大家演示一下是怎么玩的。LittleBits是电子的模块每一块都有特定的功能。它们都预先设定好作为光的，声音的，马达或者传感器。最棒的就是它们是用磁力吸合在一起的所以就不可能组装错这些小块是按颜色分类的。绿色是输出，蓝色是电源，粉色是输入，橙色是连接线。因此你所需要做的就是把蓝色接到绿色上然后很快你就能开始制造更大的电路了把蓝的接到绿的，你就做了一个灯你可以在中间放一个旋钮你就做成了一个小调光器。拿掉旋钮换上脉冲模块，在这儿，现在你就创造出了一个小信号灯。加入这个蜂鸣器来增加点效果你就创造出了一台噪音机。我得收手了。
+en:A few years ago I started developing littleBits.Let me show you how they work.LittleBits are electronic moduleswith each one specific function.They&#39;re pre-engineeredto be light, sound,motors and sensors.And the best part about itis they snap together with magnets.So you can&#39;t put them the wrong way.The bricks are color-coded.Green is output, blue is power,pink is input and orange is wire.So all you need to do is snap a blue to a greenand very quickly you can start making larger circuits.You put a blue to a green,you can make light.You can put a knob in betweenand now you&#39;ve made a little dimmer.Switch out the knobfor a pulse module,which is here,and now you&#39;ve made a little blinker.Add this buzzerfor some extra punchand you&#39;ve created a noise machine.I&#39;m going to stop that.
+时间： 3:08
+zh-cn:除了简单地玩，实际上littleBits 的功能很强劲。不需要编程、接线、焊接，littleBits可以让你用简单的直觉动作完成编程。比如要把这个闪烁调快或者调慢一点，你只需要转这个旋钮实际上是让它脉冲得快或者慢一点。隐藏在littleBits之后的想法是这是一个可成长的资料库。我们想把世界上的每一个单独的交互功能做成一个随手可用的积木。光，声音，太阳能板，马达 —一切都应该触手可得。
+en:So beyond simple play,littleBits are actually pretty powerful.Instead of having to program, to wire, to solder,littleBits allow you to programusing very simple intuitive gestures.So to make this blink faster or slower,you would just turn this knoband basically make it pulse faster or slower.The idea behind littleBitsis that it&#39;s a growing library.We want to make every single interaction in the worldinto a ready-to-use brick.Lights, sounds, solar panels, motors —everything should be accessible.
+时间： 3:39
+zh-cn:我们曾经把littleBits给孩子们并看他们玩。那是一种不可思议的体验。最棒的就是他们开始理解他们日常身边的电器这些学校里是学不到的。比如，夜灯是如何工作的或者为什么电梯门能一直开着，再或者iPod对触摸是怎么反应的。我们也曾经把littleBits带到设计学校。比如说，我们曾经让设计师完全没有电子相关经验的设计师用littleBits做素材开始玩。大家可以看到，用毡和纸瓶子乔迪做出了...
+en:We&#39;ve been giving littleBits to kids and seeing them play with them.And it&#39;s been an incredible experience.The nicest thing is how they start to understandthe electronics around them from everydaythat they don&#39;t learn at schools.For example, how a nightlight works,or why an elevator door stays open,or how an iPod responds to touch.We&#39;ve also been taking littleBits to design schools.So for example, we&#39;ve had designerswith no experience with electronics whatsoeverstart to play with littleBits as a material.Here you see, with felt and paper water bottles,we have Geordie making ...
+时间： 4:12
+zh-cn:（叮当声）
+en:(Clanging)
+时间： 4:14
+zh-cn:（蜂鸣声）
+en:(Buzzing)
+时间： 4:16
+zh-cn:几星期前我们带着littleBits去了罗德岛设计学院把它交给一些完全没有工程经验的设计师只给一些纸板、木头和纸 — 跟他们说 “做点什么”这就是他们完成的一个项目一个动作触发的彩纸屑炮弹（笑声）等等，这个实际上是我最喜欢的一个项目。是一个橡皮泥做的龙虾它很怕黑。
+en:A few weeks ago we took littleBits to RISDand gave them to some designerswith no experience in engineering whatsoever —just cardboard, wood and paper — and told them &quot;Make something.&quot;Here&#39;s an example of a project they made,a motion-activated confetti canon ball.(Laughter)But wait, this is actually my favorite project.It&#39;s a lobster made of playdoughthat&#39;s afraid of the dark.
+时间： 4:44
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:48
+zh-cn:对这些非工程技术人员，littleBits成为了另一种材料，电子也只是一种材料。而且我们想使这种材料对所有人都可用。所以littleBits是开源的。你可以到网站上，下载所有的设计文件，自己来制造。我们想鼓励一个人人都是创造者、发明家、贡献者的世界。因为我们所生活的这个世界，这个交互的世界，属于我们每个人。不要犹豫，开始你的发明吧。
+en:To these non-engineers, littleBits became another material,electronics became just another material.And we want to make this material accessible to everyone.So littleBits is open-source.You can go on the website, download all the design files, make them yourself.We want to encourage a worldof creators, of inventors, of contributors,because this world that we live in,this interactive world, is ours.So go ahead and start inventing.
+时间： 5:12
+zh-cn:谢谢大家。
+en:Thank you.
+时间： 5:14
+zh-cn:（掌声）
+en:(Applause)

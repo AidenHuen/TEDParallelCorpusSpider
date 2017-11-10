@@ -1,0 +1,54 @@
+时间： 0:11
+ms:Kenapa kita belajar matematik?Asasnya, kerana tiga sebab:pengiraan, aplikasi,pengiraan, aplikasi,dan yang terakhir, yang malangnya kurang diberikan perhatian,dan yang terakhir, yang malangnya kurang diberikan perhatian,inspirasi.
+en:So why do we learn mathematics?Essentially, for three reasons:calculation,application,and last, and unfortunately leastin terms of the time we give it,inspiration.
+时间： 0:27
+ms:Matematik merupakan sains corak.Kita belajar berfikir secara logik, kritikal dan kreatif,Kita belajar berfikir secara logik, kritikal dan kreatif,tetapi yang diajar di sekolah,tidak memberikan rangsangan yang baik.Apabila pelajar kita bertanya,&quot;Kenapa kita belajar ni?&quot;Ini penting untuk kelas yang berikutnyaatau ujian yang akan datang.Bukankah lebih baguskalau kadangkala kita membuat matematikkerana ia menyeronokkan, mengasyikkanatau kerana ia merangsang minda?Ramai yang tak berpeluang untukmemahami bagaimana ini boleh berlaku,jadi biar saya berikan contohdengan koleksi nombor kegemaran saya,nombor Fibonacci. (Tepukan)
+en:Mathematics is the science of patterns,and we study it to learn how to think logically,critically and creatively,but too much of the mathematicsthat we learn in schoolis not effectively motivated,and when our students ask,&quot;Why are we learning this?&quot;then they often hear that they&#39;ll need itin an upcoming math class or on a future test.But wouldn&#39;t it be greatif every once in a while we did mathematicssimply because it was fun or beautifulor because it excited the mind?Now, I know many people have nothad the opportunity to see how this can happen,so let me give you a quick examplewith my favorite collection of numbers,the Fibonacci numbers. (Applause)
+时间： 1:09
+ms:Ya, ada peminat Fibonacci di sini. Bagus.Ya, ada peminat Fibonacci di sini. Bagus.
+en:Yeah! I already have Fibonacci fans here.That&#39;s great.
+时间： 1:12
+ms:Nombor-nombor ini boleh dihargaidalam berbagai-bagai cara.Dari sudut pengiraan,ia sangat senang difahamiseperti 1 + 1 = 2,1 + 2 = 3,2 + 3 = 5, 3 + 5 = 8,dan begitulah seterusnya.Orang yang dikenali sebagai Fibonaccisebenarnya bernama Leonardo of Pisa,nombor-nombor ini diterangkan dalam buku &quot;Liber Abaci&quot;,di mana dunia Barat telah diajarkaedah aritmetik yang digunakan sekarang.Dari segi aplikasi, nombor Fibonacciselalu muncul dalam alam semula jadi.selalu muncul dalam alam semula jadi.Bilangan kelopak bungaselalunya ialah nombor Fibonacci,lingkaran bunga matahari atau nenas,lingkaran bunga matahari atau nenas,biasanya merupakan nombor Fibonacci.
+en:Now these numbers can be appreciatedin many different ways.From the standpoint of calculation,they&#39;re as easy to understandas one plus one, which is two.Then one plus two is three,two plus three is five, three plus five is eight,and so on.Indeed, the person we call Fibonacciwas actually named Leonardo of Pisa,and these numbers appear in his book &quot;Liber Abaci,&quot;which taught the Western worldthe methods of arithmetic that we use today.In terms of applications,Fibonacci numbers appear in naturesurprisingly often.The number of petals on a floweris typically a Fibonacci number,or the number of spirals on a sunfloweror a pineappletends to be a Fibonacci number as well.
+时间： 1:59
+ms:Banyak lagi aplikasi nombor Fibonacci,yang paling memberikan inspirasiialah corak nombor yang dipaparkan.Ini salah satu kegemaran saya.Katakan anda suka nombor kuasa dua,siapa yang tak suka, kan? (Gelak ketawa)
+en:In fact, there are many moreapplications of Fibonacci numbers,but what I find most inspirational about themare the beautiful number patterns they display.Let me show you one of my favorites.Suppose you like to square numbers,and frankly, who doesn&#39;t? (Laughter)
+时间： 2:15
+ms:Mari kita lihat nombor kuasa duabagi nombor-nombor Fibonacci.1 kuasa dua = 1,2 kuasa dua = 4, 3 kuasa dua = 9,5 kuasa dua = 25, dan seterusnya.Jadi, tak hairanlah apabilajumlah dua nombor Fibonacci yang berturutmenghasilkan nombor Fibonacci yang berikutnya.Itu merupakan cara ia dicipta.Anda tak akan menjangkakan apa-apa jikanombor-nombor kuasa dua tersebut ditambah.Cuba tengok ni.1 + 1 = 2,1 + 4 = 5,4 + 9 = 13,9 + 25 = 34,dan corak itu berterusan.
+en:Let&#39;s look at the squaresof the first few Fibonacci numbers.So one squared is one,two squared is four, three squared is nine,five squared is 25, and so on.Now, it&#39;s no surprisethat when you add consecutive Fibonacci numbers,you get the next Fibonacci number. Right?That&#39;s how they&#39;re created.But you wouldn&#39;t expect anything specialto happen when you add the squares together.But check this out.One plus one gives us two,and one plus four gives us five.And four plus nine is 13,nine plus 25 is 34,and yes, the pattern continues.
+时间： 2:53
+ms:Ini satu lagi contoh.Katakan anda tambah beberapanombor kuasa dua Fibonacci yang awal.Mari kita lihat apa hasilnya.1 + 1 + 4 = 6.6 + 9 = 15.15 + 25 = 40.40 + 64 = 104.Tengok nombor-nombor ini.Ia bukan nombor-nombor Fibonacci.Tetapi jika anda lihat dengan teliti,ada nombor Fibonacciyang tersembunyi di dalamnya.
+en:In fact, here&#39;s another one.Suppose you wanted to look atadding the squares ofthe first few Fibonacci numbers.Let&#39;s see what we get there.So one plus one plus four is six.Add nine to that, we get 15.Add 25, we get 40.Add 64, we get 104.Now look at those numbers.Those are not Fibonacci numbers,but if you look at them closely,you&#39;ll see the Fibonacci numbersburied inside of them.
+时间： 3:21
+ms:Nampak tak? Saya akan tunjukkan.6 = 2 x 3, 15 = 3 x 5,40 = 5 x 8,2, 3, 5, 8, terima kasih kepada siapa?
+en:Do you see it? I&#39;ll show it to you.Six is two times three, 15 is three times five,40 is five times eight,two, three, five, eight, who do we appreciate?
+时间： 3:32
+ms:(Gelak ketawa)
+en:(Laughter)
+时间： 3:33
+ms:Semestinya, Fibonacci!
+en:Fibonacci! Of course.
+时间： 3:35
+ms:Corak ini memang menyeronokkan,tapi lebih memuaskan jika kita fahamkenapa ia begitu.Cuba lihat persamaan yang terakhir.Kenapa kuasa dua kepada 1, 1, 2, 3, 5 dan 8jumlahnya sama dengan 8 x 13?Saya akan lukiskan satu gambar.Ada satu segi empat 1 x 1,dan satu lagi segi empat 1 x 1.Hasilnya segi empat tepat 1 x 2.Letakkan segi empat 2 x 2 di bawah,dan segi empat 3 x 3 di sebelah,segi empat 5 x 5 di bawah,dan satu lagi segi empat 8 x 8,membentuk segi empat tepat yang besar, kan?
+en:Now, as much fun as it is to discover these patterns,it&#39;s even more satisfying to understandwhy they are true.Let&#39;s look at that last equation.Why should the squares of one, one,two, three, five and eightadd up to eight times 13?I&#39;ll show you by drawing a simple picture.We&#39;ll start with a one-by-one squareand next to that put another one-by-one square.Together, they form a one-by-two rectangle.Beneath that, I&#39;ll put a two-by-two square,and next to that, a three-by-three square,beneath that, a five-by-five square,and then an eight-by-eight square,creating one giant rectangle, right?
+时间： 4:17
+ms:Izinkan saya bertanya,berapakah luas segi empat tepat itu?Yang pertama, ia merupakan jumlah luasYang pertama, ia merupakan jumlah luassemua segi empat di dalamnya, kan?Sama seperti yang kita buat tadi.1 kuasa dua + 1 kuasa dua,+ 2 kuasa dua, + 3 kuasa dua,+ 5 kuasa dua, + 8 kuasa dua.Itu merupakan luasnya.Yang kedua, luas sebuah segi empat tepat,ialah tinggi x tapak,tinggi = 8,tapak = 5 + 8,iaitu 13, nombor Fibonacci yang berikutnya, kan?Jadi luasnya ialah 8 x 13 juga.Kita telah mengira luasdengan dua cara yang berbeza,hasilnya mesti sama,sebab itu kuasa dua kepada 1, 1, 2, 3, 5 dan 8,jumlahnya sama dengan 8 x 13.
+en:Now let me ask you a simple question:what is the area of the rectangle?Well, on the one hand,it&#39;s the sum of the areasof the squares inside it, right?Just as we created it.It&#39;s one squared plus one squaredplus two squared plus three squaredplus five squared plus eight squared. Right?That&#39;s the area.On the other hand, because it&#39;s a rectangle,the area is equal to its height times its base,and the height is clearly eight,and the base is five plus eight,which is the next Fibonacci number, 13. Right?So the area is also eight times 13.Since we&#39;ve correctly calculated the areatwo different ways,they have to be the same number,and that&#39;s why the squares of one,one, two, three, five and eightadd up to eight times 13.
+时间： 5:09
+ms:Jika kita teruskan proses ini,hasilnya ialah segi empat tepat 13 x 21,21 x 34, dan seterusnya.
+en:Now, if we continue this process,we&#39;ll generate rectangles of the form 13 by 21,21 by 34, and so on.
+时间： 5:18
+ms:Sekarang tengok ni.Jika anda bahagi 13 dengan 8,anda dapat 1.625. Bahagikan nomboryang lebih besar dengan yang sebelumnyanisbahnya akan semakin hampirdengan kira-kira 1.618,juga dikenali sebagai Nisbah Keemasan,nombor yang mempesonakan ahli matematik,saintis dan seniman sejak dulu.
+en:Now check this out.If you divide 13 by eight,you get 1.625.And if you divide the larger numberby the smaller number,then these ratios get closer and closerto about 1.618,known to many people as the Golden Ratio,a number which has fascinated mathematicians,scientists and artists for centuries.
+时间： 5:41
+ms:Saya bentangkan semua ini kerana,seperti kebanyakan matematik,ia mempunyai aspek yang menakjubkanyang sayangnya tak mendapat perhatiandi sekolah-sekolah kita.Banyak masa dihabiskan untuk belajar mengira,tetapi jangan lupa tentang aplikasinyatermasuk aplikasi yang paling penting,belajar cara berfikir.
+en:Now, I show all this to you because,like so much of mathematics,there&#39;s a beautiful side to itthat I fear does not get enough attentionin our schools.We spend lots of time learning about calculation,but let&#39;s not forget about application,including, perhaps, the mostimportant application of all,learning how to think.
+时间： 6:02
+ms:Saya simpulkan dalam satu ayat:Saya simpulkan dalam satu ayat:Matematik bukan hanya untuk mencari x,tapi juga untuk mengetahui kenapa (why).
+en:If I could summarize this in one sentence,it would be this:Mathematics is not just solving for x,it&#39;s also figuring out why.
+时间： 6:12
+ms:Terima kasih.
+en:Thank you very much.
+时间： 6:14
+ms:(Tepukan)
+en:(Applause)

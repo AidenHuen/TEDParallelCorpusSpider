@@ -1,0 +1,117 @@
+时间： 0:11
+zh-cn:在过去的一年里，IDEO公司和世界各地发生了很多激动人心的事。我非常高兴能有机会在此分享其中一些故事。
+en:There&#39;s a lot of exciting things happening in the design worldand at IDEO this past year,and I&#39;m pleased to get a chance to share some of those with you.
+时间： 0:21
+zh-cn:尽管我错过了1984年第一届TED大会，但我参加了之后的很多届。回想起那个时候很有意思。理查德在创办之时为此付出了很多。多谢了，理查德!来到TED是我生命中很重要、也很快乐的一部分。
+en:I didn&#39;t attend the first TED back in 1984but I&#39;ve been to a lot of them since that time.I thought it [would] kind of be interesting to think back to that timewhen Richard got the whole thing started. Thank you very much, Richard;it&#39;s been a big, enjoyable part of my life, coming here.
+时间： 0:37
+zh-cn:回想那时，我们在硅谷工作的那些人，真的是专心致志开发各种产品，各种技术产品。那段时光真是太有意思了。当时有些客户，今天也在座。记得我们准备好原型，藏在一块黑布下，然后放在会议桌上当我们揭开黑布时，大家惊呼，“哦！”，“啊？”真是很好玩的经历。
+en:And so thinking back, I was thinkingthose of us in Silicon Valley were really focused on products or objects —certainly technological objects.And so it was great fun in those days, and some of those of youwho are in the audience were my clients.We&#39;d come in with some prototype underneath a black clothand we&#39;d put it on the conference table,and we&#39;d pull off the black cloth and everybody would &quot;ooh&quot; and &quot;ah.&quot;That was a really good time.
+时间： 1:07
+zh-cn:所以，我们还会一如既往，关注产品设计。如果你去年来过，我或许会拖到地板上，试着给你看我的新款EyeModule 2它是一款针对Handspring掌上电脑设计的可插卸相机。虽然很少有人知道，但我用它我拍了照片，拍了很多张。今年——或许您会给大家展示这些幻灯片今年我们带了Treo我们帮助Handspring设计了这款产品。尽管几年以前它就设计好了，但仅只是在去年它才流行起来。这是个用来急救的心脏除颤器或许您在机场见过？现在看来满地都是。这种设备救过很多条命。还有，我们正准备宣布Zinio阅读器，我相信它会让阅读杂志变成一种享受。所以，我们肯定会继续关注产品。
+en:And so we&#39;ll continue to focus on products, as we always have.And if you were here last year,I probably wrestled you to the floor and tried to show you my new EyeModule 2,which was a camera that plugged into the Handspring.And I took a lot of pictures last year;very few people knew what I was up to, but I took a lot of pictures.This year — maybe you could show the slides —this year we&#39;re carrying this Treo, which we had a lot to do withand helped Handspring design it.Also, though we designed it a few years ago —it&#39;s just become ubiquitous in the last year or so —this Heartstream defibrillator which is saving lives.Maybe you&#39;ve seen them in the airports? They seem to be everywhere now.Lots of lives are being saved by those.And, we&#39;re just about to announce the Zinio Reader productthat I believe will make magazines even more enjoyable to read.So, we really will continue to focus on products.
+时间： 2:04
+zh-cn:不过，在理查德开创了TED之后的18年中，发生了一些变化——我知道，其他人早已开始这样做了但对我们来说，才刚刚开始刚学会一点&quot;马斯洛需要层次论&quot;——现在我们对人性化设计的关注越来越多以人为中心是一种设计方法，即在产品设计时，充分尊重人性特点和行为习惯，以人为本。我想你也开始注意到，这让我们的工作更为享受。
+en:But something&#39;s happened in the last 18 years since Richard started TED,and that&#39;s that people like us —I know people in other places have caught onto this for a long time,but for us, we&#39;ve really just started ... we&#39;ve kind ofclimbed Maslow&#39;s hierarchy a little bit —and so we&#39;re now focused more and more on human-centered design,human-centeredness in an approach to design.That really involves designing behaviors and personality into products.And I think you&#39;re starting to see that,and it&#39;s making our job even more enjoyable.
+时间： 2:41
+zh-cn:的确有很多乐趣。你知道，我们过去主要设计三维模型今天你会看到一些演示-以及三维渲染。我们会借助它们，来展示新的创意。很多和我们类似的厂商已经又向前迈了一步——对还在设计之中的产品，给大家展示它们的用法。为了能做到这一点，我们也建立了内部视频开发组去创建这种体验版原型，来展示什么是人机关系。这种方式看起来要好得多。就像建筑师站在装饰好的房子里给人们展示设计而不是在毛坯房里面比划。
+en:Interestingly enough, we used to primarily build 3-D models —you know, you&#39;ve seen some today — and 3-D renderings.Then we&#39;d go and we&#39;d show those as communicating our ideas.But firms like ours are having to move to a point wherewe get those objects that we&#39;re designing and get them in motion,showing how they&#39;ll be used.And so in order to do that we&#39;ve been forminginternal video-production groupsin order to make these kind of experience prototypesthat show just what we mean about the man-machine relationship.And it&#39;s a much better way to see.It&#39;s kind of like architects who show people in their houses,as opposed to them being empty.
+时间： 3:25
+zh-cn:所以，我会给大家放一些视频给大家秀一秀我们的新设计，有产品，服务及环境等。我这儿准备了一些视频，不超过一分钟长的不超过1分半。您或许可能对我们去年完成的一些东西很感兴趣，想看看到底有多酷。
+en:So I thought that I would show you a few videosto show off this new, broader definitionof design in products and services and environments.I have a few of them — they&#39;re no more than a minuteor a minute-and-a-half apiece —but I thought you might be interested in seeing some of ourwork over the last year, and how it responds in video.
+时间： 3:53
+zh-cn:好，纽约普拉达。我们接到来自雷姆·库哈斯和大都会建筑事务所的邀请，要我们帮他们设计在纽约的一个零售店面。他想要一种新型商店——全新的——一个集文化与零售为一体的商店。这意味着需要特殊的设计创意，而不是简单地买上几个陈列柜摆在那儿。
+en:So, Prada New York: we were asked by Rem Koolhaasand OMA to help us conceive the technologythat&#39;s in their retail store in New York.He wanted a new kind of store — a new one —a store that had a cultural role as well as a retail one.And that meant actually designing custom technologyas opposed to just buying things off the shelf and putting them to use.
+时间： 4:19
+zh-cn:商店里有很多东西，每样东西都有一个射频标签甚至用户身上，卡上也都有。商店里到处都有扫描设备。一旦你选中什么喜欢的东西，店员即可对其进行扫描，然后在整个商店的各个屏幕都会显示其详细休息。你可以看它的颜色，尺寸，试穿效果等等。接着，你感兴趣的这件商品会标上记号，你可以把它带进更衣室，那里同样有扫描仪。这样，我们就能准确地知道你在更衣室里试哪件衣服。我们可以放置一个触摸屏，当你试穿上后，你就可以通过它自由浏览，了解更多关于这件衣服的信息。很多地方都用到液晶显示，但这里的设计我尤为喜欢。
+en:So, there&#39;re lots of things. Everything has RF tags:there&#39;s RF tags on the user, on the cards,there&#39;s the staff devices that are all around the store.You pick them up, and once you see something that you&#39;re interested in,the staff person can scan them inand then they can be shown on any screen throughout the store.You can look at color, and sizes, and how it appeared on the runway, or whatever.And so then the object — the merchandise that you&#39;re interested in —can be scanned. It&#39;s taken into the dressing room,and in the dressing room there are scannersso that we know exactly what clothing you have in the dressing room.We can put that up on a touch screenand you can play with that, and get more informationabout the clothing that you&#39;re interested in as you&#39;re trying it on.It&#39;s been used a lot of places, but I particularly like the use hereof liquid crystal displays in the changing room.
+时间： 5:13
+zh-cn:上次我去这家店看的时候，很多人好奇地站在周围，议论纷纷：“啊，我该不会看到人们怎么在里面换衣服的吧？”实际上当然不会。如果你按下这个按钮，液晶显示墙就关了。所以无论穿什么，你尽可放心得到亲友的参谋。接下来是我最喜欢的一项技术——魔镜。在你试衣服时，镜子里会显示一副很大的影像，你转身的时候，镜像会有三秒的延迟，这样你就可以看到前后左右整体效果。（掌声）
+en:The last time I went to see this store,there was a huge buzz about people standing outside and wondering,&quot;Am I going to actually get to see the people changing clothes here?&quot;But if you push the button, of course, the whole wall goes dark.So you can try to get approval, or not, for whatever you&#39;re wearing.And then one of my favorite features of the technologyis the magic mirror, where you put on the clothes.There&#39;s a big display in the mirror, and you can turn around —but there&#39;s a three second delay.So you can see what you look like from the back or all the way around, as you look.(Applause)
+时间： 6:12
+zh-cn:大约一年半前我们受邀为伦敦科学博物馆设计一处装置——博物馆里有一块新展区，主要是关于数字和生物医学的。IDEA公司在Itch的一个小组，设计了这面具有交互功能的墙，大约有4层楼那么高。不知道是否有人见过—它在房间里面显得格外壮观。
+en:About a year and a half ago we were asked to designan installation in the museum —this is a new wing of the Science Museum in London,and it&#39;s primarily about digital and biomedical issues.And a group at Itch, which is now part of IDEO,designed this interactive wall that&#39;s about four stories tall.I don&#39;t know if anybody&#39;s seen this —it&#39;s pretty spectacular in the room.
+时间： 6:35
+zh-cn:这面墙其实借助了伦敦地铁系统的设计。正如你看到的那样，它的目的是获取反馈——来博物馆参观的人们，会给一些反馈，把这些反馈显示在墙上，这样所有的人都能看到。假设你输入一些信息，接下来就如同伦敦地铁系统，这些小火车就会载着你的信息前进。当到达一个车站时，这条信息就会展开，内容一览无遗。
+en:Anyway, it&#39;s based on the London subway system.And so you can see thatthe goal is to bring some of the feedbackthat the people who had gone to the museum were giving,and get it up on the wall so everybody could see. Just for everybody to see.So you enter your information. Then, like the London tube system,the little trains go around with what you&#39;re thinking about.And then when you get to a station, it&#39;s expanded so that you can actually read it.
+时间： 7:02
+zh-cn:在你从第四层的IMAX剧院出来时，会看到好多孩子那里有这样大的一个空间，里面有桌子设计了很多非常有趣的交互游戏。也是出自Itch小组的杜勒·毕晓普和安德鲁·海尔纳克之手。其中的主题主要涉及：雄性可育性，选择孩子的性别，以及无人驾驶汽车是什么样。那里有很多个房间，人们在尝试之前可以先了解下是什么东西。
+en:Then when you exit the IMAX theatre on the fourth floor —mostly teenagers coming out of there —there&#39;s this big open space that has these tables in itthat have interactive games which are quite fun,also designed by Durrell [Bishop] and Andrew [Hirniak] of Itch.And the topics include things that the museum is about:male fertility, choosing the sex of your babyor what a driverless car might be like.There&#39;s lots of room, so people can come upand understand what it is before they get involved.
+时间： 7:35
+zh-cn:而且，虽然不是用视频显示的，但看起来非常漂亮他们一路来到墙的顶端，在弹回之后，变成了碎片，消失在空气中。
+en:And also, it&#39;s not shown in the video, but these are very beautiful.They go to the top of the wall and when they reach all the way to the top,after they&#39;ve bounced around, they disperse into bitsand go off into the atmosphere.
+时间： 7:50
+zh-cn:下面一个视频不是我们做的。CBS周日早间报道在大约两个星期之前播出了这段视频。斯科特·亚当斯碰巧遇见我们，问是否愿意帮忙为迪尔伯特设计最终的工作格间。听起来很有意思，我们可不能拒绝。他对未来的技术总是很感兴趣。
+en:The next video is not done by us.This is CBS Sunday Morning that aired about two weeks ago.Scott Adams ran into usand asked us if we wouldn&#39;t help to designthe ultimate cubicle for Dilbert,which sounded like a fun thing and so we couldn&#39;t pass it up.He&#39;s always been interested in technology in the future.
+时间： 8:09
+zh-cn:（视频：斯科特·亚当斯：这些工作格间有什么毛病，某些时候我觉得自己再清楚不过了。然后就想，找一些世界上最具设计头脑的人一起尝试把这些格子间改得更好些，岂不是很有趣？
+en:(Video: Scott Adams: I realized that at some point I might bethe world&#39;s expert on what&#39;s wrong with cubicles.So we thought, well, wouldn&#39;t it be fun to get togetherwith some of the smartest design guys in the worldand try to figure out if we could make the cubicle better?
+时间： 8:21
+zh-cn:讲述者：尽管是在旧金山奥克兰海湾大桥工作空间非常开阔，宏伟壮观，但团队却是在这里建造他们自己的迷你格子间，以充分体验其存在的问题。
+en:Narrator: Though they work in a wide-open office spacespectacularly set under San Francisco&#39;s Oakland Bay Bridge,the team built their own little cubiclesto fully experience the problems.
+时间： 8:34
+zh-cn:女音：一个单面镜。我可以向外面看；你可以看到你自己。
+en:Woman: A one-way mirror. I can look out; you can look at yourself.
+时间： 8:37
+zh-cn:讲述者：他们拍了照片。
+en:Narrator: They took pictures.
+时间： 8:38
+zh-cn:女音：如果有什么弯曲或倾斜，会让人感觉到很局促呆在那一分钟，你就象是感觉在关禁闭。
+en:Woman: You feel so trapped, when someone kind of leans overand you&#39;re sort of held captive there for a minute.
+时间： 8:43
+zh-cn:斯科特.亚当斯：目前看来还是乱糟糟的，但很多人在忙乎似乎进展得不错，让我们拭目以待。
+en:SA: So far it&#39;s chaos, but a lot of people are doing stuff, so that&#39;s good.We&#39;ll see what happens.
+时间： 8:49
+zh-cn:讲述者：第一组设计的小卧室，墙面充满了计算机屏幕和家庭照片。第二组，墙面很生动实际上给迪尔伯特一个大拥抱。（笑声）这个主意的背后实际上使这个小格子间更人性化。）
+en:Narrator: The first group builds a cubicle in which the walls are screensfor the computer and for family photos.In the second group&#39;s scenario, the walls are aliveand actually give Dilbert a group hug.(Laughter)Behind the humor is the idea of making the cubicle more human.)
+时间： 9:11
+zh-cn:大卫：最后一个，使用了橘红色的光沿着太阳光照射，一直到天空中。所以你会觉得非常舒适。我最喜欢的一处是花瓶，当你离开时，它会很失望蔫下去，当你回来时，它立即变得很有生气，跟你打招呼。
+en:David Kelley: So here&#39;s the final thing, complete with orange lightingthat follows the sun across — that follows the tracks of the sun — across the sky.So you feel that in your cubicle.And my favorite feature, which is a flower in a vasethat wilts when you leave in disappointment,and then when you come back, it comes up to greet you, happy to see you.
+时间： 9:31
+zh-cn:(斯科特: 存储与墙融合到了一起。）
+en:(SA: The storage is built right into the wall.)
+时间： 9:33
+zh-cn:大卫：你知道，就象在墙里面嵌了一个鱼缸一样，很有家的感觉。或者某种东西，特别能助你释放压力。
+en:DK: You know, it has homey touches like a built-in fish tank in the walls,or something to be aggressive with to release tension.
+时间： 9:42
+zh-cn:（斯科特：根据个人的喜好而定制的这个“老板”。）
+en:(SA: Customizable for the boss of your choice.)
+时间： 9:45
+zh-cn:大卫：在这个小卧室中，还有一样东西：用于午睡的吊床，它就悬挂在小卧室中。
+en:DK: And of course: a hammock for your afternoon napthat stretches across your cubicle.
+时间： 9:50
+zh-cn:（斯科特：生活就应该象这个小卧室般温馨。）
+en:(SA: Life would be sweet in a cubicle like this.)
+时间： 9:56
+zh-cn:大卫：下一个项目，是设计一个水榭来庆祝伦敦千禧穹顶的水循环系统。在这个穹顶，有难以置信的水量从上面留下来，其中包括污水。这座建筑实际上是想庆祝这一点。水经过循环回收设施，会流入苇地。这样在最后一刻就得到了过滤。
+en:DK: This next project, we were asked to design a pavilion to celebratethe recycling of the water on the Millennium Dome in London.The dome has an incredible amount of water that washes off of it,as well as wastewater.So this building actually celebrates the wateras it comes out of the recycling plant and goes into the reed bedso that it can be filtered for the final time.
+时间：10:21
+zh-cn:水榭的设计目标，追求一种宁静祥和的感觉。与在建筑里面截然不同，里面热闹非凡，人人都在学各种各样的东西，或四处闲逛，或做其他的事情等。但水榭的设计却要求非常安静。你会围绕着建筑四下观察，以一种很直接的方式，收集关于该循环过程的信息。都做了什么处理，在流经该设备时，如何能得到重复利用等。接着，如果你看到的话，这些板子实际上在转动。所以你能看到设备的前面，收集信息，而在它们转动时，你能看到实际上它的后面，以及所有处理流水的机器。你可以看到：那里有一个设备都是很低成本的视频，就像快速原型。
+en:The pavilion&#39;s design goal was to be kind of quiet and peaceful.In contrast to if you went inside the dome, where it&#39;skind of wild and crazy and everybody&#39;slearning all kinds of things, or fooling around, or whatever they&#39;re doing.But it was intended to be quite quiet.And then you would wander around and gather information,in a straightforward fashion, about the recycling processand what&#39;s being done, and how they&#39;re going to reuse the wateronce it comes through the plant.And then, if you saw,the panels actually rotate. So you can get the informationon the front side, but as they rotate, you can see the actualrecycling plant behind, with all the machines as they actually process the water.You can see: there&#39;s the plant.These are all very low-budget videos, like quick prototypes.
+时间：11:31
+zh-cn:今天晚上再这里我们会宣布一款新的产品，这是第一次在公众面前进行展示。它的名字是Spyfish, 来自公司H2Eye,由奈杰尔·贾格尔在伦敦创建。这家公司尝试给大家带来一种全新体验——很多人有船，或是很享受在船上的生活，但只有很少一部分人有能力或者有兴趣到水下去真实地看看那里到底有什么，享受潜水者才有的乐趣。这款产品有两个摄像机。你把它放在船底，这样就感觉象是在潜水，但自己却滴水不用沾。
+en:And we&#39;re announcing a new product here tonight,which is the first time this has ever been shown in public.It&#39;s called Spyfish, and it&#39;s a company called H2Eye,started by Nigel Jagger in London.And it&#39;s a company that&#39;s trying to bring the experience — many people have boats,or enjoy being on boats, but a very small percentage of peopleactually have the capability or the interest in going under the waterand actually seeing what&#39;s there,and enjoying what scuba divers do.This product, it has two cameras.You throw it over the side of your boatand you basically scuba dive without getting wet.
+时间：12:16
+zh-cn:就是这样一件东西。 对我们来说，它是两个项目。其一，是设计界面，保证它不会挡着你的路。你将会有那种在水下，被完全浸没的体验——就感觉像你真地在水下——看看接下来会发生什么事。另一个就是设计这件东西本身，确保它是一款可消费的产品，而不仅仅是研究工具。我们花了很长时间——已近进行了约七八年时间——我们才刚准备好开始开发这些产品。
+en:For us — there&#39;s the object — for us, it was two projects. One, to design the interfaceso that the interface doesn&#39;t get in your way.You could have that kind of immersive experience of being underwater —of feeling like you&#39;re underwater — seeing what&#39;s going on.And the other one was to design the objectand make sure that it was a consumer product and not a research tool.And so we spent a lot of time — this has been going on for aboutseven or eight years, this project —and [we&#39;re] just ready to start building them.
+时间：12:47
+zh-cn:（讲述者：Spyfish是一个革命性的水下摄像机。它能下潜到500英尺，太阳光都无法透到这么深。它有很强的光在你深水探险时，它会变成你的眼睛和耳朵。强劲的电池使得Spyfish能够通过一根细长的缆线传送实时视频。）
+en:(Narrator: The Spyfish is a revolutionary subaquatic video camera.It can dive to 500 feet, to where sunlight does not penetrate,and is equipped with powerful lights.It becomes your eyes and ears as you venture into the deep.The battery-powered Spyfish sends the live video-feed through a slender cable.)
+时间：13:06
+zh-cn:大卫：这根细长的缆线是一项巨大的技术进步，它使得一切都能以原貌展示，栩栩如生。
+en:DK: This slender cable was a huge technological advancementand it allowed the whole thing to be the size that it is.
+时间：13:11
+zh-cn:（讲述者：这个中心和连接着系统的所有部分。自动Spyfish具有一个无线的遥控器，操作起来非常简单。你可以看到视频，还有叠加起来的图片显示你当前的深度及航向。流畅的图形和立体的声音结合起来，会让你完全沉迷在水下世界中。）（掌声）
+en:(Narrator: And this central box connects the whole system together.Maneuvering the Spyfish is simple with the wireless remote control.You watch the video with superimposed graphicsthat indicate your depth and compass heading.The fluid graphics and ambient sounds combineto help you completely lose yourself underwater.)(Applause)
+时间：13:56
+zh-cn:大卫：最后我要说的是ApproTEC这是一个让我非常激动的项目。ApproTEC由马丁·费舍尔创建的公司，他是我的好朋友，斯坦福大学的博士。在肯尼亚富布莱特基金项目中，他有一个有趣的发现。他说，“肯尼亚必须有企业主；必须遍地都是企业主。”他注意到那里的婚礼和葬礼上，他们都可以找到足够的钱办得风风光光。所以他决定在肯尼亚，与肯尼亚生产商一起制造产品——由象我们这样的人设计，但在那里制造。到现在为止——他到那里也只是为数不多的几年——但他已经启动了19000个公司。他提供了30000个工作机会，仅只是销售这些产品——这是非盈利的——这些产品的销售现在占了肯尼亚GDP的6%。这是一个人做到的，这是一件极为了不起的事。
+en:DK: And the last thing I&#39;ll talk about is ApproTEC,which is a project that I&#39;m very excited about.ApproTEC is a company started by Dr. Martin Fisher,who&#39;s a good friend of mine. He&#39;s a Ph.D. from Stanford.He found himself in Kenya on a Fulbrightand he had a very interesting insight, which is thathe said, &quot;There must be entrepreneurs in Kenya;there must be entrepreneurs everywhere.&quot;And he noticed that for weddings and funerals therethey could find enough money to put something together.So he decided to start manufacturing products in Kenyawith Kenyan manufacturers — designed by people like us, but taken there.And to this date — he&#39;s been gone for only a few years —he&#39;s started 19,000 companies.He&#39;s made 30,000 new jobs.And just the sales of the products — this is a non-profit —the sales of these products is now .6% of the GDP of Kenya.This is one guy doing this. This is a pretty spectacular thing.
+时间：14:58
+zh-cn:我们现在正在帮他们设计低成本的手摇泵。目的是让那些人均只有约四分之一英亩土地的人，能够在旱季也能种植庄稼。而他们现在，只能在雨季种，到了旱季只能白白等着。第一张照片里的女士，她是一位老师，一直想要送她的孩子去上大学。所以有了这种工具，她终于能做到了。同时我们也在设计榨种机，水泵，牧草压捆机，以及其他简单易用的东西。我在斯坦福的学生这些当作课堂项目在运作，IDEO给员工一定工作时间来完成这种工作。看到马丁的成功，真是让人十分激动。
+en:So we&#39;re in the process of helping them designdeep-well, low-cost manual pumpsin order for these people who have a quarter acre of landto be able to grow crops in the off-season.What they do now is: they can grow crops in the rainy seasonbut they can&#39;t grow them in the off-season.And so by doing that, the woman that you saw in the first thing —she&#39;s a school teacher — always wanted to send her kids to collegeand she&#39;s going to be able to do it because of these things.So with seed-squeezers, and pumps, and hay-balers andvery straightforward things that we&#39;re designing —my students are doing this as class projectsand IDEO has donated their time to do this kind of work —it&#39;s really amazing to see his success, Martin&#39;s.
+时间：15:40
+zh-cn:同时我们也在思考理查德的经历，那么——（笑声）我们设计了这款帽子。我知道我会是今天最后一位，我需要想办法对付他。最后还有一件事要说，（笑声）你能认出来吗？（笑声）没错，每次他出现招呼大家时，总是很滑稽。你知道，大家并不想冒犯他，也不想让自己有罪恶感所以这个帽子刚刚好。我只用戴着它，坐在这里！（笑声）（掌声）
+en:We also were thinking about the experience of Richard,and so —(Laughter)— we designed this hat, because I knew I&#39;d be the last one in the dayand I needed to deal with him. So I just have one more thing to say.(Laughter)Can you read it?(Laughter)Well, it&#39;s always kind of funny when he comes up and hovers.You know, you don&#39;t want to be rude to him and you don&#39;t want to feel guilty,and so I thought this would do it, where I just sit here.(Laughter)(Applause)
+时间：16:21
+zh-cn:今天的讲座中，大家从各个演讲者那里看到了很多有趣的设计。就我个人经验来说，从产品到ApproTEC，看到大家正在使用一种更为人性化的方法，设计时充分考虑到人性特点和行为习惯，这非常棒，非常让人激动。设计者赢得了更多的信任，与公司的商业战略更为融合。我不得不说，看到自从第一届TED以来设计所取得的进步，作为其中一员，我感到非常幸运。谢谢大家。
+en:So we saw a lot of interesting things being designed today in this session,and from all the different presenters.And in my own practice, from product to ApproTEC,it&#39;s really exciting that we&#39;re taking a more human-centered approach to design,that we&#39;re including behaviors and personalities in the things we do,and I think this is great.Designers are more trusted and more integratedinto the business strategy of companies,and I have to say, for one, I feel very lucky at the progress that designhas made since the first TED. Thanks a lot.

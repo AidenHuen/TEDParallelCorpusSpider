@@ -1,0 +1,138 @@
+时间： 0:11
+zh-cn:如果你想买一些物美价廉的可卡因，你只能去一个地方:那就是暗网匿名市场。
+en:If you want to buy high-quality,low-price cocaine,there really is only one place to go,and that is the dark netanonymous markets.
+时间： 0:24
+zh-cn:但是你不能通过一个普通的浏览器：谷歌或者火狐，来进入这种网站 —因为他们是在因特网的一个隐秘的角落：叫做 Tor 隐藏服务，它把URL变成一串没有任何意义的数字和字母，以.onion（洋葱）结尾，你要用一个特殊的浏览器来连接它：Tor 浏览器。
+en:Now, you can&#39;t get to these siteswith a normal browser —Chrome or Firefox —because they&#39;re on thishidden part of the Internet,known as Tor hidden services,where URLs are a string of meaninglessnumbers and letters that end in .onion,and which you accesswith a special browsercalled the Tor browser.
+时间： 0:45
+zh-cn:Tor 浏览器原本是一个美国海军情报项目，之后它便被公开了，任何人都能浏览网页，并且不让自己的位置被他人所知。它通过转换你的IP地址，并且在全世界都在用这个软件的电脑中不断变换来做到这一点。你可以用它上普通的网页，但是它也是通往暗网的钥匙。因为这个机智到可恶的转换系统，两万或三万 — 我们不知道到底有多少 — 在它上面运营的成千上万的网页都基本不可能被关闭。这是一个没有审查的世界被匿名的人们浏览着。
+en:Now, the Tor browser was originallya U.S. Naval intelligence project.It then became open source,and it allows anybody to browse the netwithout giving away their location.And it does thisby encrypting your IP addressand then routing it via severalother computers around the worldthat use the same software.You can use it on the normal Internet,but it&#39;s also your key to the dark net.And because of this fiendishlyclever encryption system,the 20 or 30 — we don&#39;t know exactly —thousand sites that operate thereare incredibly difficult to shut down.It is a censorship-free worldvisited by anonymous users.
+时间： 1:34
+zh-cn:没有疑问，如果有人要隐藏什么东西，它自然是最好的选择，那个东西，当然了，也许并不是违法的。在暗网上，你会找到告发丑闻的爆料网站，纽约客。你会找到政治激进分子的博客。你会找到盗版书图书馆。但是你也会找到毒品交易市场，违法成人影片，商业黑客服务，等等。现在，暗网已经成为了互联网上最有趣最刺激的地方。因为，尽管我们一直认为只有大的商业企业或者综合性的顶级大学才会一直在追求创新发展，创新其实也发生在一些社会边缘人群中，因为那些边缘人群 —社会底层人群，那些被排斥的存在—常常是最有创造力的，因为他们不得不这样。在这一部分的网络中，你不会发现任何一只猫图（互联网流行文化lolcat）任何一个弹窗广告这是其中一个原因为什么我认为在座的很多人很快就会开始使用暗网。
+en:Little wonder, then,that it&#39;s a natural place to gofor anybody with something to hide,and that something, of course,need not be illegal.On the dark net, you will findwhistle-blower sites, The New Yorker.You will find political activism blogs.You will find libraries of pirated books.But you&#39;ll also find the drugs markets,illegal pornography,commercial hacking services,and much more besides.Now, the dark net is one of the mostinteresting, exciting placesanywhere on the net.And the reason is, becausealthough innovation, of course,takes place in big businesses,takes place in world-class universities,it also takes place in the fringes,because those on the fringes —the pariahs, the outcasts —they&#39;re often the most creative,because they have to be.In this part of the Internet,you will not find a single lolcat,a single pop-up advert anywhere.And that&#39;s one of the reasons why I thinkmany of you here will beon the dark net fairly soon.
+时间： 2:46
+zh-cn:（笑）
+en:(Laughter)
+时间： 2:49
+zh-cn:别误会，我并没有建议在座所有人应该去用暗网，去拿高质量的毒品。但是让我们假装现在你们都这样做。
+en:Not that I&#39;m suggestinganyone in this audience would use itto go and procure high-quality narcotics.But let&#39;s say for a moment that you were.
+时间： 2:57
+zh-cn:（笑）
+en:(Laughter)
+时间： 2:59
+zh-cn:忍一下吧！当你在这些网页上注册的时候，你会感到这些页面很眼熟。每一个产品 —上千个产品 —都有一个高清的图片，一个详细的产品介绍和价格。有一个 ”去结算“按钮。甚至还有一个，非常漂亮惊人的，”举报这个物品“按钮。
+en:Bear with me.The first thing you will noticeon signing up to one of these sitesis how familiar it looks.Every single product —thousands of products —has a glossy, high-res image,a detailed product description, a price.There&#39;s a &quot;Proceed to checkout&quot; icon.There is even, most beautifully of all,a &quot;Report this item&quot; button.
+时间： 3:29
+zh-cn:（笑）
+en:(Laughter)
+时间： 3:32
+zh-cn:难以置信。
+en:Incredible.
+时间： 3:34
+zh-cn:当你浏览这些网页的时候，你要做出选择，你用比特币支付，你输入一个地址 —应该不会是你的家庭住址 —你等着你的物品被送到你手里，它们总会被送到的。之所以它们会被送到，是因为那个机智的转换加密系统。这很重要。还有一个更简单的事情：用户评价。
+en:You browse through the site,you make your choice,you pay with the crypto-currency bitcoin,you enter an address — preferably not your home address —and you wait for your productto arrive in the post,which it nearly always does.And the reason it doesis not because of the clever encryption.That&#39;s important.Something far simpler than that.It&#39;s the user reviews.
+时间： 3:58
+zh-cn:（笑）
+en:(Laughter)
+时间： 4:00
+zh-cn:你知道，每一个卖家在这些网页上，很自然都会用一个假名，但是他们会用同一个假名来累计名声。因为买家往往会随心所欲地更改他们的昵称，唯一的一个办法能让他们信任一个卖家，就是那个卖家在这个网页其他用户反馈中，有一个很好的声誉和交易历史。
+en:You see, every single vendoron these sitesuses a pseudonym, naturally enough,but they keep the same pseudonymto build up a reputation.And because it&#39;s easy for the buyerto change allegiance whenever they want,the only way of trusting a vendoris if they have a good historyof positive feedbackfrom other users of the site.
+时间： 4:26
+zh-cn:这种竞争与选择的关系，会完全按照经济学家的预测的那样发展下去。价格会下降，与此同时产品质量上升。卖家对买家关注度很高，他们很有礼貌，以顾客为中心，给你介绍所有的特殊优惠，买一赠一，免费运送，让你开心。
+en:And this introductionof competition and choicedoes exactly whatthe economists would predict.Prices tend to go down,product quality tends to go up,and the vendors are attentive,they&#39;re polite, they&#39;re consumer-centric,offering you all mannerof special deals, one-offs,buy-one-get-one-frees, free delivery,to keep you happy.
+时间： 4:55
+zh-cn:我和“毒品天堂”聊过一次。“毒品天堂“提供物美价廉的大麻。他有一个很慷慨的退货政策，详细的介绍和条款，以及非常好的邮寄时间。
+en:I spoke to Drugsheaven.Drugsheaven was offeringexcellent and consistent marijuanaat a reasonable price.He had a very generous refund policy,detailed T&#39;s and C&#39;s,and good shipping times.
+时间： 5:14
+zh-cn:“亲爱的毒品天堂”，我写道，在网络的匿名邮件系统中。“我是新来的。你能卖给我一克的大麻吗？”
+en:&quot;Dear Drugsheaven,&quot; I wrote,via the internal emailing systemthat&#39;s also encrypted, of course.&quot;I&#39;m new here. Do you mindif I buy just one gram of marijuana?&quot;
+时间： 5:26
+zh-cn:几小时后，我得到了回复。他们绝对会回复你。
+en:A couple of hours later, I get a reply.They always reply.
+时间： 5:30
+zh-cn:“你好，谢谢你的邮件，从小剂量开始是很聪明的做法。如果我是你，我也会这么做。”
+en:&quot;Hi there, thanks for your email.Starting small is a wise thing to do.I would, too, if I were you.&quot;
+时间： 5:38
+zh-cn:（笑）
+en:(Laughter)
+时间： 5:40
+zh-cn:“所以如果你只想买一克，是没有问题的。希望我们能够一起做生意。此致敬礼，毒品天堂。”
+en:&quot;So no problem if you&#39;d like to startwith just one gram.I do hope we can do business together.Best wishes, Drugsheaven.&quot;
+时间： 5:47
+zh-cn:（笑）
+en:(Laughter)
+时间： 5:49
+zh-cn:我不知道为什么他有英国的上层社会口音，但是我认为他有。
+en:I don&#39;t know why he had a poshEnglish accent, but I assume he did.
+时间： 5:55
+zh-cn:现在，这种以顾客为中心的态度，解释了为什么，当我浏览12万条用户反馈，在三个月的时间内留下的留言时，95%给了五星。顾客，是王。但是这又意味着什么？一方面，这意味着现在有更多的毒品可以更加便捷更容易被更多的人买到。我想，这不是一件好事。但是，另一方面，如果你想要吸毒，你会有一个很好的办法来确保你的毒品的纯度和质量，如果你要吸毒，这是非常重要的。你可以安安心心的在家里买到毒品，而不是冒险在街上购买。
+en:Now, this kindof consumer-centric attitudeis the reason why, when I reviewed120,000 pieces of feedbackthat had been left on one of these sitesover a three-month period,95 percent of them were five out of five.The customer, you see, is king.But what does that mean?Well, on the one hand,that means there are more drugs,more available, more easily,to more people.And by my reckoning,that is not a good thing.But, on the other hand,if you are going to take drugs,you have a reasonably good wayof guaranteeing a certain levelof purity and quality,which is incredibly importantif you&#39;re taking drugs.And you can do sofrom the comfort of your own home,without the risks associatedwith buying on the streets.
+时间： 6:52
+zh-cn:现在，就像我所说的，你要有创造力和创新力才能在这个市场中生存下来。在20多家正在营业的店铺网站中 —顺便说一下，他们并不是一直都会开业，也不是一直都很完美；刚才我给你们展示的网站，在18个月前就被关闭了，但是在此之前，它已经进行了近十亿美金的交易了。但是这些市场，因为他们的营业环境很是复杂困难，高风险，他们一直在创新，一直在想办法更机智地营销。分散化，不要被审查到，更以顾客为中心。
+en:Now, as I said,you&#39;ve got to be creative and innovativeto survive in this marketplace.And the 20 or so sitesthat are currently in operation —by the way, they don&#39;t always work,they&#39;re not always perfect;the site that I showed youwas shut down 18 months ago,but not before it had turnedover a billion dollars&#39; worth of trade.But these markets,because of the difficult conditionsin which they are operating,the inhospitable conditions,are always innovating, alwaysthinking of ways of getting smarter,more decentralized, harder to censor,and more customer-friendly.
+时间： 7:31
+zh-cn:我们看一看支付系统。你不用你的信用卡付款，当然了 — 这会让你的身份暴露。所以你用网络货币比特币，很容易就能换成现实世界的现金，并且能高度保护用户隐私。
+en:Let&#39;s take the payment system.You don&#39;t pay with your credit card,of course — that would leaddirectly back to you.So you use the crypto-currency bitcoin,which is easily exchangedfor real-world currenciesand gives quite a high degreeof anonymity to its users.
+时间： 7:48
+zh-cn:刚开始有这些网站的时候，人们发现了一个漏洞。一些可恶的卖家携款逃跑，而不给你寄毒品。这个团体想出了一个解决方法：多重签名第三方契约系统。当我购买物品，我能把我的比特币寄出去，到一个中立的安全的第三方电子钱包。卖家，会看到我已经寄出去了，就相信他们可以把毒品寄给我了，当我收到的时候，至少2-3人参与了这次交易－－卖家，买家，网站管理者，要联手签名通过这次交易，通过一个独特的电子签名，然后，钱就能被转账到卖家那里的。
+en:But at the beginning of these sites,people noticed a flaw.Some of the unscrupulous dealerswere running away with peoples&#39; bitcoinbefore they&#39;d mailed the drugs out.The community came up with a solution,called multi-signature escrow payments.So on purchasing my item,I would send my bitcointo a neutral, secure third digital wallet.The vendor, who would seethat I&#39;d sent it,would be confident that theycould then send the product to me,and then when I received it,at least two of the three peopleengaged in the transaction —vendor, buyer, site administrator —would have to sign the transaction offwith a unique digital signature,and then the money would be transferred.
+时间： 8:37
+zh-cn:厉害！优雅。实用。
+en:Brilliant!Elegant.It works.
+时间： 8:41
+zh-cn:但是他们意识到比特币有个问题，因为每次的比特币交易都会被一个公共账簿记录下来，所以如果你足够聪明，你就能发现谁在幕后操作。所以他们研究出了一种滚动转移服务。上百人把他们的比特币转到一个地址下，它们”翻滚“并杂乱地混在一起，然后，正确的金额被转账到正确的接受人那里，但这些是不同的比特币了：微型洗钱系统。
+en:But then they realized there wasa problem with bitcoin,because every bitcoin transactionis actually recorded publiclyin a public ledger.So if you&#39;re clever, you can tryand work out who&#39;s behind them.So they came up with a tumbling service.Hundreds of people sendtheir bitcoin into one address,they&#39;re tumbled and jumbled up,and then the right amountis sent on to the right recipients,but they&#39;re different bitcoins:micro-laundering systems.
+时间： 9:08
+zh-cn:（笑）
+en:(Laughter)
+时间： 9:09
+zh-cn:这很不可思议。
+en:It&#39;s incredible.
+时间： 9:10
+zh-cn:对现在毒品销售在暗网上的趋势感兴趣？试一下Grams，一个搜索引擎。你甚至可以买一些广告位。
+en:Interested in what drugs are trendingright now on the dark net markets?Check Grams, the search engine.You can even buy some advertising space.
+时间： 9:20
+zh-cn:（笑）
+en:(Laughter)
+时间： 9:22
+zh-cn:你是一个有道德的顾客，担忧现在制毒产业的发展情形？是的。一个卖家能给你价格公道的有机可卡因。
+en:Are you an ethical consumer worriedabout what the drugs industry is doing?Yeah.One vendor will offer youfair trade organic cocaine.
+时间： 9:33
+zh-cn:（笑）
+en:(Laughter)
+时间： 9:34
+zh-cn:这些不是从哥伦比亚的毒枭那里买的，而是从瓜地马拉的农民那里拿到的。他们甚至承诺会把利润的20%投资到当地教育中。
+en:That&#39;s not being sourcedfrom Colombian druglords,but Guatemalan farmers.They even promised to reinvest20 percent of any profitsinto local education programs.
+时间： 9:44
+zh-cn:（笑）
+en:(Laughter)
+时间： 9:45
+zh-cn:甚至还有一个神秘的买家。
+en:There&#39;s even a mystery shopper.
+时间： 9:47
+zh-cn:不管你对这些网站的道德作风有何想法 —我承认建立这样的网站都不是一个容易的问题 —它是一个运转流畅，竞争激烈的匿名市场，在那里每个人都不知道对方是谁，一直承受着被当局关掉的风险，这是一个惊人的成就，一个伟大的成就。就是这种创新，让那些边缘产业和人们，成为未来的先知。
+en:Now, whatever you thinkabout the morality of these sites —and I submit that it&#39;s notactually an easy question —the creation of functioning,competitive, anonymous markets,where nobody knows who anybody else is,constantly at risk of being shut downby the authorities,is a staggering achievement,a phenomenal achievement.And it&#39;s that kind of innovationthat&#39;s why those on the fringesare often the harbingersof what is to come.
+时间：10:21
+zh-cn:很容易就被忘记的是，因为它很短命，互联网其实已经经历了几次改变，在30年的时间中。它在70年代由一个军事项目而启动，在1980年代转变成了学术网络，90年代被商业公司合作经营，现在被我们所有人以社交网络入侵，但是我觉得它还会改变。我认为一些东西就像暗网市场 —富有创造力，安全，很难去审查 —这是未来。
+en:It&#39;s easy to forgetthat because of its short life,the Internet has actuallychanged many timesover the last 30 years or so.It started in the &#39;70sas a military project,morphed in the 1980sto an academic network,co-opted by commercialcompanies in the &#39;90s,and then invaded by all of usvia social media in the noughties,but I think it&#39;s going to change again.And I think thingslike the dark net markets —creative, secure, difficult to censor —I think that&#39;s the future.
+时间：10:55
+zh-cn:为什么呢，因为我们都很在意我们的隐私。调查一直在显示对于隐私保护的关注。我们花更多时间上网我们就更担心，这些调查显示我们的焦虑正在增长。我们关心我们的数据会怎样。我们担心谁在监视着我们。
+en:And the reason it&#39;s the futureis because we&#39;re all worriedabout our privacy.Surveys consistently showconcerns about privacy.The more time we spend online,the more we worry about them,and those surveys showour worries are growing.We&#39;re worried aboutwhat happens to our data.We&#39;re worried aboutwho might be watching us.
+时间：11:14
+zh-cn:因为爱德华·斯诺登的爆料，现在越来越多的人们，开始使用加强隐私保护的工具。现在有两百到三百万的日常用户使用Tor浏览器。大部分用来做完全合法的事情，有时候只是用于很普通的浏览。全世界有数百个积极分子使用技术和工具来帮助你保护隐私 —默认信息加密服务。Ethereum，一个尝试去把上百万的连接在一起却没被使用的硬盘联机起来的项目来创造一个发散性的网络，没有人能够控制。现在，我们以前当然有过发散性的系统。我们用它做很多事情从Skype聊天到搜索外星生命。但是如果你把发散性系统和强大的加密系统联系在一起就会非常非常难以审查和控制。另一个叫做MadiSafe，是相似的系统。还有一个叫做Twister，等等，等等。
+en:Since the revelations from Edward Snowden,there&#39;s been a huge increasein the number of peopleusing various privacy-enhancing tools.There are now between twoand three million daily usersof the Tor browser,the majority of which useis perfectly legitimate,sometimes even mundane.And there are hundreds of activistsaround the worldworking on techniques and toolsto keep you private online —default encrypted messaging services.Ethereum, which is a projectwhich tries to link upthe connected but unused hard drivesof millions of computers around the world,to create a sort of distributed Internetthat no one really controls.Now, we&#39;ve had distributedcomputing before, of course.We use it for everything from Skypeto the search for extraterrestrial life.But you add distributed computingand powerful encryption —that&#39;s very, very hardto censor and control.Another called MaidSafeworks on similar principles.Another called Twister,and so on and so on.
+时间：12:22
+zh-cn:就是这样 —更多人的加入让它变的更有趣，然后更多人就回去加入，周而复始。我觉得这是马上要发生的事情。
+en:And here&#39;s the thing —the more of us join,the more interesting those sites become,and then the more of us join, and so on.And I think that&#39;s what&#39;s going to happen.
+时间：12:33
+zh-cn:实际上，它已经发生了。暗网已经不是交易者的窝点或者违法者的藏匿处。它已经变成主流了。最近，音乐家Aphex Twin把他新专辑用暗网网站的方式发行。脸书已经有了一个暗网网站地址。一群伦敦的建筑师已经建立了一个暗网网站，给担心再生空间计划的人们。是的，暗网正在成为主流。我预言，很快，每一个社交网站公司，甚至大型新闻公司，以及大部分的你们，在这里听我说话，都会开始使用暗网。
+en:In fact, it&#39;s already happening.The dark net is no longera den for dealersand a hideout for whistle-blowers.It&#39;s already going mainstream.Just recently, the musician Aphex Twinreleased his album as a dark net site.Facebook has started a dark net site.A group of London architectshave opened a dark net sitefor people worriedabout regeneration projects.Yes, the dark net is going mainstream,and I predict that fairly soon,every social media company,every major news outlet,and therefore most of youin this audience,will be using the dark net, too.
+时间：13:15
+zh-cn:所以网络正在变得更加有趣，更激动人心，更创新，更可怕，更有毁灭力量。如果你在乎自由，这是好消息。如果你在乎民主，这是好消息。如果你想看非法成人影像，这也是个好消息。若你想买卖毒品并且逃脱制裁。并不是全黑暗，也并不光彩。黑暗和光明将会并存于这里。
+en:So the Internet is about to getmore interesting,more exciting, more innovative,more terrible,more destructive.That&#39;s good newsif you care about liberty.It&#39;s good news if you care about freedom.It&#39;s good news if you careabout democracy.It&#39;s also good newsif you want to browsefor illegal pornographyand if you want to buy and sell drugswith impunity.Neither entirely dark, nor entirely light.It&#39;s not one side or the otherthat&#39;s going to win out, but both.
+时间：13:49
+zh-cn:谢谢。真的。
+en:Thank you very much, indeed.
+时间：13:51
+zh-cn:（掌声）
+en:(Applause)

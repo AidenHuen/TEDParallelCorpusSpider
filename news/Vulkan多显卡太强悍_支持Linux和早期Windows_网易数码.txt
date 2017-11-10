@@ -1,0 +1,9 @@
+新闻标题：Vulkan多显卡太强悍:支持Linux和早期Windows_网易数码
+新闻url：http://digi.163.com/17/0323/16/CG7NKUJM001680P9.html
+新闻正文：
+与DirectX 12相似，Vulkan图形接口也提供了多GPU支持，并借此提升系统的图形运算性能。
+而区别于DirectX 12的Windows 10独占，Vulkan打算将这种前沿技术带到更广泛的平台上去。
+Vulkan开发团队最新确认，多GPU支持不仅仅支持Windows 10，而且还可以在Windows 7、8、8.X以及Linux上面工作。
+而按照今年GDC大会上公布的内容，Vulkan的多GPU技术非常强悍。可以实现多路GPU的“化零为整”，将多个GPU视作一个逻辑设备——设备组，从而允许组内的GPU能够访问彼此的显存内容，提高复杂画面的渲染效率。
+该功能被指类似于DirectX 12当中的EMA功能，允许用户使用多个不同品牌、不同性能的GPU组成一个逻辑阵列，从而获得更强的渲染能力。
+<img alt="Vulkan多显卡太强悍：确认支持Linux和早期Windows" src="http://cms-bucket.nosdn.127.net/catchpic/b/bb/bb9bad974d771adffa8e5abd8aac64e1.jpg?imageView&thumbnail=550x0" style="margin: 0px auto; display: block;" />

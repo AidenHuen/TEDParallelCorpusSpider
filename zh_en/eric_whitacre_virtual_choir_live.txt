@@ -1,0 +1,39 @@
+时间： 0:11
+zh-cn:1991年可能是我一生中最重要也是改变我最大的一年。在我七年的本科里，我当时大三。我复读了好几届。一天，我参加了大学合唱队的北加州演出之旅，坐了一天的巴士后，我们终于停了下来，当时我们正在山里的一个美丽的湖泊旁休息。蟋蟀、小鸟、蛙声一片，我们坐在那儿，山的北边飘来大朵厚厚的似史蒂芬斯·皮尔伯格电影里的云团朝我们席卷过来，当云团飘到山谷一半时，不可思议的事情发生了——山谷里所有动物发出的声音嘎然而止。（呼唏）万籁俱寂，好像它们感觉到要发生什么，然后，云团飘到我们头顶，突然，嘣！霹雳雷震，大雨如织。太震撼了！我回到家后找到一首墨西哥诗人奥克塔维奥·帕斯（Octavio Paz）写的诗，并决定把它谱成曲，一首合唱曲目，叫《暴雨》，一会儿我们即将为各位演唱这首歌曲。
+en:In 1991 I hadmaybe the most profound and transformativeexperience of my life.I was in the third year of my seven-year undergraduate degree.I took a couple victory laps in there.And I was on a college choir tour up in Northern California,and we had stopped for the day after all day on the bus,and we were relaxing next to this beautifulidyllic lake in the mountains.And there were crickets and birds and frogs making noise,and as we sat there, over the mountains coming infrom the north were these Steven Spielbergian cloudsrolling toward us,and as the clouds got about halfway over the valley,so help me God, every single animal in that placestopped making noise at the same time.(Whoosh) This electric hush, as if they could sense what was about to happen.And then the clouds came over us, and then,boom! This massive thunderclap, and sheets of rain.It was just extraordinary, and when I came back homeI found a poem by the Mexican poet Octavio Paz,and decided to set it to music,a piece for choir called &quot;Cloudburst,&quot;which is the piece that we&#39;ll perform for you in just a moment.
+时间： 1:22
+zh-cn:但现在，先让我们回到三年前，（音乐）我们在You tube上发布了这个，网络虚拟合唱项目（Virtual Choir Project)，来自12国家的185为歌手同“台”献艺，你可以看到我在小视频里指挥这些歌手，歌手们有的在自己的宿舍里，有的在家里的客厅献唱。两年前，同样在这个平台上，虚拟合唱团二举行首演，来自58个国家的2052位歌手参与其中，这次演唱的曲目是我写的《睡眠》。就在今年春天，我们发布了虚拟合唱团三，《水夜》，我写的另一首曲子，这次，来自73个国家的近4000名歌手献唱。（音乐）
+en:Now fast forward to just three years ago.(Music) And we released to YouTube this,the Virtual Choir Project,185 singers from 12 different countries.You can see my little video there conducting these people,alone in their dorm roomsor in their living rooms at home.Two years ago, on this very stage, we premieredVirtual Choir 2,2,052 singers from 58 different countries,this time performing a piece that I had written called &quot;Sleep.&quot;And then just last spring we released Virtual Choir 3,&quot;Water Night,&quot; another piece that I had written,this time nearly 4,000 singers from 73 different countries.(Music)
+时间： 2:17
+zh-cn:我和克里斯（Chris）谈到虚拟合唱团未来的时候，谈到我们的发展方向的时候，他鼓励我把技术的运用推向极致，我们能进行实时表演吗？我们的歌手能进行实时演唱吗？
+en:And when I was speaking to Chris about the futureof Virtual Choir and where we might be able to take this,he challenged me to push the technology as far as we possibly could.Could we do this all in real time?Could we have people singing together in real time?
+时间： 2:33
+zh-cn:借助Skype软件，今天，我们就将尝试这一伟大创举。下面，我们将为各位献上《暴雨》。曲子的前半部分由台上的歌手们现场演唱，他们是来自加州州立大学长滩分校的歌手，来自加州州立大学富尔顿分校以及来自里弗赛德社区学院的合唱团——他们是美国最优秀的业余合唱团，（掌声）曲子的后半部分，虚拟合唱团将加入我们，他们是来自30个国家的30名歌手。
+en:And with the help of Skype,that is what we are going to attempt today.Now, we&#39;ll perform &quot;Cloudburst&quot; for you.The first half will be performed by the live singers here on stage.I&#39;m joined by singers from Cal State Long Beach,Cal State Fullerton and Riverside Community College,some of the best amateur choirs in the country, and —(Applause) —and in the second half of the piece,the virtual choir will join us, 30 different singersfrom 30 different countries.
+时间： 3:05
+zh-cn:现在，我们已经把技术的运用推向了极致，但是仍然有不到一秒的延迟，在音乐里，这是不允许的。我们要求同步到毫秒。所以，我把《暴雨》作了调整。这样，曲子本身预留出延迟的时间表演者就能在延迟的时间内开口歌唱而不是全部同步。
+en:Now, we&#39;ve pushed the technology as far as it can go,but there&#39;s still less than a second of latency,but in musical terms, that&#39;s a lifetime.We deal in milliseconds.So what I&#39;ve done is, I&#39;ve adapted &quot;Cloudburst&quot;so that it embraces the latencyand the performers sing into the latencyinstead of trying to be exactly together.
+时间： 3:24
+zh-cn:下面，满怀谦卑与感激，让我们带来《暴雨》。
+en:So with deep humility, and for your approval,we present &quot;Cloudburst.&quot;
+时间： 3:30
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:35
+zh-cn:（钢琴）
+en:(Piano)
+时间： 3:41
+zh-cn:【雨……】【影水之眼】【井水之眼】【梦水之眼。】【蓝色的太阳，绿色的旋风，】【鸟喙轻轻地叩开】【石榴星辰。】【但是，告诉我，烧焦的地球啊，难道没有水吗？】【只有鲜血，只有尘土，】【只有荆棘上赤裸的脚印？】【雨醒了……】【我们必须睁着眼睡去，】【我们必须用双手追梦，】【我们必须梦着河流的梦，追寻前行的路，】【我们必须梦着太阳的梦，梦想着她的世界。】【我们必须高声地梦想，】【我们必须歌唱，直到歌曲生出根、】【干、枝、鸟、星。】【我们必须找回遗失的字眼，】【并且记住鲜血、】【浪潮、地球和尸体的话语，】【我们必须回到分离的原点……】
+en:[The rain ...][Eyes of shadow-water][eyes of well-water][eyes of dream-water.][Blue suns, green whirlwinds,][birdbeaks of light pecking open][pomegranate stars.][But tell me, burnt earth, is there no water?][Only blood, only dust,][only naked footsteps on the thorns?][The rain awakens...][We must sleep with open eyes,][we must dream with our hands,][we must dream the dreams of a river seeking its course,][of the sun dreaming its worlds.][We must dream aloud,][we must sing till the song puts forth roots,][trunk, branches, birds, stars.][We must find the lost word,][and remember what the blood,][the tides, the earth, and the body say,][and return to the point of departure...]
+时间： 9:03
+zh-cn:（音乐）
+en:(Music)
+时间：11:33
+zh-cn:（掌声）
+en:(Applause)
+时间：11:48
+zh-cn:【《暴雨》奥克塔维奥·帕斯】【英译：莱赛德·肯普（Lysander Kemp），改编：埃里克·惠特克（Eric Whitacre）】
+en:[&quot;Cloudburst&quot; Octavio Paz][translation by Lysander Kemp, adapted by Eric Whitacre]
+时间：11:50
+zh-cn:埃里克·惠特克：贝斯（Beth），安娜贝勒（Annabelle），你们在哪儿？雅各布（Jacob）。（掌声）谢谢。
+en:Eric Whitacre: Beth. Annabelle, where are you? Jacob.(Applause)Thank you.

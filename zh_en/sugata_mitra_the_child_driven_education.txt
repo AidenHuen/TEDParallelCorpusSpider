@@ -1,0 +1,111 @@
+时间： 0:13
+zh-cn:嗯，这好像是个显而易见的观点。我在12年前根据这句话开始实验，我开始在发展中国家的环境中开始，但诸位是从世界各地来此的。所以如果回想一下你国家的地图，我想你会意识到，在地球上的每个国家的地图上，你都可以圈出一些地方说，“好的教师不会去这些地方。”而这些地方往往容易产生问题。那么我们就面临一个很讽刺的问题。好教师不想去最需要他们的地方。
+en:Well, that&#39;s kind of an obvious statement up there.I started with that sentence about 12 years ago,and I started in the contextof developing countries,but you&#39;re sitting here from every corner of the world.So if you think of a map of your country,I think you&#39;ll realizethat for every country on Earth,you could draw little circles to say,&quot;These are places where good teachers won&#39;t go.&quot;On top of that,those are the places from where trouble comes.So we have an ironic problem —good teachers don&#39;t want to goto just those places where they&#39;re needed the most.
+时间： 0:51
+zh-cn:我从1999年开始试图用实验解决这个问题，我当时在新德里进行了一个非常简单的实验。基本上，我在新德里贫民窟的一个墙壁上嵌入了一个电脑。这里的孩子很少上学。他们一点儿也不懂英文。他们以前从未见过电脑，并且他们不知道什么是互联网。我把电脑接入高速互联网——大约离地面3英尺高——打开电脑然后离开了。之后，我们注意到一些有趣的事情，你们等一下会看到。我在印度各地以及世界上许多地方重复这个实验，我们发现孩子们会学习他们想学的东西。
+en:I started in 1999to try and address this problem with an experiment,which was a very simple experiment in New Delhi.I basically embedded a computerinto a wall of a slum in New Delhi.The children barely went to school, they didn&#39;t know any English —they&#39;d never seen a computer before,and they didn&#39;t know what the internet was.I connected high speed internet to it — it&#39;s about three feet off the ground —turned it on and left it there.After this,we noticed a couple of interesting things, which you&#39;ll see.But I repeated this all over Indiaand then througha large part of the worldand noticedthat children will learn to dowhat they want to learn to do.
+时间： 1:41
+zh-cn:这是我们做的第一个实验——在右边是一个8岁的男孩教他的学生，一个6岁的女孩，他在教她如何浏览网页。这个男孩生活在印度中部——这是在Rajasthan村，孩子们在录制他们自己的音乐并互相放给对方听，在这个过程中，他们完全沉浸在欢乐中。他们在第一次见到电脑4小时后做了这些。在另一个南印度的村落，这些男孩组装了一个录像机并试图拍一个大黄蜂。他们从Disney.com或这些网站的其中一个下载了它，这发生在把电脑放在他们村里的14天后。因此，最终我们得出一个结论，那就是成组的孩子可以自己学习如何使用电脑和互联网，任何地方的任何孩子都可以。
+en:This is the first experiment that we did —eight year-old boy on your rightteaching his student, a six year-old girl,and he was teaching her how to browse.This boy here in the middle of central India —this is in a Rajasthan village,where the children recorded their own musicand then played it back to each otherand in the process,they&#39;ve enjoyed themselves thoroughly.They did all of this in four hoursafter seeing the computer for the first time.In another South Indian village,these boys herehad assembled a video cameraand were trying to take the photograph of a bumble bee.They downloaded it from Disney.com,or one of these websites,14 days after putting the computer in their village.So at the end of it,we concluded that groups of childrencan learn to use computers and the internet on their own,irrespective of whoor where they were.
+时间： 2:44
+zh-cn:到这时，我的野心更大了一点，并决定看看孩子们还能用电脑做什么。我们在印度的海得拉巴市开始了这个实验，我把一台电脑给了一群孩子——他们讲英语时带着很强的泰卢固语口音，电脑里有语音文字转换界面，现在这个功能在Windows里是免费的，我让他们对着电脑说话。当他们对着电脑说的时候，电脑打出了毫无意义的乱语，然后他们说，“电脑一点都不知道我们在说什么。”我就说，“是啊，我把电脑放这儿两个月。你们设法让电脑知道你们在说什么“然后孩子们问，”我们要怎么做啊？“我说，”其实我也不知道。“（笑声）然后我走了。（笑声）两个月后——现在这项研究刊登在《国际发展领域的信息技术应用》这本杂志上——他们的口音变了变得非常接近我在语音文字合成器中设定的正规英国口音。也就是说，他们说得都跟James Tooley似的。（笑声）所以他们可以靠自己完成。然后，我开始实验让他们做一些可能靠自己做到的其他不同的事情。
+en:At that point, I became a little more ambitiousand decided to seewhat else could children do with a computer.We started off with an experiment in Hyderabad, India,where I gave a group of children —they spoke English with a very strong Telugu accent.I gave them a computerwith a speech-to-text interface,which you now get free with Windows,and asked them to speak into it.So when they spoke into it,the computer typed out gibberish,so they said, &quot;Well, it doesn&#39;t understand anything of what we are saying.&quot;So I said, &quot;Yeah, I&#39;ll leave it here for two months.Make yourself understoodto the computer.&quot;So the children said, &quot;How do we do that.&quot;And I said,&quot;I don&#39;t know, actually.&quot;(Laughter)And I left.(Laughter)Two months later —and this is now documentedin the Information Technologyfor International Development journal —that accents had changedand were remarkably close to the neutral British accentin which I had trained the speech-to-text synthesizer.In other words, they were all speaking like James Tooley.(Laughter)So they could do that on their own.After that, I started to experimentwith various other thingsthat they might learn to do on their own.
+时间： 4:05
+zh-cn:我曾接到来自Columbo现已去世的科幻小说作家Arthur C. Clarke的一个有趣的电话，他说，“我想亲自看看实验进展。”因他无法旅行，所以我到他那里去。他说了两件有趣的事情，“一个可以被机器替换的老师应该被替换。”（笑声）他说的第二件事是，“如果孩子们有兴趣那么教育就会自然发生。“而我正将此付诸实践，所以每次我都会看这个录像并想到他。
+en:I got an interesting phone call once from Columbo,from the late Arthur C. Clarke,who said, &quot;I want to see what&#39;s going on.&quot;And he couldn&#39;t travel, so I went over there.He said two interesting things,&quot;A teacher that can be replaced by a machine should be.&quot;(Laughter)The second thing he said was that,&quot;If children have interest,then education happens.&quot;And I was doing that in the field,so every time I would watch it and think of him.
+时间： 4:35
+zh-cn:（录像）Arthur C. Clarke：它们肯定会对人们有帮助，因为孩子们很快学会如何浏览并找到他们感兴趣的东西。当他们产生兴趣时，教育就自然发生了。
+en:(Video) Arthur C. Clarke: And they can definitelyhelp people,because children quickly learn to navigatethe web and find things which interest them.And when you&#39;ve got interest, then you have education.
+时间： 4:48
+zh-cn:Sugata Mitra：我在南非进行了这个实验。这是一个15岁大的男孩。
+en:Sugata Mitra: I took the experiment to South Africa.This is a 15 year-old boy.
+时间： 4:53
+zh-cn:（录像）：男孩：……顺便提一下，我像动物一样玩游戏，并且我听音乐。
+en:(Video) Boy: ... just mention, I play gameslike animals,and I listen to music.
+时间： 5:02
+zh-cn:SM：然后我问他：”你发送电子邮件吗？“他说，”是的，它们会跨越海洋。“这是在柬埔寨，乡下似的柬埔寨这是一个比较愚蠢的算术游戏，没有孩子会在教室或家里玩它。他们会把它扔回来给你。他们会说，”这很无聊。“如果你把它留在道路上，如果大人们都走了，然后他们就会互相炫耀他们能做到的东西。这是这些孩子正在做的东西。我想他们正在试图乘数。在印度各地，快到两年的时候，孩子们开始用谷歌搜索他们的作业。结果是，老师们反映他们的英文进步巨大（笑声）其他方面的进步也很快。他们说，”孩子们的思维变得很深刻，诸如此类。“（笑声）的确是这样的。我的意思是，如果这东西在谷歌上有，何必要在脑子里记住？又过了将近四年，我认为这些孩子可以自行通过浏览网络来达到教育的目标。
+en:SM: And I asked him, &quot;Do you send emails?&quot;And he said, &quot;Yes, and they hop across the ocean.&quot;This is in Cambodia,rural Cambodia —a fairly silly arithmetic game,which no child would play inside the classroom or at home.They would, you know, throw it back at you.They&#39;d say, &quot;This is very boring.&quot;If you leave it on the pavementand if all the adults go away,then they will show off with each otherabout what they can do.This is what these children are doing.They are trying to multiply, I think.And all over India,at the end of about two years,children were beginning to Google their homework.As a result, the teachers reportedtremendous improvements in their English —(Laughter)rapid improvement and all sorts of things.They said, &quot;They have become really deep thinkers and so on and so forth.(Laughter)And indeed they had.I mean, if there&#39;s stuff on Google,why would you need to stuff it into your head?So at the end of the next four years,I decided that groups of children can navigate the internetto achieve educational objectives on their own.
+时间： 6:14
+zh-cn:那时，纽卡斯特大学接到了一大笔捐款来改善印度的学校。于是纽卡斯特大学给了我一个电话。我说，”我会从德里开始。“他们说，&quot;你不可能坐在德里来处理上百万英镑的学校经费。&quot;于是在2006年，我给自己买了一件厚重的大衣来到纽卡斯特。我想测试这个系统的极限。我在纽卡斯特之外做的第一个实验其实是在印度。我为自己制定了一个不可能的目标：让一群南印度村落里说泰米尔语的12岁的孩子们靠自己用英语学习生物科技。我以为，我会测试他们，他们会得0分。我会给他们相关材料，并回来测试他们。他们又得了零分。我回去说，“是的，我们需要教师来教些东西。”
+en:At that time, a large amount of moneyhad come into Newcastle Universityto improve schooling in India.So Newcastle gave me a call. I said, &quot;I&#39;ll do it from Delhi.&quot;They said, &quot;There&#39;s no way you&#39;re going to handlea million pounds-worth of University moneysitting in Delhi.&quot;So in 2006,I bought myself a heavy overcoatand moved to Newcastle.I wanted to test the limitsof the system.The first experiment I did out of Newcastlewas actually done in India.And I set myself and impossible target:can Tamil speaking12-year-old childrenin a South Indian villageteach themselves biotechnologyin English on their own?And I thought, I&#39;ll test them, they&#39;ll get a zero —I&#39;ll give the materials, I&#39;ll come back and test them —they get another zero,I&#39;ll go back and say, &quot;Yes, we need teachers for certain things.&quot;
+时间： 7:12
+zh-cn:我叫了26个孩子。他们全都来了，我告诉他们说这电脑上有些非常困难的东西。如果你们一点都理解不了，我也不会感到惊讶。它们全部是英文的，我走了。（笑声）然后我把电脑留给他们。两个月后我回来了，这26个孩子排队进来，看上去很安静。我说，“嗯，你们有没有看那些东西？”他们说，“是的，我们看了。”“你们能理解多少？”“一点也不理解。”然后我说，“那你们在电脑上操作多久以后，才认为你们什么也理解不了？”他们说，“我们每天都看。”然后我说，“你们这两个月一直都在看你们看不懂的东西？”然后一个12岁的女孩举起手说，原话是，“除了错误复制DNA分子会导致遗传疾病这个事实之外，我们什么也不懂。”
+en:I called in 26 children.They all came in there, and I told themthat there&#39;s some really difficult stuff on this computer.I wouldn&#39;t be surprised if you didn&#39;t understand anything.It&#39;s all in English, and I&#39;m going.(Laughter)So I left them with it.I came back after two months,and the 26 children marched in looking very, very quiet.I said, &quot;Well, did you look at any of the stuff?&quot;They said, &quot;Yes, we did.&quot;&quot;Did you understand anything?&quot; &quot;No, nothing.&quot;So I said,&quot;Well, how long did you practice on itbefore you decided you understood nothing?&quot;They said, &quot;We look at it every day.&quot;So I said, &quot;For two months, you were looking at stuff you didn&#39;t understand?&quot;So a 12 year-old girl raises her hand and says,literally,&quot;Apart from the fact that improper replication of the DNA moleculecauses genetic disease,we&#39;ve understood nothing else.&quot;
+时间： 8:03
+zh-cn:（笑声）
+en:(Laughter)
+时间： 8:05
+zh-cn:（掌声）
+en:(Applause)
+时间： 8:12
+zh-cn:（笑声）
+en:(Laughter)
+时间： 8:15
+zh-cn:我花了三年时间发表这个研究结果。刚发表在《英国教育科技杂志》上。其中一个审阅论文的专家说，“这太好了，不可能是真的，”我对此不敢苟同。其中一个女孩自学成为教师。那边的那个就是她。不要忘记，她们没学英文。我把最后一点删除，我问她，“神经元在哪儿？”她说，“神经元？神经元？”然后她看了看做了这个。这个表情可不太好。
+en:It took me three years to publish that.It&#39;s just been published in the British Journal of Educational Technology.One of the referees who refereed the paper said,&quot;It&#39;s too good to be true,&quot;which was not very nice.Well, one of the girls had taught herselfto become the teacher.And then that&#39;s her over there.Remember, they don&#39;t study English.I edited out the last bit when I asked, &quot;Where is the neuron?&quot;and she says, &quot;The neuron? The neuron,&quot;and then she looked and did this.Whatever the expression, it was not very nice.
+时间： 9:08
+zh-cn:那么她们的分数从零分提高到30分，在这种情形下，已经达到教育上不可能达到的程度了。但30分还是不及格。于是我发现她们有一个朋友，一个年轻的女孩，在当地做会计，她们跟她经常踢足球。我问这个女孩，“你愿意教她们足够的生物科技知识，来帮她们及格吗？”她说，“我怎么能做到啊？我根本不懂这门科目。”我说，“你是不懂，不过可以用奶奶的方法。”她说，“那是什么？”我说，“嗯，你要做的只是站在她们后面并且一直赞美她们。只需对她们说，‘这好酷哦。这太棒了。这是什么？你能再做一遍吗？能不能让我多看一些？’”她这样做了两个月。分数提高到50分，这分数跟新德里豪华学校的学生差不多，那样的豪华学校却是配备着训练有素的生物科技教师的
+en:So their scores had gone up from zero to 30 percent,which is an educational impossibility under the circumstances.But 30 percent is not a pass.So I found that they had a friend,a local accountant, a young girl,and they played football with her.I asked that girl, &quot;Would you teach themenough biotechnology to pass?&quot;And she said, &quot;How would I do that? I don&#39;t know the subject.&quot;I said, &quot;No, use the method of the grandmother.&quot;She said, &quot;What&#39;s that?&quot;I said, &quot;Well, what you&#39;ve got to dois stand behind themand admire them all the time.Just say to them, &#39;That&#39;s cool. That&#39;s fantastic.What is that? Can you do that again? Can you show me some more?&#39;&quot;She did that for two months.The scores went up to 50,which is what the posh schools of New Delhi,with a trained biotechnology teacher were getting.
+时间： 9:54
+zh-cn:于是我戴着这些研究结果回到纽卡斯特，我认为这里所发生的事情确实具有重大价值。在各种各样的偏远地区实验之后，我来到我能想到的最偏远的地方。（笑声）距离德里大约5000英里的地方有一个小镇叫Gateshead。在Gateshead，我找了32个孩子，并开始调整实验方法。我让他们分成四组。我说，“你们自己分成四组。每组四个人用一台电脑，而不是四台电脑。”别忘了，来自那个墙上的洞。“你们可以交换组别。如果不喜欢自己的组，可以去其他组，等等。你们可以去另一个组偷看，看看他们在干什么，然后回来宣称这是你们自己做的。”我跟他们解释，你们懂的，许多科学研究就是这么来的。
+en:So I came back to Newcastlewith these resultsand decidedthat there was something happening herethat definitely was getting very serious.So, having experimented in all sorts of remote places,I came to the most remote place that I could think of.(Laughter)Approximately 5,000 miles from Delhiis the little town of Gateshead.In Gateshead, I took 32 childrenand I started to fine-tune the method.I made them into groups of four.I said, &quot;You make your own groups of four.Each group of four can use one computer and not four computers.&quot;Remember, from the Hole in the Wall.&quot;You can exchange groups.You can walk across to another group,if you don&#39;t like your group, etc.You can go to another group, peer over their shoulders, see what they&#39;re doing,come back to you own group and claim it as your own work.&quot;And I explained to themthat, you know, a lot of scientific research is done using that method.
+时间：10:54
+zh-cn:（笑声）
+en:(Laughter)
+时间：10:56
+zh-cn:（掌声）
+en:(Applause)
+时间：11:03
+zh-cn:孩子们非常热切地追着我说，“现在你要让我们做什么？”我给了他们六个GCSE普通中等教育证书的问题。第一组，最好的一组，在20分钟内解决了所有问题。最差的一组，45分钟内完成。他们使用所有他们知道的方法—新闻组，谷歌，维基百科，问Jeeves等等。教师们问，“这算是深入的学习吗？”我说，“那让我们来试试这个吧。我两个月后回来。我让他们参加一个笔试测试—没有电脑，不准互相交谈，等等。”在允许使用电脑和小组学习的情况下，平均分数是76。在两个月后进行的测试，分数还是76。孩子们拥有摄像记忆的能力。我怀疑这是因为他们互相讨论的结果。一个孩子一台电脑是不会产生这样的效果的。我还有些更深入的研究结果，几乎是难以令人相信的，这些分数随着时间推移而提高。因为他们的老师说，在研究结束后，孩子们继续更深入的谷歌搜索。
+en:The children enthusiastically got after me and said,&quot;Now, what do you want us to do?&quot;I gave them six GCSE questions.The first group — the best one —solved everything in 20 minutes.The worst, in 45.They used everything that they knew —news groups, Google, Wikipedia,Ask Jeeves, etc.The teachers said, &quot;Is this deep learning?&quot;I said, &quot;Well, let&#39;s try it.I&#39;ll come back after two months.We&#39;ll give them a paper test —no computers, no talking to each other, etc.&quot;The average score when I&#39;d done it with the computers and the groupswas 76 percent.When I did the experiment, when I did the test,after two months, the scorewas 76 percent.There was photographic recallinside the children,I suspect because they&#39;re discussing with each other.A single child in front of a single computerwill not do that.I have further results,which are almost unbelievable,of scores which go up with time.Because their teachers saythat after the session is over,the children continue to Google further.
+时间：12:10
+zh-cn:在英国，在我的[]实验后，我给英国的奶奶们发了一个号召。嗯，你们知道，英国的奶奶们是非常具有活力的人群。有200人马上志愿加入。（笑声）协议是她们给我一个小时的宽带上网时间，在她们家里坐着，每个星期一次。然后她们这么做了。在过去两年里，有600小时的指导通过Skype进行了，使用的是我的学生们称之为奶奶云的方法。奶奶云在那儿坐着。我可以把她们传送到任何我想传送的学校。
+en:Here in Britain, I put out a callfor British grandmothers,after my Kuppam experiment.Well, you know,they&#39;re very vigorous people, British grandmothers.200 of them volunteered immediately.(Laughter)The deal was that they would give meone hour of broadband time,sitting in their homes,one day in a week.So they did that,and over the last two years,over 600 hours of instructionhas happened over Skype,using what my students call the granny cloud.The granny cloud sits over there.I can beam them to whichever school I want to.
+时间：12:56
+zh-cn:（录像）老师：你抓不到我。跟我读。你抓不到我。
+en:(Video) Teacher: You can&#39;t catch me.You say it.You can&#39;t catch me.
+时间：13:04
+zh-cn:孩子们：你抓不到我。
+en:Children: You can&#39;t catch me.
+时间：13:07
+zh-cn:老师：我是姜饼人。
+en:Teacher: I&#39;m the gingerbread man.
+时间：13:10
+zh-cn:孩子们：我是姜饼人。
+en:Children: I&#39;m the gingerbread man.
+时间：13:12
+zh-cn:老师：做的很好，非常好。
+en:Teacher: Well done. Very good ...
+时间：13:20
+zh-cn:SM：回到Gateshead，一个10岁的女孩在15分钟内进入了印度教的中心。你知道，这些东西我一点也不懂。两个孩子在看TED演讲。而他们以前想当足球运动员。看了8个TED演讲者之后，他想成为达芬奇。
+en:SM: Back at Gateshead,a 10-year-old girl gets into the heart of Hinduismin 15 minutes.You know, stuff which I don&#39;t know anything about.Two children watch a TEDTalk.They wanted to be footballers before.After watching eight TEDTalks,he wants to become Leonardo da Vinci.
+时间：13:41
+zh-cn:（笑声）
+en:(Laughter)
+时间：13:44
+zh-cn:（掌声）
+en:(Applause)
+时间：13:47
+zh-cn:这是很简单的东西。
+en:It&#39;s pretty simple stuff.
+时间：13:49
+zh-cn:这是我现在在构建的。它们叫SOLEs：自我组织的学习环境。这些装置是特地设计的，好让孩子们坐在一个强大的屏幕前面，拥有高速宽带连接，他们是分组的。如果他们愿意的话，可以叫上奶奶云。这是在纽卡斯特设置的一个SOLE。这个中间人来自印度的[]。
+en:This is what I&#39;m building now —they&#39;re called SOLEs: Self Organized Learning Environments.The furniture is designedso that children can sit in front of big, powerful screens,big broadband connections, but in groups.If they want, they can call the granny cloud.This is a SOLE in Newcastle.The mediator is from Pune, India.
+时间：14:09
+zh-cn:我们能够走多远？再说一点我就结束。我在五月去了都灵。我找了一组10岁的学生，让他们的老师全部离开。我只说英语，他们只说意大利语，所以我们没有办法沟通。我开始在黑板上写英语问题。孩子们看了以后说，“什么？”我说，“嗯，做吧。”他们把它输入谷歌，翻译成意大利语，然后去意大利语谷歌。15分钟后……下一个问题：Calcutta在哪儿？他们在这个问题上花了10分钟。然后我试了一个很难的问题。毕达哥拉斯是谁，他做了什么？他们沉默了一会儿，然后说，“你拼错了。应该是Pitagora。”然后，过了20分钟，直角三角形开始在屏幕上出现。这让我脊梁冒汗。他们只是10岁的孩子。文字：再过30分钟他们就会到达相对论。然后呢？
+en:So how far can we go? One last little bit and I&#39;ll stop.I went to Turin in May.I sent all the teachers away from my group of 10 year-old students.I speak only English, they speak only Italian,so we had no way to communicate.I started writing English questions on the blackboard.The children looked at it and said, &quot;What?&quot;I said, &quot;Well, do it.&quot;They typed it into Google, translated it into Italian,went back into Italian Google.Fifteen minutes later —next question: where is Calcutta?This one, they took only 10 minutes.I tried a really hard one then.Who was Pythagoras, and what did he do?There was silence for a while,then they said, &quot;You&#39;ve spelled it wrong.It&#39;s Pitagora.&quot;And then,in 20 minutes,the right-angled triangles began to appear on the screens.This sent shivers up my spine.These are 10 year-olds.Text: In another 30 minutes they would reach the Theory of Relativity. And then?
+时间：15:46
+zh-cn:（笑声）
+en:(Laughter)
+时间：15:48
+zh-cn:（掌声）
+en:(Applause)
+时间：15:57
+zh-cn:SM：所以你知道发生了什么吗？我认为我们偶然发现了一个自我组织的系统。一个自我组织的系统是指在没有外界干预的情况下自动出现的一个结构。而且自我组织系统总是出现这样的现象，即这系统会开始做些事情，而系统本非为此而设计。这也是你们为什么会这么反应，因为它看起来是不可能的。我认为我可以在此做个猜测。教育是一个自我组织的系统，而学习是一个显露的现象。这可能要花几年的时间才能通过实验证明，但我会努力去尝试。但现在，有一个方法是有效的。10亿孩子，我们需要1亿中间人—我们世上远比这多—成立1千万个SOLE，1千8百亿美元和10年我们可以改变一切。
+en:SM: So you know what&#39;s happened?I think we&#39;ve just stumbled acrossa self-organizing system.A self-organizing system is onewhere a structure appearswithout explicit intervention from the outside.Self-organizing systems also always show emergence,which is that the system starts to do things,which it was never designed for.Which is why you react the way you do,because it looks impossible.I think I can make a guess now —education is self-organizing system,where learning is an emergent phenomenon.It&#39;ll take a few years to prove it, experimentally,but I&#39;m going to try.But in the meanwhile, there is a method available.One billion children, we need 100 million mediators —there are many more than that on the planet —10 million SOLEs,180 billion dollars and 10 years.We could change everything.
+时间：16:49
+zh-cn:谢谢
+en:Thanks.
+时间：16:51
+zh-cn:（掌声）
+en:(Applause)

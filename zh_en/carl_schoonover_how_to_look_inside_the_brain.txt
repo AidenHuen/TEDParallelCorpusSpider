@@ -1,0 +1,36 @@
+时间： 0:11
+zh-cn:这是一张一千年前关于大脑的绘画一个关于视觉系统的图像有些东西在今天看来也很熟悉底下是两只眼睛，视觉神经从它们后面伸出来这是个很大的鼻子看起来它并没有连接到特殊的部位
+en:This is a thousand-year-old drawing of the brain.It&#39;s a diagram of the visual system.And some things look very familiar today.Two eyes at the bottom, optic nerve flowing out from the back.There&#39;s a very large nosethat doesn&#39;t seem to be connected to anything in particular.
+时间： 0:29
+zh-cn:如果我们把这个跟最近的视觉系统的表现形式进行对比你会发现情况变得异常复杂在经历了几千年之后这是因为今天我们可以看见大脑里面的东西而不只是它大致的形状
+en:And if we compare thisto more recent representations of the visual system,you&#39;ll see that things have gotten substantially more complicatedover the intervening thousand years.And that&#39;s because today we can see what&#39;s inside of the brain,rather than just looking at its overall shape.
+时间： 0:43
+zh-cn:想象下如果你想知道电脑是如何工作的你能看到的只是键盘，鼠标和屏幕你真的不会那么走运（明白它是怎么工作的）你会想要打开它，拆开它看看里面电线的连接直到一百多年以前没有人能够这样对待大脑没人看到过大脑的回路
+en:Imagine you wanted to understand how a computer worksand all you could see was a keyboard, a mouse, a screen.You really would be kind of out of luck.You want to be able to open it up, crack it open,look at the wiring inside.And up until a little more than a century ago,nobody was able to do that with the brain.Nobody had had a glimpse of the brain&#39;s wiring.
+时间： 1:02
+zh-cn:那是因为如果你把大脑从头盖骨里拿出来从中切出一个薄片把它放在即便很强大的显微镜下面那里什么都没有它是灰色的，没有固定形状没有结构。它不会告诉你任何东西
+en:And that&#39;s because if you take a brain out of the skulland you cut a thin slice of it,put it under even a very powerful microscope,there&#39;s nothing there.It&#39;s gray, formless.There&#39;s no structure. It won&#39;t tell you anything.
+时间： 1:15
+zh-cn:这些都在19世纪末发生了改变忽然间，人们发明了新的大脑组织的化学染料这些染料让我们第一次看到大脑的回路这个电脑被打开了
+en:And this all changed in the late 19th century.Suddenly, new chemical stains for brain tissue were developedand they gave us our first glimpses at brain wiring.The computer was cracked open.
+时间： 1:26
+zh-cn:真正开启现代神经科学的是一种叫高尔基染色法的染料它工作原理很特别它并不是对组织里面的所有细胞进行染色而是只染对其中大约1%的细胞它清除了森林的图像，展现了其中的树木如果所有东西都被标记上的话，那什么都看不见了所有它以某种方式展示了大脑里的东西
+en:So what really launched modern neurosciencewas a stain called the Golgi stain.And it works in a very particular way.Instead of staining all of the cells inside of a tissue,it somehow only stains about one percent of them.It clears the forest, reveals the trees inside.If everything had been labeled, nothing would have been visible.So somehow it shows what&#39;s there.
+时间： 1:47
+zh-cn:西班牙神经解剖学家圣地亚哥·拉蒙-卡哈尔被普遍认为是现代神经科学之父他用高尔基染色法展示了这样的图像这给了我们神经细胞，神经元的现代概念如果你把大脑想象成一个电脑这就是晶体管卡哈尔很快意识到神经元不是单独工作的而是与其它神经元互相连接形成像电脑一样的电路今天，一个世纪之后，当研究人员想要看神经元的时候他们从内部点亮神经元，而不是让它们变暗它有几种做法最流行的做法之一要用到荧光蛋白现在，绿色荧光蛋白一种来自生物发光的水母中的荧光蛋白很有用处因为如果你能得到绿色荧光蛋白的基因并把它运入一个细胞那个细胞就会发出绿色荧光——如果你使用任何这种绿色荧光蛋白的变体你可以让一个细胞发出不同的颜色的荧光
+en:Spanish neuroanatomist Santiago Ramon y Cajal,who&#39;s widely considered the father of modern neuroscience,applied this Golgi stain, which yields data which looks like this,and really gave us the modern notion of the nerve cell, the neuron.And if you&#39;re thinking of the brain as a computer,this is the transistor.And very quickly Cajal realizedthat neurons don&#39;t operate alone,but rather make connections with othersthat form circuits just like in a computer.Today, a century later, when researchers want to visualize neurons,they light them up from the inside rather than darkening them.And there&#39;s several ways of doing this.But one of the most popular onesinvolves green fluorescent protein.Now green fluorescent protein,which oddly enough comes from a bioluminescent jellyfish,is very useful.Because if you can get the gene for green fluorescent proteinand deliver it to a cell,that cell will glow green —or any of the many variants now of green fluorescent protein,you get a cell to glow many different colors.
+时间： 2:42
+zh-cn:回到大脑的话题有一种叫“大脑彩虹”的转基因小鼠人们这样叫它当然是因为这些神经元在发出不同颜色的荧光
+en:And so coming back to the brain,this is from a genetically engineered mouse called &quot;Brainbow.&quot;And it&#39;s so called, of course,because all of these neurons are glowing different colors.
+时间： 2:53
+zh-cn:现在，神经科学家们有时候需要识别神经元的特定分子元件识别分子，而不是整个细胞这可以通过好几种方法做到但是最流行的方法之一用到了抗体你们一定对作为免疫系统的抗体十分熟悉实际上它们在免疫系统中如此重要的原因是它们可以识别特定的分子比如一个入侵身体的病毒的外壳蛋白研究人员利用抗体的这个特性来识别大脑内部的特定分子识别细胞的特定亚结构并将它们逐个分辨出来
+en:Now sometimes neuroscientists need to identifyindividual molecular components of neurons, molecules,rather than the entire cell.And there&#39;s several ways of doing this,but one of the most popular onesinvolves using antibodies.And you&#39;re familiar, of course,with antibodies as the henchmen of the immune system.But it turns out that they&#39;re so useful to the immune systembecause they can recognize specific molecules,like, for example, the coat proteinof a virus that&#39;s invading the body.And researchers have used this factin order to recognize specific molecules inside of the brain,recognize specific substructures of the celland identify them individually.
+时间： 3:32
+zh-cn:我在这展示的很多图像都很漂亮但它们同时也很强大它们可以解释很多东西比如说，这是一个针对小鼠大脑切片里5-羟色胺转运体的抗体染色图象
+en:And a lot of the images I&#39;ve been showing you here are very beautiful,but they&#39;re also very powerful.They have great explanatory power.This, for example, is an antibody stainingagainst serotonin transporters in a slice of mouse brain.
+时间： 3:44
+zh-cn:你们肯定听说过5-羟色胺它与忧虑、焦虑一类的疾病有关你们也听说过 SSRIs (选择性5-羟色胺再摄取抑制剂)它被用来治疗以上几种疾病如果想了解5-羟色胺是怎么起作用的我们必须先明白5-羟色胺作用的部位在哪里而我们可以通过这样的抗体染色来解答类似的问题
+en:And you&#39;ve heard of serotonin, of course,in the context of diseases like depression and anxiety.You&#39;ve heard of SSRIs,which are drugs that are used to treat these diseases.And in order to understand how serotonin works,it&#39;s critical to understand where the serontonin machinery is.And antibody stainings like this onecan be used to understand that sort of question.
+时间： 4:04
+zh-cn:我想给你们留下这样一个信息：绿色荧光蛋白和抗体最早都是自然产物它们通过自然进化以便使一个水母不论以什么原因发出绿色荧光或是以便识别入侵身体的病毒的外壳蛋白过了很久很久以后，科学家才出场说：“这些都是工具，我们可以把这些功能用到我们自己的研究工具控制板上。”与其用有限的人类智慧来从头设计工具不如用这些在自然界中经过几百万年的发展、改善并稳定下来的现成的工具来解答它们是大自然的鬼斧神工谢谢（掌声）
+en:I&#39;d like to leave you with the following thought:Green fluorescent protein and antibodiesare both totally natural products at the get-go.They were evolved by naturein order to get a jellyfish to glow green for whatever reason,or in order to detect the coat protein of an invading virus, for example.And only much later did scientists come onto the sceneand say, &quot;Hey, these are tools,these are functions that we could usein our own research tool palette.&quot;And instead of applying feeble human mindsto designing these tools from scratch,there were these ready-made solutions right out there in naturedeveloped and refined steadily for millions of yearsby the greatest engineer of all.Thank you.(Applause)

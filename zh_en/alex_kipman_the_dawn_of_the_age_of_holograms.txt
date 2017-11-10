@@ -1,0 +1,195 @@
+时间： 0:11
+zh-cn:此后的千百年后，我们会回望这个计算机时代的第一个世纪，一个令人炫目却又非常奇特的时代——这是唯一一段，人类的生活被局限在二维空间的历史，我们与科技之间的交互就好像我们自己是一台机器；奇特的是，在浩瀚时空里的这一百年间人类的交流，娱乐或是打理生活都来自于一块荧幕之后。
+en:Thousands of years from now,we&#39;ll look back at the firstcentury of computingas a fascinating but very peculiar time —the only time in history where humanswere reduced to live in 2D space,interacting with technologyas if we were machines;a singular, 100-year periodin the vastness of timewhere humans communicated,were entertained and managed their livesfrom behind a screen.
+时间： 0:43
+zh-cn:今天，我们将大部分的时间都花在了点击和注视荧幕上。人们之间的彼此交流到底出了什么问题？我不清楚你们是怎么想的，但这些二维世界里的荧幕和像素让我倍感约束。而正是这种约束感和来源我渴望自身与他人接触的欲望启迪我成为了一个创造者。简单来说：我想创造一个新的现实，一个运用科技将我们彼此之间的距离无限拉近的现实，在这个现实中，人们才是万物的中心，而一部部设备并不是。
+en:Today, we spend most of our timetapping and looking at screens.What happened to interactingwith each other?I don&#39;t know about you, but I feel limitedinside this 2D worldof monitors and pixels.And it is this very limitationand my desire to connect with peoplethat inspires me as a creator.Put simply: I wantto create a new reality,a reality where technology bringsus infinitely closer to each other,a reality where people, not devices,are the center of everything.
+时间： 1:21
+zh-cn:我所梦想的现实是，科技了解我们的所见，所触及所感；在这个现实中科技不再是生活的一切，而让我们更加清楚我们是谁。我梦想着科技应该更为人性化。我们将拥有更为成熟的科技能让人们的行为更加人性化，所有产品具备自然交互，语音控制或是生物识别。
+en:I dream of a reality where technologysenses what we see, touch and feel;a reality where technologyno longer gets in our way,but instead embraces who we are.I dream of technologyon a human path.We have all experienced technologythat enables peopleto act more like people,products that enable natural interactions,voice controls or biometrics.
+时间： 1:54
+zh-cn:这就是这场巨变中的下一步革新，微软HoloLens（全息眼镜），第一台完全无限制的全息影像计算器。这台设备能将3D的全息图像植入到我们的现实世界，通过超越我们平常的认知，来增强我们对生活的体验。现在，我并没有在考虑那遥远的将来。我所讲的是今天。我们已经看到像沃尔沃这样的汽车公司们，正用HoloLens做着不同以往的汽车设计；像凯斯西储这样的大学们重新定义了医学生们的学习方式；而我个人最爱的，莫过于NASA通过HoloLens让科学家们探索不同星球仿佛身临其境。
+en:This is the next step in the evolution.This is Microsoft HoloLens,the first fully untetheredholographic computer.Devices like this will bring3D holographic contentright into our world,enhancing the way we experience lifebeyond our ordinary range of perceptions.Now, I&#39;m not thinkingabout a distant future.I&#39;m talking about today.We are already seeingcar companies like Volvodesigning cars differently with HoloLens;universities like Case Westernredefining the way medical students learn;and my personal favorite,NASA is using HoloLensto let scientists explore planetsholographically.
+时间： 2:42
+zh-cn:现在，这很重要。通过将全息影像植入我们的世界，我所说的不只是一个新设备或一台更好的计算器，而是将我们自己从传统的计算中的二维局限中解放出来。
+en:Now, this is important.By bringing holograms into our world,I&#39;m not just talking about a new deviceor a better computer.I&#39;m talking about freeing ourselvesfrom the 2D confinesof traditional computing.
+时间： 3:00
+zh-cn:换句话说：目前，我们就像计算机时代的穴居人。我们仅仅是找到了木炭并开始在我们的洞穴中画出第一副简笔画。现在，这是我每天工作所看到的景象。接下来的数分钟内，我邀请大家一起观看这一景象关于这个正向我们迎来的全息之旅。
+en:Put it this way:temporally adjusted, we&#39;re likecave people in computer terms.We&#39;ve barely discovered charcoaland started drawingthe first stick figures in our cave.Now, this is the perspectiveI apply to my work every single day.And now for the next few minutes,I invite all of you to applythe same perspectiveto the journey ahead of us.
+时间： 3:30
+zh-cn:现在，当我带上HoloLens，让我对设定再稍作解释。这很可能是我们所有的HoloLens 舞台演示中最具风险的一次，而且我也找不出比TED更合适这场演示的地方了。马上，在这个舞台上我将能看到全息影像，它的清晰度就像我看到的你们一样。与此同时，我们还有另一部特殊的摄像机，在台前游走。这样你们就能通过上面的所有荧幕，与我一起共享全息体验。
+en:Now, as I put this HoloLens on,let me explain the setup a little bit.It&#39;s probably the most risky demowe have ever done on any stagewith HoloLens,and I can&#39;t think of a better placeto do it than here at TED.Momentarily, I am goingto be seeing hologramsright on this stage,just as clearly as I can see all of you.Now at the same time,we have also this special camerathat just walked in onstageso that all of you can sharein this experience with meup on all the monitors.
+时间： 4:04
+zh-cn:好开始我们的体验吧。作为我们旅程的起点，没有比计算机中的二维洞穴更为合适的了。让我们用全新的镜头，去探索这个围绕着我们的世界，并以崭新的视角去理解这个计算机的宇宙。
+en:So let&#39;s start our journey.And what better placeto begin our journey,than in the computer cave of 2D.Let&#39;s explore the worldall around us with this new lens,and understand the computer worldfrom a brand new perspective.
+时间： 4:22
+zh-cn:这个计算机的宇宙即神奇又原始。这个宇宙建立在因果关系之上。作为开发者，我们梦想着不同的因而后制作出不同的果。双击一个图标，是因。打开了一个程序，是果。现在当我们将此与现实宇宙做比较后，这些却成了极大的约束，因为我们的现实宇宙不是数位。我们的宇宙是拟物。我们宇宙的思维不是0和1，对与错，或黑与白。我们存在于一个量子物理统治的宇宙中，一个0和1同时存在的宇宙，一个建立在很模糊的无限可能的基础之上的现实。你可以看见这两个世界是如何彼此碰撞的。
+en:The computer universeis both marvelous and primitive.It&#39;s a universe based on causality.As developers, we dreamthe different causesand then we program the different effects.Double click on an icon, that&#39;s a cause.Open an application, that&#39;s an effect.Now when we compare thisto our physical universe,it is overly constraining,because our universe is not digital.Our universe is analog.Our universe doesn&#39;t thinkin terms of zero or one,true or false, or black or white.We exist in a worldgoverned by quantum physics,a universe of zero and oneboth at the same time,a reality based on infiniteprobabilities and shades of gray.You can see how these two worlds collide.
+时间： 5:22
+zh-cn:所以为什么在我们如此拟物的生活里荧幕却无处不在？从我们醒来的瞬间，到我们入睡之前我们都在看荧幕。为什么？
+en:So why are screens so pervasivein our analog life?We see screens from the moment we wake up,to the moment we fall asleep.Why?
+时间： 5:35
+zh-cn:我想应该是计算机给我超能力。在这个数字化的移动世界，我们有能力操纵空间，有能力操纵时间。不论你是用科技来娱乐，创造生产还是交流。这样想一下；我们在今晚回家后然后观看最喜欢的电视节目。这便是戏剧化的时空操纵。一旦我结束这次TED演讲后，我将立马打给我远在西雅图的可爱家人。那便是一种空间置换。因为，这些强大的超能力，我们忍受着现行的数字世界所带来的二维世界的局限。但是，如果我们不必再忍受呢？如果在我们能再现实世界中拥有同样强大的数字力量呢？你们已经可以看到一丝曙光，但我相信我们的子孙将成长在一个没有二维科技的世界中。梦想中的这个世界是如此非凡。在这个世界里科技真正懂得你我——我们的生活，工作和交流——用着那些增强人性化体验的工具，而不是那些限制人性的机器。
+en:I think it&#39;s because computersgive us superpowers.Within the digital universe,we have the power to displace spaceand the power to displace time.It doesn&#39;t matter if you&#39;re usingtechnology for entertainment,productivity or communication.Think of it this way:let&#39;s all go home tonightand watch our favorite show on television.This is theater — timeand space displaced.As soon as I&#39;m done with this TED Talk,I&#39;m going to immediately callmy lovely family in Seattle.That&#39;s displacement of space.Now, these are such great superpowersthat we put up withthe two-dimensional limitationsof our current digital world.But what if we didn&#39;t have to?What if we could havethese same digital powersin our world?You can already see glimmers of this,but I believe our children&#39;s childrenwill grow up in a worlddevoid of 2D technology.It&#39;s remarkable to dream of this world,a world where technologytruly understands us —where we live, work and communicate —with tools that enhancethe human experience,not machines that limit our humanity.
+时间： 6:57
+zh-cn:所以要如何去到这样的世界呢？对我来说，回答这问题需要从不同的角度去看待它。它需要我们从机器的视角去感知这个世界。如果你是一台试图感知我们世界的机器，你会如何解决这个问题？你或许会试图去将万物归类于人类；环境；或事物。但是一台机器要如何与种种现实产生交互呢？我能想到三种途径。
+en:So how do we get there?For me, the answer requiredlooking at the problemfrom a different perspective.It required sensing the worldfrom the perspective of a machine.If you&#39;re a machine tryingto sense our world,how would you actuallybreak the problem down?You&#39;d probably try to classify thingsas a human,an environmentor an object.But how would that machinethen interact with reality?And I can think of three ways.
+时间： 7:37
+zh-cn:首先，作为机器，我会想到对现实进行观察和输入。语音识别和生物特征辨识是输入途径中机器与人类交互最为成功的例子。其次，作为机器，我可以展现和输出数字化的信息，植入现实。全息影像便是一个输出途径中机器与环境交互的列子。最后，作为机器，我可以通过触碰与世界交换能力。现在，想象一下你可以感受到一个虚拟物体上的温度。更甚者，想象一下你在推一个全息图像它却以同样的力度将你推回来。
+en:First, as a machine,I would observe or I would input reality.Speech recognitionand biometric authenticationare great examples of a machineinteracting with humansfrom an input perspective.Secondly, as a machine,I could place digital information,or output information,into reality.Holograms are examples of a machineinteracting with an environmentfrom an output perspective.Finally, as a machine,I could exchange energywith the world via haptics.Now, imagine being able to feelthe temperature of a virtual object,or better yet, imagine pushing a hologramand having it push you backwith equal force.
+时间： 8:28
+zh-cn:通过这种途径，我们可以将现实碎化成一个简单的基质。现在这有一个秘密；作为一个工程师，任何将事物还原为基质的事情，都让我无比激动。从无人驾驶汽车到智能手机再到这个我正戴着的全息计算器，机器们变得越来越擅于理解我们的世界。而且他们开始以一种明显更为人性化的方式与我们产生交互。
+en:With this perspective,we are able to collapse realityinto a simple matrix.Now here&#39;s a secret:as an engineer, I get really excitedanytime I can reducesomething to the matrix.From self-driving carsto smartphonesto this holographic computer on my head,machines are becoming capableof understanding our world.And they are starting to interact with usin significantly more personal ways.
+时间： 8:59
+zh-cn:现在，想象一下有一种可以控制万物的颗粒。你以一种方式拨动它时，你得到的是现实。当你以另一种方式拨动它，那么你便得到了虚拟现实。再来，想象一下在虚拟与现实之间拨动你周遭的一切环境。我喜欢在这个地方。设想一下，如果我在看到你们的同时又能将真实人物转化为精灵。当科技真正的理解我们的世界，它将再次改变你我的交互方式，以及工作和娱乐方式。
+en:Now, imagine having granular controlover everything in the world.Move the dial one way,and you get reality.Move the dial the other way,and you get virtual reality.Now, imagine dialingyour entire environmentbetween virtual and real worlds.I love it down here.Now, imagine if I could look at all of youand dial from real humans into elves.When technology trulyunderstands our world,it will again transformthe ways we interact,the ways we work and the ways we play.
+时间： 9:58
+zh-cn:不到半个世纪之前，两位勇者登陆了月球，那时借助的计算机运算水平比你们口袋里的手机还要低下。6亿人通过雪花满布的黑白电视关注着他们的一举一动。世界呢？整个世界为之着迷。
+en:Less than half a century ago,two courageous men landed on the moon,using computers that were less powerfulthan the phones in your pockets.Six hundred million humans watched themon grainy, black-and-white televisions.And the world?The world was mesmerized.
+时间：10:19
+zh-cn:现在想象一下我们的子孙在一个更懂世界的科技世代里，将如何体验到接下来的空间探索呢？我们如今已经生活在一个通用翻译器存在的世界里。而且我已经能睹见，全息视频通讯就在不远的将来等着我们。说起来，我们很幸运能将这次演示进行至此，让我们尝试一些更加疯狂的事情吧。我将邀请你们共同体验，全球首次，在TED这个舞台上，一场真实的全息视频通讯，这次通讯在我和我的朋友杰夫里.诺里斯博士之间进行，他来自于美国航天局的喷气推进实验室。
+en:Now imagine how our childrenand their childrenwill experience the continuedexploration of spacewith technologythat understands this world.We already live in a world wherereal-time universal translators exist.And I can squint, and I can alreadysee holographic telepresencein our near future.In fact, since we&#39;ve been luckywith our demo so far,let&#39;s try doing something elseeven more crazy.I invite you to experience,for the first time anywhere in the world,here on the TED stage,a real-life holographic teleportation,between me and my friend,Dr. Jeffrey Norris,from NASA&#39;s Jet Propulsion Laboratory.
+时间：11:09
+zh-cn:祈祷。你好，杰夫。
+en:Finger crossed. Hi, Jeff.
+时间：11:13
+zh-cn:杰夫里.诺里斯：你好，埃里克斯。
+en:Jeff Norris: Hey, Alex.
+时间：11:14
+zh-cn:埃里克斯.季普曼：呼！成功了。过得怎么样，杰夫？
+en:Alex Kipman: Phew! That worked.How are you doing today, Jeff?
+时间：11:17
+zh-cn:（鼓掌）
+en:(Applause)
+时间：11:19
+zh-cn:杰夫里.诺里斯：这个星期都很棒。
+en:JN: Doing great. I had an awesome week.
+时间：11:22
+zh-cn:埃里克斯：杰夫，你能向我们透露一点，你的位置吗？
+en:AK: So, can you tell us a little bit,Jeff, about where you are?
+时间：11:27
+zh-cn:杰夫里：没问题，事实上我在三个地方。我在马路对面的一间房间内，当我和你一起站在舞台上时，我同时站在了亿万公里外的火星上。
+en:JN: Well, I&#39;m actually in three places.I&#39;m standing in a room across the street,while I&#39;m standing on this stage with you,while I&#39;m standing on Mars,a hundred million miles away.
+时间：11:40
+zh-cn:埃里克斯.季普曼：哇，亿万公里外？这太疯狂了！你能再向我们透露一下，这些火星的数据都是从哪儿来的吗？
+en:AK: Wow, a hundred millionmiles away. This is crazy!Can you tell us a little bit moreabout where all this datafrom Mars is coming from?
+时间：11:51
+zh-cn:杰夫里.诺里斯：当然可以。这是一个精确的火星全息复制品，建立在好奇号火星探测器所捕获的数据之上，这样我可以像探索地球上的区域一样去探索它。人类是天生的探索者。我们可以在步入其中的一瞬间，了解某一个环境。我们建造火星车这样的工具扩展我们的视野延伸我们的触及范围。但是几十年来，我们都坐在键盘和屏幕前探索一切。现在，我们越过这一切，越过接受天线中继卫星越过这中间相隔的广袤世界我们迈出了在这片土地上的第一步，仿佛我们置身其间。今天，参与我们这项任务的一小组科学家们见到了从所未见的火星——一个更为熟悉的外星世界，因为他们能以更加人类的方式探索它。
+en:JN: Absolutely.This is a preciseholographic replica of Mars,built from data capturedby the Curiosity Mars Rover,that I can explore as easilyas a place on Earth.Humans are natural explorers.We can instantlyunderstand an environment,just by being present in it.We&#39;ve built tools like our Mars Roverto extend our visionand lengthen our reach.But for decades,we&#39;ve explored from a seatbehind screens and keyboards.Now, we&#39;re leaping over all of that,over the giant antennasand the relay satellitesand the vastness between worldsto take our first steps on this landscapeas if we were truly there.Today, a group of scientistson our missionare seeing Mars as never before —an alien world madea little more familiar,because they&#39;re finally exploring itas humans should.
+时间：12:54
+zh-cn:但是我们的梦想不该仅此而已。当我们将真实世界混入虚拟时，我们可以做些神奇的事情。我们能让无形的波长变得可见或是瞬间移动到山巅。也许某天，我们能通过触碰感受到石头的矿物质。我们正在迈出第一步。但是我们希望全世界参与进来一起迈向下一步，因为这一旅程不是少数人的，而是我们所有人的。
+en:But our dreams don&#39;t have to endwith making it just like being there.When we dial this real worldto the virtual,we can do magical things.We can see in invisible wavelengthsor teleport to the top of a mountain.Perhaps someday, we&#39;ll feel the mineralsin a rock just by touching it.We&#39;re taking the first steps.But we want the whole worldto join us in taking the next,because this is not a journey for a few,but for all of us.
+时间：13:27
+zh-cn:埃里克斯：谢谢杰夫。这太神奇了。非常感谢你今天能加入我们在TED的舞台上。
+en:AK: Thank you Jeff, this was amazing.Thank you so much for joining uson the TED stage today.
+时间：13:32
+zh-cn:（掌声）
+en:(Applause)
+时间：13:38
+zh-cn:杰夫里：谢谢埃里克斯，再见。
+en:JN: Thank you Alex, bye bye.
+时间：13:41
+zh-cn:埃里克斯：再见，杰夫。
+en:AK: Bye, Jeff.
+时间：13:49
+zh-cn:（掌声）
+en:(Applause)
+时间：13:56
+zh-cn:我每天都在梦想着这样的未来。我的灵感来自于我们的祖先。我们曾经居住在，彼此互动交流和共同工作的部落中。我们正在着手研发的科技能让我们回归这一人性，而正是这一人性让人类延续至今——这种科技能让我们不再生活在二维世界的荧幕和像素中，并唤醒我们在三维世界中生活的记忆。这对人类来说是划时代的时刻。
+en:I dream about this futureevery single day.I take inspiration from our ancestors.We used to live in tribeswhere we interacted,communicated and worked together.We are all beginning to build technologythat will enable us to returnto the humanity that brought uswhere we are today —technology that will let us stop livinginside this 2D worldof monitors and pixels,and let us start rememberingwhat it feels liketo live in our 3D world.It&#39;s a phenomenal time to be human.
+时间：14:41
+zh-cn:谢谢大家。
+en:Thank you.
+时间：14:42
+zh-cn:（掌声）
+en:(Applause)
+时间：14:47
+zh-cn:海伦.沃尔特：非常感谢。我还有些问题。
+en:Helen Walters: Thanks so much.I have some questions.
+时间：14:49
+zh-cn:埃里克斯：请问。
+en:AK: OK.
+时间：14:51
+zh-cn:海伦：有些是之前报道提到过的。所以我将会直接地问你，因此我们也能获得直接的回答。问题是关于这个演示与实际商业化的产品之间的差异。以及相关的视野问题的。你所演示的这些任何购买这个产品者都能体验到吗？
+en:HW: So there&#39;s beensome talk in the press.And I&#39;ll just ask you straight,then we have a straight answer.There&#39;s been talk about the differencebetween the demosand the reality of the commercial product.Talk about this field of view issue.Is this type of experience what someonewho buys the product will get?
+时间：15:07
+zh-cn:埃里克斯：这个问题问的很好，或者，确切的说，这一问题可能从去年开始就不断被媒体问起。如果你研究过的话，你会发现我从来没回答过。我都有意的避开它，因为基本上，这是一个错误的问题。这相当于当我第一次对某人展示全息影像时，而你却问：“你的电视机是多少寸的？”视野一词与这个产品完全无关。我们应该谈论的是光源密度，或是采光，它们是关键。确切的说，角分辨率取决于你所看到的事物。所从这一认知出发，你所看到的——你知道的，这个摄像机带着一个HoloLens。所以，即便我想作假，也没办法。
+en:AK: It&#39;s a great question,Or, said better, this is a questionwe&#39;ve been receivingin the media for possibly the last year.If you do your research,I haven&#39;t answered that question.I&#39;ve purposely ignored it,because ultimately,it&#39;s the wrong question to ask.That&#39;s the equivalent of me showingholograms to someone for the first time,and you then saying,&quot;What&#39;s the size of your television?&quot;The field of view for the productis almost irrelevant.What we should be talking aboutis the density of lights,or radiance, that shows up.Better said, what the angular resolutionis of the things that you see.So from that perspective, what you saw —you know, the camerais wearing a HoloLens.So even if I wanted to cheat, I can&#39;t.
+时间：15:50
+zh-cn:海伦：但是，摄像机的镜头有别于人眼，对吗？
+en:HW: But the camera has a different lenson it than our eye. Right?
+时间：15:53
+zh-cn:埃里克斯：这个摄像机有个鱼眼镜头。它的视野比人类更广。所以如果你想象一下关键的问题，在摄像机视线范围内能看到多少光点？而同样的数量的光点中我又能看到有多少？我的这台HoloLens能看到的和摄像机上那台是一样的。所以，这个摄像机看到的世界更宽广，对吗？
+en:AK: The camera has a fish-eye lens on it.It&#39;s seeing a much wider viewthan the human eye is.So if you think about the points of lightthat show up radiallyfrom the vision of the camera,which is the thing that matters:how many points of lightcan I get in a given volume?That&#39;s the same as I geton this HoloLens as I will on that one.Now, this camera seesa much wider view of the world, right?
+时间：16:19
+zh-cn:海伦：我的天！
+en:HW: Jesus Christ!
+时间：16:20
+zh-cn:（笑声）
+en:(Laughter)
+时间：16:21
+zh-cn:埃里克斯：他出现了。我说过他会出现的。到这边来。
+en:AK: He did show up!I told you he&#39;d show up.Come this way.
+时间：16:24
+zh-cn:（笑声）
+en:(Laughter)
+时间：16:26
+zh-cn:海伦：哦，见鬼。
+en:HW: Oh, shit.
+时间：16:28
+zh-cn:埃里克斯：杰夫的全息影像又出现了。
+en:AK: And there&#39;s holographic Jeff Norris.
+时间：16:31
+zh-cn:海伦：我知道有些事情会发生，但不知道是会是什么事情。
+en:HW: I knew something was happening,but I really wasn&#39;t sure what.
+时间：16:34
+zh-cn:埃里克斯：所以长话短说；最明显的区别便是摄像机的镜头视野比人眼更为开阔。但是它和你们所看到的全息影像的角分辨率，以及在单位面积中看到的光点，确实完全相同的。
+en:AK: So in short: to be super crisp,the camera that you see on the screenhas a wider field of viewthan the human eye.But the angular resolutionof the holograms that you see,the points of light per unit of area,are actually the same.
+时间：16:49
+zh-cn:海伦：所以你花费……杰夫我很快会找你的——所以你花了很长的时间去测绘这个舞台——
+en:HW: So you spent — Jeff,I&#39;ll get to you in a minute —so you spent a lot of timemapping the stage —
+时间：16:57
+zh-cn:埃里克斯：是的。
+en:AK: That&#39;s right.
+时间：16:58
+zh-cn:海伦：所以请问？如果我买了一台HoloLens并带回家，我不需要去测绘我的公寓住所吧？
+en:HW: So help me out here:if I buy a HoloLens and have it at home,I don&#39;t need to map my apartment, right?
+时间：17:03
+zh-cn:埃里克斯：HoloLens每秒都会对5条边缘进行即时扫描，用这种我们称之为空间扫描的技术。所以在你家里，当你戴上它，全息影像便能展现，你可以开始摆弄它们它们将开始熟悉你的家。在这样一个舞台的环境中我们想将戴在我头上的东西，通过这种经常将各种演讲会议搞砸的无线连接技术，与那边的机器进行互通，我们不想在这场直播中冒风险。所以我们做的就是事先测绘这个舞台，运用和在你们家中产品上同样的每秒对5边扫描的空间扫描技术。然后我们将数据存储，因此当遇到这样一个无线环境不稳定时，摄像机及我所戴的HoloLens之间所见的影像，便不会无故消失。因为最终，所有的全息影像都来自于这台HoloLens，而那台HoloLens只是在旁观它。所以如果我的连接断开，你们就无法从屏幕上看到这些美丽的东西。
+en:AK: The HoloLens maps in real timeat about five frames per second,with this technologythat we call spatial mapping.So in your home, as soon as you put it on,holograms will start showing up,and you&#39;ll start placing themand they&#39;ll start learning your home.In a stage environment where we&#39;re tryingto get something on my headto communicate with something over therewith all of the wireless connectivitythat usually brings all conferences down,we don&#39;t take the riskof trying to do this live.So what we do is pre-map the stageat five frames per secondwith the same spatial-mapping technologythat you&#39;ll use with the product at home,and then we store it,so that when there&#39;s shenanigansof wireless in an environment like this,between the camera&#39;s HoloLensand the one on my head,we don&#39;t have things disappear.Because ultimately, the hologramsare coming from this HoloLens,and that one is just viewing the HoloLens.So if I lose connectivity,you would stop seeingbeautiful things on the screen.
+时间：17:57
+zh-cn:海伦：这确实美丽。呃……杰夫？
+en:HW: And it was beautiful.Um ... Jeff?
+时间：18:01
+zh-cn:杰夫里：嗯？
+en:JN: Yes?
+时间：18:03
+zh-cn:海伦：你好。
+en:HW: Hi.
+时间：18:06
+zh-cn:埃里克斯：我要退后一步。
+en:AK: I&#39;ll take a step back.
+时间：18:07
+zh-cn:海伦：杰夫，你现在在火星上，你也在这个舞台上，同时你在马路对面的房间内。告诉我更多的实情，在全息影像里，你能看到但是你无法触碰，没有嗅觉。所以它对科学来说有帮助吗？这便是我对全息影像的问题、
+en:HW: So Jeff, you were on Mars,you were here, you werein a room across the street.Tell me more about the fact that,with holograms, you have sightbut you don&#39;t have touch,you don&#39;t have smell.Is this scientifically useful now?That&#39;s my question for a hologram.
+时间：18:26
+zh-cn:杰夫里：谢谢你的问题。当然，我相信这项科技现在对科学来说非常有用，因此我们美国航天局的许多工作中都有用到它。我们用它来改善探索火星的方式。也让在空间站的宇航员们使用它。现在我们甚至用它，来设计下一代的宇宙飞船。
+en:JN: Thanks for the question.Absolutely, I believethat these technologiesare scientifically useful right now,and that&#39;s why we&#39;re using themin multiple parts of our work at NASA.So we&#39;re using it to improvethe ways that we explore Mars.We&#39;re also using it for our astronautson the space station.We&#39;re even using it now to designthe next generation of our spacecraft.
+时间：18:49
+zh-cn:海伦：不可思议。好了，杰夫请下线吧。非常谢谢你。
+en:HW: Amazing. OK, Jeff, please go away.Thank you very much.
+时间：18:52
+zh-cn:（笑声）
+en:(Laughter)
+时间：18:55
+zh-cn:埃里克斯，这真的非常神奇。非常感谢。
+en:Alex, really, that was amazing.Thank you so much.
+时间：18:58
+zh-cn:AK：谢谢。
+en:AK: Thank you.
+时间：18:59
+zh-cn:HW：谢谢。谢谢你们。
+en:HW: Thank you. Thank you.
+时间：19:01
+zh-cn:（掌声）
+en:(Applause)

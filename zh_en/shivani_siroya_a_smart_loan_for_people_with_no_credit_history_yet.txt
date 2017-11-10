@@ -1,0 +1,60 @@
+时间： 0:11
+zh-cn:你需要多了解一个人才能放心地借钱给他？
+en:How much do you needto know about a personbefore you&#39;d feel comfortablemaking a loan?
+时间： 0:17
+zh-cn:假设你想借出1000美金给那个和你坐着隔着两行的人你需要知道这个人的哪些信息你才能感到放心呢？
+en:Suppose you wanted to lend 1,000 dollarsto the person sitting two rows behind you.What would you need to knowabout that personbefore you&#39;d feel comfortable?
+时间： 0:26
+zh-cn:我妈妈在她三十多岁的时候从印度来到美国她是布鲁克林的一名医生她也经常为她的朋友和邻居提供健康服务不管他们能不能立刻付款我记得有一次和她在食品杂货店或者是在人行道上遇到她的病人有时他们会立刻向她付款而且预约她会向他们表示感谢还问他们家庭和健康的情况她借钱给他们是因为她相信他们
+en:My mom came to the US from Indiain her late thirties.She&#39;s a doctor in Brooklyn,and she often lets friends and neighborscome to see her for health services,whether they can pay right away or not.I remember running into her patientswith her at the grocery storeor on the sidewalk,and sometimes they would comeand pay her right on the spotfor previous appointments.She would thank them,and ask them about their familiesand their health.She gave them creditbecause she trusted them.
+时间： 0:56
+zh-cn:我们中的大多数就像我的妈妈我们会借钱给我们认识的人或是住在我们附近的人但是我们中的多数人不会借钱给陌生人除非我们对他们有一定的了解
+en:Most of us are like my mom.We would give credit to someone we knowor that we live next to.But most of us are probably notgoing to lend to a strangerunless we know a littlesomething about them.
+时间： 1:10
+zh-cn:银行、信用卡公司和其它金融机构不是在个人的层面了解我们但他们有信任我们的一套方法就是通过我们的信用评分我们的信用评分从对我们的消费者信贷资料的整合和分析中产生而且因为它，我们能更容易获得我们需要的商品和服务从用电到买房到承担风险去开办公司
+en:Banks, credit card companiesand other financial institutionsdon&#39;t know us on a personal level,but they do have a way of trusting us,and that&#39;s through our credit scores.Our credit scores have been createdthrough an aggregation and analysisof our public consumer credit data.And because of them, we havepretty much easy accessto all of the goodsand services that we need,from getting electricity to buying a home,or taking a risk and starting a business.
+时间： 1:40
+zh-cn:但是世界上有25亿的人没有信用评分这就相当于世界人口的1/3他们没有评分是因为他们没有正式的公共记录——没有银行账号没有信用记录没有社保账号而且因为他们没有信用评分他们不能获得可以提高他们生活品质的贷款和金融产品他们不被信任
+en:But ...there are 2.5 billion peoplearound the worldthat don&#39;t have a credit score.That&#39;s a third of the world&#39;s population.They don&#39;t have a scorebecause there are no formalpublic records on them —no bank accounts,no credit historiesand no social security numbers.And because they don&#39;t have a score,they don&#39;t have accessto the credit or financial productsthat can improve their lives.They are not trusted.
+时间： 2:13
+zh-cn:所以我们想要探索方法去建立信用让这25亿人获得各种金融产品所以我们创造了一个手机应用可以帮他们通过移动数据建立信用评分目前在新兴市场上有超过10亿的智能手机人们和我们一样在使用他们他们也给朋友发短信也看地图查方向他们也浏览互联网他们甚至进行金融转账
+en:So we wanted to find a way to build trustand to open up financial accessfor these 2.5 billion.So we created a mobile applicationthat builds credit scores for themusing mobile data.There are currently over one billionsmartphones in emerging markets.And people are using themthe same way that we do.They&#39;re texting their friends,they&#39;re looking up directions,they&#39;re browsing the Internetand they&#39;re even makingfinancial transactions.
+时间： 2:44
+zh-cn:长久以来，这些数据都存在我们的手机里它能提供关于一个人生活的全面的图景我们的顾客允许我们获得这些信息我们通过手机应用获得它它帮助我们了解像肯尼亚内罗毕的小生意人—詹妮弗的信誉度詹妮弗现在65岁经营一个在中心商业区的食品摊位数十年她把她的三个儿子都送到了职业学校她也是当地协会和节能团队的负责人
+en:Over time, this data is gettingcaptured on our phones,and it provides a really rich pictureof a person&#39;s life.Our customers give us access to this dataand we capture itthrough our mobile application.It helps us understandthe creditworthinessof people like Jenipher,a small-business owner in Nairobi, Kenya.Jenipher is 65 years old, and for decadeshas been running a food stallin the central business district.She has three sons who she putthrough vocational school,and she&#39;s also the leaderof her local chama,or savings group.
+时间： 3:20
+zh-cn:詹妮弗的食品摊位生意红火她每天能赚足够一天开销的钱但是她没有经济的保障任何紧急情况的发生都会让她陷入债务而且她没有可以自由支配的收入去提高她的家庭的生活水平应对紧急状况或者投资去扩展她的生意假如詹妮弗想要贷款她的选择也很有限她可以申请微贷款但是她一定要组织一个团队来帮助保证她的可信度而且即使如此，她能贷款的额度也非常小以至于不能真正改善她的生意——只有平均150美元高利贷总是一个选择但是他们的利息率在300%以上这是经济上的冒险而且因为詹妮弗没有抵押或者信用记录她不能到银行去申请商业贷款
+en:Jenipher&#39;s food stall does well.She makes just enough every dayto cover her expenses.But she&#39;s not financially secure.Any emergency could force her into debt.And she has no discretionary incometo improve her family&#39;s way of living,for emergencies,or for investinginto growing her business.If Jenipher wants credit,her options are limited.She could get a microloan,but she&#39;d have to form a groupthat could help vouch for her credibility.And even then, the loan sizeswould be way too smallto really have an impact on her business,averaging around 150 dollars.Loan sharks are always an option,but with interest ratesthat are well above 300 percent,they&#39;re financially risky.And because Jenipher doesn&#39;t havecollateral or a credit history,she can&#39;t walk into a bankand ask for a business loan.
+时间： 4:15
+zh-cn:但是一天詹妮弗的儿子说服她下载了我们的应用并申请了一笔贷款詹妮弗用她的手机回答了几个问题并给了我们使用她手机上几个关键数据的权限
+en:But one day,Jenipher&#39;s son convinced herto download our applicationand apply for a loan.Jenipher answered a fewquestions on her phoneand she gave us access to a fewkey data points on her device.
+时间： 4:29
+zh-cn:这就是我们看到的那么，先说坏消息詹妮弗储蓄余额低之前也没有贷款历史他们是传统银行拒绝贷款的原因但是她的历史中有几点向我们更全面地展示了她的潜能第一点我们看到她定期给乌干达的家人打电话数据显示那些经常和亲密的联系人联系的人偿还贷款的可能性要高4%我们同时也能看到虽然她一天会去到很多地方她实际上有相对固定的路线不是在家里就是在食品摊位数据显示生活路线规律的人偿还贷款的可能性要高6%
+en:And here&#39;s what we saw.So, bad news first.Jenipher had a low savings balanceand no previous loan history.These are factorsthat would have thrown upa red flag to a traditional bank.But there were other pointsin her history that showed usa much richer picture of her potential.So for one,we saw that she made regularphone calls to her family in Uganda.Well, it turns out that the data showsa four percent increase in repaymentamong people who consistentlycommunicate with a few close contacts.We could also seethat though she traveledaround a lot throughout the day,she actually had prettyregular travel patterns,and she was either at homeor at her food stall.And the data showsa six percent increase in repaymentamong customers who are consistentwith where they spend most of their time.
+时间： 5:28
+zh-cn:我们也能看到她一天和很多不同的人交流也就是她有很强的支持网络我们的数据显示和超过58个不同的人联系的人更容易是及时还款的贷款者在詹妮弗的情况中她和89个不同的联系人交流她的偿还可能性又提高了9%
+en:We could also seethat she communicated a lotwith many different peoplethroughout the dayand that she had a strong support network.Our data showsthat people who communicatewith more than 58 different contactstend to be more likelyto be good borrowers.In Jenipher&#39;s case,she communicatedwith 89 different individuals,which showed a nine percentincrease in her repayment.
+时间： 5:54
+zh-cn:这只是上千个我们用来了解一个人的信誉度的不同数据中的一部分在分析所有的数据之后我们走出了第一步向詹妮弗提供了贷款这些数据不会体现在书面记录或者其他形式的经济记录中但它证明了信任通过看收入以外的方面我们发现在新兴市场中的人们表面上看来有风险、不可预测但实际上愿意而且有能力去偿还贷款
+en:These are just some of the thousandsof different data pointsthat we look at to understanda person&#39;s creditworthiness.And after analyzing allof these different data points,we took the first riskand gave Jenipher a loan.This is data that would notbe found on a paper trailor in any formal financial record.But it proves trust.By looking beyond income,we can see that people in emerging marketsthat may seem riskyand unpredictable on the surfaceare actually willing and havethe capacity to repay.
+时间： 6:32
+zh-cn:我们的信用评分帮助我们仅仅在去年一年在肯尼亚借出超过二十万笔贷款我们的偿还贷款的比率在90%以上——也就是传统银行的偿还率
+en:Our credit scores have helped us deliverover 200,000 loans in Kenyain just the past year.And our repayment ratesare above 90 percent —which, by the way, is in linewith traditional bank repayment rates.
+时间： 6:48
+zh-cn:通过一些像信用评分一样简单的东西我们给人们建设自己未来的能力我们的顾客用贷款支付家庭开支、紧急情况、旅游、投资扩展自己的生意他们正在建设更加繁荣的经济和社会在这个社会中更多的人能取得成功
+en:With something as simpleas a credit score,we&#39;re giving people the powerto build their own futures.Our customers have usedtheir loans for family expenses,emergencies, traveland for investing backinto growing their businesses.They&#39;re now building bettereconomies and communitieswhere more people can succeed.
+时间： 7:11
+zh-cn:通过过去两年使用我们的产品詹妮弗的存款增加了60%她也开始了两个额外的食品摊位而且正在计划开自己的餐馆她正在从商业银行申请小企业贷款因为她现在有了能够证明自己的资格的信用历史
+en:Over the past two yearsof using our product,Jenipher has increasedher savings by 60 percent.She&#39;s also startedtwo additional food stallsand is now making plansfor her own restaurant.She&#39;s applying for a small-business loanfrom a commercial bank,because she now has the credit historyto prove she deserves it.
+时间： 7:33
+zh-cn:我上星期在内罗毕见到了詹妮弗她告诉我她能着手准备有多激动她说：“只有我儿子相信我能做到这些，我都不相信这些都是为我准备的。”她曾经以为一部分世界的大门已经向她关闭了
+en:I saw Jenipher in Nairobi just last week,and she told me how excitedshe was to get started.She said,&quot;Only my son believed I could do this.I didn&#39;t think this was for me.&quot;She&#39;s lived her whole lifebelieving that there was a partof the world that was closed off to her.
+时间： 7:54
+zh-cn:我们的工作就是向詹妮弗以及像她一样的值得被信任的几十亿人口打开世界的大门
+en:Our job now is to openthe world to Jenipherand the billions like herthat deserve to be trusted.
+时间： 8:03
+zh-cn:谢谢
+en:Thank you.
+时间： 8:04
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,48 @@
+时间： 0:11
+zh-cn:就表达创意而言, 电脑的功能难以置信的强大，但是绝大多数情况下，那种表达都被限制在了我们手机或者笔记本电脑的屏幕上。我想跟大家分享一个项目这个项目将计算机引入到物理世界用计算机来操作我们看得见摸得着的物体而不是仅仅通过电脑屏幕进行交互.
+en:A computer is an incredibly powerful meansof creative expression,but for the most part,that expression is confined to the screensof our laptops and mobile phones.And I&#39;d like to tell you a story aboutbringing this power of the computerto move things around and interact with usoff of the screen and into the physical worldin which we live.
+时间： 0:32
+zh-cn:几年前，我接到纽约一家名叫纽约芭妮时尚奢侈品店打来的电话，那通电话之后,我开始为他们的橱窗设计动态的陈列品.
+en:A few years ago, I got a call froma luxury fashion store called Barneys New York,and the next thing I knew,I was designing storefront kinetic sculpturesfor their window displays.
+时间： 0:42
+zh-cn:这个作品叫做“追赶”。有两双鞋，一双男鞋，一双女鞋它们在玻璃周围演示出一种慢节奏却激烈地追赶，男人疾走到女人身后相距十分近，然后女人很快离开了。每只鞋内都装有磁铁，桌下有磁铁用来移动鞋子。
+en:This one&#39;s called &quot;The Chase.&quot;There are two pairs of shoes,a man&#39;s pair and a woman&#39;s pair,and they play out this slow, tense chasearound the windowin which the man scoots up behind the womanand gets in her personal space,and then she moves away.Each of the shoes has magnets in it,and there are magnets underneath the tablethat move the shoes around.
+时间： 1:02
+zh-cn:我一个叫做安迪·卡瓦托尔塔的朋友之前在为 Bjork&#39;s Biophilia tour 建造一个机器人竖琴我设计了其中的控制电路并编写了控制软件去让竖琴移动并演奏音乐。这个竖琴有四个分开的摆，每一个摆上有 11 条弦，竖琴可以在它的轴上摇摆并旋转来演奏出不同的音符，所有的竖琴都相互联网这样它们就可以在正确的时间奏出正确的音符。
+en:My friend Andy Cavatorta was buildinga robotic harp for Bjork&#39;s Biophilia tourand I wound up building the electronicsand motion control softwareto make the harps move and play music.The harp has four separate pendulums,and each pendulum has 11 strings,so the harp swings on its axis and also rotatesin order to play different musical notes,and the harps are all networked togetherso that they can play the right notesat the right time in the music.
+时间： 1:30
+zh-cn:我在芝加哥的科学与工业博物馆建造的一个互动性的化学展示机器，这个展示让人们用实际物体从元素周期表周抓取元素并把它们放到一块导致化学反应。博物馆注意到，人们在这个展品前呆的时间非常久.一位来自澳大利亚科学教育中心的调查者决定研究这个展品并试图弄清楚为什么。她发现这种摸得着的小物件能够有助于人们去理解如何操作这个展品,并且是以一种互动的(social)的式.
+en:I built an interactive chemistry exhibitat the Museum of Science and Industry in Chicago,and this exhibit lets people use physical objectsto grab chemical elements off of the periodic tableand bring them together to causechemical reactions to happen.And the museum noticed that peoplewere spending a lot of time with this exhibit,and a researcher from a science education centerin Australia decided to study this exhibitand try to figure out what was going on.And she found that the physical objectsthat people were using were helping peopleunderstand how to use the exhibit,and were helping people learn in a social way.
+时间： 2:05
+zh-cn:通过思考我们能够从中得到很多启发,人们更容易通过一个专门设计的具体的小物件对一个系统进行操作,我的意思是，我们的手和大脑已经习惯了感知和操作那些摸得着的物品。想象一下实物键盘和手机屏幕键盘哪个更好用?
+en:And when you think aboutit, this makes a lot of sense,that using specialized physical objectswould help people use an interface more easily.I mean, our hands and our minds are optimizedto think about and interact with tangible objects.Think about which you find easier to use,a physical keyboard or an onscreen keyboardlike on a phone?
+时间： 2:26
+zh-cn:但是在做这些项目的时候最让我感到意外的其实是每个项目都必须从头开始从头设计电路印刷和制作电路板到控制软件的编写, 都需要从头做.我想创造出一个工具一个跟电脑联网但是可以用手直接控制的东西可以用它来实现之前提到的交互过程而不需要每一次都从无到有地重新做一遍.
+en:But the thing that struck meabout all of these different projectsis that they really had to be built from scratch,down to the level of the electronicsand the printed circuit boards andall the mechanisms all the way up to the software.I wanted to create somethingwhere we could move objectsunder computer controland create interactions around that ideawithout having to go through this processof building something from scratchevery single time.
+时间： 2:50
+zh-cn:我的第一次尝试是在MIT的媒体实验室与Hiroshi Ishii教授一起做了一个这个样子的含有512块不同电磁铁的阵列，它们可以使物体在其表面移动。但问题是这个设备造价超过 1 万美元。即使每一个单元都非常小，但是它们合在一起的重量加起来使承放它的桌子开始摇晃。所以我想造一个东西使你可以在桌面上就可以有这样的互动。
+en:So my first attempt at thiswas at the MIT Media Labwith Professor Hiroshi Ishii,and we built this array of512 different electromagnets,and together they were able to move objects aroundon top of their surface.But the problem with thiswas that these magnetscost over 10,000 dollars.Although each one was pretty small,altogether they weighed so muchthat the table that they were onstarted to sag.So I wanted to build somethingwhere you could have this kind of interactionon any tabletop surface.
+时间： 3:20
+zh-cn:为了实现我的这个想法,我造了一个小的机器人，每一个机器人都有万向轮。这些轮子很特别可以很容易的往任何方向移动，当你用投影仪与这些机器人相配合的时候，你就拥有了这些物理的工具与数码信息相互动。我来举个例子.这是一个视频编辑软件所有的去操纵视频的方式都是摸得着的。如果我们想微调颜色，我们只需输入颜色的模式，然后我们便得到不同调节颜色的转盘，如果我们想要调解音频我们便得到两个这样的物理转盘。这里左右通道是同时始终锁定比例的，但是如果我们想要揭开锁定,我们可以双手同时抓住它们。这个想法的好处在于将物理转盘的快捷与高效跟软件设计的数字系统的灵活与弹性等优点结合起来.
+en:So to explore this idea,I built an army of small robots,and each of these robots haswhat are called omni wheels.They&#39;re these special wheelsthat can move equally easily in all directions,and when you couple these robotswith a video projector,you have these physical toolsfor interacting with digital information.So here&#39;s an example of what I mean.This is a video editing applicationwhere all of the controlsfor manipulating the video are physical.So if we want to tweak the color,we just enter the color mode,and then we get three different dialsfor tweaking the color,or if we want to adjust the audio,then we get two different dialsfor that, these physical objects.So here the left and right channel stay in sync,but if we want to, we can override thatby grabbing both of them at the same time.So the idea is that we get the speedand efficiency benefits of using these physical dialstogether with the flexibility and versatilityof a system that&#39;s designed in software.
+时间： 4:18
+zh-cn:这是一个为应对灾情设计的地图软件。我们设计了一些特殊的小物件代表(消防)警察, 火情和被困群众.一个指挥员可以抓住这些小物件将它们放在地图特定位置上以此告诉那些人应该往哪里走，然后那些人地图上的位置与我们设计的小物件在实际世界上的位置同步。
+en:And this is a mapping applicationfor disaster response.So you have these physical objectsthat represent police, fire and rescue,and a dispatcher can grab themand place them on the mapto tell those units where to go,and then the position of the units on the mapgets synced up with the positionof those units in the real world.
+时间： 4:39
+zh-cn:这是一个视频聊天应用。用这些物体的点简单动作就可以表达出很多的情绪真的是十分了不起。
+en:This is a video chat application.It&#39;s amazing how much emotion you can conveywith just a few simple movementsof a physical object.
+时间： 4:47
+zh-cn:这种操作方式也为我们打开了新的思路传统棋盘游戏和街机游戏之间或许可以有新的结合.这种物理的接触方式能够带来非常多的新的用户体验.
+en:With this interface, we open upa huge array of possibilitiesin between traditional board gamesand arcade games,where the physical possibilities of interactionmake so many different styles of play possible.
+时间： 4:59
+zh-cn:然后对于这种的新的交互方式的应用我感到最激动的是将其利用在解决人与电脑不能独自解决的问题。其中一个例子就是蛋白折叠。这个例子中我们给给蛋白质装上了物理&quot;把手&quot;我们可以抓住那些把手并试图去移动那些蛋白质并将其以不同的方式堆叠。如果我以一个不符合分子潜在结构的方式移动它，我们可以得到一个反馈那些物理把手会相反的方向去抵抗。感受分子内部的模拟是一个完全不同的互动境界。
+en:But one of the areas that I&#39;m most excitedabout using this platform foris applying it to problems that are difficultfor computers or people to solve alone.One example of those is protein folding.So here we have an interfacewhere we have physical handles onto a protein,and we can grab those handlesand try to move the protein andtry to fold it in different ways.And if we move it in a way thatdoesn&#39;t really make sensewith the underlying molecular simulation,we get this physical feedback where we canactually feel these physical handlespulling back against us.So feeling what&#39;s going oninside a molecular simulationis a whole different level of interaction.
+时间： 5:38
+zh-cn:我们刚刚开始探索使用软件去操控环境中现实物体的可能性。也许这是未来的电脑科技。没有触摸屏幕。科技可以隐藏在视野之外.但当我们想视频通话或者玩游戏或者展示出一条为 TED 演讲准备的 PPT，桌子上的东西便会活起来。
+en:So we&#39;re just beginning to explorewhat&#39;s possible when we use softwareto control the movementof objects in our environment.Maybe this is the computer of the future.There&#39;s no touchscreen.There&#39;s no technology visible at all.But when we want to have a video chator play a gameor lay out the slides to our next TED Talk,the objects on the table come alive.
+时间： 6:02
+zh-cn:谢谢。
+en:Thank you.
+时间： 6:04
+zh-cn:（掌声）
+en:(Applause)

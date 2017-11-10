@@ -1,0 +1,60 @@
+时间： 0:20
+zh-cn:你们在这里看到的这个短暂的现象是被称为量子悬浮和量子锁定。这个悬浮在这里的物体被称为超导体。超导是物质的一种量子状态，只在特定的关键温度下发生。
+en:The phenomenon you saw here for a brief momentis called quantum levitation and quantum locking.And the object that was levitating hereis called a superconductor.Superconductivity is a quantum state of matter,and it occurs only below a certain critical temperature.
+时间： 0:47
+zh-cn:现在，这是一个比较老的现象了；100年前被发现。然而，就在最近，由于若干科技进步，我们现在能够向你们展示量子悬浮和量子锁定。
+en:Now, it&#39;s quite an old phenomenon;it was discovered 100 years ago.However, only recently,due to several technological advancements,we are now able to demonstrate to youquantum levitation and quantum locking.
+时间： 1:02
+zh-cn:那么，超导体具备两种特性。第一种特性是零电阻，第二种特性是从超导体的内部驱逐磁场。这听起来有点复杂，是吗？但什么是电阻呢？那么，电就是物体内部的电子流。这些电子，当他们流动时，它们与原子相撞，在碰撞过程中它们损失一定的能量。这种能量以热的形式消耗，你们知道这种效果的。然而，在超导体的内部，不存在这种碰撞，因此也就没有能量消耗。
+en:So, a superconductor is defined by two properties.The first is zero electrical resistance,and the second is the expulsion of a magnetic field from the interior of the superconductor.That sounds complicated, right?But what is electrical resistance?So, electricity is the flow of electrons inside a material.And these electrons, while flowing,they collide with the atoms, and in these collisionsthey lose a certain amount of energy.And they dissipate this energy in the form of heat, and you know that effect.However, inside a superconductor there are no collisions,so there is no energy dissipation.
+时间： 1:54
+zh-cn:想象一下，这是非常神奇的。在经典物理学中，摩擦和能量消耗是必然存在的，但在这里并非如此。因为这是一种量子效应。但这不是全部。因为超导体不喜欢磁场。因此超导体会把磁场从内部驱逐出去，通过循环电流就能做到。现在，两种效应相结合—驱逐磁场和零电阻—就是超导体。
+en:It&#39;s quite remarkable. Think about it.In classical physics, there is always some friction, some energy loss.But not here, because it is a quantum effect.But that&#39;s not all, because superconductors don&#39;t like magnetic fields.So a superconductor will try to expel magnetic field from the inside,and it has the means to do that by circulating currents.Now, the combination of both effects —the expulsion of magnetic fields and zero electrical resistance —is exactly a superconductor.
+时间： 2:38
+zh-cn:但我们都知道，情况不总是那么完美的，有时候，有几束磁场会停留在超导体内部。现在，在特定的条件下，就像我们现在有的，这些磁场束被困在超导体内。这些超导体内部的磁场束，它们以分散的数量进入。为什么？因为这是量子现象。是量子物理学。结果它们的运动就像是量子粒子的运动。
+en:But the picture isn&#39;t always perfect, as we all know,and sometimes strands of magnetic field remain inside the superconductor.Now, under proper conditions, which we have here,these strands of magnetic field can be trapped inside the superconductor.And these strands of magnetic field inside the superconductor,they come in discrete quantities.Why? Because it is a quantum phenomenon. It&#39;s quantum physics.And it turns out that they behave like quantum particles.
+时间： 3:15
+zh-cn:在这部短片里，你们能够看到它们一个个分散流动。这是磁场束。不是粒子，但它们的运动看起来像粒子。这就是为什么我们把这种效应称为量子悬浮和量子锁定。
+en:In this movie here, you can see how they flow one by one discretely.This is strands of magnetic field. These are not particles,but they behave like particles.So, this is why we call this effect quantum levitation and quantum locking.
+时间： 3:33
+zh-cn:那么，当我们把超导体放入磁场内时，它发生了什么变化呢？首先呢，有几束磁场束会留在超导体里面，但现在超导体不喜欢让它们在周围移动，因为它们的运动会消耗能量，这样会破坏超导体状态。那么，它到底做什么了呢，它锁定了这些磁场束，这些磁场束被称为磁通量子,它把这些磁通量子锁定在原地。如此一来，它就把自己给锁定在原位。为什么？因为任何超导体的移动都会改变它们的位置，改变它们的状态。
+en:But what happens to the superconductor when we put it inside a magnetic field?Well, first there are strands of magnetic field left inside,but now the superconductor doesn&#39;t like them moving around,because their movements dissipate energy,which breaks the superconductivity state.So what it actually does, it locks these strands,which are called fluxons, and it locks these fluxons in place.And by doing that, what it actually does is locking itself in place.Why? Because any movement of the superconductor will change their place,will change their configuration.
+时间： 4:21
+zh-cn:这样我们就得到了量子锁定。让我向你们展示它是如何运作的。这里，我有一个超导体，我把它裹起来了，这样它就能保持足够长时间冰冷。当我把它放在一个普通磁铁的顶端，它就被锁定在半空中。
+en:So we get quantum locking. And let me show you how this works.I have here a superconductor, which I wrapped up so it&#39;d stay cold long enough.And when I place it on top of a regular magnet,it just stays locked in midair.
+时间： 4:41
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 4:45
+zh-cn:现在，这不仅仅是悬浮。不仅仅是相斥。我能重置这些磁通量子，它就能够被锁定在这个新的装置内。就像这样，或者把它往左或往右稍微移动一下。那么，这就是量子锁定—货真价实的锁定—超导体的三维锁定。当然，我也可以把它倒过来，它还是会保持锁定。
+en:Now, this is not just levitation. It&#39;s not just repulsion.I can rearrange the fluxons, and it will be locked in this new configuration.Like this, or move it slightly to the right or to the left.So, this is quantum locking — actually locking — three-dimensional locking of the superconductor.Of course, I can turn it upside down,and it will remain locked.
+时间： 5:11
+zh-cn:现在，既然我们了解了这种所谓的悬浮其实是锁定，是的，我们了解了这一点。如果我拿出这样一个环形磁铁，你们就不会感到惊讶，在这个环形磁铁里，各处的磁场是相同的，超导体能够绕着磁铁的轴线自由旋转。为什么？因为只要它在旋转，锁定就能够被保持下去。看到了吗？我能调整我能旋转这个超导体。我们有了无摩擦运动。它仍然在悬浮，但能够自由移动。
+en:Now, now that we understand that this so-called levitation is actually locking,Yeah, we understand that.You won&#39;t be surprised to hear that if I take this circular magnet,in which the magnetic field is the same all around,the superconductor will be able to freely rotate around the axis of the magnet.Why? Because as long as it rotates, the locking is maintained.You see? I can adjust and I can rotate the superconductor.We have frictionless motion. It is still levitating, but can move freely all around.
+时间： 5:57
+zh-cn:因此，我们有了量子锁定并且我们能把它悬浮在磁铁上方。但在这样一个简单的磁片中，有多少磁通量子，有多少磁力束呢？好吧，我们可以计算出来，结果显示，数量还是很多的。在这个三英寸厚的磁片中有一千亿的磁场束。
+en:So, we have quantum locking and we can levitate it on top of this magnet.But how many fluxons, how many magnetic strands are there in a single disk like this?Well, we can calculate it, and it turns out, quite a lot.One hundred billion strands of magnetic field inside this three-inch disk.
+时间： 6:23
+zh-cn:但这还不是最惊人的部分，因为还有一些东西我没告诉你们。是的，最惊人的部分在于这个你们所见到超导体仅仅是半微米厚。非常薄。这片极薄的磁片能够悬浮它自重70000倍的物体。这是十分惊人的反应。非常强大。
+en:But that&#39;s not the amazing part yet, because there is something I haven&#39;t told you yet.And, yeah, the amazing part is that this superconductor that you see hereis only half a micron thick. It&#39;s extremely thin.And this extremely thin layer is able to levitate more than 70,000 times its own weight.It&#39;s a remarkable effect. It&#39;s very strong.
+时间： 6:56
+zh-cn:现在，我可以延伸这个环形磁铁，做出任何我想要的轨迹。比如，我可以做出一个巨大的环形轨道。当我把超导磁片放在轨道上方时，它做自由运动。
+en:Now, I can extend this circular magnet,and make whatever track I want.For example, I can make a large circular rail here.And when I place the superconducting disk on top of this rail,it moves freely.
+时间： 7:19
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:28
+zh-cn:这还不是全部哦。我可以像这样调整它的位置，翻转，它在新的位置上做自由运动。我甚至可以尝试一件新的事情；我们来首次尝试一下。我能把这个磁片放在这里，当它停留在这里—不要移动—我会尝试将轨道翻转，希望，如果我做对了，它会保持悬挂在半空。
+en:And again, that&#39;s not all. I can adjust its position like this, and rotate,and it freely moves in this new position.And I can even try a new thing; let&#39;s try it for the first time.I can take this disk and put it here,and while it stays here — don&#39;t move —I will try to rotate the track,and hopefully, if I did it correctly,it stays suspended.
+时间： 8:04
+zh-cn:（掌声）
+en:(Applause)
+时间： 8:13
+zh-cn:你们看，这是量子锁定，而非悬浮。现在，我会让它循环更多一些，让我告诉大家一些关于超导体的知识。现在—（笑声）—好的，现在我们都了解了我们能够传输超导体内部的大量电流，那么我们能够利用它们制造强大的磁场，诸如在核磁共振成像仪，粒子加速器等机器中所需要的。但我们也能够用超导体存储能量，因为超导体没有能量损耗。
+en:You see, it&#39;s quantum locking, not levitation.Now, while I&#39;ll let it circulate for a little more,let me tell you a little bit about superconductors.Now — (Laughter) —So we now know that we are able to transfer enormous amount of currents inside superconductors,so we can use them to produce strong magnetic fields,such as needed in MRI machines, particle accelerators and so on.But we can also store energy using superconductors,because we have no dissipation.
+时间： 8:58
+zh-cn:我们还能制造电缆，在电站之间传输大量电流。想象一下，你们能够只用一根超导电缆支撑一个发电站。但量子悬浮和锁定的未来将何去何从呢？好吧，我就给你们举个例子来回答这个简单的问题。想象一下你有一个和我手中差不多的磁片，3英尺直径，唯一的区别是超导层，不是半微米厚，而是2毫米薄，相当薄。我手中这2毫米厚的超导层能够控制住一辆小轿车。太神奇了。谢谢。
+en:And we could also produce power cables, to transfer enormous amounts of current between power stations.Imagine you could back up a single power station with a single superconducting cable.But what is the future of quantum levitation and quantum locking?Well, let me answer this simple question by giving you an example.Imagine you would have a disk similar to the one I have here in my hand,three-inch diameter, with a single difference.The superconducting layer, instead of being half a micron thin,being two millimeters thin, quite thin.This two-millimeter-thin superconducting layer could hold 1,000 kilograms, a small car, in my hand.Amazing. Thank you.
+时间： 9:58
+zh-cn:（掌声）
+en:(Applause)

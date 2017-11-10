@@ -1,0 +1,108 @@
+时间： 0:12
+zh-cn:我们，作为成人，还能生长新的神经细胞吗？这个问题还未完全清晰，因为这还是新的研究领域。比方说，我跟我的同事罗伯特说，罗伯特是一名肿瘤学家，他告诉我，“桑德琳，这很令人疑惑。我的一些病人，即使被告知他们的癌症已治愈，仍有抑郁的症状。”我回答道，“嗯，在我看来这是可以解释的。你给病人开的，用以阻止癌细胞增生的药同时也阻止了他们大脑中生长出新的神经元。”罗伯特看着我，仿佛我疯了似的，“但是桑德琳，他们是成年的病人—成人不会生长新的神经细胞。”非常惊讶，我说，“事实上，我们可以。”这个现象我们称之为神经生成。
+en:Can we, as adults, grow new nerve cells?There&#39;s still some confusionabout that question,as this is a fairly new field of research.For example, I was talkingto one of my colleagues, Robert,who is an oncologist,and he was telling me,&quot;Sandrine, this is puzzling.Some of my patients that have been toldthey are cured of their cancerstill develop symptoms of depression.&quot;And I responded to him,&quot;Well, from my point of viewthat makes sense.The drug you give to your patientsthat stops the cancer cells multiplyingalso stops the newborn neuronsbeing generated in their brain.&quot;And then Robert looked at melike I was crazy and said,&quot;But Sandrine, these are adult patients —adults do not grow new nerve cells.&quot;And much to his surprise, I said,&quot;Well actually, we do.&quot;And this is a phenomenonthat we call neurogenesis.
+时间： 1:12
+zh-cn:[神经生成]
+en:[Neurogenesis]
+时间： 1:14
+zh-cn:罗伯特不是一名脑神经科学家，当他在医学院上学的时候并没有学到我们现在所知道的成人大脑能够生成新的神经细胞。因此罗伯特，作为一名好医生，想要到我的实验室来更深层的了解一下这个研究。我向他展示了大脑最令人兴奋的部分有关神经生成的活动—这是海马体。就是大脑中心这个灰色的结构。我们早已得知，这对学习，记忆，情绪和情感很重要。然而，我们进来新研究出的是这是一个对成人大脑来说很特别的结构，这里能够生成新的神经元。当我们切开海马体并放大，你所看到的这些蓝色物质就是成年老鼠大脑中新生张出来的神经元。在人类大脑中—我来自卡罗林斯卡学院的同事 Jonas Frisén说，人类每天生长约700个新的神经元在海马体内。你可能认为这并不是很多，因为人体有数十亿神经元。但是当我们快到50岁的时候，我们出生时所有的神经元都会变成那个结构中成人时期生长出的神经元。
+en:Now Robert is not a neuroscientist,and when he went to medical schoolhe was not taught what we know now —that the adult braincan generate new nerve cells.So Robert, you know,being the good doctor that he is,wanted to come to my labto understand the topica little bit better.And I took him for a tourof one of the most excitingparts of the brainwhen it comes to neurogenesis —and this is the hippocampus.So this is this gray structurein the center of the brain.And what we&#39;ve known alreadyfor very long,is that this is important for learning,memory, mood and emotion.However, what wehave learned more recentlyis that this is one of the uniquestructures of the adult brainwhere new neurons can be generated.And if we slice through the hippocampusand zoom in,what you actually see here in blueis a newborn neuronin an adult mouse brain.So when it comes to the human brain —my colleague Jonas Frisénfrom the Karolinska Institutet,has estimated that we produce700 new neurons per dayin the hippocampus.You might think this is not much,compared to the billionsof neurons we have.But by the time we turn 50,we will have all exchanged the neuronswe were born with in that structurewith adult-born neurons.
+时间： 2:54
+zh-cn:为什么新的神经元是重要的它们有怎样的作用呢？首先，我们指导它们对于学习和记忆功能来说很重要。在实验室中，我们发现如果我们阻止了成人大脑中海马体生长新的神经元的功能，那意味着我们也阻止了某些记忆能力。这对空间识别感非常重要—就像，你如何在城市中活动。
+en:So why are these new neurons importantand what are their functions?First, we know that they&#39;re importantfor learning and memory.And in the lab we have shownthat if we block the abilityof the adult brainto produce new neurons in the hippocampus,then we block certain memory abilities.And this is especially new and truefor spatial recognition —so like, how you navigateyour way in the city.
+时间： 3:25
+zh-cn:我们仍在学习，神经元对于记忆能力，以及记忆的质量来说非常重要。他们能够帮助我们的记忆加入时间概念他们也会帮助我们区分非常相近的记忆，比如：如何寻找你的自行车你每天都将它停在车站附近的同一块地方，但是在这片地不同的位置？
+en:We are still learning a lot,and neurons are not only importantfor memory capacity,but also for the quality of the memory.And they will have been helpfulto add time to our memoryand they will help differentiatevery similar memories, like:how do you find your bikethat you park at the stationevery day in the same area,but in a slightly different position?
+时间： 3:51
+zh-cn:对我的同事罗伯特来说更有意思的是我们正在做有关神经生成和抑郁的研究。在这个关于抑郁的动物模型，我们可以看到它的神经生成在较低的水平，如果给牠们服用抗抑郁剂，我们增加了新生的神经元，于是抑郁的症状就减轻了，在细胞生成和抑郁症状间建立了清晰地联系。此外，如果你阻止了细胞生成，那你也就阻止了抗抑郁剂的功效。那时，罗伯特理解到他的病人们很有可能会遭受抑郁的症状即使在癌症治愈以后，因为抗癌药物阻止了身体新的神经元的生成。那需要一些时间生成新的神经元让它达到正常的运作。
+en:And more interestingto my colleague Robertis the research we have been doingon neurogenesis and depression.So in an animal model of depression,we have seen that we havea lower level of neurogenesis.And if we give antidepressants,then we increase the productionof these newborn neurons,and we decreasethe symptoms of depression,establishing a clear linkbetween neurogenesis and depression.But moreover, if youjust block neurogenesis,then you block the efficacyof the antidepressant.So by then, Robert had understoodthat very likely his patientswere suffering from depressioneven after being cured of their cancer,because the cancer drug had stoppednewborn neurons from being generated.And it will take timeto generate new neuronsthat reach normal functions.
+时间： 4:48
+zh-cn:总的来说，我想我们有足够的证据来表明细胞生成是一个目标方法，如果我们想要提高记忆力或是提高情绪，或是防止衰老，或是抗击压力。
+en:So, collectively, now we thinkwe have enough evidenceto say that neurogenesisis a target of choiceif we want to improvememory formation or mood,or even prevent the declineassociated with aging,or associated with stress.
+时间： 5:07
+zh-cn:下一个问题就是：我们能够控制神经生成吗？答案是，是。我们现在进行一个小问答。我会给你们一组行为或是活动，你们来判断这些能否促进细胞新生或是这些会降低细胞生成。准备好了吗？现在开始。
+en:So the next question is:can we control neurogenesis?The answer is yes.And we are now going to do a little quiz.I&#39;m going to give you a setof behaviors and activities,and you tell me if you thinkthey will increase neurogenesisor if they will decrease neurogenesis.Are we ready?OK, let&#39;s go.
+时间： 5:31
+zh-cn:学习？增长？是的。学习能够提高神经细胞的生成。
+en:So what about learning?Increasing?Yes.Learning will increase the productionof these new neurons.
+时间： 5:39
+zh-cn:压力？是的，压力会降低海马体内神经细胞的生成。
+en:How about stress?Yes, stress will decrease the productionof new neurons in the hippocampus.
+时间： 5:47
+zh-cn:那么睡眠匮乏呢？确实，它会降低神经生成。
+en:How about sleep deprivation?Indeed, it will decrease neurogenesis.
+时间： 5:53
+zh-cn:性爱呢？哇！
+en:How about sex?Oh, wow!
+时间： 5:56
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:57
+zh-cn:是，你们是对的，它能促进神经新生。然而，这一切都有关平衡。我们不希望出现这样的情况—
+en:Yes, you are right, it will increasethe production of new neurons.However, it&#39;s all about balance here.We don&#39;t want to fall in a situation —
+时间： 6:06
+zh-cn:（笑声）
+en:(Laughter)
+时间： 6:08
+zh-cn:太多的性爱导致睡眠匮乏。
+en:about too much sexleading to sleep deprivation.
+时间： 6:10
+zh-cn:（笑声）
+en:(Laughter)
+时间： 6:13
+zh-cn:年龄增长？细胞生成率会随着我们变老而降低，但它仍会生成。
+en:How about getting older?So the neurogenesis ratewill decrease as we get older,but it is still occurring.
+时间： 6:25
+zh-cn:最后，跑步？这要看你们各自的情况自己决定。
+en:And then finally, how about running?I will let you judge that one by yourself.
+时间： 6:32
+zh-cn:这是第一个研究是我在索尔克研究所的导师Rusty Gage做的，显示出环境对于生长新的神经有影响。这幅图片是老鼠的海马体，它的笼子里没有滚动跑轮。黑色的小点点是将要新生的神经元。现在，这幅是老鼠的海马体它的笼子里有滚动跑轮。你可以看到数量巨大的黑色小点点显示出它的神经元生成状况。
+en:So this is one of the first studiesthat was carried out by one of my mentors,Rusty Gage from the Salk Institute,showing that the environmentcan have an impacton the production of new neurons.And here you see a sectionof the hippocampus of a mousethat had no running wheel in its cage.And the little black dots you seeare actually newborn neurons-to-be.And now, you see a sectionof the hippocampus of a mousethat had a running wheel in its cage.So you see the massive increaseof the black dots representingthe new neurons-to-be.
+时间： 7:07
+zh-cn:所以，活动会影响神经生成，但并不只是如此。你吃的东西会影响到海马体生长新的神经元。这里我们有一个健康饮食的样本—这些有功效的营养物质。我要指出一些来：卡路里保持在20%-30%会增强细胞生长。间歇地断食—在餐与餐之间空下时间—会提高神经细胞新生。摄入黄酮类物质，在黑巧克力或蓝莓中，会提高神经细胞新生。欧米伽-3 脂肪酸，在脂质鱼中，比如三文鱼，会提高神经细胞新生率。相对的，那些高饱和脂肪会对神经生成有不好的影响。乙醇—酒精中摄取—会降低神经新生。然而，并不是所有都不好，白藜芦醇，红酒中的物质，就能够促进新生神经的存活率。下次你再去晚宴派对的时候，你也许想要喝这种可能“神经新生——中立”饮品。
+en:So activity impacts neurogenesis,but that&#39;s not all.What you eat will have an effecton the production of new neuronsin the hippocampus.So here we have a sample of diet —of nutrients that have been shownto have efficacy.And I&#39;m just goingto point a few out to you:Calorie restriction of 20 to 30 percentwill increase neurogenesis.Intermittent fasting —spacing the time between your meals —will increase neurogenesis.Intake of flavonoids,which are containedin dark chocolate or blueberries,will increase neurogenesis.Omega-3 fatty acids,present in fatty fish, like salmon,will increase the productionof these new neurons.Conversely, a diet richin high saturated fatwill have a negative impacton neurogenesis.Ethanol — intake of alcohol —will decrease neurogenesis.However, not everything is lost;resveratrol, which iscontained in red wine,has been shown to promotethe survival of these new neurons.So next time you are at a dinner party,you might want to reach for this possibly&quot;neurogenesis-neutral&quot; drink.
+时间： 8:20
+zh-cn:（笑声）
+en:(Laughter)
+时间： 8:23
+zh-cn:最后，让我在说最后一点——古怪的一点日本人着迷于食物的质感，软质饮食减少神经生成，相对于那些需要咀嚼，或是脆的食物。
+en:And then finally,let me point out the last one —a quirky one.So Japanese groups are fascinatedwith food textures,and they have shown that actuallysoft diet impairs neurogenesis,as opposed to food that requiresmastication — chewing — or crunchy food.
+时间： 8:41
+zh-cn:这些数据，我们用于观察细胞水平的，都是通过动物模型完成。但这样的饮食同样也给与了人类参与者，我们能看到的是饮食调节记忆和情绪和它调节神经生成同样的方向，比如：卡路里限制会提高记忆能力，反之，一个高脂肪的饮食会加剧抑郁的症状。相反的，欧米伽-3脂肪酸，会提高神经生成，同时也会帮助减缓抑郁的症状。因此我们认为饮食的效用在神经健康、记忆和情绪，是通过在海马体内制造新的神经元间接完成的。不只是你吃什么，还有食物的质地，什么时候吃吃了多少来决定。
+en:So all of this data,where we need to lookat the cellular level,has been generated using animal models.But this diet has also been givento human participants,and what we could see is thatthe diet modulates memory and moodin the same directionas it modulates neurogenesis,such as: calorie restrictionwill improve memory capacity,whereas a high-fat diet will exacerbatesymptoms of depression —as opposed to omega-3 fatty acids,which increase neurogenesis,and also help to decreasethe symptoms of depression.So we think that the effect of dieton mental health, on memory and mood,is actually mediated by the productionof the new neurons in the hippocampus.And it&#39;s not only what you eat,but it&#39;s also the textureof the food, when you eat itand how much of it you eat.
+时间： 9:44
+zh-cn:在我们神经科学家这边—有兴趣的神经生成—我们需要更好的了解这些新生神经的功能，以及我们如何控制它们的存活率和制造情况。我们同样也要寻找一个方法来保护罗伯特病人的神经生成。在你们这边—请你们自己决定自己的细胞生成。
+en:On our side — neuroscientistsinterested in neurogenesis —we need to understand betterthe function of these new neurons,and how we can control their survivaland their production.We also need to find a way to protectthe neurogenesis of Robert&#39;s patients.And on your side —I leave you in chargeof your neurogenesis.
+时间：10:06
+zh-cn:谢谢
+en:Thank you.
+时间：10:07
+zh-cn:（鼓掌）
+en:(Applause)
+时间：10:13
+zh-cn:玛格丽特·赫夫南：太精彩的研究，桑德琳。现在，我告诉你你改变了我的生活—我现在开始吃大量的蓝莓。
+en:Margaret Heffernan:Fantastic research, Sandrine.Now, I told you you changed my life —I now eat a lot of blueberries.
+时间：10:20
+zh-cn:桑德琳·苏瑞：这太好了。
+en:Sandrine Thuret: Very good.
+时间：10:22
+zh-cn:玛格丽特：我很好奇关于跑步的那个讨论。我需要跑步吗？还是指我们要做有氧运动，让大脑吸氧？可以是任何激烈运动吗？
+en:MH: I&#39;m really interestedin the running thing.Do I have to run?Or is it really justabout aerobic exercise,getting oxygen to the brain?Could it be any kind of vigorous exercise?
+时间：10:35
+zh-cn:桑德琳：此时此刻，我们无法准确说明是否只能跑步，但我想任何事能够提高生成—或是血液移动到大脑的，应该都是有益的。
+en:ST: So for the moment,we can&#39;t really sayif it&#39;s just the running itself,but we think that anything that indeedwill increase the production —or moving the blood flow to the brain,should be beneficial.
+时间：10:50
+zh-cn:玛格丽特：那我不需要在我的办公室放一个转轮了？
+en:MH: So I don&#39;t have to geta running wheel in my office?
+时间：10:53
+zh-cn:桑德琳：不，你不需要！
+en:ST: No, you don&#39;t!
+时间：10:54
+zh-cn:玛格丽特：真是松了口气！太精彩了。桑德琳·苏瑞，非常感谢你。
+en:MH: Oh, what a relief! That&#39;s wonderful.Sandrine Thuret, thank you so much.
+时间：10:58
+zh-cn:桑德琳：谢谢你，玛格丽特。
+en:ST: Thank you, Margaret.
+时间：10:59
+zh-cn:（鼓掌）
+en:(Applause)

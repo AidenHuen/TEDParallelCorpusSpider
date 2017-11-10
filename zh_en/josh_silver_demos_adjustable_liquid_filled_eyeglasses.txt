@@ -1,0 +1,39 @@
+时间： 0:12
+zh-cn:我将要说的，是现今世界最大的问题之一以及解决它的方法
+en:I&#39;m going to tell you about one of the world&#39;s largest problemsand how it can be solved.
+时间： 0:20
+zh-cn:我想以一个小实验开场戴眼镜或隐形眼镜的请举手或者做过激光屈光手术的麻烦了，人太多了我都数不过来了但是我估计，举手的人大概占60%因为这差不多就是做过视力矫正的人在发达国家的比例
+en:I&#39;d like to start with a little experiment.Could you put your hand up if you wear glasses or contact lenses,or you&#39;ve had laser refractive surgery?Now, unfortunately, there are too many of you for me to do the statistics properly.But it looks like — I&#39;m guessing — that it&#39;ll be about 60 percent of the roombecause that&#39;s roughly the fraction of developed world populationthat have some sort of vision correction.
+时间： 0:55
+zh-cn:世界卫生组织评估过他们通过不同的方式评估过需要戴眼镜的人数最少也得有一亿五千万人还有的估计是差不多10亿但是事实上，我们在这里刚刚统计了一次说明世界上有差不多一半的人需要佩戴眼镜视力差，实际上不仅仅是个健康问题它还是教育问题经济问题，生活质量的问题
+en:The World Health Organization estimates —well, they make various estimates of the number of people who need glasses —the lowest estimate is 150 million people.They also have an estimate of around a billion.But in fact, I would argue that we&#39;ve just done an experiment here and now,which shows us that the global need for corrective eyewearis around half of any population.And the problem of poor vision, is actually not just a health problem,it&#39;s also an educational problem,and it&#39;s an economic problem, and it&#39;s a quality of life problem.
+时间： 1:40
+zh-cn:眼镜不贵，也不紧缺问题在于，没有足够的眼科方面的专业人士会使用我们在发达国家中所用的视力矫正器眼科护理专家实在是太少了
+en:Glasses are not very expensive. They&#39;re quite plentiful.The problem is, there aren&#39;t enough eye care professionals in the worldto use the model of the delivery of corrective eyewearthat we have in the developed world.There are just way too few eye care professionals.
+时间： 2:01
+zh-cn:幻灯片上表示的是一位验光师一个蓝色小人代表大约一万人这是在英国的比例这是在撒哈拉以南非洲中验光师占总人口的比例事实上，有一些撒哈拉以南非洲的国家八百万人里只有一个验光师
+en:So this little slide here shows you an optometristand the little blue person represents about 10,000 peopleand that&#39;s the ratio in the U.K.This is the ratio of optometrists to people in sub-Saharan Africa.In fact, there are some countries in sub-Saharan Africawhere there&#39;s one optometrist for eight million of the population.
+时间： 2:24
+zh-cn:怎么办？怎么解决这个问题？我有个办法这个方法是基于自适应光学的自己做眼镜，自己调整这样问题就解决了
+en:How do you do this? How do you solve this problem?I came up with a solution to this problem,and I came up with a solution based on adaptive optics for this.And the idea is you make eye glasses, and you adjust them yourselfand that solves the problem.
+时间： 2:40
+zh-cn:我接下来给你们演示自己如何做副眼镜我来给你们演示一下，我把它放在口袋里我近视，几乎看不到最后排的标志这样，好了，我能看见有个人跑出去了我还能看见那边有个人跑出去了我通过自己诊断，做了副处方眼镜接下来要这么做我给自己诊断，做了副眼镜好，这个眼镜......只要自己就行就快好了这就是我自己做的眼镜
+en:What I want to do is to show you that one can make a pair of glasses.I shall just show you how you make a pair of glasses. I shall pop this in my pocket.I&#39;m short sighted. I look at the signs at the end, I can hardly see them.So — okay, I can now see that man running out there,and I can see that guy running out there.I&#39;ve now made prescription eyewear to my prescription.Next step in my process.So, I&#39;ve now made eye glasses to my prescription.Okay, so I&#39;ve made these glasses and ...Okay, I&#39;ve made the glasses to my prescription and ...... I&#39;ve just ...And I&#39;ve now made some glasses. That&#39;s it.
+时间： 3:47
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:54
+zh-cn:这副眼镜不是独一无二的事实上，这种技术一直在发展我从1985年开始从事这个工作这项技术发展得非常缓慢现在世界上有大约三万人在使用他们分布在十五个国家，遍布全世界
+en:Now, these aren&#39;t the only pair in the world.In fact, this technology&#39;s been evolving.I started working on it in 1985,and it&#39;s been evolving very slowly.There are about 30,000 in use now.And they&#39;re in fifteen countries. They&#39;re spread around the world.
+时间： 4:13
+zh-cn:我有个梦想，想要跟大家分享一个关于视力的全球性的梦想就是让十亿人到2020年，能带上这种眼镜要实现这个梦想——这只是个早期演示品现在技术已经大幅进步了必须减小成本这副眼镜，事实上，成本大约19美元但成本必须降下来之所以要控制成本，是因为我们服务的人群是日均消费水平只有1美元的人
+en:And I have a vision, which I&#39;ll share with you.I have a global vision for vision.And that vision is to try to get a billion peoplewearing the glasses they need by the year 2020.To do that — this is an early example of the technology.The technology is being further developed —the cost has to be brought down.This pair, in fact, these currently cost about 19 dollars.But the cost has to be brought right down.It has to be brought down because we&#39;re trying to serve populationswho live on a dollar a day.
+时间： 4:48
+zh-cn:怎么办？你得从细节着手这里我简要的介绍下可能遇到的各种问题怎么运输？怎么教人如何使用？怎么让人们意识到他们有视力问题？怎么处理工业生产的问题？答案就是研究
+en:How do you solve this problem?You start to get into detail.And on this slide, I&#39;m basically explaining all the problems you have.How do you distribute? How do you work out how to fit the thing?How do you have people realizing that they have a vision problem?How do you deal with the industry?And the answer to that is research.
+时间： 5:11
+zh-cn:我们已经建立了发展中国家视力中心在这所大学里如果想进一步了解，请登录我们的网站。谢谢。
+en:What we&#39;ve done is to set up the Center for Vision in the Developing Worldhere in the university.If you want to know more, just come have a look at our website. Thank you.
+时间： 5:20
+zh-cn:（掌声）
+en:(Applause)

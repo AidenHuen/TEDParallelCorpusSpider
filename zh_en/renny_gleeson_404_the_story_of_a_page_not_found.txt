@@ -1,0 +1,57 @@
+时间： 0:11
+zh-cn:今天我想给大家讲个关于“找不到的404页面”的小故事，以及从中我们所学到的经验和教训但在开始之前，我们最好先来了解一下到底什么是404页面
+en:So what I want to try to do is tell a quick storyabout a 404 page and a lesson that was learned as a result of it.But to start it probably helps to have an understandingof what a 404 page actually is.
+时间： 0:24
+zh-cn:这就是404页面它是在浏览网页时让人很崩溃的一种体验它是当你点击某网页却无法找到时所显示的默认页面404页面很容易让人感到崩溃大家回想一下，当你点出一个404页面时，心里那种烦躁就像被女朋友甩了一样那么不爽
+en:The 404 page is that.It&#39;s that broken experience on the Web.It&#39;s effectively the default pagewhen you ask a website for something and it can&#39;t find it.And it serves you the 404 page.It&#39;s inherently a feeling of being broken when you go through it.And I just want you to think a little bit about, remember for yourself,it&#39;s annoying when you hit this thing.Because it&#39;s the feeling of a broken relationship.
+时间： 0:51
+zh-cn:但这里同时也有一个很有意思的问题值得我们去思考404页面究竟是从哪里来的？事实上它只是一系列错误代码中的一个这里还有好多其他错误代码当我仔细研究过之后我发现它们就好像是性功能障碍治疗医师的检查单一样一条一条越往下看，越是奇形怪状
+en:And that&#39;s where it&#39;s actually also interesting to think about,where does 404 come from?It&#39;s from a family of errors actually —a whole set of relationship errors,which, when I started digging into them,it looks almost like a checklistfor a sex therapist or a couples counselor.You sort of get down there to the bottom and things get really dicey.
+时间： 1:10
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:12
+zh-cn:是的
+en:Yes.
+时间： 1:14
+zh-cn:但这些错误在网络上比比皆是大网站上也有，小网站上也有全球各地无不是如此
+en:But these things are everywhere.They&#39;re on sites big, they&#39;re on sites small.This is a global experience.
+时间： 1:22
+zh-cn:404页面想告诉你的就是“这儿没有你想要的”这可不是什么好的体验你本来感觉是这样的周围美景如画有独角兽在跳舞天上有彩虹这个时候突然冒出来一个404页面感觉就像突然被人啪的甩了一耳光似的试想一下当你遇到404页面时是什么感觉？就好像你走进星巴克买咖啡柜台后面站着个小伙子你想买黑咖啡却没有你就问他：“能给我一杯黑咖啡吗？”小伙子从柜台里走出来，结果你发现他没穿裤子！这时你的感觉肯定是：“妈呀，我可不想看这个！”这就和你遇到404页面时是一样的感觉吧？
+en:What a 404 page tells youis that you fell through the cracks.And that&#39;s not a good experiencewhen you&#39;re used to experiences like this.You can get on your Kinectand you can have unicorns dancingand rainbows spraying out of your mobile phone.A 404 page is not what you&#39;re looking for.You get that, and it&#39;s like a slap in the face.Trying to think about how a 404 felt,and it would be like if you went to Starbucksand there&#39;s the guy behind the counterand you&#39;re over there and there&#39;s no skim milk.And you say, &quot;Hey, could you bring the skim milk?&quot;And they walk out from behind the counter and they&#39;ve got no pants on.And you&#39;re like, &quot;Oh, I didn&#39;t want to see that.&quot;That&#39;s the 404 feeling.
+时间： 2:02
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:03
+zh-cn:还真的有人跟我这么形容过
+en:I mean, I&#39;ve heard about that.
+时间： 2:06
+zh-cn:于是乎，404页面的重要性就在这里体现出来了我曾经领导过一个科技培训孵化小组那时组里有八个刚创业的公司他们工作的重点在于找到“他们在做什么”，而非“他们不是什么”直到有一天“运动之路”，一个专为极限运动员而开设的网站发现了这样一个视频
+en:So where this comes into play and why this is importantis I head up a technology incubator,and we had eight startups sitting around there.And those startups are focused on what they are, not what they&#39;re not,until one day Athletepath,which is a website that focuses on services for extreme athletes,found this video.
+时间： 2:23
+zh-cn:（画内音）男声：乔伊！
+en:(Video) Guy: Joey!
+时间： 2:27
+zh-cn:观众：噢！
+en:Crowd: Whoa!
+时间： 2:31
+zh-cn:噢，他看起来不太好他们把这个视频嵌入了网站的404页面里这个举动让所有人眼前一亮因为终于有了一个页面让人真真切切地感受到了点出404页面时的那种感觉
+en:Renny Gleeson: You just ... no, he&#39;s not okay.They took that video and they embedded it in their 404 pageand it was like a light bulb went off for everybody in the place.Because finally there was a pagethat actually felt like what it felt like to hit a 404.
+时间： 2:48
+zh-cn:（笑声）
+en:(Laughter)
+时间： 2:49
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 2:51
+zh-cn:关于404页面的比赛就此展开给人们提供灵感的“Dailypath”网站在他们的404页面上放上了名人名言帮人寻找宠物寄养的“Stayhound”网站则用萌宠的照片来表示对你的同情这八个初创网页服务公司在24小时之内纷纷加入这场竞赛到第二天早上的4：04分，我们送出了404块现金在这个项目中他们所学到的经验就是无论多小的事情，只要做对了，就能产生极大的功效那些经过精心计划的细节很容易产生品牌效应最有意思的是你甚至还可以创造你自己的404页面只要将URL链接进去就行了看，这一个是在同情你这一个是在怪你这个页面我非常喜欢这虽然是一个错误页面但在错误中蕴含着机会又有何不可？
+en:So this turned into a contest.Dailypath that offers inspirationput inspiration on their 404 page.Stayhound, which helps you find pet sitters through your social network,commiserated with your pet.Each one of them found this.It turned into a 24-hour contest.At 4:04 the next day, we gave out $404 in cash.And what they learnedwas that those little things, done right, actually matter,and that well-designed moments can build brands.So you take a look out in the real world,and the fun thing is you can actually hack these yourself.You can type in an URL and put in a 404 and these will pop.This is one that commiserates with you.This is one that blames you.This is one that I loved.This is an error page,but what if this error page was also an opportunity?
+时间： 3:35
+zh-cn:所以在那个时候所有的这些创业新生儿都陷入了思考并对他们所可以成就的未来而感到非常兴奋回到最初那个谈恋爱的比喻通过这个小练习，他们所认识到的是一个小错误可以告诉我你的弱点同样也可以提醒我，我为什么爱你
+en:So it was a moment in timewhere all of these startups had to sit and thinkand got really excited about what they could be.Because back to the whole relationship issue,what they figured out through this exercisewas that a simple mistake can tell me what you&#39;re not,or it can remind me of why I should love you.
+时间： 3:53
+zh-cn:谢谢
+en:Thank you.
+时间： 3:55
+zh-cn:（掌声）
+en:(Applause)

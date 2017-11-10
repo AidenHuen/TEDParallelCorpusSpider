@@ -1,0 +1,210 @@
+时间： 0:11
+zh-cn:我从小在北爱尔兰长大，就在爱尔兰岛的最最北边那里非常冷这张照片是一个夏天我在我们家后院玩的时候拍的
+en:I grew up in Northern Ireland, right up in thevery, very north end of it there,where it&#39;s absolutely freezing cold.This was me running around in the back garden mid-summer.
+时间： 0:21
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:22
+zh-cn:我不知道该选择什么样的职业在爱尔兰，最正常的选择应该是参军但是，说实话，部队里太没劲了
+en:I couldn&#39;t pick a career.In Ireland the obvious choice is the military,but to be honest it actually kind of sucks.
+时间： 0:29
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:30
+zh-cn:我妈希望我成为一个牙科医生但问题是，那个时候人们一直在到处乱扔炸弹我去了贝尔法斯特的一个学校读书所有的骚乱就是在那儿发生的这张照片上就是当时常见的景象我上学的那个学校特别无聊我们被逼着学了像拉丁语这样无聊的东西学校的老师也都很没劲学校里的体育项目又脏又累于是我就非常聪明的选择了赛艇，后来我划得还不错
+en:My mother wanted me to be a dentist.But the problem was that people kept blowing everything up.So I actually went to school in Belfast,which was where all the action happened.And this was a pretty common sight.The school I went to was pretty boring.They forced us to learn things like Latin.The school teachers weren&#39;t having much fun,the sports were very dirty or very painful.So I cleverly chose rowing, which I got very good at.
+时间： 0:53
+zh-cn:照片上我正代表我的学校参加赛艇比赛直到灾难性的那天，我翻船了当着全校师生的面，我翻船了其实比赛的终点就在那儿
+en:And I was actually rowing for my school hereuntil this fateful day, and I flipped over right in frontof the entire school.And that was the finishing post right there.
+时间： 1:01
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:02
+zh-cn:那个时候我觉得特别特别尴尬不过后来我们学校从政府拿到一份津贴然后他们买来一台惊人的计算机，用作研究的机器—3DZ当时他们就把编程手册扔在那儿于是像我这样无所事事的学生就会去看手册学习怎样在那台计算机上编程那个时候，我家乡那里的人们都会买这样的一台计算机它叫做Sinclair ZX80，是一台只有1K（内存）的计算机然后你就可以去买存在磁带上的程序来运行
+en:So this was extremely embarrassing.But our school at that time got a grant from the government,and they got an incredible computer — the research machine 3DZ —and they left the programming manuals lying around.And so students like myself with nothing to do,we would learn how to program it.Also around this time, at home,this was the computer that people were buying.It was called the Sinclair ZX80. This was a 1K computer,and you&#39;d buy your programs on cassette tape.
+时间： 1:25
+zh-cn:我要在这暂停一下我听说要在TED演讲必须有一个条件就是要有演讲者必须有一张自己以前留着蓬松长发的老照片根据要求我带来了这张照片
+en:Actually I&#39;m just going to pause for one second,because I heard that there&#39;s a prerequisite to speak here at TED —you had to have a picture of yourself from the old days with big hair.So I brought a picture with big hair.
+时间： 1:34
+zh-cn:（笑声）
+en:(Laughter).
+时间： 1:35
+zh-cn:我就是想赶快先完成这个要求接着说，在Sinclair ZX80那台计算机之后，他们又推出了一台新的机器这台机器名字很有创意叫做Sinclair ZX81
+en:I just want to get that out of the way.So after the Sinclair ZX80 came along the very cleverly namedSinclair ZX81.
+时间： 1:43
+zh-cn:(笑声)
+en:(Laughter)
+时间： 1:44
+zh-cn:大家看到底下的那张照片了吗？照片上是一个人在陪他的儿子做作业这是厂商原来推出这台计算机的目的而事实上，当我们拿到编程手册的时候我们就马上开始在这台机器上做游戏了我们当时用的是BASIC语言编程的这个语言非常不适合用于游戏编程于是我们就开始学习汇编语言因为汇编语言可以让我们完全控制所有硬件这就是发明那台机器的人，Clive Sinclair阁下照片上他正在展示他的机器你们美国当时有一种同样的机器叫做Timex Sinclair1000
+en:And — you see the picture at the bottom?There&#39;s a picture of a guy doing homework with his son.That&#39;s what they thought they had built it for.The reality is we got the programming manualand we started making games for it.We were programming in BASIC,which is a pretty awful language for games,so we ended up learning Assembly languageso we could really take control of the hardware.This is the guy that invented it, Sir Clive Sinclair,and he&#39;s showing his machine.You had this same thing in America,it was called the Timex Sinclair1000.
+时间： 2:09
+zh-cn:那个时候要玩游戏，你必须有一定的想象力要相信自己真的在玩《太空堡垒银河号》那个时候的图形画面非常差要想玩这个游戏，你得有更强的想象力这是《死亡骑士》当然，科学家们可忍不住了他们开始做自己的游戏这是我最爱的游戏之一，这个游戏是关于养兔子的雄兔选择走运的雌兔
+en:To play a game in those days you had to have an imaginationto believe that you were really playing &quot;Battlestar Galactica.&quot;The graphics were just horrible.You had to have an even better imagination to play this game,&quot;Death Rider.&quot;But of course the scientists couldn&#39;t help themselves.They started making their own video games.This is one of my favorite ones here, where they have rabbit breeding,so males choose the lucky rabbit.
+时间： 2:32
+zh-cn:差不多这个时候，计算机从1K跳到了16K这是一个非常大的跨越如果你在想16K到底有多大这个eBAY的图标就有16K就在那么大的空间里，有人写出了一个完整的飞行模拟程序那个程序看起来就像这样我花了好久在这上面开飞机到后来，我真的以为我可以去开真的飞机了
+en:It was around this time we went from 1K to 16K,which was quite the leap.And if you&#39;re wondering how much 16K is,this eBay logo here is 16K.And in that amount of memory someone programmeda full flight simulation program.And that&#39;s what it looked like.I spent ages flying this flight simulator,and I honestly believed I could fly airplanes by the end of it.
+时间： 2:53
+zh-cn:这是Clive Sinclair发布他的彩色（屏幕）电脑他被当作欧洲的电子游戏之父他是个千万富翁，我想这就是为什么他在照片里笑得那么开心吧
+en:Here&#39;s Clive Sinclair now launching his color computer.He&#39;s recognized as being the father of video games in Europe.He&#39;s a multi-millionaire, and I think that&#39;s why he&#39;ssmiling in this photograph.
+时间： 3:04
+zh-cn:在接下来的20年里我一直在做不同的游戏其中有一些让我引以为荣的，像《终结者》《阿拉丁》还有《英雄神龟》（《忍者神龟》的英版名字）因为我来自英国英国的有关部门觉得“忍者”对孩子们来说太不雅了，于是他们决定改用“英雄”。对个人来说，我其实更喜欢西班牙版的名字，叫做“Tortugas Ninja”（《忍者神龟》的西班牙版名字）。这个比英版的那个好多了。
+en:So I went on for the next 20 years or somaking a lot of different games.Some of the highlights were things like &quot;The Terminator,&quot;&quot;Aladdin,&quot; the &quot;Teenage Mutant Hero Turtles.&quot;Because I was from the United Kingdom,they thought the word ninja was a little too mean for children,so they decided to call it hero instead.I personally preferred the Spanish version,which was &quot;Tortugas Ninja.&quot;That was much better.
+时间： 3:26
+zh-cn:（笑声）
+en:(Laughter)
+时间： 3:28
+zh-cn:我们想让游戏产业与好莱坞电影互相合作来做出点什么东西。我做的最后一个游戏就是这样的。我说的不是互相发许可，而是真正在一起合作。
+en:Then the last game I did was based on trying to get the video game industryand Hollywood to actually work together on something —instead of licensing from each other, to actually work.
+时间： 3:38
+zh-cn:Chris要求我带一些相关数据来，我带来了。游戏已经在2005年变成一个290亿美元的产业，而且每年它都在增长。去年是游戏产业最繁盛的一年。到2008年，我们就会超过音乐产业。到2010年，这个产业将会达到420亿元。43%的游戏玩家其实是女性所以在实际生活中女性玩家的数量比人们想的要多得多
+en:Now, Chris did ask me to bring some statistics with me,so I&#39;ve done that.The video game industry in 2005 became a 29 billion dollar business.It grows every year.Last year was the biggest year.By 2008, we&#39;re going to kick the butt of the music industry.By 2010, we&#39;re going to hit 42 billion.43 percent of gamers are female.So there&#39;s a lot more female gamers than people are really aware.
+时间： 4:00
+zh-cn:游戏玩家的平均年龄？大家觉得是小孩对不对？错了，其实是30岁。很有趣的是，买游戏数量最多的玩家其实是37岁。所以37岁时我们的目标用户群。所有游戏都是暴力的。当然所有的新闻媒体都爱这样说。但是其实83%的游戏并不包含任何的成人内容所以游戏很少是暴力的
+en:The average age of gamers?Well, obviously it&#39;s for children, right?Well, no, actually it&#39;s 30 years old.And interestingly, the people who buy the most games are 37.So 37 is our target audience.All video games are violent.Of course the newspapers love to beat on this.But 83 percent of games don&#39;t have any mature content whatsoever,so it&#39;s just not true.
+时间： 4:22
+zh-cn:关于网络游戏的数据我带来了一些《魔兽世界》的数据，它有550万玩家光从游戏的订阅上，每个月这个游戏就可以赚上8000万美元要安装这个游戏要50美元，这为发行商赚来2750美元的利润游戏大概花了8000万美元来制作，所以其实它一个月就把游戏制作花费赚回来了。游戏中的一个叫做“Project Entropia”玩家花了26500美元买了一座岛别玩了这可不是一座真的岛他实际上什么都没买到，买到的只不过是一些数据而已但是他赢得了很好声誉这桩生意包括了采矿权和打猎权岛上的土地所有权还有一座城堡不包括家具
+en:Online gaming statistics.I brought some stuff on &quot;World of Warcraft.&quot; It&#39;s 5.5 million players.It makes about 80 million bucks a month in subscriptions.It costs 50 bucks just to install it on your computer,making the publisher about another 275 million.The game costs about 80 million dollars to make,so basically it pays for itself in about a month.A player in a game called &quot;Project Entropia&quot;actually bought his own island for 26,500 dollars.You have to remember that this is not a real island.He didn&#39;t actually buy anything, just some data.But he got great terms on it.This purchase included mining and hunting rights,ownership of all land on the island, and a castlewith no furniture included.
+时间： 5:01
+zh-cn:(笑声)
+en:(Laughter)
+时间： 5:02
+zh-cn:这个市场现在估计是每年8亿美元有趣的是，这个市场其实是被玩家们自己建立起来的他们不断找到找到各种聪明的货品交易手段或者互相销售游戏帐号因为这样可以在玩游戏的同时达到赚钱的目的我几天前去eBay上看了一眼我想看看魔兽世界怎么样，就搜索了一下，发现了6000个商品我最喜欢的一个是一个有很多经验的60级的术士，价格是174000美元好像那个人玩游戏的时候受了多大的罪似的
+en:This market is now estimated at over 800 million dollars annually.And what&#39;s interesting about it is the market was actually createdby the gamers themselves.They found clever ways to trade itemsand to sell their accounts to each otherso that they could make money while they were playing their games.I dove onto eBay a couple of days agojust to see what was gong on, typed in World of Warcraft, got 6,000 items.I liked this one the best:a level 60 Warlock with lots of epics for 174,000 dollars.It&#39;s like that guy obviously had some pain while making it.
+时间： 5:33
+zh-cn:要说游戏有多流行大家认为这张照片上的人在干吗？他们当时正在洛杉矶的好莱坞露天剧场听L.A. Philharmonic演奏游戏音乐这是一张当时演唱会的照片你可能觉得那场演出一定是很俗气的，但它不是那场演出其实非常精彩，就像一部史诗观众对那场演出都十分满意
+en:So as far as popularity of games,what do you think these people are doing here?It turns out they&#39;re actually in Hollywood Bowl in Los Angeleslistening to the L.A. Philharmonic playing video game music.That&#39;s what the show looks like.You would expect it to be cheesy, but it&#39;s not.It&#39;s very, very epic and a very beautiful concert.And the people that went there absolutely loved it.
+时间： 5:53
+zh-cn:这帮人在干吗？这是电子竞技，他们把电脑搬到这个大房间里来玩游戏对战这个画面在全世界每个城市都会出现你的城市也不例外只不过你没有注意罢了
+en:What do you think these people are doing?They&#39;re actually bringing their computers so they can play gamesagainst each other.And this is happening in every city around the world.This is happening in your local cities too,you&#39;re probably just not aware of it.
+时间： 6:03
+zh-cn:Chris告诉我这里几年前播放过一段视频是关于游戏的进化史我现在想更新一下那个视频来让大家有一个新的感觉但是希望大家可以试着理解我们在一个增长曲线上，计算机的视觉效果正在变得越来越好这段视频会告诉大家游戏在2007年会是什么样但我想让你们联想一下10年之后游戏的样子现在我们就来看一下这段视频
+en:Now, Chris told me that you had a timeline video a few years agohere just to show how video game graphics have been improving.I wanted to update that video and give you a new look at it.But what I want you to do is to try to understand it.We&#39;re on this curve, and the graphics are gettingso ridiculously better.And I&#39;m going to show you up to maybe 2007.But I want you to try and think about what games could look like10 years from now.So we&#39;re going to start that video.
+时间： 6:29
+zh-cn:视频：从人类历史的第一篇起，游戏就一直没有消失过随着人类的智慧和科技的发展游戏也发生了改变
+en:Video: Throughout human history people have played games.As man&#39;s intellect and technology have evolvedso too have the games he plays.
+时间： 6:38
+zh-cn:（音乐）
+en:(Music)
+时间： 8:58
+zh-cn:（掌声）
+en:(Applause)
+时间： 9:01
+zh-cn:David Perry: 再强调一次，大家想一下游戏将来会是什么样子想一下我们现在在哪里再根据那个发展曲线推算一下，将来的游戏会发展成什么样子如果你现在想进入游戏领域的话你就得能画出这样的画面你得是一个非常有才华的艺术家一旦我们有了足够的这样的人，我们就会需要更多的幻想艺术家来创作出我们从没去过的地方和我们从未谋面的人
+en:David Perry: The thing again I want you to think about is,don&#39;t look at these graphics and think of that&#39;s the way it is.Think about that&#39;s where we are right now,and the curve that we&#39;re on means that this is going to continueto get better.This is an example of the kind of graphics you need to be able to drawif you wanted to get a job in the video game industry today.You need to be really an incredible artist.And once we get enough of those guys, we&#39;re going to wantmore fantasy artists that can create placeswe&#39;ve never been to before, or characters thatwe&#39;ve just never seen before.
+时间： 9:26
+zh-cn:很明显今天我说的都是计算机图形和声音但是如果你去参加一个游戏开发者大会你会发现那里的人都在谈论情绪，目的意义，理解，感情你会听到像这样的问题： 一个游戏可以让你流泪吗？这才是我们真正关系的话题
+en:So the obvious thing for me to talk about today is graphics and audio.But if you were to go to a game developers conference,what they&#39;re all talking about is emotion, purpose,meaning, understanding and feeling.You&#39;ll hear about talks like, can a video game make you cry?And these are the kind of topics we really actually care about.
+时间： 9:41
+zh-cn:我遇到这样一个很有才华的学生他很善于表现自己他同意把他的这段视频最先放给TED上的观众看现在我想开始放这段视频这是一个学生对于游戏的看法
+en:I came across a student who&#39;s absolutely excellentat expressing himself, and this student agreedthat he would not show his video to anybody untilyou here at TED had seen it.So I&#39;d like to play this video.So this is a student&#39;s opinion on what his experience of games are.
+时间： 9:58
+zh-cn:视频：我，就像你们一样，生活在游戏和现实生活之间作为一个生命有呼吸的个体，我的一部分已经变成了一个被编程过的虚拟的电子体我的大脑中把现实与虚拟世界区分开的那个界线终于开始渐渐消失我是一个游戏爱好者，这是我的故事
+en:Video: I, like many of you, live somewhere betweenreality and video games.Some part of me — a true living, breathing person —has become programmed, electronic and virtual.The boundary of my brain that divides real from fantasyhas finally begun to crumble.I&#39;m a video game addict and this is my story.
+时间：10:19
+zh-cn:（音乐）
+en:(Music)
+时间：10:35
+zh-cn:我出生的那年任天堂开始开发他们的娱乐系统童年的我，在后院里玩耍，学习认字甚至有时候吃自己种的蔬菜我的童年大部分时间花在玩乐高玩具上但是作为我们这一代，那是平常不过的除此以外，我还经常看电视Mr. Rogers, 迪斯尼, Nick Junior还有无数个电视广告已经无疑都在我心中留下了印记
+en:In the year of my birththe Nintendo Entertainment System also went into development.I played in the backyard, learned to read,and even ate some of my vegetables.Most of my childhood was spent playing with Legos.But as was the case for most of my generation,I spent a lot of time in front of the TV.Mr. Rogers, Walt Disney, Nick Junior,and roughly half a million commercials have undoubtedlyleft their mark on me.
+时间：11:08
+zh-cn:当我爸妈给我和我妹妹买了第一台任天堂的时候不管它有多好玩，总之它一下子占据了我的生活好像一切都不谋而合
+en:When my parents bought my sister and I our first Nintendo,whatever inherent addictive quality this early interactiveelectronic entertainment possessed quickly took hold of me.At some point something clicked.
+时间：11:28
+zh-cn:(音乐)
+en:(Music)
+时间：11:34
+zh-cn:通过简单互动的故事情节还有温热的电视机，我的16位任天堂已经不仅仅是一种我对生活得逃避而变成了另外一种存在形式，我的虚拟现实
+en:With the combination of simple, interactive storiesand the warmth of the TV set, my simple 16-bit Nintendobecame more than just an escape.It became an alternate existence, my virtual reality.
+时间：11:46
+zh-cn:（音乐）
+en:(Music)
+时间：12:04
+zh-cn:我是一个游戏爱好者，不仅仅是因为我花好多时间来玩游戏也不是因为无数个夜晚里为了通关而通宵达旦是因为我在那个虚拟世界里有另外一条生命电子游戏已经开始改变我对世界的理解什么是真实的，什么不是我对游戏着迷，因为即使我已经控制不了现实我却期望更多
+en:I&#39;m a video game addict, and it&#39;s not because ofa certain number of hours I have spent playing,or nights I have gone without sleep to finish the next level.It is because I have had life-altering experiences in virtual space,and video games had begun to erode my own understandingof what is real and what is not.I&#39;m addicted, because even though I know I&#39;m losing my grip on reality,I still crave more.
+时间：12:27
+zh-cn:（音乐）
+en:(Music)
+时间：12:37
+zh-cn:从很小时候，我就开始学习对屏幕上发生的事情产生真实的情感今天，在看过20年的电视以后甚至一个好的保险广告都能让我流泪我只是成长中的新一代中的一员这一代从游戏中体会到得滋味可能比现实生活中更多电子游戏正在进行飞速的发展游戏中的世界已经变得跟电影，电视相差无几我在虚拟世界里体验到的自由还是有局限的可是我在游戏学到的东西却可以拿到现实生活中来玩过足够多游戏之后，你就会觉得你真的可以玩滑雪板，开飞机9秒内潜到400米深的水下，或者杀一个人我知道我可以
+en:From an early age I learned to invest myself emotionallyin what unfolded before me on screen.Today, after 20 years of watching TV geared to make me emotional,even a decent insurance commercial can bring tears to my eyes.I am just one of a new generation that is growing up.A generation who may experience much more meaningthrough video games than they will through the real world.Video games are nearing an evolutionary leap,a point where game worlds will look and feel just as realas the films we see in theatres, or the news we watch on TV.And while my sense of free will in these virtual worldsmay still be limited, what I do learn applies to my real life.Play enough video games and eventually you willreally believe you can snowboard, fly a plane,drive a nine-second quarter mile, or kill a man.I know I can.
+时间：13:36
+zh-cn:跟其他之前的流行文化不一样电子游戏让我们变成了机器的一部分它们允许我们沉浸到电子游戏的文化中，这是一种互动的，可下载的，高清晰的现实文化我们可以跟它互动这是我们预期的互动层次达不到这个层次，现实世界中的那些问题 —-贫穷，战争，疾病，种族灭绝在游戏里就失去了效果它们的重要性就跟黄金时段的电视剧融合为了一体
+en:Unlike any pop culture phenomenon before it,video games actually allow us to become part of the machine.They allow us to sublimate into the culture of interactive,downloaded, streaming, HD reality.We are interacting with our entertainment.I have come to expect this level of interaction.Without it, the problems faced in the real world —poverty, war, disease and genocide — lack the levity they should.Their importance blends into the sensationalized dramaof prime time TV.
+时间：14:07
+zh-cn:然而，电子游戏的魅力不在它有真实的画面或者是那振动手柄或者立体的声音而在于，这些电子游戏已经开始加入情感元素我在游戏里打过仗，在孤军奋战的时候害怕过看着自己的部队死在沙滩上和丛林里，那种感觉比任何的课本和新闻都真实
+en:But the beauty of video games today lies not in the lifelike graphics,the vibrating joysticks or virtual surround sound.It lies in that these games are beginning to make me emotional.I have fought in wars, feared for my own survival,watched my cohorts die on beaches and woods that look and feelmore real than any textbook or any news story.
+时间：14:29
+zh-cn:制作游戏的那些人很聪明他们知道什么东西可以让我害怕，兴奋，慌张，骄傲或者悲伤他们用这些不同的情感元素来划分整个游戏世界一个经过很好的设计的电子游戏会把玩家完美的拼接到游戏的虚拟体验当中随着一个人玩游戏玩得越来越好那种通过控制在玩游戏的感觉就会渐渐消失我知道我想做什么就去做不会去想按什么按钮或者扣什么扳机，我考虑的就只有我还有游戏我的命运还有我身处的世界的命运，都掌握在我的手中我知道我妈很担心那些带有暴力情节的电子游戏而让我所担心的，不是电子游戏中的暴力正在变得越来越像现实生活中的暴力而是，现实生活中的暴力正在变得越来越像一部电子游戏
+en:The people who create these games are smart.They know what makes me scared, excited, panicked, proud or sad.Then they use these emotions to dimensionalize the worlds they create.A well-designed video game will seamlesslyweave the user into the fabric of the virtual experience.As one becomes more experiencedthe awareness of physical control melts away.I know what I want and I do it.No buttons to push, no triggers to pull, just me and the game.My fate and the fate of the world around me lie inside my hands.I know violent video games make my mother worry.What troubles me is not that video game violenceis becoming more and more like real life violence,but that real life violence is starting to look more and morelike a video game.
+时间：15:17
+zh-cn:（音乐）
+en:(Music)
+时间：15:24
+zh-cn:这些都是跟我没什么关系的问题可是我，有一个跟我很有关的问题我的大脑发生了一些变化
+en:These are all troubles outside of myself.I, however, have a problem very close to home.Something has happened to my brain.
+时间：15:32
+zh-cn:（音乐）
+en:(Music)
+时间：15:43
+zh-cn:也许我们大脑中的一个部分储存着我们所有的直觉，那些我们不经过思考就会去做的事有些直觉可能是天生的，可是大部分是经过后天学习得到的不管是如何得来的，所有这些直觉都被深深刻在了我们的脑子里而这些直觉，恰恰是我们生存所需要的，不管是在现实生活还是虚拟世界中其实只是最近几年，游戏技术才真正实现了虚拟和现实的结合在今天的游戏中，我们受到与现实生活中同样的物理法则约束生活在同样的城市里，做着许多我们曾经在现实生活中做过的事情，只不过这次是虚拟的想象一下我实际生活中的车的仪表板上写了25000英里而把我玩过的所有驾驶类游戏加起来，我一共开了31459英里从某种层次上说，我是从游戏中学会了开车那种感觉是非常相似的仔细想想，同一件事，你在游戏里做过的比你在现实生活中做过还要多，其实挺有趣的当我在夕阳西下时开车在路上，我就会想这件事就像游戏里那么美
+en:Perhaps there is a single part of our brain that holdsall of our gut instincts, the things we know to dobefore we even think.While some of these instincts may be innate, most are learned,and all of them are hardwired into our brains.These instincts are essential for survival in both real and virtual worlds.Only in recent years has the technology behind video gamesallowed for a true overlap in stimuli.As gamers we are now living by the same laws of physicsin the same cities and doing many of the same thingswe once did in real life, only virtually.Consider this —my real life car has about 25,000 miles on it.In all my driving games, I&#39;ve driven a total of 31,459 miles.To some degree I&#39;ve learned how to drive from the game.The sensory cues are very similar.It&#39;s a funny feeling when you have spent more timedoing something on the TV than you have in real life.When I am driving down a road at sunset all I can think is,this is almost as beautiful as my games are.
+时间：16:47
+zh-cn:因为我的虚拟世界是完美的比现实生活要美丽的多，丰富的多我不知道我在游戏中的体验有什么暗含但是电子游戏这种吸引人的潜力实在有点让我惊慌失措我相信如果老大哥如果利用电子游戏而不是电视节目的话他可以成功的给更多人洗脑电子游戏既有趣又吸引人，它使你的大脑变得对各种信息都不设防但是，洗脑并不都是坏事
+en:For my virtual worlds are perfect.More beautiful and rich than the real world around us.I&#39;m not sure what the implications of my experience are,but the potential for using realistic video game stimuli in repetitionon a vast number of loyal participants is frightening to me.Today I believe Big Brother would find much more successbrainwashing the masses with video gamesrather than just simply TVs.Video games are fun, engaging, and leave your braincompletely vulnerable to re-programming.But maybe brainwashing isn&#39;t always bad.
+时间：17:21
+zh-cn:想象一下，一个游戏可以教我们如何尊重彼此帮助我们理解我们在现实世界中遇到的问题电子游戏可以作为一个很好的工具随着电子游戏中的虚拟世界一直不断得反映我们生活的现实世界，游戏开发者们开始意识到他们肩上扛的重担我不知道未来的电子游戏在人类文明中将起到什么作用但是随着虚拟世界和现实世界有越来越多的交叉一定会有越来越多的人跟我有同样的感受
+en:Imagine a game that teaches us to respect each other,or helps us to understand the problems we&#39;re all facingin the real world.There is a potential to do good as well.It is critical, as these virtual worlds continue to mirrorthe real world we live in, that game developers realizethat they have tremendous responsibilities before them.I&#39;m not sure what the future of video games holdsfor our civilization.But as virtual and real world experiences increasingly overlapthere is a greater and greater potential for other peopleto feel the same way I do.
+时间：17:53
+zh-cn:我最近才意识到除了游戏画面，声音，游戏性和情感游戏正在变成拆分我所喜爱和热衷的现实世界的强大力量我知道我正在失去控制我心里有个声音一直在让我放手然而我知道，不管游戏游戏将来会变得多完美也不管现实生活是多么平淡我们必须注意这些游戏在试图教给我们什么东西当我们最后结束游戏的时候，游戏给我们留下了什么样的印记
+en:What I have only recently come to realizeis that beyond the graphics, sound, game play and emotionit is the power to break down reality that is so fascinatingand addictive to me.I know that I am losing my grip.Part of me is just waiting to let go.I know though, that no matter how amazing video games may become,or how flat the real world may seem to us,that we must stay aware of what our games are teaching usand how they leave us feeling when we finally do unplug.
+时间：18:30
+zh-cn:（掌声）
+en:(Applause)
+时间：18:31
+zh-cn:DP：哇
+en:DP: Wow.
+时间：18:32
+zh-cn:（掌声）
+en:(Applause)
+时间：18:39
+zh-cn:DP: 我发现这个视频非常有感染力于是我把它带来跟大家分享我做这个选择很明显因为我所谈的都是计算机图形和声音而你们刚刚所看到的，Michael说了其他的元素电子游戏还有很多其他的方面这就是为什么有的人会那么热衷于玩游戏最重要的一点就是趣味性
+en:I found that video very, very thought provoking,and that&#39;s why I wanted to bring it here for you guys to see.And what was interesting about it is the obvious choicefor me to talk about was graphics and audio.But as you heard, Michael talked about all these other elements as well.Video games give an awful lot of other things too,and that&#39;s why people get so addicted.The most important one being fun.
+时间：18:58
+zh-cn:我们这个主题叫做&quot;即将到来的奇幻旅程&quot;谁会是它的制作人呢？会是世界上最好的导演吗？就像我们想的那样我觉得不是我觉得会是现在正在成长的孩子们因为他们的脑子里没有被塞满我们以前被塞满的那些东西他们将会用他们的方法，用我们做的那些工具学生，善于创造的人作家等等也是如此
+en:The name of this track is &quot;The Magic To Come.&quot;Who is that going to come from?Is it going to come from the best directors in the worldas we thought it probably would?I don&#39;t think so.I think it&#39;s going to come from the children who are growing up nowthat aren&#39;t stuck with all of the stuff that we remember from the past.They&#39;re going to do it their way, using the tools that we&#39;ve created.The same with students or highly creative people,writers and people like that.
+时间：19:21
+zh-cn:到目前为止，全世界大概有350所大学教授游戏课程这就意味着有成千上万的新想法有的想法很烂有的却很棒被逼无奈去听有的人给你讲一个非常糟糕的游戏点子是最让人受不了的事
+en:As far as colleges go, there&#39;s about 350 colleges around the worldteaching video game courses.That means there&#39;s literally thousands of new ideas.Some of the ideas are really dreadful and some of them are great.There&#39;s nothing worse than having to listen to someonetry and pitch you a really bad video game idea.
+时间：19:36
+zh-cn:（笑声）
+en:(Laughter)
+时间：19:42
+zh-cn:Chris Anderson: 到时间了,你该下去了他时间用完了
+en:Chris Anderson: You&#39;re off, you&#39;re off. That&#39;s it.He&#39;s out of time.
+时间：19:47
+zh-cn:DP: 如果你允许的话,我还想再讲一点
+en:DP: I&#39;ve just got a little tiny bit more if you&#39;ll indulge me.
+时间：19:49
+zh-cn:CA: 讲吧,不过我就在这儿站着
+en:CA: Go ahead. I&#39;m going to stay right here though.
+时间：19:51
+zh-cn:(笑声)
+en:(Laughter)
+时间：19:52
+zh-cn:这是一个很酷的画面,因为学生在放学后回到学校学校已经关了,他们在半夜里回来因为他们想把他们的游戏点子描绘出来我当时就坐在教室最前面他们当时正在描绘他们的点子让学生放学后回到教室是很难的但是是可能做到的
+en:DP: This is just a cool shot, because this is students coming to school after class.The school is closed; they&#39;re coming back at midnightbecause they want to pitch their video game ideas.I&#39;m sitting at the front of the class,and they&#39;re actually pitching their ideas.So it&#39;s hard to get students to come back to class,but it is possible.
+时间：20:06
+zh-cn:这是我女儿,她叫Emma,她有17个月大了我一直在问自己,Emma以后将会有什么样的游戏体验呢?就像我在这里给大家看的,我们有观众她未来生活的世界中,只要轻轻按一个键便有成千上万的人蓄意待发(玩游戏)我们已经拥有了技术她未来生活的世界中,电子游戏的画面都将是完美和真实的就像那个学生做的视频里展现的,我们可以让游戏感动人因此她生活的世界中的电子游戏将会是充满感情的很可能会让她哭我就是希望她会喜欢玩游戏
+en:This is my daughter, her name&#39;s Emma, she&#39;s 17 months old.And I&#39;ve been asking myself, what is Emma going to experiencein the video game world?And as I&#39;ve shown here, we have the audience.She&#39;s never going to know a world where you can&#39;t press a buttonand have millions of people ready to play.You know, we have the technology.She&#39;s never going to know a world where the graphics just aren&#39;tstunning and really immersive.And as the student video showed, we can impact and move.She&#39;s never going to know a world where video gamesaren&#39;t incredibly emotional and will probably make her cry.I just hope she likes video games.
+时间：20:38
+zh-cn:(笑声)
+en:(Laughter)
+时间：20:39
+zh-cn:我的总结是游戏,表面上看起来是简单的娱乐但是只要你稍微往深处看一点这些新的游戏对于那些善于创新的眼光长远的人来说将会开拓出一个全新的领域有什么地方的人比TED上的你们更适合接受这个挑战呢?
+en:So, my closing thought.Games on the surface seem simple entertainment,but for those that like to look a little deeper,the new paradigm of video games could open entirely new frontiersto creative minds that like to think big.Where better to challenge those minds than here at TED?
+时间：20:52
+zh-cn:谢谢
+en:Thank you.
+时间：20:53
+zh-cn:Chris Anderson: David Perry. 太棒了
+en:Chris Anderson: David Perry. That was awesome.

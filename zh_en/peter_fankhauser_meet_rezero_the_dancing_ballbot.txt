@@ -1,0 +1,33 @@
+时间： 0:16
+zh-cn:请允许我介绍Rezero这个小家伙是瑞士苏黎世联邦理工学院自控系统实验室的10位本科生设计出来地
+en:Let me introduce to you Rezero.This little fellow was developedby a group of 10 undergraduate studentsat the Autonomous Systems Laboratoryat ETH-Zurich.
+时间： 0:27
+zh-cn:这个机器人属于机器人家族里球星机器人球星机器人靠一个球体而不是轮子来保持自身平衡和移动这样一个系统的主要特征就是它只有一个点接触地面这意味着它一直处在不稳定状态就象是我金鸡独立一样
+en:Our robot belongs to a family of robotscalled Ballbots.Instead of wheels, a Ballbot is balancingand moving on one single ball.The main characteristics of such a system isthat there&#39;s one sole contact point to the ground.This means that the robotis inherently unstable.It&#39;s like when I am trying to standon one foot.
+时间： 0:47
+zh-cn:你也许好奇，一个连站都站不稳的机器人有什么用呢？稍后我回解释首先先解释下它是如何保持平衡的Rezero通过一个传感器不停地检测倾斜度来维持自身平衡它将通过适量转动马达来抵消倾斜的角度防止倾倒这个过程每秒要进行160次稍有差错它就会立刻摔倒在地
+en:You might ask yourself, what&#39;s the usefulnessof a robot that&#39;s unstable?Now we&#39;ll explain that in a second.Let me first explain how Rezeroactually keeps his balance.Rezero keeps his balance by constantlymeasuring his pitch angle with a sensor.He then counteracts and avoids toppling overby turning the motors appropriately.This happens 160 times per second,and if anything fails in this process,Rezero would immediately fall to the ground.
+时间： 1:14
+zh-cn:要运动和平衡Rezero就得转动球这个球是由三个特殊的轮子驱动从而它能在各个方向上运动并同时能够自转由于其不稳定性，所以它必须一直处于动态妙就妙在这里正是这种不稳定性赋予了它动态性让我们看看如果我推它一下会有什么反应呢这个模式下 它会尝试回归原位
+en:Now to move and to balance,Rezero needs to turn the ball.The ball is driven by three special wheelsthat allow Rezero to move into any directionand also move around his own axisat the same time.Due to his instability, Rezero is alwaysin motion. Now here&#39;s the trick.It&#39;s indeed exactly this instability that allowsa robot to move very [dynamically].Let&#39;s play a little.You may have wondered what happensif I give the robot a little push.In this mode, he&#39;s trying to maintainhis position.
+时间： 1:52
+zh-cn:下一个演示 首先我想介绍我的同事操作电脑的迈克尔和台上的托马斯下一个模式里Rezero是被动的我们可以随意移动它我可以几乎不费力气地控制其位置和速度我也能让它旋转起来下一个模式Rezero跟着人走它现在与托马斯保持一段恒定距离这是通过它顶端的传感器来做到的类似的我们也能让它围着一个人转我们称之为轨道模式谢谢，托马斯（掌声）
+en:For the next demo, I&#39;d like you to introduceto my colleagues Michael, on the computer,and Thomas who&#39;s helping me onstage.In the next mode, Rezero is passive,and we can move him around.With almost no force I can controlhis position and his velocity.I can also make him spin.In the next mode, we can get Rezeroto follow a person.He&#39;s now keeping a constant distance to Thomas.This works with a laser sensorthat&#39;s mounted on top of Rezero.With the same method, we can alsoget him to circle a person.We call this the orbiting mode.All right, thank you, Thomas.(Applause)
+时间： 3:16
+zh-cn:那么这个技术的使用价值是什么？目前它还只是个试验但是我可以展示一下它的应用前景Rezero可以在展示会和公园里通过屏幕给人们指引或带着大家愉快地四处转转医院里这个设备可以成为便携医疗设备因为是球形机器人系统所以它占地小移动便捷当然 谁不想骑着它遛遛弯儿呢这些是最实用的几个功能但是这项技术本身就带着美而来
+en:Now, what&#39;s the use of this technology?For now, it&#39;s an experiment, but let meshow you some possible future applications.Rezero could be used in exhibitions or parks.With a screen it could inform people or showthem around in a fun and entertaining way.In a hospital, this device could be used tocarry around medical equipment.Due to the Ballbot system, it has a very smallfootprint and it&#39;s also easy to move around.And of course, who wouldn&#39;t liketo take a ride on one of these.And these are more practical applications.But there&#39;s also a certain beautywithin this technology.
+时间： 3:55
+zh-cn:（音乐）
+en:(Music)
+时间： 4:58
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 4:59
+zh-cn:谢谢
+en:Thank you.
+时间： 5:01
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 5:05
+zh-cn:谢谢
+en:Thank you.

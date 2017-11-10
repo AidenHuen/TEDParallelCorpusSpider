@@ -1,0 +1,78 @@
+时间： 0:11
+zh-cn:Sarge Salman：让我们欢迎来自加州洛斯阿图斯山丘的亨利.埃文斯先生
+en:Sarge Salman: All the way fromLos Altos Hills, California,Mr. Henry Evans.
+时间： 0:16
+zh-cn:（掌声）
+en:(Applause)
+时间： 0:31
+zh-cn:大家好，我的名字叫亨利.埃文斯。一直到2002年的8月29日，我都在过着我的美国梦生活。我在一个靠近圣路易斯的典型美国小镇长大。我的爸爸是一名律师，我的妈妈是一位家庭主妇，我的六个兄弟姐妹和我都是乖孩子，当然也惹了不少祸。高中毕业后，我离家去求学去更多地了解这个世界。我去了圣母大学，毕业时获得了会计和德语双学位，其间有一年在奥地利学习。之后，我获得了斯坦福的MBA学位，和从高中就开始在一起的女朋友 简 结了婚，生命中有她我很幸运。我们一起养育了四个很棒的孩子。为了在事业上有所成就，我努力工作和学习，最终成为了一名硅谷的首席财务官，我非常享受这份工作。2001年12月13日，我和我的家人买下了我们的第一所房子，也是我们唯一一所房子。这是一所待修房，它处在加州洛斯阿图斯山丘上一个很美的地方，我现在就是在这间房子里跟你们说话。
+en:Henry Evans: Hello.My name is Henry Evans,and until August 29, 2002,I was living my version of the American dream.I grew up in a typical American town near St. Louis.My dad was a lawyer.My mom was a homemaker.My six siblings and I were good kids,but caused our fair share of trouble.After high school, I left home to studyand learn more about the world.I went to Notre Dame Universityand graduated with degreesin accounting and German,including spending a year of study in Austria.Later on, I earned an MBA at Stanford.I married my high school sweetheart, Jane.I am lucky to have her.Together, we raised four wonderful children.I worked and studied hardto move up the career ladder,eventually becoming a chief financial officerin Silicon Valley, a job I really enjoyed.My family and I bought our first and only homeon December 13, 2001,a fixer-upper in a beautiful spotof Los Altos Hills, California,from where I am speaking to you now.
+时间： 1:53
+zh-cn:我们都很期待重新改造这间房子，但是我们搬进来8个月后，我遭遇了因先天性缺陷引发的类中风症状。一夜间，我就在我的不惑之年时成了一名四肢瘫痪的哑巴。几年后，在我家人的支持和帮助下，我才最终决定生命还是值得继续的。我开始着迷于使用那些帮助残疾人的科技产品。我购买了Madentec公司制造并在市场上出售的动作追踪设备，这设备能把我头部的细微运动转换成鼠标运动，从而让我使用一台普通的电脑。我可以上网，给别人发邮件，与我的朋友史蒂夫·卡曾斯玩网络文字游戏，并时不时地击败他。这项技术让我得以继续参与各项活动，保持大脑的活跃，并让我觉得自己也是世界的一部分。
+en:We were looking forward to rebuilding it,but eight months after we moved in,I suffered a stroke-like attackcaused by a birth defect.Overnight, I became a mute quadriplegicat the ripe old age of 40.It took me several years,but with the help of an incredibly supportive family,I finally decided life was still worth living.I became fascinated with using technologyto help the severely disabled.Head tracking devices sold commerciallyby the company Madentecconvert my tiny head movementsinto cursor movements,and enable my use of a regular computer.I can surf the web, exchange email with people,and routinely destroy my friend Steve Cousinsin online word games.This technology allows me to remain engaged,mentally active,and feel like I am a part of the world.
+时间： 2:58
+zh-cn:有一天，我躺在床上看CNN，我看到乔治亚理工大学医疗保健机器人实验室的查理·坎普教授正在示范个人机器人2号，我被震惊了。我立即给柳树车间的查理·卡曾斯和史蒂夫·卡曾斯发了邮件，我们开始了“为人类服务的机器人“计划。在两年里，这个计划开发了能让我用的个人机器人2号，它能替代我的身体部位的各项应用。10年来第一次我给自己剃了胡子。我还在自己加州的家里，给远在亚特兰大的查理剃胡子。（笑声）我在万圣节的时候给小朋友分发糖果，自己开冰箱，自己开始做各种家务。我发现了新的和以前完全不可想象的生活和贡献社会的方式，不仅仅对我个人而言，还有那些和我一样处境的人。
+en:One day, I was lying in bed watching CNN,when I was amazed by Professor Charlie Kempof the Healthcare Robotics Lab at Georgia Techdemonstrating a PR2 robot.I emailed Charlie andSteve Cousins of Willow Garage,and we formed the Robots for Humanity project.For about two years, Robots for Humanitydeveloped ways for me to use the PR2as my body surrogate.I shaved myself for the first time in 10 years.From my home in California,I shaved Charlie in Atlanta. (Laughter)I handed out Halloween candy.I opened my refrigerator on my own.I began doing tasks around the house.I saw new and previously unthinkable possibilitiesto live and contribute,both for myself and others in my circumstance.
+时间： 4:04
+zh-cn:我们每个人都有某种残疾。比如，如果我们想以每小时60英里的速度移动，我们都必须依赖一样工具，汽车。你的残疾并不影响你作为人的身份，同样我的残疾也不会。对了，看看我的宝贝座驾。（笑声）自出生以来，我们都没有飞行的能力。
+en:All of us have disabilities in one form or another.For example, if either of uswants to go 60 miles an hour,both of us will need an assistive device called a car.Your disability doesn&#39;t make youany less of a person,and neither does mine.By the way, check out my sweet ride. (Laughter)Since birth, we have both suffered from the inabilityto fly on our own.
+时间： 4:35
+zh-cn:去年，柳树车间的Kaijen Hsiao帮我联系上了查德·詹金斯。查德让我明白了购买和驾驶无人驾驶飞机是件很容易的事情。这个时候，我突然意识到我可以用无人驾驶飞机的飞行来扩大卧病在床的人的世界，从而让他们感觉到不可思议的运动和掌控能力。通过用我的脑袋控制鼠标，这些网络界面让我看到机器人传来的的画面，我可以点击网页浏览器上的按钮来发出控制指令。通过一定的练习，我开始能够熟练地用这个界面单独在自家周围转来转去。我可以看看我们的花园，我看到我们自己种的葡萄。我还检查了我们屋顶的太阳能电池板。（笑声）作为一名飞行员，我的一个挑战就是将无人驾驶飞机降落在我们的篮球框上。甚至，我还尝试用由Fighting Walrus改造的一款头戴式显示器Oculus Rift来获得驾驶无人驾驶飞机的最全面体验。查德的团队位于布朗大学，距我家3000英里，我经常一个星期好几次在他的实验室里驾驶无人驾驶飞机。如只有工作没有玩乐的话，那四肢瘫痪者的生活未免太无聊，所以我们总是找时间玩一些轻松的游戏，比如机器人足球。（笑声）我从来没有想过我能够自己在布朗大学校园里面随意行走。不过我就是希望自己可以负得起学费。（笑声）
+en:Last year, Kaijen Hsiao of Willow Garageconnected with me Chad Jenkins.Chad showed me how easy it isto purchase and fly aerial drones.It was then I realized that I could also usean aerial drone to expand the worldsof bedridden people through flight,giving a sense of movement and controlthat is incredible.Using a mouse cursor I control with my head,these web interfaces allow meto see video from the robotand send control commandsby pressing buttons in a web browser.With a little practice, I becamegood enough with this interfaceto drive around my home on my own.I could look around our gardenand see the grapes we are growing.I inspected the solar panels on our roof. (Laughter)One of my challenges as a pilot is to land the droneon our basketball hoop.I went even further by seeing if I could usea head-mounted display, the Oculus Rift,as modified by Fighting Walrus,to have an immersive experiencecontrolling the drone.With Chad&#39;s group at Brown,I regularly fly drones around his labseveral times a week,from my home 3,000 miles away.All work and no fun makes for a dull quadriplegic,so we also find time to play friendly gamesof robot soccer. (Laughter)I never thought I would be able to casuallymove around a campus like Brown on my own.I just wish I could afford the tuition. (Laughter)
+时间： 6:35
+zh-cn:查德·詹金斯：亨利，开玩笑之外，我相信在座的观众都很想看你从3000英里之外的家里的床上驾驶这架无人驾驶飞机。
+en:Chad Jenkins: Henry, all joking aside,I bet all of these people herewould love to see you fly this dronefrom your bed in California 3,000 miles away.
+时间： 6:45
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:56
+zh-cn:亨利，你最近来过华盛顿特区么？
+en:Okay, Henry, have you been to D.C. lately?
+时间： 7:00
+zh-cn:（笑声）
+en:(Laughter)
+时间： 7:03
+zh-cn:来到TED舞台兴奋么？
+en:Are you excited to be at TEDxMidAtlantic?
+时间： 7:07
+zh-cn:（笑声）（掌声）
+en:(Laughter) (Applause)
+时间： 7:14
+zh-cn:你能告诉我们你有多兴奋么？
+en:Can you show us how excited you are?
+时间： 7:17
+zh-cn:（笑声）
+en:(Laughter)
+时间： 7:22
+zh-cn:好的，来个完美收场，你能向我们证明一下你是一个好的飞行员吗？
+en:All right, big finish.Can you show us how good of a pilot you are?
+时间： 7:28
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:33
+zh-cn:好吧，可能还需要有所改进，但这让我们看到了希望。
+en:All right, we still have a little ways to go with that,but I think it shows the promise.
+时间： 7:38
+zh-cn:亨利的故事之所以了不起，是因为这是关于了解亨利的需求，了解和亨利一样处境的人对技术的需求以及了解先进的技术能给我们提供什么，然后将这两者结合起来，创造出聪明负责的应用。我们想要做的就是普及机器人，让每个人都参与进来。我们提供价格实惠的，现成的机器人平台，比如A.R.无人驾驶飞机，300美元，Suitable Technologies的远程视频机，17000美元。结合开源的机器人软件，你也可以参与到我们的努力中来。我们希望，通过提供这些工具，你可以想出更好的点子，如帮助残疾人行动，给老年人提供照顾，更好地教育我们的孩子，思考未来的中产阶级的工作种类，监测并保护我们的环境，以及探索宇宙。
+en:What makes Henry&#39;s story amazingis it&#39;s about understanding Henry&#39;s needs,understanding what people in Henry&#39;s situationneed from technology,and then also understandingwhat advanced technology can provide,and then bringing those two things togetherfor use in a wise and responsible way.What we&#39;re trying to do is democratize robotics,so that anybody can be a part of this.We&#39;re providing affordable,off-the-shelf robot platformssuch as the A.R. drone, 300 dollars,the Suitable Technologies beam,only 17,000 dollars,along with open-source robotics softwareso that you can be a part of what we&#39;re trying to do.And our hope is that, by providing these tools,that you&#39;ll be able to think of better waysto provide movement for the disabled,to provide care for our aging population,to help better educate our children,to think about what the new typesof middle class jobs could be for the future,to both monitor and protect our environment,and to explore the universe.
+时间： 8:37
+zh-cn:亨利，你来吧。
+en:Back to you, Henry.
+时间： 8:41
+zh-cn:亨利：谢谢查德。
+en:HE: Thank you, Chad.
+时间： 8:44
+zh-cn:通过这个无人驾驶飞机，我们看到了卧床病人能够再次探索外面的世界的能力。机器人最终给我们提供了一个公平的竞争环境，在这个环境里面，一个人只受制于它的大脑敏锐性和想象力，在这个环境里面，残疾人可以和其他任何人一样做同样的事情，也许做得更好。科技甚至会给很多现今被视为植物人的人们提供一个出口。一百年前，我就会被作为一个植物人对待。不对，我应该已经死了。
+en:With this drone setup, we show the potentialfor bedridden people to once again be ableto explore the outside world,and robotics will eventually providea level playing fieldwhere one is only limited by their mental acuityand imagination,where the disabled are able to performthe same activities as everyone else,and perhaps better,and technology will even allow us to providean outlet for many people who are presentlyconsidered vegetables.One hundred years ago,I would have been treated like a vegetable.Actually, that&#39;s not true.I would have died.
+时间： 9:26
+zh-cn:机器人如何被应用取决于我们每一个人，是被用于造福还是作恶，是仅仅取代人类，还是让人类变得更好，它让我们能做得更多，做得更快乐。
+en:It is up to us, all of us, to decide howrobotics will be used, for good or for evil,for simply replacing peopleor for making people better,for allowing us to do and enjoy more.
+时间： 9:39
+zh-cn:我们希望通过机器人把这个世界变得更加可以亲近，对我自己和世界各地像我一样的人，并释放每个人的大脑潜能。有你们的帮助，我们可以实现这个梦想。
+en:Our goal for robotics is tounlock everyone&#39;s mental powerby making the world more physically accessibleto people such as myself and others like mearound the globe.With the help of people like you,we can make this dream a reality.
+时间： 9:55
+zh-cn:谢谢！
+en:Thank you.
+时间： 9:58
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,75 @@
+时间： 0:12
+zh-cn:直到现在，我们和机器的沟通的方式都被限制在一种有意识和直接的形式上。无论是简单得像打开灯的开关那样，还是复杂得像编写一个机器人那样，我们必须给机器一段指令，或一系列的指令，才能让机器为我们做我们想做的事情。而人和人之间的交流就远远要复杂和有趣些，因为我们接受的远比外露的表现要多。我们观察脸部表情，肢体语言，我们可以通过对话感受到感觉和情感。这些其实都是我们做决定的过程中的一大部分。我们的视野是向人机互动科技介绍一个崭新的人类互动的新领域，这样的话，计算机就不仅仅按照你的指令工作，也能够根据你脸部表情和感情做出反应。如果要这样做的话还有什么能比得上去理解我们脑部所发出的电波，我们的控制和体验中心。
+en:Up until now, our communication with machineshas always been limitedto conscious and direct forms.Whether it&#39;s something simplelike turning on the lights with a switch,or even as complex as programming robotics,we have always had to give a command to a machine,or even a series of commands,in order for it to do something for us.Communication between people, on the other hand,is far more complex and a lot more interestingbecause we take into accountso much more than what is explicitly expressed.We observe facial expressions, body language,and we can intuit feelings and emotionsfrom our dialogue with one another.This actually forms a large partof our decision-making process.Our vision is to introducethis whole new realm of human interactioninto human-computer interactionso that computers can understandnot only what you direct it to do,but it can also respondto your facial expressionsand emotional experiences.And what better way to do thisthan by interpreting the signalsnaturally produced by our brain,our center for control and experience.
+时间： 1:21
+zh-cn:好，这听起来是一个十分好的主意，但是这项任务，就像Burno提过的，并不是那么简单，这主要有两个原因：第一，检测的算法。我们的大脑是由上亿个活跃的脑神经所组成，轴突的长度总共有170,000 千米。当这些脑神经互动时，所产生的化学反应放出的电脉冲是可以被测量的。我们大脑的主要功能是分布在大脑的外表面层。从心理的能力来说要去增加这个区域是可能的，大脑表面充满了褶皱。皮质折叠对于解析表面电脉冲来说是一个重大挑战。每一个单独的皮层其折叠的结构都是有区别的，就像我们的指纹一样。就算一个信号可能来自于大脑同一功能的部分，就在这个结构被折叠的时间里，它的实际位置是十分不同的，就算是双胞胎也一样。表层的信号没有什么持续性。
+en:Well, it sounds like a pretty good idea,but this task, as Bruno mentioned,isn&#39;t an easy one for two main reasons:First, the detection algorithms.Our brain is made up ofbillions of active neurons,around 170,000 kmof combined axon length.When these neurons interact,the chemical reaction emits an electrical impulse,which can be measured.The majority of our functional brainis distributed overthe outer surface layer of the brain,and to increase the area that&#39;s available for mental capacity,the brain surface is highly folded.Now this cortical foldingpresents a significant challengefor interpreting surface electrical impulses.Each individual&#39;s cortexis folded differently,very much like a fingerprint.So even though a signalmay come from the same functional part of the brain,by the time the structure has been folded,its physical locationis very different between individuals,even identical twins.There is no longer any consistencyin the surface signals.
+时间： 2:30
+zh-cn:我们的突破是创造一种计算方法可以展开皮层，这样我们可以在更靠近源头的地方来接受信号，从而就可以在更广泛的人群中使用。第二个挑战是观测脑部的实际装置。脑电图一般是一系列传感器的阵列，就和你们在照片上所看到的一样。技术人员使用导电胶或粘贴将电极放到头皮上这通常会有一个光磨损的过程来准备头皮。这十分耗时而且过程也不舒适。加上，这个系统要花费上百万美元。
+en:Our breakthrough was to create an algorithmthat unfolds the cortex,so that we can map the signalscloser to its source,and therefore making it capable of working across a mass population.The second challengeis the actual device for observing brainwaves.EEG measurements typically involvea hairnet with an array of sensors,like the one that you can see here in the photo.A technician will put the electrodesonto the scalpusing a conductive gel or pasteand usually after a procedure of preparing the scalpby light abrasion.Now this is quite time consumingand isn&#39;t the most comfortable process.And on top of that, these systemsactually cost in the tens of thousands of dollars.
+时间： 3:16
+zh-cn:我现在想邀请我们去年的一位演讲者Evan Grant，上台来。他很客气的同意了来帮助我们来展示我们的研究发展。
+en:So with that, I&#39;d like to invite onstageEvan Grant, who is one of last year&#39;s speakers,who&#39;s kindly agreedto help me to demonstratewhat we&#39;ve been able to develop.
+时间： 3:27
+zh-cn:（掌声）
+en:(Applause)
+时间： 3:33
+zh-cn:这个装置如你们所看见的是一个14个通道，高保真脑电采集系统。不需要任何的头皮处理过程，不用导流胶或导流膏。只需要几分钟来固定好和稳定信号。这也是无线的，所以这样就可以自由的移动。和上百万美元的传统脑电图系统比这个装置只用几百美元。现在说说检测的算法。所以脸部的表情 －－就像我先前提到的感情表达一样 －－都是意想不到的通过一些敏感性的调整使之个性化。但是由于时间原因，我向你们介绍一套认知系统，系统所做的是让你用你的意念来移动物体。
+en:So the device that you seeis a 14-channel, high-fidelityEEG acquisition system.It doesn&#39;t require any scalp preparation,no conductive gel or paste.It only takes a few minutes to put onand for the signals to settle.It&#39;s also wireless,so it gives you the freedom to move around.And compared to the tens of thousands of dollarsfor a traditional EEG system,this headset only costsa few hundred dollars.Now on to the detection algorithms.So facial expressions —as I mentioned before in emotional experiences —are actually designed to work out of the boxwith some sensitivity adjustmentsavailable for personalization.But with the limited time we have available,I&#39;d like to show you the cognitive suite,which is the ability for youto basically move virtual objects with your mind.
+时间： 4:28
+zh-cn:现在，Evan是第一次接触这个系统，所以我们要先为他创建新的个人信息。他显然不是Joanne －－所以我们选择“添加用户。”Evan。 搞定。我们先要做的是开始训练一个中和的信号。所谓中和，就是Evan不用做任何事情。他只是放松。这个过程会给他建立一个地基或是他大脑的普通模式，因为每一人的大脑都是不一样的。这大概需要8秒的时间。好，现在完成了，我们可以选择一个以移动为主的动作。所以Evan选中一个他可以在他大脑中现形的物体。
+en:Now, Evan is new to this system,so what we have to do firstis create a new profile for him.He&#39;s obviously not Joanne — so we&#39;ll &quot;add user.&quot;Evan. Okay.So the first thing we need to do with the cognitive suiteis to start with traininga neutral signal.With neutral, there&#39;s nothing in particularthat Evan needs to do.He just hangs out. He&#39;s relaxed.And the idea is to establish a baselineor normal state for his brain,because every brain is different.It takes eight seconds to do this,and now that that&#39;s done,we can choose a movement-based action.So Evan, choose somethingthat you can visualize clearly in your mind.
+时间： 5:08
+zh-cn:Evan：让我们来作“拉近。”
+en:Evan Grant: Let&#39;s do &quot;pull.&quot;
+时间： 5:10
+zh-cn:Tan：好，让我们选中“拉近。”现在的目标是Evan要去想象这个物体会向屏幕靠近。在他做的同时，屏幕上会显示一个进度条。第一次，什么都没有。因为系统不知到他所想的“拉近”是什么。但是持续这个想象程序8秒钟。所以，1，2，3，开始。好。一旦我们接受这个，方块就活起来了。现在我们看Evan能不能想象一下“拉近。”哦，干的好！（掌声）十分令人惊叹。
+en:Tan Le: Okay, so let&#39;s choose &quot;pull.&quot;So the idea here nowis that Evan needs toimagine the object coming forwardinto the screen,and there&#39;s a progress bar that will scroll across the screenwhile he&#39;s doing that.The first time, nothing will happen,because the system has no idea how he thinks about &quot;pull.&quot;But maintain that thoughtfor the entire duration of the eight seconds.So: one, two, three, go.Okay.So once we accept this,the cube is live.So let&#39;s see if Evancan actually try and imagine pulling.Ah, good job!(Applause)That&#39;s really amazing.
+时间： 6:03
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:07
+zh-cn:这样我们还有一点时间，所以我们让Evan做个难一点的任务。这个比较难因为这个是要想象一个不存在我们现实世界里的物体。这是“消失。”所以，你要做的 －－ 先做一个运动为主的动作，我们在现实中一直在做这个动作，所以我们可以看到这个动作。但是“消失”，从没有过。所以Even，你现在要做的是想象这个正方体会慢慢的消失掉，好吗。跟刚才一样。所以，1，2，3，开始。好，让我们试试。哦，天哪。他太棒了。我们在试一次。
+en:So we have a little bit of time available,so I&#39;m going to ask Evanto do a really difficult task.And this one is difficultbecause it&#39;s all about being able to visualize somethingthat doesn&#39;t exist in our physical world.This is &quot;disappear.&quot;So what you want to do — at least with movement-based actions,we do that all the time, so you can visualize it.But with &quot;disappear,&quot; there&#39;s really no analogies —so Evan, what you want to do hereis to imagine the cube slowly fading out, okay.Same sort of drill. So: one, two, three, go.Okay. Let&#39;s try that.Oh, my goodness. He&#39;s just too good.Let&#39;s try that again.
+时间： 7:00
+zh-cn:Even：分心了。
+en:EG: Losing concentration.
+时间： 7:02
+zh-cn:（笑）
+en:(Laughter)
+时间： 7:04
+zh-cn:Tan：但是我们可以看到这是可行的，就算你只花了一点点的时间在这个上面。就像我说的，去想象“消失”是一个很难的过程。了不起的事情是我们只给了系统一个他如何想象“消失”的例子。因为这里有一个机器解析的过程 －－
+en:TL: But we can see that it actually works,even though you can only hold itfor a little bit of time.As I said, it&#39;s a very difficult processto imagine this.And the great thing about it is thatwe&#39;ve only given the software one instanceof how he thinks about &quot;disappear.&quot;As there is a machine learning algorithm in this —
+时间： 7:25
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:29
+zh-cn:谢谢。做的好，做的好。
+en:Thank you.Good job. Good job.
+时间： 7:34
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:36
+zh-cn:谢谢你，Even，你是这项技术的完美代表。
+en:Thank you, Evan, you&#39;re a wonderful, wonderfulexample of the technology.
+时间： 7:42
+zh-cn:所以就像你之前看到的，这个系统是被建入这个软件中这样就算是Even，或者其他的用户，都能更熟悉这个系统，他们可以不停的加入更多的探测方式，而系统也会在不同的想法中区分不同的差别。而且，一旦你训练好了探测功能，这个功能会可以被分享到任何一种计算器平台，应用程序或装置中。
+en:So, as you can see, before,there is a leveling system built into this softwareso that as Evan, or any user,becomes more familiar with the system,they can continue to add more and more detections,so that the system begins to differentiatebetween different distinct thoughts.And once you&#39;ve trained up the detections,these thoughts can be assigned or mappedto any computing platform,application or device.
+时间： 8:08
+zh-cn:所以我想向你们展示一些例子，因为这个新界面有很多潜在的应用程序。比如说在游戏和虚拟世界中，你的脸部表情可以直观的被用来控制虚拟替身或人物。显然的，你能体验到神奇的魔法和用你的意念来控制世界。颜色，和灯光，声音和特效，也会根据你的感情模式做出相应的反应以此来提高你在现实中的体验。现在看看世界各地的开发者和研究家们所开发的应用程序，用机器人和简单机械，比如说 －－在这个例子里，通过想象提升来简单的驾驶一个玩具直升机。
+en:So I&#39;d like to show you a few examples,because there are many possible applicationsfor this new interface.In games and virtual worlds, for example,your facial expressionscan naturally and intuitively be usedto control an avatar or virtual character.Obviously, you can experience the fantasy of magicand control the world with your mind.And also, colors, lighting,sound and effectscan dynamically respond to your emotional stateto heighten the experience that you&#39;re having, in real time.And moving on to some applicationsdeveloped by developers and researchers around the world,with robots and simple machines, for example —in this case, flying a toy helicoptersimply by thinking &quot;lift&quot; with your mind.
+时间： 8:56
+zh-cn:这个科技也可以被应用到现实生活中 －－比如，智能家庭。你知道的，通过人机界面中的控制系统来打开窗帘或关闭窗帘。当然还有照明 －－开灯或者关灯。以及最后的，可以改变生活的应用程序就比如说控制电子轮椅。在这个例子里，脸部表情被用来控制移动命令。
+en:The technology can also be appliedto real world applications —in this example, a smart home.You know, from the user interface of the control systemto opening curtainsor closing curtains.And of course, also to the lighting —turning them onor off.And finally,to real life-changing applications,such as being able to control an electric wheelchair.In this example,facial expressions are mapped to the movement commands.
+时间： 9:38
+zh-cn:男子：现在眨右眼往右。现在眨左眼往左。现在微笑往前。
+en:Man: Now blink right to go right.Now blink left to turn back left.Now smile to go straight.
+时间：10:04
+zh-cn:Tan：我们十分感谢你 －－ 谢谢。
+en:TL: We really — Thank you.
+时间：10:06
+zh-cn:（掌声）
+en:(Applause)
+时间：10:11
+zh-cn:我们今天仅仅大致地揭开了这个系统潜力的一角。随着用户群体的投入，开发者以及世界各地的研究员的加盟，我们希望你们可以帮助我们来探寻这项技术将何去何从。十分谢谢你们。
+en:We are really only scratching the surface of what is possible today,and with the community&#39;s input,and also with the involvement of developersand researchers from around the world,we hope that you can help us to shapewhere the technology goes from here. Thank you so much.

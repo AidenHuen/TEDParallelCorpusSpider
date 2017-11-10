@@ -1,0 +1,102 @@
+时间： 0:12
+zh-cn:当我了解到一项称为Kinect的新技术——原来叫做Natal——我有了灵感，思考了一会儿，也许可以解决一个讲故事时会遇到的问题，即创造一个&quot;人&quot;一个看起来活生生的可以看到我，可以看到我的内心深处并且感觉很真实的人，我们之间还能有点感情。所以一年之前我在E3计算机展览上展示了这个东西。我们让克莱尔通过这项技术同这个小男孩进行互动交流并且在互联网上引起了激烈的讨论都说“嘿，这不可能吧。”所以我直到现在才对这项崭新高科技进行现场演示。
+en:When I saw a piece of technology called Kinect —it was called Natal — I was inspired,and I thought for a moment,maybe it&#39;s possibleto address that one problem of storytelling,to create a characterwhich seemed alive,which noticed me,that could look me in the eyesand feel real,and sculpt a story about our relationship.And so a year ago,I showed this offat a computer show called E3.And this was a piece of technologywith someone called Claire interacting with this boy.And there was a huge row onlineabout, &quot;Hey, this can&#39;t be real.&quot;And so I waited till nowto have an actual demoof the real tech.
+时间： 1:04
+zh-cn:现在，这项高科技产品融合了三项主要技术。首先是Kinect摄像头，将在11月推出上市，还有令人难以置信的人工智能隐藏在灰尘漫天的地下室里，微软把这些灰尘打扫，再加上我们在狮子头公司人工智能方面的初步尝试，把这些所有的东西合到一起就得到了一个简单的想法：在计算机里创造一个真实、生动的生命体。现在，我要诚实的告诉你这其中的大多数只是个戏法儿，但这戏法儿确实有效 。
+en:Now, this tech incorporatesthree big elements.The first is a Kinect camera,which will be out in November,some incredible AIthat was hidden in the dusty vaults,collecting dustin Microsoft,plus our quite crudeattempts at AIat a company called Lionhead,mixing all those things togetherjust to get to this one simple idea:to create a real, livingbeing in a computer.Now, I&#39;ll be honest with youand say that most of itis just a trick,but it&#39;s a trick that actually works.
+时间： 1:49
+zh-cn:现在，让我们一起过来看看演示吧。他是迪米特里。迪米特里，来回摆摆你的手。请注意，他现在是坐着的。没有用控制器，没有键盘，或者鼠标，或者操纵杆和手柄。他只是正在用他的手、身体和声音，就像人与人之间用手、身体和声音交流一样。
+en:So why don&#39;t we go over and havea look at the demo now.This is Dimitri.Dimitri, just waggle your arm around.Now, you notice he&#39;s sitting.There are no controllers,no keyboards,or mice,or joysticks, or joypads.He is just going to usehis hand, his body and his voice,just like humans interact with their hands, body and voice.
+时间： 2:17
+zh-cn:我们继续。你现在是第一次遇到米洛。我们得给他设计个难题，因为我们第一次创建米洛的时候，发现他就像个小顽童一样十分顽皮。他什么都知道，并且很友善地逗你开心。因此我们为他引入的问题是：米洛刚刚搬了家。他从伦敦来到在美国的新英格兰。他的父母太忙了没时间听他的困扰，这时候，他的魔法就要开始了。那么，他现在正在草坪上散步。你还可以和他交流。更酷的是，我们所做的事情会不断地改变米洛的思想。这就意味着每个人的米洛都是不同的。实际上在这里你是在塑造一个人。嗯，他正在探索花园。你得帮他找找看点击那些蜗牛就行。开始非常简单。顺便说一下，如果是男孩子，这就是蜗牛；如果是女孩子，它会变成蝴蝶，因为我们发现女孩子讨厌蜗牛。
+en:So let&#39;s move forward.You&#39;re going to meet Milo for the first time.We had to give him a problembecause when we first created Milo,we realized that he came across as a little bit of a brat,to be honest with you.He was quite a know-it-all,and he wanted to kind of make you laugh.So the problem we introduced to him was this:he&#39;s just moved house.He&#39;s moved from Londonto New England, over in America.His parents are too busyto listen to his problems,and that&#39;s when he starts almost conjuring you up.So here he iswalking through the grass.And you&#39;re able to interact with his world.The cool thing is, what we&#39;re doingis we&#39;re changing the mindof Milo constantly.That means no two people&#39;s Miloscan be the same.You&#39;re actually sculpting a human being here.So, he&#39;s discovering the garden.You&#39;re helping him discover the gardenby just pointing out these snails.Very simple at the start.By the way, if you are a boy, it&#39;s snails;if you&#39;re a girl, it&#39;s butterfliesbecause what we found was that girls hate snails.
+时间： 3:34
+zh-cn:（笑声）
+en:(Laughter)
+时间： 3:40
+zh-cn:记住，这是你第一次遇到米洛，实际上我们希望这能吸引你，并引发你的好奇心。另外，他的表情是由人工智能驱动的。我们完全可以控制他脸红的表情，鼻孔的大小来表现他承受的压力。实际上我们用的是肢体工作追踪技术。如果你身体前倾，他会试着稍微改变一下他的脸部表情，因为我们清楚知道我们所要做的是：怎样做才能让你们相信这些都是真实的呢？之前我们已经用手进行了控制现在还可以用身体。控制左右方向可以用鼠标或操纵杆，除此之外为什么不用身体呢？这样更轻松一点吧。如果向后靠摄像机就会改变视野让你看到这个角度能看到的东西。
+en:So remember, this is the first time you&#39;ve met him,and we really want to draw you in and make you more curious.His face, by the way,is fully AI-driven.We have complete control over his blush responses,the diameter of his nostrilsto denote stress.We actually do something called body matching.If you&#39;re leaning forward,he will try and slightly changethe neuro-linguistic nature of his face,because we went out with this strong idea:how can we make you believe that something&#39;s real?Now we&#39;ve used the hand.The other thing to use is your body.Why not just, instead of pushing left and rightwith a mouse or with a joypad,why not use your body just to lean on the chair —again, relaxed?You can lean back,but the camera will change its perspectivedepending on which way you&#39;re looking.
+时间： 4:37
+zh-cn:迪米特里现在是用他之前已经用了手和身体来控制。现在他要用另一种重要的方法进行控制了，也就是他的声音。声音这东西，语音识别系统带给我们的体验一直不怎么样。从来没好使过。订张机票，结果飞到提布图（非洲城市）去了。这个问题我们已经解决，马上就会看到我们的成果。
+en:So Dimitri&#39;s now going to use —he&#39;s used his hand; he&#39;s used his body.He&#39;s now going to use the other thing which is essential,and that&#39;s his voice.Now, the thing about voice is,our experience with voice recognitionis pretty awful, isn&#39;t it?It never works.You order an airline ticket; you end up in Timbuktu.So we&#39;ve tackled that problem,and we&#39;ve come up with a solution, which we&#39;ll see in a second.
+时间： 5:03
+zh-cn:米洛：我可以踩扁它。
+en:Milo: I could just squish it.
+时间： 5:05
+zh-cn:彼得·莫利纽克斯：你打算怎么做呢，迪米特里？
+en:Peter Molyneux: What are you going to do, Dimitri?
+时间： 5:07
+zh-cn:女性声音：踩扁蜗牛没什么大不了的，但请记住，每一次选择都会影响米洛的成长。你想让米洛踩扁它吗？当你看到麦克风时，就说出...（彼得：踩吧）...你的选择。
+en:Female Voice: Squashing a snail may not seem important,but remember, even this choicewill affect how Milo develops.Do you want Milo to squash it?When you see the microphone,say ... (PM: Squash.) ... yes to decide.
+时间： 5:20
+zh-cn:迪米特里：米洛，去踩扁它。
+en:Dimitri: Go on, Milo. Squash it.
+时间： 5:23
+zh-cn:彼得：不要吧，这样不好。现在我们看他的反应。迪米特里说“米洛，去踩扁它”，这里我们用的是，我们用了一种叫做Tellme的新科技。这是微软前几年收购的一家公司的技术。我们已经为能辨认的字符建立了数据库。把那些字挑出来。我们也参考了我们为迪米特里或者是其他用户的声音建立的语音数据库。现在我们需要多一点的交流。同样的，我们能做的就是用身体来交流。马上就要这么做了。
+en:PM: No. That&#39;s the wrong thing to do.Now look at his response.He said, &quot;Go on, Milo. Squash it.&quot;What we&#39;re using there is,we&#39;re using something, a piece of technology called Tellme.It&#39;s a company that Microsoft acquired some years ago.We&#39;ve got a database of words which we recognize.We pick those words out.We also reference thatwith the tonation databasethat we build up of Dimitri&#39;s voice,or the user&#39;s voice.Now we need to have a bit more engagement,and again, what we can dois we can look at the body.And we&#39;ll do that in a second.
+时间： 5:59
+zh-cn:米洛：我想知道它有多深。挺深的。
+en:Milo: I wonder how deep it is.Deep.
+时间： 6:12
+zh-cn:彼得：好，下面我们要做的就是教米洛打水漂儿。真的要教他打哦。特别，特别有意思比起女人，男人们在这儿更显得争强好胜。他们会好好的教米洛开始的几次，但之后就想打败他。而女人们则教导有方。嗯，这就是打水漂儿游戏。怎么打呢？先站起来，扔出石头。挺简单的。先要进行人体识别，这项技术先要识别人体的动作，知晓你已经从坐姿变为站姿。再来一回，扔石头的方式和我们平时做的一样这一点十分重要因为我们想让米洛显得更加真实。
+en:PM: Okay. So what we&#39;re going to do nowis teach Milo to skim stones.We&#39;re actually teaching him.It&#39;s very, very interestingthat men, more than women,tend to be more competitive here.They&#39;re fine with teaching Milo for the first few throws,but then they want to beat Milo,where women,they&#39;re more nurturing about this.Okay, this is skimming stones.How do you skim stones?You stand up,and you skim the stone.It&#39;s that simple.Just recognizing your body,recognizing the body&#39;s motions, the tech,understanding that you&#39;ve gonefrom sitting down to standing up.Again, all of this is donein the way us humans do things,and that&#39;s crucially importantif we want Milo to appear real.
+时间： 7:09
+zh-cn:女性声音：再试试，看能不能教米洛做的更好。试试看能不能打到船那
+en:Female Voice: See if you can inspire him to do any better.Try hitting the boat.
+时间： 7:21
+zh-cn:米洛：啊，就差一点点。
+en:Milo: Ahhh. So close.
+时间： 7:29
+zh-cn:彼得：迪米特里开始争强好胜了。好样的，他击败了这个11岁的男孩子。
+en:PM: That&#39;s Dimitri at his most competitive.Now beaten an 11-year-old child. Well done.
+时间： 7:35
+zh-cn:米洛：好吧。
+en:Milo: Okay.
+时间： 7:38
+zh-cn:彼得：现在米洛的父母要叫他回家吃饭了，留给我们的是独处的时间还可以帮帮他。其实——开始的时候我们忘说了——他父母已经让他整理自己的房间。我们现在去帮帮他。收拾房子可以当作自我介绍，这些我们都试着在用一些深层次的心理学技术。现在我就要向你们介绍我认为最神奇的部分，你可以用自己平日里说话的方式和米洛进行交谈。这之前我们需要准备一下，像魔法一样。并且之前我们给米洛准备了个大麻烦。
+en:PM: So, Milo&#39;s being called back in by his parents,giving us time to be aloneand to help him out.Basically — the bit that we missed at the start —his parents had asked him to clean up his room.And we&#39;re going to help him with this now.But this is going to be an introduction,and this is all about the deep psychology that we&#39;re trying to use.We&#39;re trying to introduce youto what I believe is the most wonderful part,you being able to talkin your natural voice to Milo.Now, to do that, we needed a set up,like a magician&#39;s trick.And what we did was,we needed to give Milo this big problem.
+时间： 8:15
+zh-cn:所以当迪米特里收拾东西的时候，你能隐约听见一些声音是米洛和他妈妈。
+en:So as Dimitristarts tidying up,you can overhear a conversationthat Milo&#39;s having with his parents.
+时间： 8:24
+zh-cn:米洛妈妈：噢～你把肉汁弄得地板上哪儿都是。（米洛：我不是故意的！）
+en:Milo&#39;s Mom: Oh, you&#39;ve got gravy all over the floor. (Milo: I didn&#39;t mean to!)
+时间： 8:26
+zh-cn:米洛妈妈：地毯是新的啊。
+en:Milo&#39;s Mom: That carpet is brand new.
+时间： 8:28
+zh-cn:彼得：他刚刚把一盘香肠倒在了地板上，在新买的地毯上。身为父母的我们都这样训斥过，而小时候我们也都犯过这样的错。现在迪米特里要趁机安慰米洛并让他冷静下来。这一切对他来说太沉重了。他刚搬了家，又没朋友，当我们打开房门就是时候让你和米洛聊聊了。
+en:PM: So he&#39;s just spilleda plate of sausages on the floor,on the brand-new carpet.We&#39;ve all done it as parents; we&#39;ve all done it as children.Now&#39;s a chance for Dimitrito kind of reassure and calm Milo down.It&#39;s all been too much for him.He&#39;s just moved house. He&#39;s got no friends.Now is the timewhen we open that portaland allow you to talk to Milo.
+时间： 8:53
+zh-cn:女性声音：说点什么鼓励米洛让他振作一点吧。
+en:Female Voice: Why don&#39;t you try saying something encouragingto cheer Milo up.
+时间： 8:58
+zh-cn:迪米特里：算啦，米洛。父母都是这样，你懂的。他们总是生气。
+en:Dimitri: Come on, Milo. You know what parents are like.They&#39;re always getting stressed.
+时间： 9:04
+zh-cn:米洛：他们搬来这里想要干什么？我们谁都不认识。
+en:Milo: What do they want to come here for anyway?We don&#39;t know anyone.
+时间： 9:11
+zh-cn:迪米特里：嗯，你可以去新学校啊。你会遇到一些很酷的新朋友。米洛：可我就是想原来的家。
+en:Dimitri: Well, you&#39;ve got a new school to go to.You&#39;re going to meet loads of cool, new friends.Milo: I just really miss my old house, that&#39;s all.
+时间： 9:24
+zh-cn:迪米特里：嗯，这个房子也不错啊，米洛。现在有一个很棒的花园，还有池塘。
+en:Dimitri: Well, this is a pretty awesome house, Milo.You&#39;ve got a cool garden to play in and a pond.
+时间： 9:33
+zh-cn:米洛：打水漂儿确实不错。房间干净了。你打扫了我的房间。谢谢。
+en:Milo: It was good skimming stones.This looks nice.You cleaned up my room.Thanks.
+时间： 9:50
+zh-cn:彼得：45分钟之后，米洛就认识你了。我保证，如果你一直坐在屏幕前面，那这真的是非常美妙的时刻。现在我们准备好要讲述米洛童年和生活的故事了，而且还会继续下去，你懂的，他有过很多冒险经历。有一些是去做一点点坏事。有一些则很鼓舞人心。比如他去上学。
+en:PM: So after three-quarters of an hour,he recognizes you.And I promise you, if you&#39;re sitting in front of this screen,that is a truly wonderful moment.And we&#39;re ready nowto tell a story about his childhood and his life,and it goes on,and he has, you know, many adventures.Some of those adventures are a little bit dark or on the darker side.Some of those adventures are wonderfully encouraging —he&#39;s got to go to school.
+时间：10:15
+zh-cn:最酷的是当你和他互动的时候，我们也会参与其中，你可以放一些东西进入他的世界，并且他能认得那些东西。他的想法还是朦胧的。这意味着，只要有许多人玩这个游戏，米洛就会越来越聪明。他会认识更多的东西，学到更多的文字。
+en:The cool thing isthat we&#39;re doing as well:as you interact with him,you&#39;re able to put things into his world; he recognizes objects.His mind is based in a cloud.That means Milo&#39;s mind,as millions of people use it,will get smarter and cleverer.He&#39;ll recognize more objectsand thus understand more words.
+时间：10:37
+zh-cn:但对于我来说，这是一个很好的机会让我们最终把科技和人类连在一起，我不再被手掌上的手指束缚——目前许多电脑游戏都是这样——看电影或者看书的时候也不会因为没人觉察而感到无聊。我爱这些改变，我爱米洛带来的未来。
+en:But for me,this is a wonderful opportunitywhere technology, at last, can be connected with,where I am no longer restrainedby the finger I hold in my hand —as far as a computer game&#39;s concerned —or by the blandness of not being noticedif you&#39;re watching a film or a book.And I love those revolutions,and I love the future that Milo brings.
+时间：11:00
+zh-cn:十分感谢。
+en:Thank you very much indeed.
+时间：11:02
+zh-cn:（掌声）
+en:(Applause)

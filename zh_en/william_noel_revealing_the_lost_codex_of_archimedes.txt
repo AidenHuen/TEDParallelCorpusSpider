@@ -1,0 +1,105 @@
+时间： 0:11
+zh-cn:能保留到今天的伟大古代文献都不是他们的原本。他们能流传至今，是因为中世纪的不间断的手抄作业。伟大的希腊数学家，阿基米德的作品也是如此。
+en:The great texts of the ancient worlddon&#39;t survive to us in their original form.They survive because medieval scribes copied themand copied them and copied them.And so it is with Archimedes,the great Greek mathematician.
+时间： 0:27
+zh-cn:我们对阿基米德作为数学家的全部了解来自于他的三本著作，它们被称作《A》、《B》和《C》。1564年《A》从一位意大利人文学者手中遗失。《B》最后一次出现则是1311年，罗马以北一百英里的维泰博教皇图书馆。典籍《C》的手抄本直到1906年才刚刚被发现，1999年1月19日，他被送到巴尔的摩的，我的办公桌上。这就是典籍《C》
+en:Everything we know about Archimedes as a mathematicianwe know about because of just three books,and they&#39;re called A, B and C.And A was lost by an Italian humanist in 1564.And B was last heard of in the Pope&#39;s Libraryabout a hundred miles north of Rome in Viterbo in 1311.Now Codex C was only discovered in 1906,and it landed on my desk in Baltimoreon the 19th of January, 1999.And this is Codex C here.
+时间： 1:01
+zh-cn:确切的说，典籍《C》藏在这本书下。就像是地下的宝藏。这其实是一本祈祷书。这本书由一位名叫Johannes Myrones的人在1229年4月14日写完的。他用羊皮纸来写这本祈祷书。但用的不是新羊皮纸，而是回收利用更古老的手稿，而且一共用了七本。阿基米德的《C》手抄本就是其中之一。他将阿基米德和其它七份手稿拆开。擦去了上面的所有文字，然后他从中间把纸剪成两半，摞成一叠，横过来，在那上面写下祈祷文。结果这七部手稿整整失踪了700年，期间变成了一本祈祷书。
+en:Now Codex C is actually buried in this book.It&#39;s buried treasure.Because this book is actually a prayer book.It was finished by a guy called Johannes Myroneson the 14th of April, 1229.And to make his prayer book he used parchment.But he didn&#39;t use new parchment,he used parchment recycled from earlier manuscripts,and there were seven of them.And Archimedes Codex C was just one of those seven.He took apart the Archimedes manuscript and the other seven manuscripts.He erased all of their texts,and then he cut the sheets down in the middle,he shuffled them up,and he rotated them 90 degrees,and he wrote prayers on top of these books.And essentially these seven manuscriptsdisappeared for 700 years, and we have a prayer book.
+时间： 1:54
+zh-cn:1906年Johan Ludvig Heiberg发现了这本祈祷书。他在一个放大镜的帮助下，翻录了他能辨别的所有文字。关键是，他在这些手稿中发现了两段全新的内容。它们不曾在《A》和《B》中出现过；而是未面世过的阿基米德著作：名为《方法》和《阿基米德方块》。这后来成为了一份举世闻名的手稿。
+en:The prayer book was discovered by this guy,Johan Ludvig Heiberg, in 1906.And with just a magnifying glass,he transcribed as much of the text as he could.And the thing is that he found two texts in this manuscriptthat were unique texts.They weren&#39;t in A and B at all;they were completely new texts by Archimedes,and they were called &quot;The Method&quot; and &quot;The Stomachion.&quot;And it became a world famous manuscript.
+时间： 2:18
+zh-cn:现在大家应该也注意到了这本书的保存状态相当糟糕。在二十世纪Heiberg发现它之后，还更加恶化了。在二十世纪Heiberg发现它之后，还更加恶化了。被伪造者涂改，被霉菌侵蚀。这本书就是标准的报废品。这样的书，你可能认为应该由一个专门机构处理。但这本书却没被送进机构，而是在1998年由一位私人买家买下。
+en:Now it should be clear by nowthat this book is in bad condition.It got in worse condition in the 20th centuryafter Heiberg saw it.Forgeries were painted over it,and it suffered very badly from mold.This book is the definition of a write-off.It&#39;s the sort of bookthat you thought would be in an institution.But it&#39;s not in an institution,it was bought by a private owner in 1998.
+时间： 2:47
+zh-cn:他为什么买这本书？因为他希望那脆弱的，被保存下来。他希望那稀少的，被传播开来。他希望那昂贵的，可以惠及世人。对他而言，这是原则问题。尽管用古希腊语读阿基米德著作的人可能不是很多，但他们应该得到这些机会。
+en:Why did he buy this book?Because he wanted to make that which was fragile safe.He wanted to make that which was unique ubiquitous.He wanted to make that which was expensive free.And he wanted to do this as a matter of principle.Because not many people are really going to read Archimedes in ancient Greek,but they should have the chance to do it.
+时间： 3:11
+zh-cn:所以他聚集了身边对阿基米德有兴趣的朋友，并保证承担所有费用。这是一项费用十分高昂的工作，但应该没有你们想象的那么昂贵这群人并不是为了钱参与这项工作的是阿基米德将他们聚在了一起。他们的背景各不相同。从事的学科涉及粒子物理、经典哲学、书籍保存、古代数学、数据管理、科学成像、项目管理。他们为了解读这份手稿聚在了一起。
+en:So he gathered around himself the friends of Archimedes,and he promised to pay for all the work.And it was an expensive job,but actually it wouldn&#39;t be as much as you thinkbecause these people, they didn&#39;t come from money,they came from Archimedes.And they came from all sorts of different backgrounds.They came from particle physics,they came from classical philology,they came from book conservation,they came from ancient mathematics,they came from data management,they came from scientific imaging and program management.And they got together to work on this manuscript.
+时间： 3:44
+zh-cn:我们面对的第一个问题是修复保存的问题。这是我们不得不面对的问题：书籍的背部有胶水。仔细看这张照片你就会发现，下半部分是棕色的。这一部分使用的是骨胶。对于书籍修复员来说，这种胶水是比较容易去除的。上半部分使用的胶水则类似Elmer的木胶。是聚醋酸乙烯酯乳液干了之后不溶于水。而且比羊皮纸要强韧很多。所以在尝试扫描阿基米德的著作之前，我们必须先把这本书拆开。我们用了四年时间才将它拆开。女士们，先生们，这是难得一见的“精彩瞬间”照。
+en:The first problem was a conservation problem.And this is the sort of thing that we had to deal with:There was glue on the spine of the book.And if you look at this photograph carefully,the bottom half of this is rather brown.And that glue is hide glue.Now if you&#39;re a conservator,you can take off this glue reasonably easily.The top half is Elmer&#39;s wood glue.It&#39;s polyvinyl acetate emulsionthat doesn&#39;t dissolve in water once it&#39;s dry.And it&#39;s much tougher than the parchment that it was written on.And so before we could start imaging Archimedes,we had to take this book apart.So it took four years to take apart.And this is a rare action shot, ladies and gentlemen.
+时间： 4:24
+zh-cn:（笑声）
+en:(Laughter)
+时间： 4:26
+zh-cn:另外，我们还需要去除书上的蜡，古人在希腊正教教堂礼拜时使用这本书所以上面有蜡烛上的蜡。这种蜡很脏，我们无法透过它扫描文本。所以我们非常小心的机械的去除了书页上所有的蜡。
+en:Another thing is that we had to get rid of all the wax,because this was used in the liturgical servicesof the Greek Orthodox Churchand they&#39;d used candle wax.And the candle wax was dirty,and we couldn&#39;t image through the wax.So very carefully we had to mechanically scrape off all the wax.
+时间： 4:42
+zh-cn:这本书的状况到底有多糟糕不容易说清楚不过有很多书页都变成了很小的碎片。一般来说我们不在意这些小小的碎片，但是这本书的碎片上可能有阿基米德从未面世过的手稿。所以我们将小碎片都恢复到了原来的位置。
+en:It&#39;s hard to tell you exactlyhow bad this condition of this book is,but it came out in little bits very often.And normally in a book, you wouldn&#39;t worry about the little bits,but these little bits might contain unique Archimedes text.So, tiny fragmentswe actually managed to put back in the right place.
+时间： 5:02
+zh-cn:这些工作完成之后，我们开始扫描手稿。我们用十四种不同波长的光扫描这些手稿。因为用不同波长的光扫描你看到的结果是不同的。这是其中一页，用十四种波长的光扫描后，得到的图像。这是其中一页，用十四种波长的光扫描后，得到的图像。
+en:Then, having done that, we started to image the manuscript.And we imaged the manuscriptin 14 different wavebands of light.Because if you look at something in different wavebands of light,you see different things.And here is an image of a pageimaged in 14 different wavebands of light.
+时间： 5:19
+zh-cn:但是没有一种足够理想。所以我们就把这些图像放到一起处理，在空白屏幕上放上两张扫描图像。这就是两张不同的阿基米德手稿扫描图像。左侧的图片是普通的红色图像。右边的则是紫外线扫描的图像。在右边的图像上你可能可以看到一些阿基米德的文本。如果你把他们融合到成一张数字图片，羊皮纸本身是亮色的，合成以后依然是亮的。两种成像中祈祷文都是暗淡的重叠之后也是暗淡的。阿基米德的文本在一种扫描件上是明亮的，在另外一种上则是暗淡的重叠之后还是深的，但显出红色，较为清晰，可以阅读。效果就是这样。
+en:But none of them worked.So what we did was we processed the images together,and we put two images into one blank screen.And here are two different images of the Archimedes manuscript.And the image on the leftis the normal red image.And the image on the right is an ultraviolet image.And in the image on the rightyou might be able to see some of the Archimedes writing.If you merge them together into one digital canvas,the parchment is bright in both imagesand it comes out bright.The prayer book is dark in both imagesand it comes out dark.The Archimedes text is dark in one image and bright in another.And it&#39;ll come out dark but red,and then you can start to read it rather clearly.And that&#39;s what it looks like.
+时间： 6:03
+zh-cn:这是前后的对比图，不过你不会这样直接阅读屏幕。你会放大、放大、放大、再放大现在就可以阅读了。
+en:Now that&#39;s a before and after image,but you don&#39;t read the image on the screen like that.You zoom in and you zoom inand you zoom in and you zoom in,and you can just read it now.
+时间： 6:18
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:24
+zh-cn:如果对两种扫描图像做不同的处理可以去除祈祷书的文字。这非常重要因为书上的图表是公元前四世纪阿基米德在沙子上画出的图表的唯一存世记录。也就是我给你们展示的这些了。
+en:If you process the same two images in a different way,you can actually get rid of the prayer book text.And this is terribly important,because the diagrams in the manuscriptare the unique source for the diagramsthat Archimedes drew in the sand in the fourth century B.C.And there we are, I can give them to you.
+时间： 6:43
+zh-cn:用类似的成像扫描技术——红外线、紫外线、不可见光成像——我们完全无法穿透这些金色的伪造图案。那我们怎么办呢？我们决定用X射线荧光成像技术扫描这些手稿。请看左边的图示，X射线会将电子从原子内壳层撞出。这个电子就消失了。这个电子消失后，外面电子层的电子就会跳入，顶替被撞出的电子。它进入消失电子的位置时会放射电磁辐射。放射X射线。该X射线的波长与其撞击的原子有一一对应的关系。
+en:With this kind of imaging —this kind of infrared, ultraviolet, invisible light imaging —we were never going to image through the gold ground forgeries.How were we going to do that?Well we took the manuscript,and we decided to image it in X-ray fluorescence imaging.So an X-ray comes in in the diagram on the leftand it knocks out an electron from the inner shell of an atom.And that electron disappears.And as it disappears, an electron from a shell farther outjumps in and takes its place.And when it takes its place,it sheds electromagnetic radiation.It sheds an X-ray.And this X-ray is specific in its wavelengthto the atom that it hits.
+时间： 7:24
+zh-cn:我们希望找到的是铁原子。因为墨水中含有铁。如果我们找到X射线的出处，就能找到书页上所有的铁，理论上说，我们就看得出图片了。
+en:And what we wanted to getwas the iron.Because the ink was written in iron.And if we can mapwhere this X-ray that comes out, where it comes from,we can map all the iron on the page,then theoretically we can read the image.
+时间： 7:38
+zh-cn:这样做需要非常强大的光源。所以我们将这本书带到了位于加州的斯坦福同步加速器辐射实验室，使用那里的粒子加速器。电子和正电子的旋转方向相反。他们在中间相遇，生成亚原子粒子如魅夸克和轻子。我们并没有将阿基米德的手稿置于这种光线下。但是当电子以光速运转的时候，会产生X射线。这是太阳系最强大的光源。叫做同步加速器辐射，常被用来观测蛋白质等物质。我们用它来观测原子，铁原子这样我们就能阅读之前，之后的文字。你瞧，我们确实可以做到。阅读一页书页需要十七分钟。
+en:The thing is that you need a very powerful light source to do this.So we took it to the Stanford Synchrotron Radiation Laboratoryin California,which is a particle accelerator.Electrons go around one way,positrons go around the other.They meet in the middle,and they create subatomic particleslike the charm quark and the tau lepton.Now we weren&#39;t actually going to put Archimedes in that beam.But as the electrons go round at the speed of light,they shed X-rays.And this is the most powerful light source in the solar system.This is called synchrotron radiation,and it&#39;s normally used to look at thingslike proteins and that sort of thing.But we wanted it to look at atoms, at iron atoms,so that we could read the page from before and after.And lo and behold, we found that we could do it.It took about 17 minutes to do a single page.
+时间： 8:27
+zh-cn:我们发现了什么呢？两部独一无二的阿基米德手稿之一是《阿基米德方块》。这是手稿《A》和《B》中都没有收录的内容。这一理论有关这个方块。这是一个被分成十四个部分的正方形。然后没有人知道阿基米德要用这十四个部分干什么。现在我们认为我们知道了。他在研究要把这十四个部分还原成正方形有多少种方法。想猜猜答案吗？一共有1,7152种，可以分成536个门类。最重要的是这是数学史上最早的组合学研究。组合学是一门奇妙有趣的数学分支。
+en:So what did we discover?Well one of the unique texts in Archimedesis called &quot;The Stomachion.&quot;And this didn&#39;t exist in Codices A and B.And we knew that it involved this square.And this is a perfect square,and it&#39;s divided into 14 bits.But no one knew what Archimedes was doing with these 14 bits.And now we think we know.He was trying to work outhow many ways you can recombine those 14 bitsand still make a perfect square.Anyone want to guess the answer?It&#39;s 17,152 divided into 536 families.And the important point about thisis that it&#39;s the earliest study in combinatorics in mathematics.And combinatorics is a wonderful and interesting branch of mathematics.
+时间： 9:12
+zh-cn:这份手稿真正令人惊奇的是祈祷书的书页上抄写员誊抄的其它内容其中之一是希佩里德斯的文本。希佩里德斯是一位公元前四世纪的雅典演讲家。他和德摩斯梯尼（古希腊雄辩家）同处一个时代。公元前338年，他和德摩斯梯尼决定一起反抗马其顿的腓力的军事统治。所以雅典人和底比斯人开始与马其顿的腓力战斗。这是一个非常糟糕的主意，因为马其顿的腓力的儿子叫做亚历山大大帝，因此雅典人和底比斯人输掉了凯尔罗尼亚（Chaeronea）战役。
+en:The really astonishing thing though about this manuscriptis that we looked at the other manuscriptsthat the palimpsester had made,the scribe had made his book out of,and one of them was a manuscript containing text by Hyperides.Now Hyperides was an Athenian orator from the fourth century B.C.He was an exact contemporary of Demosthenes.And in 338 B.C. he and Demosthenes togetherdecided that they wanted to stand upto the military might of Philip of Macedon.So Athens and Thebes went out to fight Philip of Macedon.This was a bad idea,because Philip of Macedon had a son called Alexander the Great,and they lost the battle of Chaeronea.
+时间： 9:50
+zh-cn:亚历山大大帝后来征服了已知世界；希佩里德斯因叛国罪而受审。这本手稿中的文本是他接受审判的时候发表的演讲——是一次伟大的演讲：“最好的结果，”他说，“是取胜。但如果不能胜利就应该为高贵的事业而战，因为你会因此留名青史。想想斯巴达人。他们赢得了很多的战役，但没有人记得他们因为它们为自私的目的而战。斯巴达人参与的战斗只有一场被人们记住就是塞莫皮莱战役他们几乎无人生还，但是为希腊的自由而战。”这次杰出的演讲让希佩里德斯被雅典法庭无罪释放了他。他平安生活十年之后马西顿的派系之争最终害死了他。他们把他的舌头割掉嘲笑他的能言善辩，他的尸体则下落不明。因此古人在用他们一度失落的声音与我们对话，不是从坟墓里希佩里德斯没有坟墓，而是从雅典的法庭里。
+en:Alexander the Great went on to conquer the known world;Hyperides found himself on trial for treason.And this is the speech that he gave when he was on trial —and it&#39;s a great speech:&quot;Best of all,&quot; he says, &quot;is to win.But if you can&#39;t win,then you should fight for a noble cause,because then you&#39;ll be remembered.Consider the Spartans.They won enumerable victories,but no one remembers what they arebecause they were all fought for selfish ends.The one battle that the Spartans fought that everybody remembersis the the battle of Thermopylaewhere they were butchered to a man,but fought for the freedom of Greece.&quot;It was such a great speechthat the Athenian law courts let him off.He lived for another 10 years,then the Macedonian faction caught up with him.They cut out his tongue in mockery of his oratory,and no one knows what they did with his body.So this is the discovery of a lost voice from antiquity,speaking to us, not from the grave,because his grave doesn&#39;t exist,but from the Athenian law courts.
+时间：10:50
+zh-cn:现在我必须申明一般我们阅读被擦除的中世纪手稿的时候，一般我们阅读被擦除的中世纪手稿的时候，是找不到独一无二的文本的。在一部手稿中发现两篇独一无二的文本已经相当了不起了。找到三篇简直是太稀奇了。而我们就找到了三份。
+en:Now I should say at this pointthat normally when you&#39;re lookingat medieval manuscripts that have been scraped off,you don&#39;t find unique texts.And to find two in one manuscript is really something.To find three is completely weird.And we found three.
+时间：11:06
+zh-cn:亚里士多德的《范畴》是西方哲学的最为根本的文本之一。我们发现了一篇公元后三世纪的《范畴》评论，作者可能是加仑或者是波尔菲利。
+en:Aristotle&#39;s &quot;Categories&quot;is one of the foundational texts of Western philosophy.And we found a third century A.D. commentary on it,possibly by Galen and probably by Porphyry.
+时间：11:17
+zh-cn:我们收集的所有数据、所有图像、所有的原始图像、所有转录的文本等等都以一个知识共享执照在互联网上发布任何人都可以将这些资料用作任何商业用途。
+en:Now all this data that we collected,all the images, all the raw images,all the transcriptions that we made and that sort of thinghave been put online under a Creative Commons licensefor anyone to use for any commercial purpose.
+时间：11:31
+zh-cn:（掌声）
+en:(Applause)
+时间：11:37
+zh-cn:这份手稿的主人为什么这样做呢？因为他了解数据和书籍的本质。关于书籍如果要长期流传就要锁在柜子里限制阅读的人数。而数据如果要长久流传就要对外公布开来，而且限制越少越好。就要对外公布开来，而且限制越少越好。他就是这么做的。
+en:Why did the owner of the manuscript do this?He did this because he understands data as well as books.Now the thing to do with books,if you want to ensure their long-term utility,is to hide them away in closetsand let very few people look at them.The thing to do with data, if you want it to survive,is to let it out and have everybody have itwith as little control on that data as possible.And that&#39;s what he did.
+时间：12:02
+zh-cn:相关机构可以学习这种做法。因为相关机构现在的做法是用版权等手段重重限制他们的数据。现在如果你想要在网上阅读中世纪的手稿，你必须去某某国家图书馆或者某某大学图书馆，这可能是处理数码数据最为无聊的方式。更好的办法是将这些数据都统筹到一起
+en:And institutions can learn from this.Because institutions at the momentconfine their data with copyright restrictions and that sort of thing.And if you want to look at medieval manuscripts on the Web,at the moment you have to go to the National Library of Y&#39;s siteor the University Library of X&#39;s site,which is about the most boring wayin which you can deal with digital data.What you want to do is to aggregate it all together.
+时间：12:26
+zh-cn:因为在未来，古代手稿的网络，不是由这些机构创造的因为在未来，古代手稿的网络，不是由这些机构创造的只有用户才能创造网络，包括搜集数据的人、整理不同的时代的地图的人，不管它们从哪里而来整理不同的时代的地图的人，不管它们从哪里而来以及各种中世纪的浪漫故事，不管它们从哪里而来以及各种中世纪的浪漫故事，不管它们从哪里而来以及那些只想建立个人华丽收藏的人们。以及那些只想建立个人华丽收藏的人们。他们才是手稿网络的未来。这样的未来若能成真一定美丽迷人。
+en:Because the Web of the ancient manuscripts of the futureisn&#39;t going to be built by institutions.It&#39;s going to be built by users,by people who get this data together,by people who want to aggregate all sorts of mapsfrom wherever they come from,all sorts of medieval romancesfrom wherever they come from,people who just want to curate their own glorious selectionof beautiful things.And that is the future of the Web.And it&#39;s an attractive and beautiful future,if only we can make it happen.
+时间：12:56
+zh-cn:现在我们沃尔特斯艺术博物馆已经接受了这种做法将我们所有的手稿在网络上公布供大众自由享用——所有的原始数据、所有的描述、所有的元数据都用一个知识共享执照对外公布。沃尔特斯艺术博物馆是一个小博物馆收藏了一些优美的手稿，但这些数据非常棒。因此如果你用谷歌图片搜索如输入“明亮可兰经手稿”出现的28张图片中有24张都来自我们的博物馆。
+en:Now we at the Walters Art Museum have followed this example,and we have put up all our manuscripts on the Webfor people to enjoy —all the raw data, all the descriptions, all the metadata.under a Creative Commons license.Now the Walters Art Museum is a small museumand it has beautiful manuscripts,but the data is fantastic.And the result of thisis that if you do a Google search on images right nowand you type in &quot;Illuminated manuscript Koran&quot; for example,24 of the 28 images you&#39;ll find come from my institution.
+时间：13:28
+zh-cn:（掌声）
+en:(Applause)
+时间：13:33
+zh-cn:现在，让我们用一分钟思考。对于一家机构来说这样做有什么好处？对于机构来说有很多好处。你可以从人类文明之类的角度出发看这个问题，不过我们说说自私的好处。对于机构来说，这样做真正的好处是：为什么人们去罗浮宫？他们是为了看蒙娜丽莎。他们为什么去看蒙娜丽莎？因为他们知道蒙娜丽莎是什么样子的。人们在不同的地方看过无数蒙娜丽莎的照片因此知道她长什么样。
+en:Now, let&#39;s think about this for a minute.What&#39;s in it for the institution?There are all sorts of things that are in it for the institution.You can talk about the Humanities and that sort of thing,but let&#39;s talk about selfish things.Because what&#39;s really in it for the institution is this:Now why do people go to the Louvre?They go to see the Mona Lisa.Why do they go to see the Mona Lisa?Because they already know what she looks like.And they know what she looks likebecause they&#39;ve seen pictures of her absolutely everywhere.
+时间：14:09
+zh-cn:其实根本没有必要设立种种限制。我认为相关机构应该有所作为用自由执照发布他们所有的数据这样做将会造福大众。我们应该让每个人都有机会接触到这些数据在古代知识、美好事物的海洋中建立自己的收藏让网络更美丽更具文化意义。
+en:Now, there is no needfor these restrictions at all.And I think that institutions should stand upand release all their data under unrestricted licenses,and it would be a great benefit to everybody.Why don&#39;t we just let everybody have access to this dataand curate their own collectionof ancient knowledge and wonderful and beautiful thingsand increase the beauty and the cultural significanceof the Internet.
+时间：14:35
+zh-cn:非常感谢。
+en:Thank you very much indeed.
+时间：14:37
+zh-cn:（掌声）
+en:(Applause)

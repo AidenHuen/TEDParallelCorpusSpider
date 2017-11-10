@@ -1,0 +1,69 @@
+时间： 0:11
+zh-cn:作为一个建筑师，我经常扣心自问，我们设计出来的造型的来源是什么？如果不去参考别人的作品那么我们会设计出怎样的造型呢？如果我们没有偏好，没有先入之见，我们又会设计出怎样的造型呢？如果我们将自己从积累的经验中解锢出来呢？如果我们能挣脱教育的束缚呢？这些前所未有的造型会是什么样子的？会让我们眼前一亮吗？会激起我们的兴趣吗？会让我们感到愉悦吗？如果是这样的话，我们要怎样去创造真正新颖的东西呢？
+en:As an architect, I often ask myself,what is the origin of the forms that we design?What kind of forms could we designif we wouldn&#39;t work with references anymore?If we had no bias, if we had no preconceptions,what kind of forms could we designif we could free ourselves fromour experience?If we could free ourselves from our education?What would these unseen forms look like?Would they surprise us? Would they intrigue us?Would they delight us?If so, then how can we go about creating something that is truly new?
+时间： 0:49
+zh-cn:我建议在大自然中找答案大自然一向被称为是伟大的造型建筑师我意思不是去仿造大自然也不是去模仿生物而是借鉴大自然的方法我们能取其精华然后创造出新的东西大自然的主要造物方法，所谓的形态建成就是一个细胞分裂成两个这些细胞或者形态相同或者通过不对称细胞分裂而彼此形态各异
+en:I propose we look to nature.Nature has been called the greatest architect of forms.And I&#39;m not saying that we should copy nature,I&#39;m not saying we should mimic biology,instead I propose that we can borrow nature&#39;s processes.We can abstract them and to create something that is new.Nature&#39;s main process of creation, morphogenesis,is the splitting of one cell into two cells.And these cells can either be identical,or they can be distinct from each otherthrough asymmetric cell division.
+时间： 1:24
+zh-cn:如果我们提取这个过程，并将它尽可能地简化那么我们可以从一张纸开始入手在一个面上我们对折使它形成两个面我们可以随意选择在哪对折这样做后，我们就能制作不同的面通过这一简单的过程，我们就能创造出无数种变化的造型
+en:If we abstract this process, and simplify it as much as possible,then we could start with a single sheet of paper,one surface, and we could make a foldand divide the surface into two surfaces.We&#39;re free to choose where we make the fold.And by doing so, we can differentiate the surfaces.Through this very simple process,we can create an astounding variety of forms.
+时间： 1:48
+zh-cn:现在，我们用这种形式，用相同的过程来生成一个三维的结构但不再是手工折叠我们就在电脑里操作然后用运算法则写下代码这样做的话，我们就能瞬间对折任何东西了我们能将速度提升到一百万倍我们能折出成千上万种变化
+en:Now, we can take this form and use the same processto generate three-dimensional structures,but rather than folding things by hand,we&#39;ll bring the structure into the computer,and code it as an algorithm.And in doing so, we can suddenly fold anything.We can fold a million times faster,we can fold in hundreds and hundreds of variations.
+时间： 2:09
+zh-cn:正因为我们试图做出一些三维的东西出来我们没有从单一的平面入手，而是转向立方体一个简单的立方体—正方形如果我们将它的各平面对折并且不断地对折反复进行16次，16个步骤后，我们得到了400，000个面，和一个这样的形状比如说，像这样。如果我们改变一下对折的地方如果我们改变下对折的比率那么这个立方体就会变成这样我们还能通过调节对折比率做出这种造型，或这种
+en:And as we&#39;re seeking to make something three-dimensional,we start not with a single surface, but with a volume.A simple volume, the cube.If we take its surfaces and fold themagain and again and again and again,then after 16 iterations, 16 steps,we end up with 400,000 surfaces and a shape that looks,for instance, like this.And if we change where we make the folds,if we change the folding ratio,then this cube turns into this one.We can change the folding ratio again to produce this shape,or this shape.
+时间： 2:43
+zh-cn:所以我们能通过指定对折的位置从而对造型进行控制但事实上你们看到的只是一个经过折叠的立方体我们也能这样做我们可以对不同的部位采用不同的对折比率从而调节出不同部位的特色我们就能开始进行造型了
+en:So we exert control over the formby specifying the position of where we&#39;re making the fold,but essentially you&#39;re looking at a folded cube.And we can play with this.We can apply different folding ratios to different partsof the form to create local conditions.We can begin to sculpt the form.
+时间： 3:01
+zh-cn:由于这些对折是在电脑上进行的所以我们完全不收任何物理禁锢这也意味着这些面能相互交叉也能变得极其的微小我们能摆脱常规进行折叠表面可以变得多孔可以延伸，也可以撕扯所有的这一切都证明了我们造型的范围
+en:And because we&#39;re doing the folding on the computer,we are completely free of any physical constraints.So that means that surfaces can intersect themselves,they can become impossibly small.We can make folds that we otherwise could not make.Surfaces can become porous.They can stretch. They can tear.And all of this expounds the scope of forms that we can produce.
+时间： 3:25
+zh-cn:但在每个实例中，我并没对造型进行设计。我只是设计了创造造型的过程总之，哪怕我们对对折比例做出小小的调整正如你目前所见到的这个造型也会相应做出改变
+en:But in each case, I didn&#39;t design the form.I designed the process that generated the form.In general, if we make a small change to the folding ratio,which is what you&#39;re seeing here,then the form changes correspondingly.
+时间： 3:42
+zh-cn:但故事到这里只不过才进行了一半99.9%的对折比例产生的不是这种形态，而是这种形态，在几何学上等同于噪音那些我刚展示的造型其实是经过了长时间的试验和挫折进行造型时，我发现了一种效率极高的方式就是利用已经包含在造型里的信息在一个简单的造型里，比方这个它就包含了很多我们肉眼看不到的信息所以，我们可以标绘出边缘的长度白色表面的边缘较长，黑色的则较短我们能标绘出这些面的平面度和曲率它们有多放射状—所有的这些信息不一定立马就能被你看到但我们能发现它，我们能将之描述出来我们能运用这些信息来控制如何折叠
+en:But that&#39;s only half of the story —99.9 percent of the folding ratios produce not this,but this, the geometric equivalent of noise.The forms that I showed before were made actuallythrough very long trial and error.A far more effective way to create forms, I have found,is to use information that is already contained in forms.A very simple form such as this one actually containsa lot of information that may not be visible to the human eye.So, for instance, we can plot the length of the edges.White surfaces have long edges, black ones have short ones.We can plot the planarity of the surfaces, their curvature,how radial they are — all information that may not beinstantly visible to you,but that we can bring out, that we can articulate,and that we can use to control the folding.
+时间： 4:32
+zh-cn:所以我不再指定一个单一的折叠率进行对折相反，我确立了一个规则我将一个面的属性和它怎样被折叠给联系起来也正因为我设计的是方法而非造型所以我能够一次又一次地使用这种方法以此得到一个族系的造型
+en:So now I&#39;m not specifying a singleratio anymore to fold it,but instead I&#39;m establishing a rule,I&#39;m establishing a link between a property of a surfaceand how that surface is folded.And because I&#39;ve designed the process and not the form,I can run the process again and again and againto produce a whole family of forms.
+时间： 5:04
+zh-cn:这些造型看起来很精细，但制作的方法却很简单一个简单的输入我一直都从立方体着手而且操作也简单—就对折不断对折
+en:These forms look elaborate, but the process is a very minimal one.There is a simple input,it&#39;s always a cube that I start with,and it&#39;s a very simple operation — it&#39;s making a fold,and doing this over and over again.
+时间： 5:19
+zh-cn:所以我们不妨将这个过程引入建筑学怎么做？以什么准则？我决定设计一根柱子柱子是建筑的基模纵观历史，柱子被用来表达美感，科技我遇到的挑战是我们要怎样在柱子表达这些新的算法我一开始用了四根圆柱体通过大量的试验，这些圆柱体最终进化成这个样子
+en:So let&#39;s bring this process to architecture.How? And at what scale?I chose to design a column.Columns are architectural archetypes.They&#39;ve been used throughout history to express idealsabout beauty, about technology.A challenge to me was how we could expressthis new algorithmic order in a column.I started using four cylinders.Through a lot of experimentation, these cylinderseventually evolved into this.
+时间： 5:51
+zh-cn:而且这些柱子蕴含信息的范围很广我们放大来看你越靠近，就会越发现新特点一些构造几乎就要超出人类的视觉范围这不像传统的建筑学它只需一个简单的方法就能同时获得整体的造型和显微的表面细节这些造型是画不出来的建筑师如果想用笔和纸把他们画出来可能要画上好几个月想把各个部分，各个正面图都画出来甚至得画上一年，你只能通过运算法则得到这些东西
+en:And these columns, they have information at very many scales.We can begin to zoom into them.The closer one gets, the more new features one discovers.Some formations are almost at the threshold of human visibility.And unlike traditional architecture,it&#39;s a single process that creates both the overall formand the microscopic surface detail.These forms are undrawable.An architect who&#39;s drawing them with a pen and a paperwould probably take months,or it would take even a year to draw all the sections,all of the elevations, you can only create something like thisthrough an algorithm.
+时间： 6:30
+zh-cn:更有趣的问题，也许是这些造型是可以想象出来的吗？大多数情况，建筑师都能在脑海里浮现自己所设计的最终效果图而在这种情况下，起决定作用的是那个过程毫无随意性的存在也非完全可预见有太多太多的平面有太多的细节，谁也看不到最终效果
+en:The more interesting question, perhaps, is,are these forms imaginable?Usually, an architect can somehow envision the end stateof what he is designing.In this case, the process is deterministic.There&#39;s no randomness involved at all,but it&#39;s not entirely predictable.There&#39;s too many surfaces,there&#39;s too much detail, one can&#39;t see the end state.
+时间： 6:52
+zh-cn:这也就赋予了建筑师新的角色他们需要一种新方法去探索各种可能性而它们就在那里一方面，建筑师可以设计出一个造型的不同变体同时，他又可以让它们发展出其他的形态当回到利用大自然进行类比时建筑师可以参照种群进行思考他们可以从种群的变换，世代相交和繁衍中寻找创意而且建筑师真的变身为整个创作过程的管弦乐演奏家
+en:So this leads to a new role for the architect.One needs a new method to explore all of the possibilitiesthat are out there.For one thing, one can design many variants of a form,in parallel, and one can cultivate them.And to go back to the analogy with nature,one can begin to think in terms of populations,one can talk about permutations, about generations,about crossing and breeding to come up with a design.And the architect is really, he moves into the positionof being an orchestrator of all of these processes.
+时间： 7:25
+zh-cn:理论说的足够多了我曾一度想跳进这个画面中打个比方，我买了些红蓝3D眼镜凑到屏幕前去看依然得不到那种漫步其中亲密接触的感觉所以就只有一种做法把它从电脑里带到现实中来
+en:But enough of the theory.At one point I simply wanted to jump insidethis image, so to say, I bought these red and blue3D glasses, got up very close to the screen,but still that wasn&#39;t the same as being able towalk around and touch things.So there was only one possibility —to bring the column out of the computer.
+时间： 7:46
+zh-cn:其实现在有很多3D印刷的理论但对我来说，或就我目前的想法而言，依旧是有太多在比例上不尽人意的权衡一方面，是比例，另一方面，则是分辨率和速率所以，我们决定把柱子以层级模式给做出来以多切割，薄层叠的方式展现出来
+en:There&#39;s been a lot of talk now about 3D printing.For me, or for my purpose at this moment,there&#39;s still too much of an unfavorable tradeoffbetween scale, on the one hand, and resolution and speed, on the other.So instead, we decided to take the column,and we decided to build it as a layered model,made out of very many slices, thinly stacked over each other.
+时间： 8:10
+zh-cn:你们目前看到的是刚刚那个柱子的x射线图，从上往下看的我当时感到很新颖因为以前都是从外面去看那些面还在不停地对折而且是在柱子的内部对折这个发现是个惊喜从这个模型中我们算出了一条切割线然后我们用激光切割机进行切割从而制造—你现在看到的是一个部分有很多相互堆积而成的很薄的切面
+en:What you&#39;re looking at here is an X-rayof the column that you just saw, viewed from the top.Unbeknownst to me at the time,because we had only seen the outside,the surfaces were continuing to fold themselves,to grow on the inside of the column,which was quite a surprising discovery.From this shape, we calculated a cutting line,and then we gave this cutting line to a laser cutterto produce — and you&#39;re seeing a segment of it here —very many thin slices, individually cut, on top of each other.
+时间： 8:44
+zh-cn:这是一张照片，不是绘制出来的在付出很多心血后，我们得到了这个振奋人心的柱子就如同我们在电脑中设计的一样几乎所以的细节几乎所有的复杂平面都得以保留
+en:And this is a photo now, it&#39;s not a rendering,and the column that we ended up withafter a lot of work, ended up looking remarkably like the onethat we had designed in the computer.Almost all of the details, almost all of thesurface intricacies were preserved.
+时间： 9:03
+zh-cn:但这相当地耗费劳动力目前，虚拟空间和物理存在之间仍存在巨大的断层我们花了好几个月去塑造这根柱子而运算这个1600万个表面电脑只需简单的30秒就搞定另一方面，这个实体模型有2700层1毫米厚的叠层重约700公斤，是用可以覆盖这整个礼堂的薄板做成的激光所切割出来的路径够从这里到机场一个来回
+en:But it was very labor intensive.There&#39;s a huge disconnect at the moment stillbetween the virtual and the physical.It took me several months to design the column,but ultimately it takes the computer about 30 secondsto calculate all of the 16 million faces.The physical model, on the other hand,is 2,700 layers, one millimeter thick,it weighs 700 kilos, it&#39;s made of sheet that can coverthis entire auditorium.And the cutting path that the laser followedgoes from here to the airport and back again.
+时间： 9:38
+zh-cn:但这一切变得越来越有希望机器不断地在加速，价格也不断地在下降一些有希望有前途的高科技发展也即将面世这些是光州艺术展上的图片在那里，我用了丙烯腈-丁二烯-苯乙烯塑料来做原料我们采用了更大更快的机器柱子中心都内置钢铁核心，所以不单有结构性还能负重每根柱子都是两根柱子的混合体你能在镜子中看到不同的柱子这些柱子后面的镜子能产生一种视觉错觉的效果
+en:But it is increasingly possible.Machines are getting faster, it&#39;s getting less expensive,and there&#39;s some promising technological developmentsjust on the horizon.These are images from the Gwangju Biennale.And in this case, I used ABS plastic to produce the columns,we used the bigger, faster machine,and they have a steel core inside, so they&#39;re structural,they can bear loads for once.Each column is effectively a hybrid of two columns.You can see a different column in the mirror,if there&#39;s a mirror behind the columnthat creates a sort of an optical illusion.
+时间：10:12
+zh-cn:这些都说明什么呢？我觉得这个项目让我们得以一瞥那些等待我们去发掘的前所未见的东西作为建筑师的我们不妨思考一下，我们不是要设计物品而是去设计一种方法来创造物品我已经展示了受大自然启发的一个方法但方法是无穷尽的简而言之，我们不受约束相反，此刻我们手中掌握着的是各种方法能使我们创造出以前不敢想象的不受任何比例的约束的构造我希望，在某个时候我能将之付诸实践。
+en:So where does this leave us?I think this project gives us a glimpse of the unseen objects that await usif we as architects begin to think about designing not the object,but a process to generate objects.I&#39;ve shown one simple process that was inspired by nature;there&#39;s countless other ones.In short, we have no constraints.Instead, we have processes in our hands right nowthat allow us to create structures at all scalesthat we couldn&#39;t even have dreamt up.And, if I may add, at one point we will build them.
+时间：10:51
+zh-cn:谢谢（掌声）
+en:Thank you. (Applause)

@@ -1,0 +1,45 @@
+时间： 0:11
+zh-cn:去年，在TED，我请求你们公开你们的数据资料，把数据资料放到网上，因为如果人们把他们的数据资料放到网上，那么政府数据，科学数据， 社区数据，不管是什么， 就会被其他人用来做一些美好的事情，这是他们从来都无法想象的事情。
+en:Last year here at TEDI asked you to give me your data,to put your data on the web, on the basisthat if people put data onto the web —government data, scientific data, community data,whatever it is — it will be used by other peopleto do wonderful things, in waysthat they never could have imagined.
+时间： 0:29
+zh-cn:所以， 今天我回来向你们展示几个事例，事实上，现在在世界各地，公开数据资料的运动正在兴起。在去年TED演讲中，我和大家一起大声呼吁的“实时的原始数据”已经传播到世界各地。所以， 让我们播放录像。
+en:So, today I&#39;m back just to show you a few things,to show you, in fact, there isan open data movement afoot,now, around the world.The cry of &quot;Raw data now!&quot;which I made people make in the auditorium,was heard around the world.So, let&#39;s roll the video.
+时间： 0:50
+zh-cn:事实上TED刚刚结束不久，3月10日播了这经典故事视频，它也是很多人首选的故事。英国政府的保罗克拉克Paul Clarke发博客：“ 噢，我刚刚得到了一些原始数据。这个就是有关自行车意外的数据。”时代在线用了两天时间做了一个地图， 一个合成的地图，我们称之为：合成(把数据融合到地图上)，经过这种合成，你可以通过用户界面搜索和找到你上班的自行车路线是否受影响。
+en:A classic story, the first one which lots of people picked up,was when in March — on March 10th in fact, soon after TED —Paul Clarke, in the U.K. government,blogged, &quot;Oh, I&#39;ve just got some raw data. Here it is,it&#39;s about bicycle accidents.&quot;Two days it took the Times Onlineto make a map, a mashable map —we call these things mash-ups —a mashed-up user interface that allows you to go in thereand have a look and find out whether your bicycleroute to work was affected.
+时间： 1:17
+zh-cn:除此， 网上还很多其他的数据， 交通调查数据等都是英国政府放上去的。因为他们上传的数据符合链接标准，所以用户可以使用这些数据做地图，只要点击一下就做成了。
+en:Here&#39;s more data, traffic survey data,again, put out by the U.K. government,and because they put it up using the Linked Data standards,then a user could just make a map,just by clicking.
+时间： 1:28
+zh-cn:这些数据起作用吗？ 好吧，让我们回到2008年。看看俄亥俄州曾斯维尔,这是一张律师制作的在自来水厂地图，看到那些房子，谁家连着用水？然后从其他数据源，他得到资料显示了哪个房子是白人家庭的。他感到，这两者之间的关联太紧密了。就哪些是白人拥有的房子，和哪些房子有自来水之间的关系，法官看到以后对此也很不满。法官因此罚了他们1090万美元。这就是拿了一组数据和另一组数据放在一起的力量，结果是显而易见的。
+en:Does this data affect things? Well, let&#39;s get back to 2008.Look at Zanesville, Ohio.Here&#39;s a map a lawyer made. He put on it the water plant,and which houses are there,which houses have been connected to the water.And he got, from other data sources,information to showwhich houses are occupied by white people.Well, there was too much of a correlation, he felt,between which houses were occupied by white peopleand which houses had water, and the judge was not impressed either.The judge was not impressed to the tune of 10.9 million dollars.That&#39;s the power of taking one piece of data,another piece of data, putting it together,and showing the result.
+时间： 2:06
+zh-cn:现在让我们看看英国的一些数据。这是英国政府的数据， 完全独立的网站，我的钱花到哪里去了，这个网站让任何人在网站上利用其数据。你可以根据特别的消费种类来查找也可以找出不同的地区的数据来做比较。英国人正在用英国政府提供的数据资料做这些事情。
+en:Let&#39;s look at some data from the U.K. now.This is U.K. government data, a completely independent site,Where Does My Money Go.It allows anybody to go there and burrow down.You can burrow down by a particular type of spending,or you can go through all the different regions and compare them.So, that&#39;s happening in the U.K. with U.K. government data.
+时间： 2:23
+zh-cn:是的， 在这里你也可以做。在加利福尼亚，这个网站让你查找复苏经费的使用情况。随便举例，加利福尼亚长滩，你可以看见人们使用政府发放的复苏经费都花在不同事情的支出，例如在能源上支出。
+en:Yes, certainly you can do it over here.Here&#39;s a site which allows you to look at recovery spendingin California.Take an arbitrary example, Long Beach, California,you can go and have a look at what recovery money they&#39;ve been spendingon different things such as energy.
+时间： 2:38
+zh-cn:事实上， 这是几组数据的图表，他们存放在data.gov上，和data.gov.uk网上。我真高兴看见这种积极的竞争，英国显示的是蓝色， 美国是红色。
+en:In fact, this is the graph of the number of data setsin the repositories of data.gov,and data.gov.uk.And I&#39;m delighted to see a great competitionbetween the U.K. in blue, and the U.S. in red.
+时间： 2:49
+zh-cn:你怎么用这些东西呢？举个例子吧， 你有一个地区的大量数据，你可以从一个邮政编码，就是美国邮政编码ZIP + 4，特定群体的住房，你可以用图像合成，打印的图像会有特别具体的信息， 比如公交车站，包括那些离你很近的事情。
+en:How can you use this stuff?Well, for example, if you have lots of data about placesyou can take, from a postcode —which is like a zip plus four —for a specific group of houses, you can make paper,print off a paper which has got very, veryspecific things about the bus stops,the things specifically near you.
+时间： 3:07
+zh-cn:从大处方面说， 这是一个阿富汗选举数据与地图的合成。为了你想看到的东西，它允许你设置你自己的标准。这些红圈是投票点，是根据你的标准选择的。你也可以选择地图上的其他内容，你可以看见其他数据，比如威胁程度。所以，这也是政府的数据。
+en:On a larger scale, this is a mash-upof the data which was released about the Afghan elections.It allows you to set your own criteriafor what sort of things you want to look at.The red circles are polling stations,selected by your criteria.And then you can select also other things on the mapto see what other factors, like the threat level.So, that was government data.
+时间： 3:28
+zh-cn:我也谈过社区制作的， 事实上我也参与此，这是wiki地图， 这是公开的街道地图。我把梯形剧场放到地图上去的， 因为去年TED召开的时候地图上还没有它。我不是唯一编辑公开地图的人。在ITO World（itoworld.com）可视化地图里，每个亮点都是大家在2009年编辑的，这形成了公开街道地图。让我们绕着整个世界看一下这一年所发生的。每个亮点都是一次编辑的记录。 有人在某些地方看着公开街道地图， 发现它可以改进得更好。你看见欧洲的更新非常频繁。有些地方反而更新程度没有跟上。
+en:I also talked about community-generated data — in fact I edited some.This is the wiki map, this is the Open Street Map.&quot;Terrace Theater&quot; I actually puton the map because it wasn&#39;t on the map before TED last year.I was not the only person editing the open street map.Each flash on this visualization —put together by ITO World —shows an edit in 2009made to the Open Street Map.Let&#39;s now spin the world during the same year.Every flash is an edit. Somebody somewherelooking at the Open Street Map, and realizing it could be better.You can see Europe is ablaze with updates.Some places, perhaps not as much as they should be.
+时间： 4:02
+zh-cn:这里聚焦的是海地。太子港地图在2009年底还没怎么编辑，不如加利福尼亚的地图编辑得好。幸运的是， 地震发生后不久，GeoEye， 一个商业公司发布了卫星图象并有一个许可证允许公开网络社区使用这些图象。随着1月份时间的推移，人们参与了编辑， 然后地震发生了。地震发生后不久，全世界的人们， 地图制作者们都想要提供帮助，可以看着这些图象， 迅速地建立地图。
+en:Here focusing in on Haiti.The map of Port au-Prince at the endof 2009 was not all it could be,not as good as the map of California.Fortunately, just after the earthquake,GeoEye, a commercial company,released satellite imagerywith a license, which allowedthe open-source community to use it.This is January, in time lapse,of people editing ... that&#39;s the earthquake.After the earthquake, immediately,people all over the world, mapperswho wanted to help, and could,looked at that imagery, built the map, quickly building it up.
+时间： 4:34
+zh-cn:我们现在看到的是太子港。蓝色的是那些自愿者从空中发现的难民营。所以，现在我们立即有实时公开地图显示难民营在什么地方，如果你在太子港从事援助工作那这就是最好的地图。事实证明，这地图也支持救援队使用高明卫星地图定位。
+en:We&#39;re focusing now on Port-au-Prince.The light blue is refugee camps these volunteers had spotted from the [satellite images].So, now we have, immediately, a real-time mapshowing where there are refugee camps —rapidly became the best mapto use if you&#39;re doing relief work in Port-au-Prince.Witness the fact that it&#39;s here on this Garmin devicebeing used by rescue team in Haiti.
+时间： 4:52
+zh-cn:海地， 左边的这张地图显示一个医院，事实上是一个建在船上的医院。这实时的地图显示阻塞的道路，背毁的建筑， 难民营，它表明哪里需要东西。
+en:There&#39;s the map showing,on the left-hand side,that hospital — actually that&#39;s a hospital ship.This is a real-time map that shows blocked roads,damaged buildings, refugee camps —it shows things that are needed [for rescue and relief work].
+时间： 5:06
+zh-cn:所以， 如果你已经参与了公开数据，我只想说，不管你已经做了什么，你是否刚开始原始数据图表编辑，还是将政府或者科学研究的数据放到网上，我只想借此机会说声非常感谢，而我们才刚刚开始。（谢谢）
+en:So, if you&#39;ve been involved in that at all,I just wanted to say: Whatever you&#39;ve been doing,whether you&#39;ve just been chanting, &quot;Raw data now!&quot;or you&#39;ve been putting government or scientific data online,I just wanted to take this opportunity to say: Thank you very much,and we have only just started!(Applause)

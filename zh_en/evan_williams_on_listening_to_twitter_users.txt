@@ -1,0 +1,66 @@
+时间： 0:15
+zh-cn:四年前，我在TED上，介绍了当时工作的公司Odeo。由于那次演讲，纽约时报为我们写了一大篇文章，然后它又带来了更多媒体的报道，吸引了更多关注。之后我决定要当这家公司的CEO——那之前我只是个顾问——并成功获得风险投资同时招聘更多人才。
+en:Four years ago, on the TED stage,I announced a company I was working with at the timecalled Odeo.And because of that announcement,we got a big article in The New York Times,which led to more press, which led to more attention,and me deciding to become CEO of that company —whereas I was just an adviser —and raising a round of venture capitaland ramping up hiring.
+时间： 0:38
+zh-cn:我招了一名叫Jack Dorsey的工程师，当一年后我们商量Odeo的发展方向时，Jack提出了一个他捉摸了好几年的点子基本上就是个能向朋友们发送简单消息的想法。Odeo当时也在探索短信服务，所以我们差不多是想将他们两结合在一起。2006年初，作为Odeo的一个业余项目，Twitter项目开始进行。
+en:One of the guys I hired was an engineer named Jack Dorsey,and a year later, when we were trying to decide which way to go with Odeo,Jack presented an idea he&#39;d been tinkering around with for a number of yearsthat was based around sending simple status updates to friends.We were also playing with SMS at the time at Odeo,so we kind of put two and two together,and in early 2006 we launched Twitter as a side project at Odeo.
+时间： 1:03
+zh-cn:现在很难说搞业余项目是不是个好主意，因为对于初创型企业，专注是至关重要的。但事实上，我在前一家公司推出的Blogger服务，也是一个业余项目。我当时想这只不过是个随便搞一下的小玩意。结果它不但占据了整个公司也占据了我之后五、六年的生活。从中我学会了跟随直觉，尽管你不知道它是否正确，也不知道它会发展成什么样子。这种情况又一次发生在了Twitter身上。
+en:Now, it&#39;s hard to justify doing a side projectat a startup, where focus is so critical,but I had actually launched Blogger as a side projectto my previous company,thinking it was just a little thing we&#39;d do on the side,and it ended up taking over not only the company,but my life for the next five or six years.So I learned to follow huncheseven though you can&#39;t necessarily justify themor know where they&#39;re going to go.And that&#39;s kind of what&#39;s happened with Twitter, time after time.
+时间： 1:28
+zh-cn:那么，对于那些不熟悉Twitter的人，它基于一个非常简单，甚至微不足道的概念。你用不超过140个字说自己在做什么，对你感兴趣的人就会收到这些消息。如果真的十分感兴趣，他们甚至可以通过短信在手机上获得这些信息。例如，我现在就可以用Twitter发一条消息说我正在TED上作演讲。对于我来说，当我选择发送后，几秒内，将有超过6万人会收到这条信息。Twitter的基本理念就是让人们随时分享他们生活中的任意时刻。不管是意义非凡的场合，还是日常世俗的时候。通过分享这些正在发生的时刻人们感觉彼此间的距离更近，联系更加紧密，尽管他们不在一起。我们开始时觉得这就是Twitter的主要用途，然而真正让我们感到兴奋的是，
+en:So, for those of you unfamiliar,Twitter is based around a very simple, seemingly trivial concept.You say what you&#39;re doing in 140 characters or less,and people who are interested in you get those updates.If they&#39;re really interested,they get the update as a text message on their cell phone.So, for instance, I may Twitter right nowthat I&#39;m giving a talk at TED.And in my case, when I hit send,up to 60,000 people will receive that message in a matter of seconds.Now, the fundamental idea is that Twitterlets people share moments of their liveswhenever they want,be they momentous occasionsor mundane ones.It is by sharing these moments as they&#39;re happeningthat lets people feel more connected and in touch,despite distance, and in real time.This is the primary use we saw of Twitter from the beginning,and what got us excited.
+时间： 2:23
+zh-cn:我们没有料到这个简单的系统竟然衍生出了许多其它的用途。我们发现，在突发事件中，Twitter可以发挥非常重要的作用。2007年10月圣地亚哥发生了严重的火灾，人们依靠Twitter报告火灾近况并通过周围邻居在Twitter上发布的消息来了解自己周围的情况。
+en:What we didn&#39;t anticipate was the many, many other usesthat would evolve from this very simple system.One of the things we realizedwas how important Twitter could be during real-time events.When the wildfires broke out in San Diego,in October of 2007,people turned to Twitter to report what was happeningand to find information from neighborsabout what was happening around them.
+时间： 2:46
+zh-cn:不仅是一般人，实际上，洛杉矶时报也依靠Twitter发布信息，并在网站首页上放了一个Twitter订阅地址同时，洛杉矶消防部门以及红十字会也通过Twitter发布各种最新的消息。这场灾难中，许多人在使用Twitter发布消息Twitter上也有成千上万的人在关注着事件进展因为大家都想知道亲临现场是什么感觉，也想知道最新的情况。
+en:But it wasn&#39;t just individuals.The L.A. Times actually turned to Twitter to dispense information as well,and put a Twitter feed on the front page,and the L.A. Fire Department and Red Crossused it to dispense news and updates as well.At this event, dozens of people here are Twitteringand thousands of people around the world are following alongbecause they want to know what it feels like to be hereand what&#39;s happening.
+时间： 3:07
+zh-cn:Twitter上还有很多有趣的事，
+en:Among the other interesting things that have cropped up
+时间： 3:10
+zh-cn:其中不少和商业或营销活动有关，
+en:are many things from businesses,
+时间： 3:12
+zh-cn:也有很多通讯报道或是事件预报。比如，一辆很火爆的韩式煎玉米饼快餐车在洛杉矶转来转去，在Twitter上公布自己下一站停靠点，结果食客们都在那里排队等待。
+en:from marketing and communications and predictable things,to an insanely popular Korean-barbecue taco truckthat drives around L.A. and Twitters where it stops,causing a line to form around the block.
+时间： 3:25
+zh-cn:政客们最近也开始使用Twitter了。实际上，47位国会成员拥有Twitter账户。有的时候，他们会在和总统开会发出Twitter。看来，这家伙并不喜欢自己所听到的事情。总统本人就是最受欢迎的Twitter用户，尽管近来他不怎么在上面发言了，不过麦凯恩参议员的Twitter使用频率却开始增加。这个人也是。
+en:Politicians have recently begun Twittering.In fact, there are 47 members of Congresswho currently have Twitter accounts.And they&#39;re tweeting, in some cases,from behind closed-door sessions with the President.In this case, this guy&#39;s not liking what he&#39;s hearing.The President himself is our most popular Twitter user,although his tweets have dropped off as of late,while Senator McCain&#39;s have picked up.As have this guy&#39;s.
+时间： 3:55
+zh-cn:Twitter最初只不过被设计成一个广播媒介。你发送的信息能被其他人收到，同时，你也能收到自己感兴趣的信息。但用户们还自己发明了很多Twitter的新用法，例如，回复消息给特定的人，或者回复某条特定的消息。比方说，大鲨鱼奥尼尔在这使用“@用户名”来回复他的某个粉丝，这种用法就完全是用户们自己发明的。Twitter本来并不支持这种用法，直到大家都开始这么用的时候，我们才增加了这个功能，方便用户。上面说到的只是用户帮助改进Twitter的众多方式之一。
+en:Twitter was originally designed as a broadcast medium:you send one message and it goes out to everybody,and you receive the messages you&#39;re interested in.One of the many ways that users shaped the evolution of Twitterwas by inventing a way to reply to a specific personor a specific message.So, this syntax, the &quot;@username&quot; that Shaquille O&#39;Neal&#39;s using hereto reply to one of his fans,was completely invented by users,and we didn&#39;t build it into the system until it already became popularand then we made it easier.This is one of the many ways that users have shaped the system.
+时间： 4:28
+zh-cn:还有一种方法是借助于API（应用编程接口）。我们提供了一些API，这样程序员可以编写其他程序来和Twitter交互。目前大约有2000种程序可以发送Twitter信息，他们可以运行在Mac，Windows，iPhone或黑莓上...同时，还有的设备可以在胎儿踢腿时发出Twitter信息，或者当植物需要浇水时发出Twitter信息。
+en:Another is via the API.We built an application-programming interface,which basically means that programmers can write software that interacts with Twitter.We currently know about over 2,000 pieces of softwarethat can send Twitter updates —interfaces for Mac, Windows, your iPhone, your BlackBerry —as well as things likea device that lets an unborn baby Twitter when it kicksor a plant Twitter when it needs water.
+时间： 4:52
+zh-cn:这其中最重要的第三方程序或许要算来自佛吉尼亚州的小公司Summize公司的产品了。他们做了一个Twitter搜索引擎。他们利用了这样一个事实：如果全世界有数百万人在谈论着他们正在做的或是他们身边发生的事情，那你有机会从这些海量的信息中了解到任何事情的进展。这真的改变了我们对Twitter的理解。例如，这里显示的是人们对TED的评论。我们的想法进一步地改变Twitter并不仅是我们当初想象的那样。我们非常喜欢它，以至于我们买下了这家公司，现在它成了我们一个主要产品。这不仅使你从不同的角度看待Twitter，同时也带来了新的使用方法。我最欣赏的一件事情发生在几个月前，当时亚特兰大汽油短缺，一些用户想到用Twitter记下他们在哪发现的汽油，价格是多少，然后加上关键字“#altgas”这样其他人就可以搜索这个关键字并知道哪有汽油了。
+en:Probably the most important third-party developmentcame from a little company in Virginia called Summize.Summize built a Twitter search engine.And they tapped into the factthat, if you have millions of people around the worldtalking about what they&#39;re doing and what&#39;s around them,you have an incredible resource to find out about any topic or eventwhile it&#39;s going on.This really changed how we perceived Twitter.For instance, here&#39;s what people are saying about TED.This is another way that our mind was shifted,and Twitter wasn&#39;t what we thought it was.We liked this so much we actually bought the companyand are folding it into the main product.This not only lets you view Twitters in different ways,but it introduces new use cases as well.One of my favorites is what happened a few months agowhen there was a gas shortage in Atlanta.Some users figured outthat they would Twitter when they found gas —where it was, and how much it cost —and then appended the keyword &quot;#atlgas&quot;which let other people search for that and find gas themselves.
+时间： 5:54
+zh-cn:人们这种通过现代交流网络互相帮助的趋势远远超越了当初Twitter仅仅为了让人们方便地和家人、朋友交流的设想。这样的事情最近越来越多，有关于为无家可归的人筹钱的，有关于去非洲挖井的，还有关于帮助处于危机中的家庭的。有时人们在几天内就通过Twitter募集了数万元，这样看来，人们如果有了更容易的分享信息渠道，更多有益的事情就会发生。
+en:And this trend of people using this communication networkto help each other outgoes far beyond the original idea of just keeping up with family and friends.It&#39;s happened more and more lately,whether it&#39;s raising money for homeless peopleor to dig wells in Africaor for a family in crisis.People have raised tens of thousands of dollars over Twitterin a matter of days on several occasions.It seems like when you give people easier ways to share information,more good things happen.
+时间： 6:26
+zh-cn:我不知道今后Twitter将会如何，但我学会了跟随直觉，并且从不假设结局。谢谢。
+en:I have no idea what will happen next with Twitter.I&#39;ve learned to follow the hunch,but never assume where it will go.Thanks.
+时间： 6:38
+zh-cn:（掌声）
+en:(Applause)
+时间： 6:44
+zh-cn:Chris Anderson：我们还没结束呢。让我们来看看这屏幕能不能用...这是一场演讲后，每个演讲者最害怕做的事情了。真得很可怕。
+en:Chris Anderson: We&#39;re not quite done yet.So, look, if we could have this screen live.This is actually the most terrifying thing that any speaker can doafter they&#39;ve been to an event.It&#39;s totally intimidating.
+时间： 6:55
+zh-cn:那么，这是Twitter的搜索页面。让我们随便在上面敲几个字吧。比如说：“Evan Williams”“...给人更多的信息同时跟随你的直觉@#TED。”“...正在听Evan Williams演讲。”哦！“...Evan Williams快死在TED的台上了。这是我听过最糟的演讲！”
+en:So, this would be the Twitter search screen.So we&#39;re going to just type a couple of random words into Twitter.For example: &quot;Evan Williams.&quot;&quot;Evan Williams, give people more good ways to share information and follow your hunch at TED.&quot;&quot;Currently listening to Evan Williams.&quot; &quot;Currently listening to Evan Williams.&quot; &quot;Evan Williams —&quot;Oh.&quot;Evan Williams is just dying on stage here at TED.Worst talk ever!&quot; (Laughter)
+时间： 7:20
+zh-cn:Evan Williams：不错，谢谢。
+en:Evan Williams: Nice. Thanks.
+时间： 7:22
+zh-cn:Chris Anderson：开个玩笑。
+en:CA: Just kidding.
+时间： 7:24
+zh-cn:但是，在他演讲的8分钟内，Twitter上已经有大约50条关于他演讲的消息。所以他将会知道关于他演讲的各种反应：他说到的奥巴马是最受关注的Twitter用户，说到的Twitter最初源于TED...我觉得不会有其他什么办法能这么快得到反馈了。
+en:But, literally in the eight minutes he was talking,there are about fifty tweets that already came on the talk.So he&#39;ll see every aspect of the reaction:the fact that Barack Obama is the biggest Twitterer,the fact that it came out of TED.I don&#39;t think there&#39;s any other way of getting instant feedback that way.
+时间： 7:39
+zh-cn:你做了个了不起的东西，而且看来它以后会变得更不得了。非常感谢，Evan。你的演讲非常有趣。
+en:You have build something very fascinating,and it looks like its best times are still ahead of it.So, thank you very much, Evan. EW: Thank you.CA: That was very interesting.

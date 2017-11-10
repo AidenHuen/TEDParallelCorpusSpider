@@ -1,0 +1,24 @@
+时间： 0:11
+zh-cn:今天，我要向大家介绍手绘电路技术。
+en:Today, I&#39;m going to talk to you about sketching electronics.
+时间： 0:16
+zh-cn:我的身份之一是电子工程师，这意味着我将很大一部分时间用在设计和建造新技术上，更具体说就是设计和构造电路。可是我发现电路的设计构造过程无论从那个角度看，都存在问题。开发时间太长，花的钱太多，最终的产出就是一块电路板，怎么看都不那么有趣。它们都很小，一般都是四四方方的又平又硬，老实说，大多数电路板都没啥意思，所以我和我的小组一直在思考怎样才能彻底改变电路的设计过程和最终的产出。
+en:I&#39;m, among several other things, an electrical engineer,and that means that I spend a good amount of timedesigning and building new pieces of technology,and more specifically designing and building electronics.And what I&#39;ve found is that the process of designingand building electronics is problematic in all sorts of ways.So it&#39;s a really slow process, it&#39;s really expensive,and the outcome of that process,namely electronic circuit boards,are limited in all sorts of kind of interesting ways.So they&#39;re really small, generally, they&#39;re squareand flat and hard, and frankly, most of themjust aren&#39;t very attractive, and so my team and Ihave been thinking of ways to really change and mix upthe process and the outcome of designing electronics.
+时间： 1:17
+zh-cn:如果可以这样设计和构造电路会不会很好？如果你可以非常快速的构造电路，超级便宜，并且非常有趣非常流畅，非常直观，甚至是即兴地构造？这样是不是很酷，会不会给电路设计带来更多的可能性？
+en:And so what if you could design and build electronicslike this? So what if you could do it extremely quickly,extremely inexpensively, and maybe more interestingly,really fluidly and expressively and even improvisationally?Wouldn&#39;t that be so cool, and that wouldn&#39;t that open upall sorts of new possibilities?
+时间： 1:42
+zh-cn:我接下来介绍的两个项目就是针对这两个问题。这是第一个。（视频）电磁元件，和含铁的纸导电笔，来自UIUC大学 Lewis 实验室贴纸模板（四倍速度播放）做一个开关音乐：《DJ Shadow》加上一个高级一点的控制器画一个交互的接口
+en:I&#39;m going to share with you two projects that areinvestigations along these lines, and we&#39;ll start with this one.(Video) Magnetic electronic pieces and ferrous paper.A conductive pen from the Lewis lab at UIUC.Sticker templates.Speed x 4.Making a switch.Music: DJ Shadow.Adding some intelligence with a microcontroller.Sketching an interface.
+时间： 3:15
+zh-cn:（音乐）（钢琴的声音）（笑声）（掌声）
+en:(Music)(Laughter)(Applause)
+时间： 3:34
+zh-cn:很酷吧！我们也这么觉得。我们开发了这些工具发现这些工具能够做这么多的事情，我们意识到：本质上来说，任何能用纸完成的事情，任何靠纸和笔能做到的事情，我们都可以做成电路来完成。下一个要我要展示给大家的项目更深入的探索了手绘电路的各种可能性。接下来不用我解释。
+en:Pretty cool, huh? We think so.So now that we developed these toolsand found these materials that let us do these things,we started to realize that, essentially, anythingthat we can do with paper, anything that we can dowith a piece of paper and a penwe can now do with electronics.So the next project that I want to show you is kind of adeeper exploration of that possibility.And I&#39;ll kind of let it speak for itself.
+时间： 4:06
+zh-cn:（音乐）（掌声）
+en:(Music)(Applause)
+时间： 5:42
+zh-cn:我们下一个目标是让你们所有人都能做出类似的东西来。为了达到这个目标我们举办教学沙龙来教大家如何使用这些工具我们也在努力将这些工具和技术通过多种途径传播到（实验室之外的）现实世界中。所以不久后，你们就可以用这个新颖的技术自己构造手绘电路了。非常感谢。（掌声）
+en:So the next step for us in this processis now to find a way to let all of youbuild things like this,and so the way that we&#39;re approaching that is byteaching workshops to people where we explainhow they can use these kinds of tools, and then alsoworking to get the tools and the materials and techniquesout into the real world in a variety of ways.And so sometime soon, you&#39;ll be able to play and buildand sketch with electronics in this fundamentally new way.So thank you very much. (Applause)

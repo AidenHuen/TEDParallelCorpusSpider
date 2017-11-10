@@ -1,0 +1,42 @@
+时间： 0:11
+zh-cn:我们都知道万维网已经绝对地改变了出版、广播、商业和社交的联通性，但是它是从哪儿来的？在此我要引用三个人：范尼瓦尔•布什，道格•英格尔巴特和蒂姆•伯纳斯李。那么我们一个一个地说说这些人。
+en:Well we all know the World Wide Webhas absolutely transformed publishing, broadcasting,commerce and social connectivity,but where did it all come from?And I&#39;ll quote three people:Vannevar Bush, Doug Engelbart and Tim Berners-Lee.So let&#39;s just run through these guys.
+时间： 0:28
+zh-cn:这是范尼瓦尔•布什，范尼瓦尔•布什曾经是美国政府在战争时期的首席科学顾问。在1945年的时候，他在一本名为”大西洋月刊“的杂志上公开发表了一篇文章。这个文章就叫做”像你可以想的那样“。范尼瓦尔•布什想表达的是我们使用信息的方式是破碎的。我们没有根据图书馆和目录系统等等那样做。大脑是通过联合协作来工作的。当它在想一个主体的时候，它就立即会去连接下一个主体。并且，信息构造的方式是完全无法把我们限制在这个过程中的。
+en:This is Vannevar Bush.Vannevar Bush was the U.S. government&#39;s chief scientific adviser during the war.And in 1945,he published an article in a magazine called Atlantic Monthly.And the article was called &quot;As We May Think.&quot;And what Vannevar Bush was sayingwas the way we use information is broken.We don&#39;t work in terms of librariesand catalog systems and so forth.The brain works by association.With one item in its thought, it snaps instantly to the next item.And the way information is structuredis totally incapable of keeping up with this process.
+时间： 1:01
+zh-cn:所以，他提议了一种机器，他把它叫做麦麦克斯。麦麦克斯可以连接信息，一条信息连到一条与之有关的信息，并以此延续。现在这是1945年。一台电脑在那个时候是机密服务部门用来破解密码的东西。并且没有人知道关于它的任何事。所以这是电脑被发明之前。他提议把这个机器命名为麦麦克斯。并且他有一个可以让你把信息与其他信息连接起来的平台，然后你就可以随意调用它。
+en:And so he suggested a machine,and he called it the memex.And the memex would link information,one piece of information to a related piece of information and so forth.Now this was in 1945.A computer in those dayswas something the secret services used to use for code breaking.And nobody knew anything about it.So this was before the computer was invented.And he proposed this machine called the memex.And he had a platform where you linked information to other information,and then you could call it up at will.
+时间： 1:28
+zh-cn:所以向前旋转一点，在这些读过这篇文章的人中，有一个人叫道格•英格尔巴特，他曾是美国空军的军官。他当时正在他们在远东的图书馆里阅读这篇文章。并且这篇文章曾让他很受鼓舞，一定程度上指示了他的余生。在60年代中期的时候，他得以把想法付诸于实践，当他在加州斯坦福研究实验室工作的时候。他建立了一种系统。这种系统是设计来增强人类智力的，据说。在对今日世界上云计算和服务软件的预感里，他的系统被称作为oN-Line系统设计的NLS。
+en:So spinning forward,one of the guys who read this article was a guy called Doug Engelbart,and he was a U.S. Air Force officer.And he was reading it in their library in the Far East.And he was so inspired by this article,it kind of directed the rest of his life.And by the mid-60s, he was able to put this into actionwhen he worked at the Stanford Research Lab in California.He built a system.The system was designed to augment human intelligence, it was called.And in a premonition of today&#39;s worldof cloud computing and softwares of service,his system was called NLSfor oN-Line System.
+时间： 2:02
+zh-cn:这是道格•英格尔巴特。他当时正在秋季联合电脑会议上做一个演讲，那是1968年。他展示的是——他坐在一个像这样的舞台上，演示这个系统。他有他的头戴式话筒，就像我得到的这个。他操作了这个系统。如你所见，他当时正在文件和图解计算等等之间操作。他完全掌控它用这里的这个平台，一个五指的键盘，和这个世界上第一个电脑鼠标，这个他特别为了这个系统设计的鼠标。所以这也是鼠标的来源。
+en:And this is Doug Engelbart.He was giving a presentation at the Fall Joint Computer Conferencein 1968.What he showed —he sat on a stage like this, and he demonstrated this system.He had his head mic like I&#39;ve got.And he works this system.And you can see, he&#39;s working between documentsand graphics and so forth.And he&#39;s driving it allwith this platform here,with a five-finger keyboardand the world&#39;s first computer mouse,which he specially designed in order to do this system.So this is where the mouse came from as well.
+时间： 2:35
+zh-cn:这是道格•英格尔巴特。道格•英格尔巴特的系统的问题在于那个时代的电脑都有几百万磅重。所以对一个个人电脑来说，几百万磅就像是拥有一架私人飞机；它不是非常实际。
+en:So this is Doug Engelbart.The trouble with Doug Engelbart&#39;s systemwas that the computers in those days cost several million pounds.So for a personal computer,a few million pounds was like having a personal jet plane;it wasn&#39;t really very practical.
+时间： 2:48
+zh-cn:但是转到80年代，当个人电脑确实到来的时候，这种在个人电脑上的系统就有了空间。我的公司，OWL建立了一种名为”苹果麦金塔电脑指南“的系统。并且我们发表了世界上第一个超文本系统。这个为潮流开了个头。苹果介绍了一种叫”超卡“的东西，并且他们对此有点小题大做。在它发布的当天，他们做了12页的华尔街日报增刊。杂志们开始涉及它。字节杂志和在ACM的通讯杂志有涉及超文本的特殊期刊。我们开发了这种产品的个人电脑版本和麦金塔版本。并且，我们的个人电脑版本变得十分成熟。
+en:But spin on to the 80swhen personal computers did arrive,then there was room for this kind of system on personal computers.And my company, OWLbuilt a system called Guide for the Apple Macintosh.And we delivered the world&#39;s first hypertext system.And this began to get a head of steam.Apple introduced a thing called HyperCard,and they made a bit of a fuss about it.They had a 12-page supplement in the Wall Street Journal the day it launched.The magazines started to cover it.Byte magazine and Communications at the ACMhad special issues covering hypertext.We developed a PC version of this productas well as the Macintosh version.And our PC version became quite mature.
+时间： 3:25
+zh-cn:80年代后期，有一些这个系统工作的例子。你可以传输文件，可以通过网络来做。我们开发了这样一个系统，它拥有一个基于html的标记语言。我们称之为hml：超文本设置语言。这个系统能够通过计算机网络，做非常，非常大的文件系统。
+en:These are some examples of this system in action in the late 80s.You were able to deliver documents, were able to do it over networks.We developed a system suchthat it had a markup language based on html.We called it hml: hypertext markup language.And the system was capable of doingvery, very large documentation systems over computer networks.
+时间： 3:45
+zh-cn:所以我带着这个系统去了一个在巴黎附近凡尔赛的贸易展览，在1990年11月下旬。我接触了一位友好的叫蒂姆•伯纳斯李的年轻人，那个说“你是伊恩•瑞彻吗？“ 的人，我说“是。”他说，”我需要和你聊一聊。“于是他告诉了我关于他提议的万维网系统。然后我就想，好吧，那是一个自命不凡的名字，特别是整个系统不过只是在他办公室里的电脑上运行。但是他完全确信他的万维网总有一天会占领这个世界。并且他试图说服我去为它写一个浏览器，因为他的系统没有任何图解或者字体或者布局或者其他事情；它只是简单的文本。我觉得，好吧，你知道的，挺有趣，但是一个从CERN来的人，他不会做的。所以我们没有做。
+en:So I took this system to a trade show in Versailles near Parisin late November 1990.And I was approached by a nice young man called Tim Berners-Leewho said, &quot;Are you Ian Ritchie?&quot; and I said, &quot;Yeah.&quot;And he said, &quot;I need to talk to you.&quot;And he told me about his proposed system called the World Wide Web.And I thought, well, that&#39;s got a pretentious name,especially since the whole system ran on his computer in his office.But he was completely convinced that his World Wide Webwould take over the world one day.And he tried to persuade me to write the browser for it,because his system didn&#39;t have any graphics or fonts or layout or anything;it was just plain text.I thought, well, you know, interesting,but a guy from CERN, he&#39;s not going to do this.So we didn&#39;t do it.
+时间： 4:25
+zh-cn:在之后的几年中，超文本团体也没有承认他。在1992年，他的论文被”超文本会议“否定了。在1993年，西雅图的会议上有一个展台，和一个叫马克•安德森的人来展示他那关于万维网的小浏览器。我看到了，我认为，就这样了。就在下一年，1994年，我们在爱丁堡这里开了个会议，我对让蒂姆•伯纳斯李做主讲人没有任何意见。
+en:In the next couple of years,the hypertext community didn&#39;t recognize him either.In 1992, his paper was rejected for the Hypertext Conference.In 1993,there was a table at the conference in Seattle,and a guy called Marc Andreessenwas demonstrating his little browser for the World Wide Web.And I saw it, and I thought, yep, that&#39;s it.And the very next year, in 1994, we had the conference here in Edinburgh,and I had no opposition in having Tim Berners-Lee as the keynote speaker.
+时间： 4:51
+zh-cn:因此我进了非常著名的公司。曾经有个人叫迪克•罗，这个人曾经在迪卡唱片工作并且拒绝了甲壳虫乐队。曾经也有个人叫加里•希达尔，这个人去驾驶他的飞机，当IBM为了IBM个人电脑寻找一个操作系统的时候，他当时不在那里，所以他们回去见了比尔•盖茨。还有12家出版商，那些拒绝了J.K 罗琳的哈利波特的人，我想。
+en:So that puts me in pretty illustrious company.There was a guy called Dick Rowewho was at Decca Records and turned down The Beatles.There was a guy called Gary Kildallwho went flying his planewhen IBM came looking for an operating systemfor the IBM PC,and he wasn&#39;t there, so they went back to see Bill Gates.And the 12 publisherswho turned down J.K. Rowling&#39;s Harry Potter, I guess.
+时间： 5:12
+zh-cn:从另一方面来说，还有马克•安德森，这个写出了世界上第一个万维网浏览器的人。根据财富杂志，他现在身价7亿美元。但他快乐吗？
+en:On the other hand, there&#39;s Marc Andreessenwho wrote the world&#39;s first browser for the World Wide Web.And according to Fortune magazine,he&#39;s worth 700 million dollars.But is he happy?
+时间： 5:22
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:24
+zh-cn:（掌声）
+en:(Applause)

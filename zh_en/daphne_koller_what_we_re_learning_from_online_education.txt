@@ -1,0 +1,159 @@
+时间： 0:11
+zh-cn:跟你们在座的人一样,我也是一个幸运的人.我生于一个教育是很普遍的家庭我是我们家里的第三代博士,我父母都是做学问的童年时,我在我父亲的大学实验室里玩耍因此毫无疑问我最后上了一些最好的大学这样就为我打开一扇巨大的机会之门
+en:Like many of you, I&#39;m one of the lucky people.I was born to a family where education was pervasive.I&#39;m a third-generation PhD, a daughter of two academics.In my childhood, I played around in my father&#39;s university lab.So it was taken for granted that I attend some of the best universities,which in turn opened the door to a world of opportunity.
+时间： 0:33
+zh-cn:不幸的是,这世上大多数的人并没那么幸运在世界的某些地方,比如说,在南非,教育确实是很难得到在南非,教育系统是在种族隔离时期为少数白人而建造的因此,如今对于那些想要并且应当得到高质量的教育的人来说却没有足够的位置今年一月,教育机会上的贫乏导致了在约翰尼斯堡大学的一个危机在正常的录取工作下还有很多位置是空的,而在他们准备打开这些位置让别人来注册的前夜,成千上万的人在门外排起了一英里长的队伍希望自己是第一个进去得到这个位置的当门打开时,出现了踩踏事件结果导致20人受伤,1个女人死亡她是一位母亲,试图为她儿子争取一个过上好生活的机会
+en:Unfortunately, most of the people in the world are not so lucky.In some parts of the world, for example, South Africa,education is just not readily accessible.In South Africa, the educational system was constructedin the days of apartheid for the white minority.And as a consequence, today there is just not enough spotsfor the many more people who want and deserve a high quality education.That scarcity led to a crisis in January of this yearat the University of Johannesburg.There were a handful of positions left openfrom the standard admissions process, and the night beforethey were supposed to open that for registration,thousands of people lined up outside the gate in a line a mile long,hoping to be first in line to get one of those positions.When the gates opened, there was a stampede,and 20 people were injured and one woman died.She was a mother who gave her lifetrying to get her son a chance at a better life.
+时间： 1:29
+zh-cn:即使在像美国这样的地区尽管教育机会开放,但仍然有可能无法垂手可得过去几年有很多人在讨论医疗保险的价格上升对于人们来说可能不明显的是,在这段时间里高等教育的消费支出几乎在以两倍的速度增长自1985年来上涨了559%这使得很多人无法负担教育费用
+en:But even in parts of the world like the United Stateswhere education is available, it might not be within reach.There has been much discussed in the last few yearsabout the rising cost of health care.What might not be quite as obvious to peopleis that during that same period the cost of higher education tuitionhas been increasing at almost twice the rate,for a total of 559 percent since 1985.This makes education unaffordable for many people.
+时间： 1:59
+zh-cn:即使对于很多有办法得到高等教育的人,机会的大门也许不会向他们打开只有仅仅过半的在美国接受高等教育的大学研究生实际工作在要求研究生学位的岗位上当然,这对于从高等院校毕业的学生来说肯定不是真的但是对于其他人来说就是,他们没有得到他们付出的时间和努力所带来的价值
+en:Finally, even for those who do manage to get the higher education,the doors of opportunity might not open.Only a little over half of recent college graduatesin the United States who get a higher educationactually are working in jobs that require that education.This, of course, is not true for the studentswho graduate from the top institutions,but for many others, they do not get the valuefor their time and their effort.
+时间： 2:25
+zh-cn:Tom Friedman,在他最近的纽约时报的文章中（以他人所不能的方式）抓住了在我们在努力背后的精神他说巨大的突破是在当突然可能的事情满足急切需要的事情时发生的我已经说了什么是急切需要的了现在让我讲讲什么是突然可能的
+en:Tom Friedman, in his recent New York Times article,captured, in the way that no one else could, the spirit behind our effort.He said the big breakthroughs are what happenwhen what is suddenly possible meets what is desperately necessary.I&#39;ve talked about what&#39;s desperately necessary.Let&#39;s talk about what&#39;s suddenly possible.
+时间： 2:44
+zh-cn:这个其实已经被斯坦福大学三个大课所展示了每种课都是100000人以上在听因此为了理解这一点,我们看看其中一个由我一个同事和Andrew Ng教授共同创办的机器研究课程Andrew是教授斯坦福的大课程的是机器研究课程每回都有400多人参加而当Andrew把这门课传播到公众当中,100000人注册了就这样来说吧,为了让他通过教授斯坦福课程来影响到那么多人他得用250年时间当然,他肯定会无聊死
+en:What&#39;s suddenly possible was demonstrated bythree big Stanford classes,each of which had an enrollment of 100,000 people or more.So to understand this, let&#39;s look at one of those classes,the Machine Learning class offered by my colleagueand cofounder Andrew Ng.Andrew teaches one of the bigger Stanford classes.It&#39;s a Machine Learning class,and it has 400 people enrolled every time it&#39;s offered.When Andrew taught the Machine Learning class to the general public,it had 100,000 people registered.So to put that number in perspective,for Andrew to reach that same size audienceby teaching a Stanford class,he would have to do that for 250 years.Of course, he&#39;d get really bored.
+时间： 3:26
+zh-cn:因此在见识到这个事情的影响之后Andrew和我决定我们得做大这件事去尽可能的为更多人带来最优质的教育因此我们创建了Coursera(译者注:Coursera.org 是一个提供免费网络课程的网站)目地是为了让人们从最好的大学、最好的导师中学到最好的课程而且免费提供给世界各地的人我们目前在平台上有43个课程来自4所大学,有各种各样的学科让我给大家看看这个网站大概是什么样子吧
+en:So, having seen the impact of this,Andrew and I decided that we needed to really try and scale this up,to bring the best quality education to as many people as we could.So we formed Coursera,whose goal is to take the best coursesfrom the best instructors at the best universitiesand provide it to everyone around the world for free.We currently have 43 courses on the platformfrom four universities across a range of disciplines,and let me show you a little bit of an overviewof what that looks like.
+时间： 3:59
+zh-cn:(视频)Robert Ghrist: 欢迎来到微积分课程
+en:(Video) Robert Ghrist: Welcome to Calculus.
+时间： 4:00
+zh-cn:Ezekiel Emanuel: 有5千万人没有保险
+en:Ezekiel Emanuel: Fifty million people are uninsured.
+时间： 4:02
+zh-cn:Scott Page: 模型帮助我们去设计更有效的制度和政策我们有不可置信的种族分离
+en:Scott Page: Models help us design more effective institutions and policies.We get unbelievable segregation.
+时间： 4:08
+zh-cn:Scot Klemmer: 因此布什想象到,在未来,你会在你头正中间带一架照相机
+en:Scott Klemmer: So Bush imagined that in the future,you&#39;d wear a camera right in the center of your head.
+时间： 4:12
+zh-cn:Mitchell Duneier: Mills想要社会学的学生们培养他们思维的质量
+en:Mitchell Duneier: Mills wants the student of sociology to develop the quality of mind ...
+时间： 4:16
+zh-cn:RG: 悬挂的电线呈双曲线型的余弦函数形状
+en:RG: Hanging cable takes on the form of a hyperbolic cosine.
+时间： 4:20
+zh-cn:Nick Parlante: 对于图像中的每一个像素, 将红色设置为0
+en:Nick Parlante: For each pixel in the image, set the red to zero.
+时间： 4:23
+zh-cn:Paul Offit: 疫苗可以帮我们去消灭小儿麻痹症的病毒
+en:Paul Offit: ... Vaccine allowed us to eliminate polio virus.
+时间： 4:26
+zh-cn:Dan Jurafsky: 德国汉莎航空公司提供早餐和San Jose吗?(译者注: San Jose是圣约瑟餐馆) 嗯，那听起来挺有意思
+en:Dan Jurafsky: Does Lufthansa serve breakfast and San Jose? Well, that sounds funny.
+时间： 4:30
+zh-cn:Daphne Koller: 这就是你选出来的硬币,这是两次投掷的结果
+en:Daphne Koller: So this is which coin you pick, and this is the two tosses.
+时间： 4:33
+zh-cn:Andrew Ng: 因此在大规模的机器研究中,我们希望得出计算型的....
+en:Andrew Ng: So in large-scale machine learning, we&#39;d like to come up with computational ...
+时间： 4:37
+zh-cn:(鼓掌)
+en:(Applause)
+时间： 4:43
+zh-cn:DK: 结果呢,可能不是很令人吃惊,学生们都喜欢免费从最好的大学得到最好的课程内容自从我们在二月创建了这个网站后,我们现在已经有来自190个国家的640000名学生我们有150万次的申请15个已经开讲的课程里的600万个小测验已被提交,1400万的视频已被观看
+en:DK: It turns out, maybe not surprisingly,that students like getting the best contentfrom the best universities for free.Since we opened the website in February,we now have 640,000 students from 190 countries.We have 1.5 million enrollments,6 million quizzes in the 15 classes that have launchedso far have been submitted, and 14 million videos have been viewed.
+时间： 5:07
+zh-cn:不过这不仅跟数字有关还跟人有关不管是来自印度的一个小镇绝不会得到斯坦福水准的课程,而且也无法支付那些课程的Akash或者是两个孩子的单身妈妈想在家里学点技能然后回去完成她的硕士学位的Jenny还是Ryan, 他不能上学因为他的无抵抗力的女儿使他必须待在家里确保没有细菌进入房间我很高兴地可以说—最近,我们在与Ryan联系最后这个故事有了一个很好的结局Shannon宝贝—你可以从左边看到她现在变得好多了而且Ryan由于上了我们提供的一些课,他得到了一份工作
+en:But it&#39;s not just about the numbers,it&#39;s also about the people.Whether it&#39;s Akash, who comes from a small town in Indiaand would never have access in this caseto a Stanford-quality courseand would never be able to afford it.Or Jenny, who is a single mother of twoand wants to hone her skillsso that she can go back and complete her master&#39;s degree.Or Ryan, who can&#39;t go to school,because his immune deficient daughtercan&#39;t be risked to have germs come into the house,so he couldn&#39;t leave the house.I&#39;m really glad to say —recently, we&#39;ve been in correspondence with Ryan —that this story had a happy ending.Baby Shannon — you can see her on the left —is doing much better now,and Ryan got a job by taking some of our courses.
+时间： 5:51
+zh-cn:那到底是什么使得这些课程与众不同呢?毕竟,在线课程已经有很长一段时间了但不同的是这些都是真正的上课体验从固定的一天开始,然后学生每周必须去观看视频然后做家庭作业而这些都是真正的家庭作业有真正的成绩和截止日期你看以看到截止日期和使用情况的图像这些顶端表明耽搁是一个全球现象
+en:So what made these courses so different?After all, online course content has been available for a while.What made it different was that this was real course experience.It started on a given day,and then the students would watch videos on a weekly basisand do homework assignments.And these would be real homework assignmentsfor a real grade, with a real deadline.You can see the deadlines and the usage graph.These are the spikes showingthat procrastination is global phenomenon.
+时间： 6:21
+zh-cn:(笑声)
+en:(Laughter)
+时间： 6:23
+zh-cn:在每门课结束后学生们会得到一个证书他们可以把证书给雇主看然后得到一个更好的工作而我们知道很多学生都这么做了很多学生拿着证书给了他们在读的院校索要真正的大学学分因此这些学生为他们所付出的时间和努力的确在得到一些有意义的东西
+en:At the end of the course,the students got a certificate.They could present that certificateto a prospective employer and get a better job,and we know many students who did.Some students took their certificateand presented this to an educational institution at which they were enrolledfor actual college credit.So these students were really getting something meaningfulfor their investment of time and effort.
+时间： 6:45
+zh-cn:让我们谈谈在课程里面一些部分内容吧第一个就是当你摆脱了在教室里的束缚和为在线课程明确地设计内容的时候你可以不再使用,比如说单调的一小时讲座的模式你可以将材料,比如说,分成8到12分钟的短的单元每一个都代表一个连贯的概念学生可以用不同方式来反复研究这个材料取决于他们的背景,技能,和兴趣比如说,一些学生会从一点点的准备材料中收益但其他学生可能已经了解了其他学生可能对其中的一个话题感兴趣, 从而他们想去单独探索它因此这种模式可以让我们逃出“一刀切” 的教育方法并且允许学生去遵循一个更个性化的课程安排
+en:Let&#39;s talk a little bit about some of the componentsthat go into these courses.The first component is that when you move awayfrom the constraints of a physical classroomand design content explicitly for an online format,you can break away from, for example,the monolithic one-hour lecture.You can break up the material, for example,into these short, modular units of eight to 12 minutes,each of which represents a coherent concept.Students can traverse this material in different ways,depending on their background, their skills or their interests.So, for example, some students might benefitfrom a little bit of preparatory materialthat other students might already have.Other students might be interested in a particularenrichment topic that they want to pursue individually.So this format allows us to break awayfrom the one-size-fits-all model of education,and allows students to follow a much more personalized curriculum.
+时间： 7:40
+zh-cn:当然,我们都知道作为教育者,学生们干坐着看视频是学不到什么东西的.或许这努力当中最大的部分是需要让这些学生通过材料的练习去真正的理解课程有很多研究表明这一方面的重要性,比如说,去年在科学杂志上出现的一篇,表明了即使是简单的重复小练习只需要学生重复他们刚刚学到的东西会带来很大的提高效果不管是在各种成绩测试还是其他教育性的打断
+en:Of course, we all know as educatorsthat students don&#39;t learn by sitting and passively watching videos.Perhaps one of the biggest components of this effortis that we need to have studentswho practice with the materialin order to really understand it.There&#39;s been a range of studies that demonstrate the importance of this.This one that appeared in Science last year, for example,demonstrates that even simple retrieval practice,where students are just supposed to repeatwhat they already learnedgives considerably improved resultson various achievement tests down the linethan many other educational interventions.
+时间： 8:18
+zh-cn:我们在尝试在平台中去建立一个回顾性的测试以及其他各种方式的练习比如说,我们的视频不光是简单的视频每过几分钟,视频就会暂停下来然后学生必须回答一个问题
+en:We&#39;ve tried to build in retrieval practice into the platform,as well as other forms of practice in many ways.For example, even our videos are not just videos.Every few minutes, the video pausesand the students get asked a question.
+时间： 8:31
+zh-cn:(视频)SP: ...这四样东西,预期理论,双曲贴现,现状偏差,基准利率偏差.这些都被很好地记录下来因此他们都是从理性的行为中很好地记录下来的偏差
+en:(Video) SP: ... These four things. Prospect theory, hyperbolic discounting,status quo bias, base rate bias. They&#39;re all well documented.So they&#39;re all well documented deviations from rational behavior.
+时间： 8:39
+zh-cn:DK: 在这视频就暂停了然后学生需要在方框里输入答案然后提交.显然这些学生在走神儿
+en:DK: So here the video pauses,and the student types in the answer into the boxand submits. Obviously they weren&#39;t paying attention.
+时间： 8:46
+zh-cn:(笑声)
+en:(Laughter)
+时间： 8:47
+zh-cn:所以他们又试了一次而这回他们答对了这还有一个参考的解释, 如果他们想要的话然后现在视频才继续进行到讲座的下一部分这是一种我作为一名导师可能会在课堂上问的简单的问题不过当我在真正的课堂上问的时候,80%的学生还在琢磨我前面说的话15%的学生都沉浸在Facebook里,然后坐在前排的聪明蛋直接在其他人还没机会思考的之前一口报出正确答案.然后作为老师我极度满足竟然有人知道答案因此我就继续往下讲了,所以你可以看到,大多数学生只是注意到了老师问了个问题...在这,每个学生必须与材料接洽
+en:So they get to try again,and this time they got it right.There&#39;s an optional explanation if they want.And now the video moves on to the next part of the lecture.This is a kind of simple questionthat I as an instructor might ask in class,but when I ask that kind of a question in class,80 percent of the studentsare still scribbling the last thing I said,15 percent are zoned out on Facebook,and then there&#39;s the smarty pants in the front rowwho blurts out the answerbefore anyone else has had a chance to think about it,and I as the instructor am terribly gratifiedthat somebody actually knew the answer.And so the lecture moves on before, really,most of the students have even noticed that a question had been asked.Here, every single studenthas to engage with the material.
+时间： 9:33
+zh-cn:当然不光是这些回顾性的小问题应该有更多的有意义的练习性问题而且还应该在那些问题上对学生有所回馈那如果没有10000助教的话,怎么样才能批改100000名学生的作业呢?答案是,你得使用科技来帮助你幸运的是,科技已经很发达了我们现在可以批改各种各样的作业不光是选择题还有那种你在视频中看到的简答题我们还可以批改数学或者数学表达式以及数学词源我们还可以批改模型,不管是在商业课中的金融模型还是在科学或工程课上的物理模型我们还能批改一些比较复杂的编程作业
+en:And of course these simple retrieval questionsare not the end of the story.One needs to build in much more meaningful practice questions,and one also needs to provide the students with feedbackon those questions.Now, how do you grade the work of 100,000 studentsif you do not have 10,000 TAs?The answer is, you need to use technologyto do it for you.Now, fortunately, technology has come a long way,and we can now grade a range of interesting types of homework.In addition to multiple choiceand the kinds of short answer questions that you saw in the video,we can also grade math, mathematical expressionsas well as mathematical derivations.We can grade models, whether it&#39;sfinancial models in a business classor physical models in a science or engineering classand we can grade some pretty sophisticated programming assignments.
+时间：10:21
+zh-cn:让我给大家看一个比较简单的不过清晰可见这是斯坦福的计算机科学101课程学生应当去更正模糊的红色区域他们在浏览器里直接输入自己的程序你可以看到他们没有弄对,自由女神还没来拯救他们于是学生又试了一次,现在他们弄对了,然后他们就被告知可以移动到下一个题目了这种能够和材料积极互动以及被告知自己正确与否的能力对于学生学习是至关重要的
+en:Let me show you one that&#39;s actually pretty simplebut fairly visual.This is from Stanford&#39;s Computer Science 101 class,and the students are supposed to color-correctthat blurry red image.They&#39;re typing their program into the browser,and you can see they didn&#39;t get it quite right, Lady Liberty is still seasick.And so, the student tries again, and now they got it right, and they&#39;re told that,and they can move on to the next assignment.This ability to interact actively with the materialand be told when you&#39;re right or wrongis really essential to student learning.
+时间：10:51
+zh-cn:不过,当然我们还无法批改所有种类的作业确切地讲,我们缺少一种批判性思维的工作这种思维在人文类,社会科学,商业和其他领域都是极其关键的因此我们尝试去,比如说,让人文学的教职工相信多项选择题不是那么坏的一个策略不过效果却不是很好
+en:Now, of course we cannot yet gradethe range of work that one needs for all courses.Specifically, what&#39;s lacking is the kind of critical thinking workthat is so essential in such disciplinesas the humanities, the social sciences, business and others.So we tried to convince, for example,some of our humanities facultythat multiple choice was not such a bad strategy.That didn&#39;t go over really well.
+时间：11:13
+zh-cn:因此我们必须想出另外一个办法最后的解决方案是学生之间互批之前的研究表明比如Saddler和Good做的这个研究,同伴互批是一个对于提供可复写成绩的十分有效的策略这曾经只在小课堂中用过,不过这它显示了,比如说,这些学生批改的在Y轴上的分数实际上跟老师批改的在X轴上的分数较为吻合更惊奇的是,自我批改就是让学生自己给自己批改作业只要你合适地激励他们,确保他们不能随随便便就给自己一个满分-甚至跟老师批改的成绩更加吻合因此这是一个很有效的策略对于大规模作业批改来说并且还是个对于学生来说有用的学习策略因为他们实际上从这段经验中学到了东西因此我们现在就有设计出的最大的同龄人批改线这当中成千上万的学生在互相批改作业而且我必须说,这很成功
+en:So we had to come up with a different solution.And the solution we ended up using is peer grading.It turns out that previous studies show,like this one by Saddler and Good,that peer grading is a surprisingly effective strategyfor providing reproducible grades.It was tried only in small classes,but there it showed, for example,that these student-assigned grades on the y-axisare actually very well correlatedwith the teacher-assigned grade on the x-axis.What&#39;s even more surprising is that self-grades,where the students grade their own work critically —so long as you incentivize them properlyso they can&#39;t give themselves a perfect score —are actually even better correlated with the teacher grades.And so this is an effective strategythat can be used for grading at scale,and is also a useful learning strategy for the students,because they actually learn from the experience.So we now have the largest peer-grading pipeline ever devised,where tens of thousands of studentsare grading each other&#39;s work,and quite successfully, I have to say.
+时间：12:10
+zh-cn:不过这不只是学生们在客厅干坐着解决问题在我们的每一个课程一个团队的学生形成了了一个全球性的社区都有一个共同的智力目标你在这里看到一张自动生成的地图显示在普林斯顿社会学101课程的学生从世界各地而来你看以看到这种努力的全球性延伸
+en:But this is not just about studentssitting alone in their living room working through problems.Around each one of our courses,a community of students had formed,a global community of peoplearound a shared intellectual endeavor.What you see here is a self-generated mapfrom students in our Princeton Sociology 101 course,where they have put themselves on a world map,and you can really see the global reach of this kind of effort.
+时间：12:35
+zh-cn:学生在这些课程中以不同的方式进行合作第一,我们有一个问答平台学生可以提出问题,然后其他学生可以回答问题最惊奇的是因为学生太多了这意味着即使有学生在凌晨3点提出一个问题在世界上的某个地方总有人会醒着在同一问题上工作因此,在许多课程中,在问答平台上的回答时间中间值只有22分钟这比我对我斯坦福学生的服务要好得多
+en:Students collaborated in these courses in a variety of different ways.First of all, there was a question and answer forum,where students would pose questions,and other students would answer those questions.And the really amazing thing is,because there were so many students,it means that even if a student posed a questionat 3 o&#39;clock in the morning,somewhere around the world,there would be somebody who was awakeand working on the same problem.And so, in many of our courses,the median response time for a questionon the question and answer forum was 22 minutes.Which is not a level of service I have ever offered to my Stanford students.
+时间：13:13
+zh-cn:(笑声)
+en:(Laughter)
+时间：13:14
+zh-cn:你还可以从学生的证明书里看到学生实际上发现因为这个巨大的线上社区学生其实可以以多种方式进行互动这其实比在一个教室里的收获还多学生们还都“组装”自己我们对此不进行任何干扰组织形成学习小组这里面有些是物理学习小组来研究地理条件限制他们每周见面去研究一系列问题这是旧金山学习小组不过这些人都来自世界各地其他都是实质上的小组有时候通过语言和文化来划分在左下方这里你看以看到我们多文化的学习小组人们直率地去和有其他文化背景的人主动交流
+en:And you can see from the student testimonialsthat students actually findthat because of this large online community,they got to interact with each other in many waysthat were deeper than they did in the context of the physical classroom.Students also self-assembled,without any kind of intervention from us,into small study groups.Some of these were physical study groupsalong geographical constraintsand met on a weekly basis to work through problem sets.This is the San Francisco study group,but there were ones all over the world.Others were virtual study groups,sometimes along language lines or along cultural lines,and on the bottom left there,you see our multicultural universal study groupwhere people explicitly wanted to connectwith people from other cultures.
+时间：13:59
+zh-cn:这种框架的构建就带来一些巨大的机会首先它拥有带给我们前所未有的在了解人类学习方面的潜力因为我们这里能收集到的数据是独一无二的你可以收集到每一次点击,每一次作业提交每一份来自成千上万学生的论坛帖子因此你可以将人类学习的模式从理论假设的形式变为以数据为基础的形式,这是一种,比方说,已经变革生物科学的转型你可以通过这些数据去了解最基本的问题比如说,哪些是好的学习策略哪些是有效的而哪些是无效的?而在特定的几个课程背景中,你可以问像这样的问题:有哪些误解是十分常见的,如何需要我们帮助学生去更正它们?
+en:There are some tremendous opportunitiesto be had from this kind of framework.The first is that it has the potential of giving usa completely unprecedented lookinto understanding human learning.Because the data that we can collect here is unique.You can collect every click, every homework submission,every forum post from tens of thousands of students.So you can turn the study of human learningfrom the hypothesis-driven modeto the data-driven mode, a transformation that,for example, has revolutionized biology.You can use these data to understand fundamental questionslike, what are good learning strategiesthat are effective versus ones that are not?And in the context of particular courses,you can ask questionslike, what are some of the misconceptions that are more commonand how do we help students fix them?
+时间：14:52
+zh-cn:这儿有一个例子同样是从Andrew的机器研究课程来的这是对于Andrew其中一项作业所有错误答案的分布答案都是数对因此你可以在二维图象里画出来每一个你看到的小叉叉就是一个不同的错误答案在左上方的大叉叉指的是有2000个学生得出了一样的错误答案现在，如果有两个学生在100人的课堂里给出了同样的错误答案你肯定发现不了不过当2000人都给出同样的错误答案就很难看不到了因此Andrew和他的学生分析了一些作业然后找到了误解的根本原因然后他们创建了一条专门针对提供错误答案学生的特别信息这样一来这些学生就可以得到一种个性化的回馈告诉他们如何更有效地更正误解
+en:So here&#39;s an example of that,also from Andrew&#39;s Machine Learning class.This is a distribution of wrong answersto one of Andrew&#39;s assignments.The answers happen to be pairs of numbers,so you can draw them on this two-dimensional plot.Each of the little crosses that you see is a different wrong answer.The big cross at the top leftis where 2,000 studentsgave the exact same wrong answer.Now, if two students in a class of 100give the same wrong answer,you would never notice.But when 2,000 students give the same wrong answer,it&#39;s kind of hard to miss.So Andrew and his students went in,looked at some of those assignments,understood the root cause of the misconception,and then they produced a targeted error messagethat would be provided to every studentwhose answer fell into that bucket,which means that students who made that same mistakewould now get personalized feedbacktelling them how to fix their misconception much more effectively.
+时间：15:48
+zh-cn:因此这种个性化的东西是通过利用大规模数据的优势来创建的个性化估计也是这儿最大的机会之一因为它提供给我们一种解决30年未决的问题的潜力教育研究家Benjamin Bloom在1984年提出了叫做2 sigma问题他通过学习三种人群观察到的第一是在以授课为基础的课堂中学习的人群第二是使用标准的以授课为基础的课堂学习的人群第二是使用标准的以授课为基础的课堂学习的人群但是有一个旨在精通的方法因此学生必须熟练掌握前一个话题才能继续学习下一个因此学生必须熟练掌握前一个话题才能继续学习下一个最后一个就是在导师一对一课程中受教育的人群旨在精通的人群是完全标准差或者sigma,他们在成就分数方面比标准的以授课为基础的班要好得多而导师一对一的课程在表现提高方面就有2个sigma
+en:So this personalization is something that one can then buildby having the virtue of large numbers.Personalization is perhapsone of the biggest opportunities here as well,because it provides us with the potentialof solving a 30-year-old problem.Educational researcher Benjamin Bloom, in 1984,posed what&#39;s called the 2 sigma problem,which he observed by studying three populations.The first is the population that studied in a lecture-based classroom.The second is a population of students that studiedusing a standard lecture-based classroom,but with a mastery-based approach,so the students couldn&#39;t move on to the next topicbefore demonstrating mastery of the previous one.And finally, there was a population of studentsthat were taught in a one-on-one instruction using a tutor.The mastery-based population was a full standard deviation,or sigma, in achievement scores betterthan the standard lecture-based class,and the individual tutoring gives you 2 sigmaimprovement in performance.
+时间：16:47
+zh-cn:为了了解这意味着什么,让我们看看以授课为基础的课堂吧我们把中位数当做一个门槛因此在以授课为基础的课堂中是一半对一半在导师一对一授课中,98%都达到了门槛想象一个如果我们教的学生98%都在平均标准之上因此,就有这个2 sigma的问题
+en:To understand what that means,let&#39;s look at the lecture-based classroom,and let&#39;s pick the median performance as a threshold.So in a lecture-based class,half the students are above that level and half are below.In the individual tutoring instruction,98 percent of the students are going to be above that threshold.Imagine if we could teach so that 98 percent of our studentswould be above average.Hence, the 2 sigma problem.
+时间：17:15
+zh-cn:因为我们作为一个社会不可能去给每一个学生都提供一个一对一的导师但是我们可以提供给他们每人一台电脑或者一部智能手机因此问题是,我们如何应该使用科技去推动我们摆脱左边蓝色的图像,最后到达右边绿色的图像呢?通过电脑来实现精通的目地是很简单的,因为电脑对于放5遍同样的视频来说,从来不嫌累而且多次批改同样的作业也不会累我们在很多我举的例子当中也看到了而且甚至我们也看到个性化的设计在逐渐开始发展不管是通过课程中个性化的轨道或是一些我们给大家展示的个性化反馈因此我们的目标是尝试看看我们能够多接近那个绿色的图像
+en:Because we cannot afford, as a society,to provide every student with an individual human tutor.But maybe we can afford to provide each studentwith a computer or a smartphone.So the question is, how can we use technologyto push from the left side of the graph, from the blue curve,to the right side with the green curve?Mastery is easy to achieve using a computer,because a computer doesn&#39;t get tiredof showing you the same video five times.And it doesn&#39;t even get tired of grading the same work multiple times,we&#39;ve seen that in many of the examples that I&#39;ve shown you.And even personalizationis something that we&#39;re starting to see the beginnings of,whether it&#39;s via the personalized trajectory through the curriculumor some of the personalized feedback that we&#39;ve shown you.So the goal here is to try and push,and see how far we can get towards the green curve.
+时间：18:03
+zh-cn:好吧,那如果这个这么好,大学是不是过时了?嗯,马克吐温显然这么想,他说:&quot;大学是一个教授的笔记直接成为学生的笔记,并且都没有经过两者大脑的地方.&quot;
+en:So, if this is so great, are universities now obsolete?Well, Mark Twain certainly thought so.He said that, &quot;College is a place where a professor&#39;s lecture notesgo straight to the students&#39; lecture notes,without passing through the brains of either.&quot;
+时间：18:18
+zh-cn:(笑声)
+en:(Laughter)
+时间：18:22
+zh-cn:不过我真不敢与马克吐温苟同我认为他在抱怨的不是大学而是以授课为基础的课堂模式因为这些模式在大学太流行了那让我们在往回看看,回到Plutarch(译者注：希腊历史家)他说:&quot;思想不是一个需要填充的容器,而是需要点燃的木头.&quot;因此或许我们应该在通过授课填充学生脑袋的大学少花点时间,而应当多花些时间点燃他们的创造力他们的想象力和解决问题的能力通过积极与他们交流来实现
+en:I beg to differ with Mark Twain, though.I think what he was complaining about is notuniversities but rather the lecture-based formatthat so many universities spend so much time on.So let&#39;s go back even further, to Plutarch,who said that, &quot;The mind is not a vessel that needs filling,but wood that needs igniting.&quot;And maybe we should spend less time at universitiesfilling our students&#39; minds with contentby lecturing at them, and more time igniting their creativity,their imagination and their problem-solving skillsby actually talking with them.
+时间：18:54
+zh-cn:那么我们怎么做呢?我们通过主动的学习来实现有很多研究表明,包括这个,如果你使用积极学习法的话,就是与你的学生在课堂上互动,他们的表现会在每个单位不断提高,在出勤,在参与度,在学习方面尤其在被一个标准测试衡量的时候你可以看到,比如说,成就分数在这个实验中几乎都翻倍了或许这就是我们如何应当度过大学时光的办法
+en:So how do we do that?We do that by doing active learning in the classroom.So there&#39;s been many studies, including this one,that show that if you use active learning,interacting with your students in the classroom,performance improves on every single metric —on attendance, on engagement and on learningas measured by a standardized test.You can see, for example, that the achievement scorealmost doubles in this particular experiment.So maybe this is how we should spend our time at universities.
+时间：19:22
+zh-cn:因此总结一下,如果我们能免费向世上的每个人提供高质量的教育因此总结一下,如果我们能免费向世上的每个人提供高质量的教育那么会怎么样了?会是这样:首先教育变成了人类最基本的权利世界上所有有能力和积极性的人世界上所有有能力和积极性的人都可以得到他们想需要的技能为他们自己,他们家人, 他们的社区追求更好的生活为他们自己,他们家人, 他们的社区追求更好的生活
+en:So to summarize, if we could offer a top quality educationto everyone around the world for free,what would that do? Three things.First it would establish education as a fundamental human right,where anyone around the worldwith the ability and the motivationcould get the skills that they needto make a better life for themselves,their families and their communities.
+时间：19:44
+zh-cn:第二,这会使终生学习成为可能对于很多人,在高中或者大学结束后就再也不学了是惭愧的事对于很多人,在高中或者大学结束后就再也不学了是惭愧的事通过这样一个项目每当我们想要的时候,我们可以学一些新知识每当我们想要的时候,我们可以学一些新知识不管是用来拓展我们的思维还是改变我们的生活
+en:Second, it would enable lifelong learning.It&#39;s a shame that for so many people,learning stops when we finish high school or when we finish college.By having this amazing content be available,we would be able to learn something newevery time we wanted,whether it&#39;s just to expand our mindsor it&#39;s to change our lives.
+时间：20:02
+zh-cn:最后,这个项目会带来一股创新潮因为哪里都能找到惊人的天赋或许下一个爱因斯坦或者乔布斯就住在非洲一个偏远的小镇上而且如果我们能为那个人提供一份教育他们可能会想出下一个极好的主意使我们的世界变得更美好
+en:And finally, this would enable a wave of innovation,because amazing talent can be found anywhere.Maybe the next Albert Einstein or the next Steve Jobsis living somewhere in a remote village in Africa.And if we could offer that person an education,they would be able to come up with the next big ideaand make the world a better place for all of us.
+时间：20:21
+zh-cn:非常感谢
+en:Thank you very much.
+时间：20:22
+zh-cn:(鼓掌)
+en:(Applause)

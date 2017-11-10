@@ -1,0 +1,45 @@
+时间： 0:11
+zh-cn:你是否曾经好奇过你的牙垢里有些什么成分？你可能从未好奇过，但像我这样的人却会思考这个问题我是个考古遗传学家在苏黎世大学的进化医药中心工作我研究的是人类健康和疾病的根源以及进化这要通过进行关于远古人类的骨骼和干尸的遗传研究通过这项工作，我希望能更好地领会人类身体的进化脆弱性以便我们改善以及在將來更好地管理我们的身体健康
+en:Have you ever wonderedwhat is inside your dental plaque?Probably not, but people like me do.I&#39;m an archeological geneticistat the Center for Evolutionary Medicineat the University of Zurich,and I study the origins and evolution of human health and diseaseby conducting genetic researchon the skeletal and mummified remains of ancient humans.And through this work, I hope to better understandthe evolutionary vulnerabilities of our bodies,so that we can improveand better manage our health in the future.
+时间： 0:42
+zh-cn:研究进化医药有不同的方法其中一种是从远古人类的骨头上提取DNA从这些提取物当中我们可以重建在不同时间点的人类基因组寻找可能与适应风险因素和遗传疾病相关的变化但这只是故事的一半
+en:There are different ways to approach evolutionary medicine,and one way is to extract human DNAfrom ancient bones.And from these extracts,we can reconstruct the human genome at different points in timeand look for changes that might be related to adaptations,risk factors and inherited diseases.But this is only one half of the story.
+时间： 1:03
+zh-cn:当今最重大的健康挑战并不是由人类基因组中的一些简单突变造成的而是源于遗传变异饮食，微生物和寄生虫以及我们的免疫反应之间的一种复杂而有活力的相互作用所有这些疾病都有一个很强的进化成分它与一个事实直接相关即我们如今生活在一个跟过去截然不同的环境中而我们的身体正是在过去的环境中进化的为了理解这些疾病我们需要带着过去对人类基因组的研究一起向一个更加整体的方向前进来研究过去的人类健康状况
+en:The most important health challenges todayare not caused by simple mutations in our genome,but rather result from a complex and dynamic interplaybetween genetic variation,diet, microbes and parasitesand our immune response.All of these diseaseshave a strong evolutionary componentthat directly relates to the factthat we live today in a very different environmentthan the ones in which our bodies evolved.And in order to understand these diseases,we need to move past studies of the human genome aloneand towards a more holistic approachto human health in the past.
+时间： 1:38
+zh-cn:但是我们面临诸多挑战首先，我们的研究对象是什么骨骼随处可见，到处都可以找到但是所有的软体组织都腐坏了而骨骼本身所携带的健康信息是很有限的干尸是一个很好的信息来源除了一点，他们受到地域的限制也受时间的限制粪化石是人类排泄物的化石实际上，它们很有意思你可以从中了解很多古代饮食和肠道疾病的信息但它们很稀少
+en:But there are a lot of challenges for this.And first of all, what do we even study?Skeletons are ubiquitous; they&#39;re found all over the place.But of course, all of the soft tissue has decomposed,and the skeleton itselfhas limited health information.Mummies are a great source of information,except that they&#39;re really geographically limitedand limited in time as well.Coprolites are fossilized human feces,and they&#39;re actually extremely interesting.You can learn a lot about ancient diet and intestinal disease,but they are very rare.
+时间： 2:10
+zh-cn:笑
+en:(Laughter)
+时间： 2:13
+zh-cn:所以为了解决这个问题我组织了一队国际研究学者他们来自瑞士，丹麦和英国来研究一种所知甚少的材料从各地的人身上都可以找到它是一种牙垢化石官方说法是dental calculus（牙垢）你们中很多人可能通过牙石这个术语而对牙垢有所了解牙垢就是每次你去看牙牙医从你的牙齿中清除的东西在一次典型的看牙过程中你可能会被清除15到30毫克的牙垢但是在古代，在有刷牙行为之前人的一生中在牙齿上可能会积累至多600毫克的牙垢
+en:So to address this problem,I put together a team of international researchersin Switzerland, Denmark and the U.K.to study a very poorly studied, little known materialthat&#39;s found on people everywhere.It&#39;s a type of fossilized dental plaquethat is called officially dental calculus.Many of you may know it by the term tartar.It&#39;s what the dentist cleans off your teethevery time that you go in for a visit.And in a typical dentistry visit,you may have about 15 to 30 milligrams removed.But in ancient times before tooth brushing,up to 600 milligrams might have built up on the teethover a lifetime.
+时间： 2:52
+zh-cn:牙垢之所以重要的原因是它就像其他骨骼一样可以变成化石在过去，它的数量很丰富在世界上随处可见我们在全球各个国家的人口中都能找到牙垢其时间段可追溯到千万年以前我们甚至在尼安德特人和动物身上也找到了牙垢
+en:And what&#39;s really important about dental calculusis that it fossilizes just like the rest of the skeleton,it&#39;s abundant in quantity before the present dayand it&#39;s ubiquitous worldwide.We find it in every population around the world at all time periodsgoing back tens of thousands of years.And we even find it in neanderthals and animals.
+时间： 3:11
+zh-cn:因此之前的研究仅仅关注了显微镜学它们在显微镜下观察牙垢它们发现了花粉和植物淀粉它们从动物的肉和细菌中发现了肌细胞所以，我的研究小组想要做的是是否能应用遗传和蛋白质组学技术来跟踪DNA和蛋白质从这一点出发，我们是否能够得到更好的分类学的解决方案来真正理解目前的状况
+en:And so previous studieshad only focused on microscopy.They&#39;d looked at dental calculus under a microscope,and what they had found was things like pollenand plant starches,and they&#39;d found muscle cells from animal meatsand bacteria.And so what my team of researchers, what we wanted to do,is say, can we applygenetic and proteomic technologyto go after DNA and proteins,and from this can we get better taxonomic resolutionto really understand what&#39;s going on?
+时间： 3:40
+zh-cn:我们发现我们可以找到很多共生体和病原细菌它们位于鼻腔通道和嘴巴里我们也找到了关于感染和炎症的免疫蛋白以及与饮食有关的蛋白质和DNA但是令我们感到奇怪和兴奋的是我们也发现了通常位于上呼吸道系统的细菌所以它给了我们接触肺部的虚拟途径而肺正是感染很多重要疾病的部位
+en:And what we foundis that we can find many commensal and pathogenic bacteriathat inhabited the nasal passages and mouth.We also have found immune proteinsrelated to infection and inflammationand proteins and DNA related to diet.But what was surprising to us, and also quite exciting,is we also found bacteriathat normally inhabit upper respiratory systems.So it gives us virtual access to the lungs,which is where many important diseases reside.
+时间： 4:09
+zh-cn:我们也找到了通常位于肠道的细菌所以我们现在也可以虚拟地接触到这个隔得更远的器官系统而从骨骼本身来说这个系统早就腐化了因此，通过对牙垢应用古代DNA排序和蛋白质谱技术我们可以获得大量的数据我们可以用这些数据来开始重建千万年前饮食，感染和免疫之间富有活力的相互作用
+en:And we also found bacteriathat normally inhabit the gut.And so we can also now virtually gain accessto this even more distant organ systemthat, from the skeleton alone,has long decomposed.And so by applying ancient DNA sequencingand protein mass spectrometry technologiesto ancient dental calculus,we can generate immense quantities of datathat then we can use to begin to reconstruct a detailed pictureof the dynamic interplaybetween diet, infection and immunitythousands of years ago.
+时间： 4:40
+zh-cn:所以起初的想法现在已经被付诸实施来做出数百万的排序我们可以用这些排序来调查人类健康和疾病的长期进化史一直到个体病原体的遗传密码从这个信息中我们可以学到病原体是如何进化的以及为什么它们能够一直让人生病我希望我已经说服了你们关于牙垢的价值
+en:So what started out as an idea,is now being implementedto churn out millions of sequencesthat we can use to investigatethe long-term evolutionary history of human health and disease,right down to the genetic code of individual pathogens.And from this informationwe can learn about how pathogens evolveand also why they continue to make us sick.And I hope I have convinced youof the value of dental calculus.
+时间： 5:05
+zh-cn:最后，我想要代表未来的考古学家请求你们在回家刷牙之前三思而后行
+en:And as a final parting thought,on behalf of future archeologists,I would like to ask you to please think twicebefore you go home and brush your teeth.
+时间： 5:15
+zh-cn:鼓掌
+en:(Applause)
+时间： 5:17
+zh-cn:谢谢
+en:Thank you.
+时间： 5:19
+zh-cn:鼓掌
+en:(Applause)

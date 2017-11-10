@@ -1,0 +1,72 @@
+时间： 0:11
+zh-cn:在我还是孩子的时候 ，我是一个典型的书呆子。我猜你们的一部分人和我一样。
+en:When I was a kid,I was the quintessential nerd.I think some of you were, too.
+时间： 0:18
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:19
+zh-cn:还有你，那位先生，笑得最大声，说不定你现在还是呢。
+en:And you, sir, who laughed the loudest,you probably still are.
+时间： 0:23
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:25
+zh-cn:我成长在德克萨斯州北部荒凉平原上的一个小镇。我的爸爸是警长，爷爷是一位牧师，所以自找麻烦从来不是一个好的选项。所以我开始看有关微积分的书来打发时间。
+en:I grew up in a small townin the dusty plains of north Texas,the son of a sheriffwho was the son of a pastor.Getting into trouble was not an option.And so I started readingcalculus books for fun.
+时间： 0:38
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:39
+zh-cn:你也是这样。于是我学着制作了一个激光器，一台电脑，和一个火箭模型，并且在自己的卧室制取火箭燃料。现在，从科学的角度而言，我们把这个叫做一个糟糕透顶的主意。
+en:You did, too.That led me to building a laserand a computer and model rockets,and that led me to makingrocket fuel in my bedroom.Now, in scientific terms,we call this a very bad idea.
+时间： 0:55
+zh-cn:（笑声）
+en:(Laughter)
+时间： 0:57
+zh-cn:在差不多同一时间，Stanley Kubrick的“2001：太空漫游”上映了，我的生活从此改变。我喜欢关于那部电影的一切，特别是 HAL 9000。HAL是一台有情感的电脑，为引导“发现一号”飞船从地球前往木星而设计出来。HAL 也是一个有缺陷的角色，因为在结尾他将任务的价值置于生命之上。HAL 是一个虚构的角色，但尽管如此，他挑战了我们的恐惧，被一些冷漠无情的人工智能（AI）所统治的恐惧。
+en:Around that same time,Stanley Kubrick&#39;s &quot;2001: A Space Odyssey&quot;came to the theaters,and my life was forever changed.I loved everything about that movie,especially the HAL 9000.Now, HAL was a sentient computerdesigned to guide the Discovery spacecraftfrom the Earth to Jupiter.HAL was also a flawed character,for in the end he choseto value the mission over human life.Now, HAL was a fictional character,but nonetheless he speaks to our fears,our fears of being subjugatedby some unfeeling, artificial intelligencewho is indifferent to our humanity.
+时间： 1:36
+zh-cn:但我相信这些恐惧只是杞人忧天。的确，我们正处于人类历史上一个值得铭记的时间点，不甘被自身肉体和头脑所局限，我们正在制造那些可以通过我们无法想象的方式来拓展人类体验的机器，它们精美，复杂，而且优雅。
+en:I believe that such fears are unfounded.Indeed, we stand at a remarkable timein human history,where, driven by refusal to acceptthe limits of our bodies and our minds,we are building machinesof exquisite, beautifulcomplexity and gracethat will extend the human experiencein ways beyond our imagining.
+时间： 1:58
+zh-cn:我在空军学院和航天司令部工作过，现在是一个系统工程师。最近我碰到了一个和NASA火星任务相关的工程问题。当前，前往月球的宇宙飞行，我们可以依靠休斯顿的指挥中心来密切关注飞行的各个方面。但是，火星相比而言多出了200倍的距离，这使得一个信号从地球到火星平均要花费13分钟。如果有了麻烦，我们并没有足够的时间来解决。所以一个可靠的工程解决方案促使我们把一个指挥中枢放在“猎户星”飞船之中。在任务档案中的另一个创意是在人类抵达火星之前，把人形机器人先一步放在火星表面，它们可以先建造据点，然后作为科学团队的合作伙伴驻扎。
+en:After a career that led mefrom the Air Force Academyto Space Command to now,I became a systems engineer,and recently I was drawninto an engineering problemassociated with NASA&#39;s mission to Mars.Now, in space flights to the Moon,we can rely uponmission control in Houstonto watch over all aspects of a flight.However, Mars is 200 times further away,and as a result it takeson average 13 minutesfor a signal to travelfrom the Earth to Mars.If there&#39;s trouble,there&#39;s not enough time.And so a reasonable engineering solutioncalls for us to put mission controlinside the walls of the Orion spacecraft.Another fascinating ideain the mission profileplaces humanoid robotson the surface of Marsbefore the humans themselves arrive,first to build facilitiesand later to serve as collaborativemembers of the science team.
+时间： 2:54
+zh-cn:当我从工程师的角度看待这个想法，对于建造一个聪明，懂得合作，擅长社交的人工智能的需求是十分明显的。换句话说，我需要建造一个和HAL一样，但是没有谋杀倾向的机器。
+en:Now, as I looked at thisfrom an engineering perspective,it became very clear to methat what I needed to architectwas a smart, collaborative,socially intelligentartificial intelligence.In other words, I needed to buildsomething very much like a HALbut without the homicidal tendencies.
+时间： 3:11
+zh-cn:（笑声）
+en:(Laughter)
+时间： 3:13
+zh-cn:待会儿再回到这个话题。真的有可能打造一个类似的人工智能吗？是的，当然可以。在许多方面，一个困难的工程问题来自于AI的各个零件，而不是什么琐碎的AI问题。借用Alan Turing的话来说，我没有兴趣建造一台有情感的机器。我不是要建造HAL。我只想要一个简单的大脑，一个能让你以为它有智能的东西。
+en:Let&#39;s pause for a moment.Is it really possible to buildan artificial intelligence like that?Actually, it is.In many ways,this is a hard engineering problemwith elements of AI,not some wet hair ball of an AI problemthat needs to be engineered.To paraphrase Alan Turing,I&#39;m not interestedin building a sentient machine.I&#39;m not building a HAL.All I&#39;m after is a simple brain,something that offersthe illusion of intelligence.
+时间： 3:44
+zh-cn:自从HAL登上荧幕，关于编程的技术和艺术已经发展了许多，我能想象如果它的发明者Chandra博士今天在这里的话，他会有很多的问题问我们。我们真的可能用一个连接了无数设备的系统，通过读取数据流，来预测它们的失败并提前行动吗？是的。我们能建造一个和人类用语言交流的系统吗？能。我们能够打造一个能辨识目标，鉴别情绪，表现自身情感，打游戏，甚至读唇的系统吗？可以。我们可以建造一个能设定目标，通过各种达成目的的方法来学习的系统吗？也可以。我们可以建造一个类似人脑的系统吗？这是我们正在努力做的。我们可以建造一个有道德和感情基础的系统吗？这是我们必须要学习的。总而言之，建造一个类似的用于这类任务的人工智能是可行的。
+en:The art and the science of computinghave come a long waysince HAL was onscreen,and I&#39;d imagine if his inventorDr. Chandra were here today,he&#39;d have a whole lot of questions for us.Is it really possible for usto take a system of millionsupon millions of devices,to read in their data streams,to predict their failuresand act in advance?Yes.Can we build systems that conversewith humans in natural language?Yes.Can we build systemsthat recognize objects, identify emotions,emote themselves,play games and even read lips?Yes.Can we build a system that sets goals,that carries out plans against those goalsand learns along the way?Yes.Can we build systemsthat have a theory of mind?This we are learning to do.Can we build systems that havean ethical and moral foundation?This we must learn how to do.So let&#39;s accept for a momentthat it&#39;s possible to buildsuch an artificial intelligencefor this kind of mission and others.
+时间： 4:42
+zh-cn:另一个你必须扪心自问的问题是，我们应该害怕它吗？毕竟，每一种新技术都给我们带来某种程度的不安。我们第一次看见汽车的时候，人们悲叹我们会看到家庭的毁灭。我们第一次看见电话的时候，人们担忧这会破坏所有的文明交流。在某个时间点我们看到书写文字的蔓延，人们认为我们会丧失记忆的能力。这些在某个程度上是合理的，但也正是这些技术给人类的生活在某些方面带来了前所未有的体验。
+en:The next questionyou must ask yourself is,should we fear it?Now, every new technologybrings with itsome measure of trepidation.When we first saw cars,people lamented that we would seethe destruction of the family.When we first saw telephones come in,people were worried it would destroyall civil conversation.At a point in time we sawthe written word become pervasive,people thought we would loseour ability to memorize.These things are all true to a degree,but it&#39;s also the casethat these technologiesbrought to us thingsthat extended the human experiencein some profound ways.
+时间： 5:20
+zh-cn:我们再稍稍扩展一下。我并不畏惧这类人工智能的诞生，因为它最终会融入我们的部分价值观。想想这个：建造一个认知系统与建造一个以传统的软件为主的系统有着本质的不同。我们不编译它们。我们教导它们。为了教会系统如何识别花朵，我给它看了上千种我喜欢的花。为了教会系统怎么打游戏——当然，我会。你们也会。我喜欢花。这没什么。为了教会系统如何玩像围棋一样的游戏，我玩了许多围棋的游戏，但是在这个过程中我也教会它如何分别差游戏和好游戏。如果我想要一个人工智能法律助手，我会给它一些法律文集，但同时我会将 怜悯和正义也是法律的一部分 这种观点融入其中。用一个术语来解释，就是我们所说的真相，而关键在于：为了制造这些机器，我们正教给它们我们的价值观。正因如此，我相信一个人工智能绝不逊于一个经过良好训练的人类。
+en:So let&#39;s take this a little further.I do not fear the creationof an AI like this,because it will eventuallyembody some of our values.Consider this: building a cognitive systemis fundamentally differentthan building a traditionalsoftware-intensive system of the past.We don&#39;t program them. We teach them.In order to teach a systemhow to recognize flowers,I show it thousands of flowersof the kinds I like.In order to teach a systemhow to play a game —Well, I would. You would, too.I like flowers. Come on.To teach a systemhow to play a game like Go,I&#39;d have it play thousands of games of Go,but in the process I also teach ithow to discerna good game from a bad game.If I want to create an artificiallyintelligent legal assistant,I will teach it some corpus of lawbut at the same time I am fusing with itthe sense of mercy and justicethat is part of that law.In scientific terms,this is what we call ground truth,and here&#39;s the important point:in producing these machines,we are therefore teaching thema sense of our values.To that end, I trustan artificial intelligencethe same, if not more,as a human who is well-trained.
+时间： 6:35
+zh-cn:但是，你或许会问，要是流氓组织，和资金充沛的无政府组织也在利用它们呢？我并不害怕独狼掌控的人工智能。很明显，我们无法从随机的暴力行为中保护自己，但是现实是，制造这样一个系统超越了个人所拥有资源的极限，因为它需要踏实细致的训练和培养。还有，这远比向世界散播一个网络病毒，比如你按下一个按钮，瞬间全世界都被感染，并且在各处的笔记本电脑中开始爆发来的复杂。这类东西正在越来越强大，我们必然会看到它们的来临。
+en:But, you may ask,what about rogue agents,some well-fundednongovernment organization?I do not fear an artificial intelligencein the hand of a lone wolf.Clearly, we cannot protect ourselvesagainst all random acts of violence,but the reality is such a systemrequires substantial trainingand subtle trainingfar beyond the resources of an individual.And furthermore,it&#39;s far more than just injectingan internet virus to the world,where you push a button,all of a sudden it&#39;s in a million placesand laptops start blowing upall over the place.Now, these kinds of substancesare much larger,and we&#39;ll certainly see them coming.
+时间： 7:13
+zh-cn:我会害怕一个有可能威胁所有人类的人工智能吗？如果你看过《黑客帝国》，《大都会》，《终结者》，或者《西部世界》这类电视剧，它们都在表达这种恐惧。的确，在哲学家Nick Bostrom写的《超级智能》中，他选择了这个主题，并且观察到超级智能不仅仅危险，它还对所有人类的存在造成了威胁。Bostrom博士的基础观点认为，这样的系统迟早会产生对信息的无止境渴求，也许它们会开始学习，并且最终发现它们的目的和人类的需求背道而驰。Bostrom博士有一群粉丝。Elon Musk和Stephen Hawking也支持他。虽然要向这些伟大的头脑致以崇高的敬意，但我还是相信他们从一开始就错了。Bostrom博士的观点有很多地方可以细细体会，但现在我没有时间一一解读，简要而言，请考虑这句话：全知并非全能。HAL成为了对发现一号成员的威胁，只是因为它控制了发现一号的各个方面。正因如此它才需要是一个人工智能。它需要对于我们世界的完全掌控。这就是《终结者》中的天网，一个控制了人们意志，控制了世界各处各个机器的超级智能。说实在的，这完全是杞人忧天。我们不是在制造可以控制天气，引导潮水，指挥我们这些多变，混乱的人类的人工智能。另外，即使这类人工智能存在，它需要和人类的经济竞争，进而和我们拥有的资源竞争。最后——不要告诉Siri——我们可以随时拔掉电源。
+en:Do I fear that suchan artificial intelligencemight threaten all of humanity?If you look at moviessuch as &quot;The Matrix,&quot; &quot;Metropolis,&quot;&quot;The Terminator,&quot;shows such as &quot;Westworld,&quot;they all speak of this kind of fear.Indeed, in the book &quot;Superintelligence&quot;by the philosopher Nick Bostrom,he picks up on this themeand observes that a superintelligencemight not only be dangerous,it could represent an existential threatto all of humanity.Dr. Bostrom&#39;s basic argumentis that such systems will eventuallyhave such an insatiablethirst for informationthat they will perhaps learn how to learnand eventually discoverthat they may have goalsthat are contrary to human needs.Dr. Bostrom has a number of followers.He is supported by peoplesuch as Elon Musk and Stephen Hawking.With all due respectto these brilliant minds,I believe that theyare fundamentally wrong.Now, there are a lot of piecesof Dr. Bostrom&#39;s argument to unpack,and I don&#39;t have time to unpack them all,but very briefly, consider this:super knowing is very differentthan super doing.HAL was a threat to the Discovery crewonly insofar as HAL commandedall aspects of the Discovery.So it would have to bewith a superintelligence.It would have to have dominionover all of our world.This is the stuff of Skynetfrom the movie &quot;The Terminator&quot;in which we had a superintelligencethat commanded human will,that directed every devicethat was in every corner of the world.Practically speaking,it ain&#39;t gonna happen.We are not building AIsthat control the weather,that direct the tides,that command uscapricious, chaotic humans.And furthermore, if suchan artificial intelligence existed,it would have to competewith human economies,and thereby compete for resources with us.And in the end —don&#39;t tell Siri this —we can always unplug them.
+时间： 9:12
+zh-cn:（笑声）
+en:(Laughter)
+时间： 9:16
+zh-cn:我们正处于和机器共同演化的奇妙旅途之中。未来的人类将与今天的人类大相径庭。当前对人工智能崛起的担忧，从各方面来说都是一个危险的错误指引，因为电脑的崛起带给了我们许多必须参与的关乎人类和社会的问题。我应该如何管理社会来应对人类劳工需求量的降低？我应该怎样在进行全球化交流和教育的同时，依旧尊重彼此的不同？我应该如何通过可认知医疗来延长并强化人类的生命？我应该如何通过计算机来帮助我们前往其他星球？
+en:We are on an incredible journeyof coevolution with our machines.The humans we are todayare not the humans we will be then.To worry now about the riseof a superintelligenceis in many ways a dangerous distractionbecause the rise of computing itselfbrings to us a numberof human and societal issuesto which we must now attend.How shall I best organize societywhen the need for human labor diminishes?How can I bring understandingand education throughout the globeand still respect our differences?How might I extend and enhance human lifethrough cognitive healthcare?How might I use computingto help take us to the stars?
+时间：10:00
+zh-cn:这些都很令人兴奋。通过计算机来升级人类体验的机会就在我们手中，就在此时此刻，我们的旅途才刚刚开始。
+en:And that&#39;s the exciting thing.The opportunities to use computingto advance the human experienceare within our reach,here and now,and we are just beginning.
+时间：10:13
+zh-cn:谢谢大家。
+en:Thank you very much.
+时间：10:14
+zh-cn:（掌声）
+en:(Applause)

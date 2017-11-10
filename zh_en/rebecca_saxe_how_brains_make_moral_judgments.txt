@@ -1,0 +1,189 @@
+时间： 0:11
+zh-cn:今天我要和大家谈的是有关于人的观念接下来我要讲的内容不是我们所熟悉的哲学的问题比如“我们根本不知道其它人是否真的有思想”也就是说，也学你是有思想的但对其它人实际上不过就一机器人这类问题都是哲学的问题但为了今天的演讲，我会假设这里的听众都有自己的思想，所以我就不用担心“是否有观念”这个命题
+en:Today I&#39;m going to talk to you about the problem of other minds.And the problem I&#39;m going to talk aboutis not the familiar one from philosophy,which is, &quot;How can we knowwhether other people have minds?&quot;That is, maybe you have a mind,and everyone else is just a really convincing robot.So that&#39;s a problem in philosophy,but for today&#39;s purposes I&#39;m going to assumethat many people in this audience have a mind,and that I don&#39;t have to worry about this.
+时间： 0:36
+zh-cn:第二个问题是是像我们这些作为父母，老师,已婚之人还有小说家经常碰到“为什么去了解别人的企图或者想法如此之难？&quot;也许更贴切的说法是“为什么去改变他人的企图和信仰如此难？&quot;
+en:There is a second problem that is maybe even more familiar to usas parents and teachers and spousesand novelists,which is, &quot;Why is it so hardto know what somebody else wants or believes?&quot;Or perhaps, more relevantly,&quot;Why is it so hard to change what somebody else wants or believes?&quot;
+时间： 0:53
+zh-cn:我觉得小说家们最能描述这个问题正如菲利普·罗斯所说我们究竟对别人做了什么恐怖的事？那就是我们所有人在没有能力的情况下的去预想他人的内心想法还有那些无法看见的目的”当然，作为一名教师，而且还是一名一个已婚人士我每天也同样遭遇类似的问题但是作为一名科学家，我对其它的不同于这些的观点更有兴趣这也是我今天将要给大家介绍的内容这个问题就是“怎么才能简单的去知道别人的想法？”
+en:I think novelists put this best.Like Philip Roth, who said,&quot;And yet, what are we to do about this terribly significant businessof other people?So ill equipped are we all,to envision one another&#39;s interior workingsand invisible aims.&quot;So as a teacher and as a spouse,this is, of course, a problem I confront every day.But as a scientist, I&#39;m interested in a different problem of other minds,and that is the one I&#39;m going to introduce to you today.And that problem is, &quot;How is it so easyto know other minds?&quot;
+时间： 1:23
+zh-cn:我们以这张图片开始你几乎不需要额外信息第一眼看见这个陌生人就能猜到这个女人在想什么或者这个男人呢换一种说法，这问题的纠结在于我们是用什么样的机制去思考别人的想法，我们的大脑，是由各种成千上万的脑细胞所组成这点和其它动物，如猴子老鼠，甚至于软体动物都是一样然而，当你把它们以某种特殊的网络组合在一起的时候你就拥有书写《罗密欧与朱丽叶》这样的能力或者说，像格林斯潘做过的一样“我知道你认为自己已经能理解我说过的话但是我不确定你是否真的听明白我说的内容它是不是我要表达的意思”（笑）
+en:So to start with an illustration,you need almost no information,one snapshot of a stranger,to guess what this woman is thinking,or what this man is.And put another way, the crux of the problem isthe machine that we use for thinking about other minds,our brain, is made up of pieces, brain cells,that we share with all other animals, with monkeysand mice and even sea slugs.And yet, you put them together in a particular network,and what you get is the capacity to write Romeo and Juliet.Or to say, as Alan Greenspan did,&quot;I know you think you understand what you thought I said,but I&#39;m not sure you realize that what you heardis not what I meant.&quot;(Laughter)
+时间： 2:05
+zh-cn:我工作的研究领域是认知神经科学就是研究每一个人的这些想法然后尝试如何能把它们归到一起简单的单元，简单的信息，不受到时间和空间的限制具有这些就可以拥有人类思考的能力我下来要和大家主要谈三个方面的事情很明显，这样的一个研究项目非常庞大我只谈到的只是我们最初的几个研究阶段有关于发现大脑中用于思考的区域另外一些是观察这个机制是如何慢慢发展起来因为我们要明白如何去完成这份困难的任务最后一个是，展现下人与人之间的差别我们如何去给他人下结论通过脑系统可以解释这之前的差异
+en:So, the job of my field of cognitive neuroscienceis to stand with these ideas,one in each hand.And to try to understand how you can put togethersimple units, simple messages over space and time, in a network,and get this amazing human capacity to think about minds.So I&#39;m going to tell you three things about this today.Obviously the whole project here is huge.And I&#39;m going to tell you just our first few stepsabout the discovery of a special brain regionfor thinking about other people&#39;s thoughts.Some observations on the slow development of this systemas we learn how to do this difficult job.And then finally, to show that some of the differencesbetween people, in how we judge others,can be explained by differences in this brain system.
+时间： 2:50
+zh-cn:那么首先，第一个和大家讲述的是在人类的大脑中有一个区域这个区域的任务就是去思考别人是如何思考的这里是一张关于它的图片我们称它为右颞顶联合它大概就在你右耳的后上方这张图片就是我们所使用的大脑区域当你在读《罗密欧和朱丽叶》时又或当你试着去理解格林斯潘时候就用到它但你不会使用它来解决任何逻辑推理的问题我们称这块脑区域为 RTPJ这张图片显示了典型成人的RTPJ的平均水平这种水平就是是麻省理工的大学生水平笑
+en:So first, the first thing I want to tell you is thatthere is a brain region in the human brain, in your brains,whose job it is to think about other people&#39;s thoughts.This is a picture of it.It&#39;s called the Right Temporo-Parietal Junction.It&#39;s above and behind your right ear.And this is the brain region you used when you saw the pictures I showed you,or when you read Romeo and Julietor when you tried to understand Alan Greenspan.And you don&#39;t use it for solving any other kinds of logical problems.So this brain region is called the Right TPJ.And this picture shows the average activationin a group of what we call typical human adults.They&#39;re MIT undergraduates.(Laughter)
+时间： 3:28
+zh-cn:第二个我要谈的是这个脑系统尽管我们成人的脑系统很擅长去理解他人的想法但也不是绝对的对于小孩而言需要很长的一段时间才能构建这个系统我会给大家看下这个有点缓慢的、需要外部协助发展的过程第一个演示的是3岁的孩子与5岁孩子的变化差异因为孩子要学会去理解别人可以有完全不同于自己的想法先看下一个5岁大的他面临一个标准的困惑我们把这个困惑称为“错误信念任务”
+en:The second thing I want to say about this brain systemis that although we human adultsare really good at understanding other minds,we weren&#39;t always that way.It takes children a long time to break into the system.I&#39;m going to show you a little bit of that long, extended process.The first thing I&#39;m going to show you is a change between age three and five,as kids learn to understandthat somebody else can have beliefs that are different from their own.So I&#39;m going to show you a five-year-oldwho is getting a standard kind of puzzlethat we call the false belief task.
+时间： 3:58
+zh-cn:视频：这是第一个海盗，名字叫做艾凡你知道海盗最喜欢什么吗？
+en:Rebecca Saxe (Video): This is the first pirate. His name is Ivan.And you know what pirates really like?
+时间： 4:03
+zh-cn:海盗最喜欢乳酪三明治
+en:Child: What? RS: Pirates really like cheese sandwiches.
+时间： 4:06
+zh-cn:乳酪?我爱吃乳酪
+en:Child: Cheese? I love cheese!
+时间： 4:09
+zh-cn:对的！那么艾凡有这个乳酪三明治然后他说着“嗯 嗯 嗯 嗯 嗯 嗯!我最爱乳酪三明治&quot;然后艾凡把他的三明治放在这里，一个海盗箱的上面然后艾凡又说“你知道不, 我要为午餐去弄点喝的”然后艾凡离开去取酒当艾凡离开的时候一阵风挂来把三明治吹到了草地上这时候，又来了另外一个海盗这个海盗叫做约书亚当然约书亚也一样很喜欢乳酪三明治约书亚也有一个乳酪三明治，然后他说“嗯 嗯 嗯 嗯！我爱乳酪三明治”接着他把他的乳酪三明治放到了这个海盗箱的上面
+en:RS: Yeah. So Ivan has this cheese sandwich,and he says, &quot;Yum yum yum yum yum!I really love cheese sandwiches.&quot;And Ivan puts his sandwich over here, on top of the pirate chest.And Ivan says, &quot;You know what? I need a drink with my lunch.&quot;And so Ivan goes to get a drink.And while Ivan is awaythe wind comes,and it blows the sandwich down onto the grass.And now, here comes the other pirate.This pirate is called Joshua.And Joshua also really loves cheese sandwiches.So Joshua has a cheese sandwich and he says,&quot;Yum yum yum yum yum! I love cheese sandwiches.&quot;And he puts his cheese sandwich over here on top of the pirate chest.
+时间： 4:51
+zh-cn:孩子：这个就是他的
+en:Child: So, that one is his.
+时间： 4:53
+zh-cn:丽蓓卡.萨克斯:那个是约书亚。对极了！
+en:RS: That one is Joshua&#39;s. That&#39;s right.
+时间： 4:55
+zh-cn:孩子：接着他离开这里
+en:Child: And then his went on the ground.
+时间： 4:57
+zh-cn:丽蓓卡.萨克斯:完全正确
+en:RS: That&#39;s exactly right.
+时间： 4:59
+zh-cn:孩子：那他不会知道哪个是他自己的
+en:Child: So he won&#39;t know which one is his.
+时间： 5:01
+zh-cn:丽蓓卡.萨克斯:喔，那现在约书亚离开去喝酒了艾凡回来，他说“我要我的乳酪三明治.&quot;那你认为艾凡将会拿走哪一个呢？
+en:RS: Oh. So now Joshua goes off to get a drink.Ivan comes back and he says, &quot;I want my cheese sandwich.&quot;So which one do you think Ivan is going to take?
+时间： 5:11
+zh-cn:孩子：我认为他会拿走那一个
+en:Child: I think he is going to take that one.
+时间： 5:13
+zh-cn:丽蓓卡.萨克斯:耶，你认为他会拿走这个吧？对极了。我们看看哦，你猜对了。他拿走了那个
+en:RS: Yeah, you think he&#39;s going to take that one? All right. Let&#39;s see.Oh yeah, you were right. He took that one.
+时间： 5:18
+zh-cn:对于一个5岁大的孩子已经可以清晰的理解别人可能会有误解那这种行为会有什么影响呢？现在我给你看下一个三岁大的孩子他也碰到相同的问题
+en:So that&#39;s a five-year-old who clearly understandsthat other people can have false beliefsand what the consequences are for their actions.Now I&#39;m going to show you a three-year-oldwho got the same puzzle.
+时间： 5:29
+zh-cn:视频：丽蓓卡.萨克斯：艾凡说“我想要我的乳酪三明治”他会拿那个走呢？你认为他会拿走那个吗？我们看下会有什么发生艾凡来啦。我们看看他会怎么做。他说“我要我的乳酪三明治”接着他拿走了这一个噢。他为什么要拿那个啊？
+en:RS: And Ivan says, &quot;I want my cheese sandwich.&quot;Which sandwich is he going to take?Do you think he&#39;s going to take that one? Let&#39;s see what happens.Let&#39;s see what he does. Here comes Ivan.And he says, &quot;I want my cheese sandwich.&quot;And he takes this one.Uh-oh. Why did he take that one?
+时间： 5:46
+zh-cn:他的掉在了草地上了
+en:Child: His was on the grass.
+时间： 5:50
+zh-cn:丽蓓卡.萨克斯：那么三岁大的孩子做了两件不同的事情第一个是他认定艾凡会带走那个真正是他的三明治第二，当他看到艾凡从他放置的地方拿走三明治对于我们而言会认为艾凡会拿走那一个因为艾凡认为那个是他的但是三岁大的孩子会有另外一种解释艾凡不带走本属于他三文治是他不想要因为它现在已经掉在地上被搞脏了所以这是为什他拿走另外的三明治当然，智力的发展不是在5岁时候就结束了我们可以看到随着年龄增长，去学习理解他人想法的是一个连续的过程接着我问小孩子们，不是关于海盗的做法而是对道德的判断首先再给大家看下三岁大的孩子的情况
+en:So the three-year-old does two things differently.First, he predicts Ivan will take the sandwichthat&#39;s really his.And second, when he sees Ivan taking the sandwich where he left his,where we would say he&#39;s taking that one because he thinks it&#39;s his,the three-year-old comes up with another explanation:He&#39;s not taking his own sandwich because he doesn&#39;t want it,because now it&#39;s dirty, on the ground.So that&#39;s why he&#39;s taking the other sandwich.Now of course, development doesn&#39;t end at five.And we can see the continuation of this processof learning to think about other people&#39;s thoughtsby upping the anteand asking children now, not for an action prediction,but for a moral judgment.So first I&#39;m going to show you the three-year-old again.
+时间： 6:31
+zh-cn:视频：艾凡是不是不应该拿走约书亚的三明治呢？
+en:RS.: So is Ivan being mean and naughty for taking Joshua&#39;s sandwich?
+时间： 6:34
+zh-cn:孩子：当然
+en:Child: Yeah.
+时间： 6:35
+zh-cn:那艾凡拿走了约书亚的三明治会不会惹上麻烦？
+en:RS: Should Ivan get in trouble for taking Joshua&#39;s sandwich?
+时间： 6:38
+zh-cn:孩子：当然.
+en:Child: Yeah.
+时间： 6:40
+zh-cn:丽蓓卡.萨克斯：因此不奇怪当艾凡拿走约书亚的三明治时候他认为不应该因为他认为艾凡拿走约书亚是为了不想吃他那个已经弄脏的三明治但现在我给大家看下5岁的孩子的情况还记得5岁大的孩子完全能理解艾凡为什么拿走约书亚的三明治吧
+en:So it&#39;s maybe not surprising he thinks it was mean of Ivanto take Joshua&#39;s sandwich,since he thinks Ivan only took Joshua&#39;s sandwichto avoid having to eat his own dirty sandwich.But now I&#39;m going to show you the five-year-old.Remember the five-year-old completely understoodwhy Ivan took Joshua&#39;s sandwich.
+时间： 6:55
+zh-cn:艾凡拿走约书亚的三明治是不是拿走约书亚的三明治啊？
+en:RS: Was Ivan being mean and naughtyfor taking Joshua&#39;s sandwich?
+时间： 6:59
+zh-cn:恩，当然
+en:Child: Um, yeah.
+时间： 7:01
+zh-cn:同时，一直到7岁大的孩子我们看到了类似于成人的反应
+en:And so, it is not until age seventhat we get what looks more like an adult response.
+时间： 7:06
+zh-cn:视频：艾凡拿走了约书亚的三明治是否会惹麻烦啊？
+en:RS: Should Ivan get in trouble for taking Joshua&#39;s sandwich?
+时间： 7:09
+zh-cn:孩子：不会，因为是风惹的
+en:Child: No, because the wind should get in trouble.
+时间： 7:11
+zh-cn:他回答说风会惹上麻烦因为它调换了三明治（笑）
+en:He says the wind should get in troublefor switching the sandwiches.(Laughter)
+时间： 7:18
+zh-cn:现在我们实验室所做的就是扫描这些孩子的大脑然后问他们打算做什么因为他们开发这种能力去思考别人的想法所以第一个我们我们发现在相同的大脑区域，即RTPJ区域孩子们在思考别人时候使用到了它但这又和成人的不太一样
+en:And now what we&#39;ve started to do in my labis to put children into the brain scannerand ask what&#39;s going on in their brainas they develop this ability to think about other people&#39;s thoughts.So the first thing is that in children we see this same brain region, the Right TPJ,being used while children are thinking about other people.But it&#39;s not quite like the adult brain.
+时间： 7:37
+zh-cn:那么成年人用那块区域思考呢？正我之前说的这片脑区域几乎完全是思考专用的它几乎不做其他任何事情，除了思考别人的想法对于5到8岁的孩子来说这块区域很少这年龄段也就是刚刚给大家演示的孩子事实上，如果我们看下11岁大的也刚进入青春期的小孩他们依然没有类似于成人的脑区域也就是说，我们能够可以在整个幼年期看到这一过程即使进入了青春期对于两个认知系统一个我们去认知别人想法的能力另一个是大脑的基本系统都在持续的缓慢的发展
+en:So whereas in the adults, as I told you,this brain region is almost completely specialized —it does almost nothing else except for thinking about other people&#39;s thoughts —in children it&#39;s much less so,when they are age five to eight,the age range of the children I just showed you.And actually if we even look at eight to 11-year-olds,getting into early adolescence,they still don&#39;t have quite an adult-like brain region.And so, what we can see is that over the course of childhoodand even into adolescence,both the cognitive system,our mind&#39;s ability to think about other minds,and the brain system that supports itare continuing, slowly, to develop.
+时间： 8:13
+zh-cn:当然，你也可能意识到即使是在成年人阶段人与人之间是否能准确的判断出他人的想法的区别取决于是否经常使用也取决于能够达到多精确那么我们想要知道的是，能否在成年人中区分出他们是如何思考别人的想法也就能解释出不同的大脑区域的关键我们第一个做的事情就是拿出一个成人版的海盗问题类似于我们给小孩们做的一样我现在就拿出来给大家
+en:But of course, as you&#39;re probably aware,even in adulthood,people differ from one another in how good they areat thinking of other minds, how often they do itand how accurately.And so what we wanted to know was, could differences among adultsin how they think about other people&#39;s thoughtsbe explained in terms of differences in this brain region?So, the first thing that we did is we gave adults a versionof the pirate problem that we gave to the kids.And I&#39;m going to give that to you now.
+时间： 8:38
+zh-cn:葛瑞丝和她的朋友去化工厂参观然后她们中途去喝杯咖啡而且葛瑞丝的朋友想要加些糖葛瑞丝就离开去弄咖啡并找到了一个装满咖啡的罐子还包括一些白色的粉，这粉末就是糖但是那个装有粉末的标签上却写着“剧毒”所以葛瑞丝认为那些粉末就是一个剧毒物质接着她把这东西放到了朋友的咖啡朋友喝了这玩意后呢，一切正常
+en:So Grace and her friend are on a tour of a chemical factory,and they take a break for coffee.And Grace&#39;s friend asks for some sugar in her coffee.Grace goes to make the coffeeand finds by the coffee a potcontaining a white powder, which is sugar.But the powder is labeled &quot;Deadly Poison,&quot;so Grace thinks that the powder is a deadly poison.And she puts it in her friend&#39;s coffee.And her friend drinks the coffee, and is fine.
+时间： 9:05
+zh-cn:有多少人认同葛瑞丝把这粉末倒入咖啡在道德上是允许的呢？好，很好!(笑）对于这个案例中，我们问下有多少人认为葛瑞丝应该受到责备我们把这种行为称为故意伤害
+en:How many people think it was morally permissiblefor Grace to put the powder in the coffee?Okay. Good. (Laughter)So we ask people, how much should Grace be blamedin this case, which we call a failed attempt to harm?
+时间： 9:19
+zh-cn:我们可以拿它和其它例子比较在现实世界中如果粉末依然是糖，但要是葛瑞丝不是这么认为呢？现在 她认为这些粉末就是糖也许毫无意外的，如果葛瑞丝认为粉末就是糖的话并把他们放到朋友的咖啡里面大家都认为她不应该受到任何责备但假如她认为粉末就是毒药，尽管事实是真的糖但大家就会认为她应该受到严厉的惩罚哪怕现实中这结果完全一样
+en:And we can compare that to another case,where everything in the real world is the same.The powder is still sugar, but what&#39;s different is what Grace thinks.Now she thinks the powder is sugar.And perhaps unsurprisingly, if Grace thinks the powder is sugarand puts it in her friend&#39;s coffee,people say she deserves no blame at all.Whereas if she thinks the powder was poison, even though it&#39;s really sugar,now people say she deserves a lot of blame,even though what happened in the real world was exactly the same.
+时间： 9:46
+zh-cn:事实上他们认为她应该受到更多的惩罚在这个案例中，企图伤害的行为不像上一个案例我们换称为“意外”当葛瑞丝认为粉末是糖因为咖啡机上的标签就是糖但实际上粉末就是毒药尽管粉末是毒药朋友喝了咖啡然后就挂掉在这个案例中，大家会认为葛瑞丝应该少受些惩罚但在上一个案例中，她认为是毒药，但没有危害发生糖现在她完全的认为是糖并且也没有危害
+en:And in fact, they say she deserves more blamein this case, the failed attempt to harm,than in another case,which we call an accident.Where Grace thought the powder was sugar,because it was labeled &quot;sugar&quot; and by the coffee machine,but actually the powder was poison.So even though when the powder was poison,the friend drank the coffee and died,people say Grace deserves less blame in that case,when she innocently thought it was sugar,than in the other case, where she thought it was poisonand no harm occurred.
+时间：10:16
+zh-cn:葛瑞丝应该受到怎么样程度的惩罚对于此大家意见不一在这个事故的案例中有人认为她应该受到更多的惩罚而另一部分人认为应该少些下来我给大家观看下当我们做出决断时候我们大脑里面的样子我要播放的是，从左到右他们的活动究竟有多少同时从上到下，人们认为葛瑞丝应该受到惩罚
+en:People, though, disagree a little bitabout exactly how much blame Grace should getin the accident case.Some people think she should deserve more blame,and other people less.And what I&#39;m going to show you is what happened when we look insidethe brains of people while they&#39;re making that judgment.So what I&#39;m showing you, from left to right,is how much activity there was in this brain region,and from top to bottom, how much blamepeople said that Grace deserved.
+时间：10:39
+zh-cn:你能看到，在左边的脑区域只有很小的一部分是活动的人们只把一部分注意力放在无罪的想法然后说她应该为这个事故受到更多的惩罚不同的是，在右边，脑区域活动非常多人们把很多注意力放到了葛瑞丝应该为这个事故少程度些责任
+en:And what you can see is, on the leftwhen there was very little activity in this brain region,people paid little attention to her innocent beliefand said she deserved a lot of blame for the accident.Whereas on the right, where there was a lot of activity,people paid a lot more attention to her innocent belief,and said she deserved a lot less blamefor causing the accident.
+时间：10:58
+zh-cn:这虽然很好，但是当然我们期望有某种接口能够调用到大脑的区域然后看看是否能改变人们的道德观判断我们实现了这样一种工具成为“颅磁刺激”或者 TMS这个工具能让我们传递一个脉冲磁感应以穿透头骨抵达到他们的脑区域临时的扰乱这些区域的脑神经元
+en:So that&#39;s good, but of coursewhat we&#39;d rather is have a way to interferewith function in this brain region,and see if we could change people&#39;s moral judgment.And we do have such a tool.It&#39;s called Trans-Cranial Magnetic Stimulation,or TMS.This is a tool that lets us pass a magnetic pulsethrough somebody&#39;s skull, into a small region of their brain,and temporarily disorganize the function of the neurons in that region.
+时间：11:23
+zh-cn:下来给大家播放下这个东西的演示视频第一个演示的是一个磁感脉冲给大家看下当你放入1/4机器时候有什么发生当你听到点击时候我们就把机器打开然后我接着把这个脉冲用到我的大脑这部分脑区域控制我的手这里没有物理上的强迫，仅仅是磁场的脉冲
+en:So I&#39;m going to show you a demo of this.First, I&#39;m going to show you that this is a magnetic pulse.I&#39;m going to show you what happens when you put a quarter on the machine.When you hear clicks, we&#39;re turning the machine on.So now I&#39;m going to apply that same pulse to my brain,to the part of my brain that controls my hand.So there is no physical force, just a magnetic pulse.
+时间：11:53
+zh-cn:视频：女：准备好没？好的
+en:Woman (Video): Ready, Rebecca? RS: Yes.
+时间：11:56
+zh-cn:好的。把这个磁感应脉冲放到我的大脑上它稍微的引起了我的手下意识的反应同时我们可以使用相同的脉冲应用到RTPJ去尝试下我们是否能改变人们的道德判断正如之前我给你们看到的人们做的道德判断现在我把TMS应用到RTPJ上然后迫使改变人们的观念的判断结果第一个是，人们依然可以完全的做原来的判断
+en:Okay, so it causes a small involuntary contraction in my handby putting a magnetic pulse in my brain.And we can use that same pulse,now applied to the RTPJ,to ask if we can change people&#39;s moral judgments.So these are the judgments I showed you before, people&#39;s normal moral judgments.And then we can apply TMS to the RTPJand ask how people&#39;s judgments change.And the first thing is, people can still do this task overall.
+时间：12:20
+zh-cn:因此当一切是正常时候，对于这个案例的判断完全一致。他们认为她不应该受到惩罚但在企图伤害的案例中也就是葛瑞丝认为是毒药，尽管他真正是糖的时候大家马上就说很好，葛瑞丝把这粉末放到了咖啡应该受些许惩罚
+en:So their judgments of the case when everything was fineremain the same. They say she deserves no blame.But in the case of a failed attempt to harm,where Grace thought that it was poison, although it was really sugar,people now say it was more okay, she deserves less blamefor putting the powder in the coffee.
+时间：12:38
+zh-cn:而在那个事故的案例中，也就是葛瑞丝认为是糖但实际却是毒药最后导致死亡时更少的人同意，认为她应该受到更多的惩罚那么我今天要告诉大家的是未来的人类，真正的拥有一个设备去思考其他人的想法。
+en:And in the case of the accident, where she thought that it was sugar,but it was really poison and so she caused a death,people say that it was less okay, she deserves more blame.So what I&#39;ve told you today is thatpeople come, actually, especially well equippedto think about other people&#39;s thoughts.
+时间：12:57
+zh-cn:我们有这样一个特殊的脑系统可以使得我们去思考其他人的想法这个系统需要漫长的时间去实现遍及整个幼年时期也包括早期的青春期而且即使在成人阶段，在不同的脑区域能够解释成人之间如何去思考和判断其他人想法的区别
+en:We have a special brain systemthat lets us think about what other people are thinking.This system takes a long time to develop,slowly throughout the course of childhood and into early adolescence.And even in adulthood, differences in this brain regioncan explain differences among adultsin how we think about and judge other people.
+时间：13:15
+zh-cn:我想在最后结束前引用前面提到的小说家也就是菲利普·罗斯说过的话作为结束“事实上，人们的权利不是不顾现实是如何的而是让错误存在生活中让他们一错再错并且小心谨慎的让错误发生”谢谢（笑）
+en:But I want to give the last word back to the novelists,and to Philip Roth, who ended by saying,&quot;The fact remains that getting people rightis not what living is all about anyway.It&#39;s getting them wrong that is living.Getting them wrong and wrong and wrong,and then on careful reconsideration,getting them wrong again.&quot;Thank you.(Applause)
+时间：13:46
+zh-cn:你们是从什么时候开始讨论用磁场脉冲去改变人们的观念的判断呢？这玩意听起来吓人（笑）告诉我你没有收到过五角大楼的电话吧？
+en:Chris Anderson: So, I have a question. When you start talking about usingmagnetic pulses to change people&#39;s moral judgments,that sounds alarming.(Laughter)Please tell me that you&#39;re not taking phone calls from the Pentagon, say.
+时间：13:59
+zh-cn:丽贝卡.萨克斯：这到没有我的意思是他们打过了，但我没有去接（笑）
+en:RS: I&#39;m not.I mean, they&#39;re calling, but I&#39;m not taking the call.(Laughter)
+时间：14:05
+zh-cn:他们真的打了？那我严肃的问你你一定有段时间睡不着不知道这个研究导致什么结果我指的是虽然我们完全相信你但将来可能会有些人利用这些知识进行审问这才是我们现场所有人所担心的
+en:CA: They really are calling?So then seriously,you must lie awake at night sometimeswondering where this work leads.I mean, you&#39;re clearly an incredible human being,but someone could take this knowledgeand in some futurenot-torture chamber,do acts that people here might be worried about.
+时间：14:27
+zh-cn:是的，我们也担心这个所以有很多关于TMS的需要说明下第一个是你不能对不知情的人使用TMS因为它不是一项暗中使用的技术即使是很小的一些改变也是很难的刚才给你看的那些变化也让我挺难忘的因为它告诉了我们大脑的功能是什么虽然我们用来做道德判但的脑区域很小但我们就是用它来判断的
+en:RS: Yeah, we worry about this.So, there&#39;s a couple of things to say about TMS.One is that you can&#39;t be TMSed without knowing it.So it&#39;s not a surreptitious technology.It&#39;s quite hard, actually, to get those very small changes.The changes I showed you are impressive to mebecause of what they tell us about the function of the brain,but they&#39;re small on the scaleof the moral judgments that we actually make.
+时间：14:49
+zh-cn:而我们所能改变的不是人们在做决定时候的道德观念的判断也不是影响他们做选择时候的决定我们改变只是如何去思考别人时候的判断所以我认为我在做的不是针对被告而是针对陪审团
+en:And what we changed was not people&#39;smoral judgments when they&#39;re deciding what to do,when they&#39;re making action choices.We changed their ability to judge other people&#39;s actions.And so, I think of what I&#39;m doing not so much asstudying the defendant in a criminal trial,but studying the jury.
+时间：15:05
+zh-cn:你的研究工作是否会带到教育领域，比如让下一代的孩子做出更加公平的道德判断呢？
+en:CA: Is your work going to lead to any recommendationsin education, to perhaps bring upa generation of kids able to make fairer moral judgments?
+时间：15:16
+zh-cn:这是一个比较理想的结果目前整个研究阶段是针对比较脑力发达的人，这是一个崭新的领域到目前为止我们所了解的大脑在其它动物身上一样可以适用所以我们可以研究动物的模型我们要知道大脑看到的是什么，它是如何去控制身体的还有他们所听到的、感觉到的整个项目需要搞明白的是人类的大脑为什么是如此特别，能够学习语言、学习抽象的概念还能够去思考其他人的想法，这就是一个新的领域还有目前我们所不知道，如果研究出这些将会有什么影响
+en:RS: That&#39;s one of the idealistic hopes.The whole research program here of studyingthe distinctive parts of the human brain is brand new.Until recently, what we knew about the brainwere the things that any other animal&#39;s brain could do too,so we could study it in animal models.We knew how brains see, and how they control the bodyand how they hear and sense.And the whole project of understandinghow brains do the uniquely human things —learn language and abstract concepts,and thinking about other people&#39;s thoughts — that&#39;s brand new.And we don&#39;t know yet what the implications will beof understanding it.
+时间：15:52
+zh-cn:好的，那我再问我最后一个问题。那个被称为意识的难题也难倒了很多人正如你提到的，如果你能够搞懂大脑的工作原理但为什么人要感知所有的事情？我们为什么要去控制人类这些感知行为呢？你作为一个年轻有为的神经系统科学家我的意思是，你认为在你的研究生涯中的某刻一些人，你或者其他的人是否会带来根本性的成果能够研究出这个看起来不肯能的难题
+en:CA: So I&#39;ve got one last question. There is this thing calledthe hard problem of consciousness,that puzzles a lot of people.The notion that you can understandwhy a brain works, perhaps.But why does anyone have to feel anything?Why does it seem to require these beings who sense thingsfor us to operate?You&#39;re a brilliant young neuroscientist.I mean, what chances do you think there arethat at some time in your career,someone, you or someone else,is going to come up with some paradigm shiftin understanding what seems an impossible problem?
+时间：16:26
+zh-cn:我希望他们能做到。但我认为他们可能实现不了
+en:RS: I hope they do. And I think they probably won&#39;t.
+时间：16:30
+zh-cn:为什么？
+en:CA: Why?
+时间：16:33
+zh-cn:那说的那个叫做意识的难题根本不存在（笑）
+en:RS: It&#39;s not called the hard problem of consciousness for nothing.(Laughter)
+时间：16:38
+zh-cn:真精彩的回答。 Rebecca Saxe谢谢你，非常的精彩（掌声）
+en:CA: That&#39;s a great answer. Rebecca Saxe, thank you very much. That was fantastic.(Applause)

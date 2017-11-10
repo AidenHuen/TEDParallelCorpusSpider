@@ -1,0 +1,72 @@
+时间： 0:11
+zh-cn:我们从一个爱好者的平台开始，逐渐发展成数十亿美元的产业。侦查、环境监控、摄影、电影，还有新闻业：这些是无人机商业化的一些潜在应用，它们的推动力来自世界各地的研究机构正在开发的各种功能。
+en:What started as a platform for hobbyistsis poised to becomea multibillion-dollar industry.Inspection, environmental monitoring,photography and film and journalism:these are some of the potentialapplications for commercial drones,and their enablersare the capabilities being developedat research facilities around the world.
+时间： 0:28
+zh-cn:举个例子，在航空包裹递送进入我们的社会认知之前，一个自动化的飞行器小队就曾在法国的FRAC中心，在现场观众面前，用1500块砖块建了6米高的塔，几年前它们开始带着绳索飞行。用绳子系住这些飞行器，可以让它们在极窄的空间里实现极快的速度和加速。它们还可以自动地建构可伸长的结构。它们学会到如何装载，如何应对障碍物，以及概括地说，如何与这个物理世界相互作用等等的技巧。
+en:For example, before aerialpackage deliveryentered our social consciousness,an autonomous fleet of flying machinesbuilt a six-meter-tall towercomposed of 1,500 bricksin front of a live audienceat the FRAC Centre in France,and several years ago,they started to fly with ropes.By tethering flying machines,they can achieve high speedsand accelerations in very tight spaces.They can also autonomously buildtensile structures.Skills learned include how to carry loads,how to cope with disturbances,and in general, how to interactwith the physical world.
+时间： 1:00
+zh-cn:今天我想展示几个我们正在进行的新项目。它们的目标是尽所能地扩展自动化飞行领域的应用范围。
+en:Today we want to show you somenew projects that we&#39;ve been working on.Their aim is to push the boundaryof what can be achievedwith autonomous flight.
+时间： 1:08
+zh-cn:现在，对于一个拥有自动化功能的系统，它必须全面地了解它的移动物体在空间中的位置。回到我们在苏黎世联邦理工学院（ETH Zurich）的实验室，我们经常用外部的摄像头去定位目标，它可以让我们将精力专注于高动态任务的快速开发上。但对于你们今天要看到的演示来说，我们打算采用由“真实工作室”开发的新的定位技术，它是我们实验室的一个分支机构。它们外面没有摄像头，每个飞行器用机载传感器来确定它在空间当中的位置，并通过机载计算来决定它需要进行的行动。唯一的外部命令都是高级命令，比如“起飞”或者“着陆”。
+en:Now, for a system to functionautonomously,it must collectively know the locationof its mobile objects in space.Back at our lab at ETH Zurich,we often use external camerasto locate objects,which then allows us to focus our effortson the rapid developmentof highly dynamic tasks.For the demos you will see today, however,we will use new localization technologydeveloped by Verity Studios,a spin-off from our lab.There are no external cameras.Each flying machine uses onboard sensorsto determine its location in spaceand onboard computationto determine what its actions should be.The only external commandsare high-level onessuch as &quot;take off&quot; and &quot;land.&quot;
+时间： 2:09
+zh-cn:这就是所谓的立式垂直起落机。它就好像是一个什么都想实现的飞机器。和其他固定机翼的飞行器一样，它向前飞行的效率更高，要比直升飞机和其变种强得多，但又不像其他固定机翼的飞行器，它能够悬停，这让它在起飞、着陆和常见的动作上拥有巨大的优势。可惜世界上没有免费的午餐。一个限制因素就是它们容易受到干扰，比如风吹。我们正在开发新的控制架构和算法来打破这个限制。我们的想法是让飞行器无论如何都能恢复初始状态，并且通过练习，还能逐渐提升性能。
+en:This is a so-called tail-sitter.It&#39;s an aircraft that triesto have its cake and eat it.Like other fixed-wing aircraft,it is efficient in forward flight,much more so than helicoptersand variations thereof.Unlike most otherfixed-wing aircraft, however,it is capable of hovering,which has huge advantagesfor takeoff, landingand general versatility.There is no free lunch, unfortunately.One of the limitations with tail-sittersis that they&#39;re susceptibleto disturbances such as wind gusts.We&#39;re developing new controlarchitectures and algorithmsthat address this limitation.The idea is for the aircraft to recoverno matter what state it finds itself in,and through practice,improve its performance over time.
+时间： 3:14
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 3:21
+zh-cn:好的。
+en:OK.
+时间： 3:32
+zh-cn:在做研究的时候，我们会问自己一些基本的抽象问题，试图了解问题的关键。举个例子，一个问题可能是，受控飞行所需的最小组件数量是多少？现在也有一些现实的原因让你想知道这类问题的答案。举个例子，直升机，人们根深蒂固地认为它有数千个零部件组成，这些部件都“处心积虑地”想要对你的身体造成伤害。事实证明数十年以前，有经验的飞行员就已经可以操控遥控飞机了，这些飞机只有两个活动部件：螺旋桨和尾翼。我们最近发现活动部件只要一个就够了。
+en:When doing research,we often ask ourselvesfundamental abstract questionsthat try to get at the heart of a matter.For example, one such question would be,what is the minimum number of moving partsneeded for controlled flight?Now, there are practical reasonswhy you may want to knowthe answer to such a question.Helicopters, for example,are affectionately knownas machines with a thousand moving partsall conspiring to do you bodily harm.It turns out that decades ago,skilled pilots were able to flyremote-controlled aircraftthat had only two moving parts:a propeller and a tail rudder.We recently discoveredthat it could be done with just one.
+时间： 4:12
+zh-cn:这就是单螺旋机，世界上机械结构最简单的可控飞行器，几个月前才被发明出来。它只有一个活动部件，即螺旋桨。它没有襟翼、铰链和副翼，没有其他的制动器和控制面板，只有一个简单的螺旋桨。即使机械结构很简单，它里面的微电脑却在不断让它能稳定飞行，并到达任何想去的地方。即便如此 ，它还没有立式起落机的复杂算法，也就是说要让它飞的话，我要用正确的方式把它扔出去。考虑到我正确扔出的概率非常低，毕竟大家都在看我，所以我们就展示一下我们昨天晚上拍摄的视频吧。
+en:This is the monospinner,the world&#39;s mechanically simplestcontrollable flying machine,invented just a few months ago.It has only one moving part, a propeller.It has no flaps, no hinges, no ailerons,no other actuators,no other control surfaces,just a simple propeller.Even though it&#39;s mechanically simple,there&#39;s a lot going onin its little electronic brainto allow it to fly in a stable fashionand to move anywhere it wants in space.Even so, it doesn&#39;t yet havethe sophisticated algorithmsof the tail-sitter,which means that in orderto get it to fly,I have to throw it just right.And because the probabilityof me throwing it just right is very low,given everybody watching me,what we&#39;re going to do insteadis show you a videothat we shot last night.
+时间： 4:57
+zh-cn:（笑）
+en:(Laughter)
+时间： 5:09
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 5:22
+zh-cn:如果说单螺旋机只是在做简单的运动，那么这个机器，带有八个螺旋桨的全向直升机，肯定是在做超量的运动了。你可以用这些额外的功能做什么呢？要注意它是高度对称的。因此，它完全不具有方向性。这给了它一个不同寻常的能力。它可以在空中随意移动而不用考虑它面对的方向，甚至不用考虑如何旋转。它有它的复杂性，主要问题都和它的8个螺旋桨所产生的交互气流有关。有些问题可以通过建模解决，而剩下的可以在飞行中学习。我们来看一下。
+en:If the monospinneris an exercise in frugality,this machine here, the omnicopter,with its eight propellers,is an exercise in excess.What can you do with all this surplus?The thing to noticeis that it is highly symmetric.As a result, it is ambivalentto orientation.This gives it an extraordinary capability.It can move anywhere it wants in spaceirrespective of where it is facingand even of how it is rotating.It has its own complexities,mainly having to dowith the interacting flowsfrom its eight propellers.Some of this can be modeled,while the rest can be learned on the fly.Let&#39;s take a look.
+时间： 6:43
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 6:51
+zh-cn:如果飞行器要进入到我们的日常生活当中，它们就需要变得非常安全可靠。我手中的这个机器实际上是两个独立的双螺旋桨飞行器。这一个想要顺时针旋转。另一个想要逆时针旋转。当你把它们放在一起，它们运行起来就像一架高性能的四轴无人机。可是如果发生了意外，电机故障，螺旋桨故障，电子组件，甚至电池组故障，这个机器依然能飞，尽管性能会有所下降。现在我们将展示一下其中一半被禁用的情况。
+en:If flying machines are goingto enter part of our daily lives,they will need to becomeextremely safe and reliable.This machine over hereis actually two separatetwo-propeller flying machines.This one wants to spin clockwise.This other one wantsto spin counterclockwise.When you put them together,they behave like onehigh-performance quadrocopter.If anything goes wrong, however —a motor fails, a propeller fails,electronics, even a battery pack —the machine can still fly,albeit in a degraded fashion.We&#39;re going to demonstrate this to you nowby disabling one of its halves.
+时间： 7:55
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 8:02
+zh-cn:最后这个演示是关于协作机群的探索。大量自动化的协作实体机为美学表达提供了一个全新的器械平台。我们已经将微四轴飞行器运用到商业中，顺便说下，每个都比一片面包还要轻，并且装备上了我们的定位技术和自定义算法。因为每个单元都知道自己在空间中所处的位置并能自我控制，所以无论多少个（同时运作）都可以。
+en:This last demonstrationis an exploration of synthetic swarms.The large number of autonomous,coordinated entitiesoffers a new palettefor aesthetic expression.We&#39;ve taken commercially availablemicro quadcopters,each weighing lessthan a slice of bread, by the way,and outfitted themwith our localization technologyand custom algorithms.Because each unitknows where it is in spaceand is self-controlled,there is really no limit to their number.
+时间： 8:54
+zh-cn:（鼓掌）
+en:(Applause)
+时间： 9:18
+zh-cn:（鼓掌）
+en:(Applause)
+时间：10:17
+zh-cn:（鼓掌）
+en:(Applause)
+时间：10:34
+zh-cn:希望这些展示能够启发你们想象出飞行器更多革命性的功能。我们以那个极其安全的飞行器为例，它渴望成为百老汇的一个飞行灯罩。
+en:Hopefully, these demonstrationswill motivate you to dream upnew revolutionary rolesfor flying machines.That ultrasafe one over there for examplehas aspirations to becomea flying lampshade on Broadway.
+时间：10:46
+zh-cn:（笑）
+en:(Laughter)
+时间：10:48
+zh-cn:实际上我们很难预测这些新兴技术带给我们的影响。对于我们这样的人来说，真正的回报在于创造性的旅程和行动。它不断提醒我们，我们生活的这个宇宙是多么精彩和神奇，允许这些富有创造力的、聪明的生物用这样壮观的方式塑造它。事实上，这个技术巨大的商业和经济潜能不过是一种锦上添花而已。
+en:The reality is that it isdifficult to predictthe impact of nascent technology.And for folks like us, the real rewardis the journey and the act of creation.It&#39;s a continual reminderof how wonderful and magicalthe universe we live in is,that it allows creative, clever creaturesto sculpt it in such spectacular ways.The fact that this technologyhas such huge commercialand economic potentialis just icing on the cake.
+时间：11:15
+zh-cn:谢谢。
+en:Thank you.
+时间：11:16
+zh-cn:（鼓掌）
+en:(Applause)

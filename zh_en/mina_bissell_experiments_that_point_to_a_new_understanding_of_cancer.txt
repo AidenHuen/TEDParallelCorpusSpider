@@ -1,0 +1,96 @@
+时间： 0:11
+zh-cn:通常我不喜欢漫画，我觉得很多漫画并不有趣，我觉得它们很怪。但是我喜欢这幅纽约客的漫画。
+en:Now, I don&#39;t usually like cartoons,I don&#39;t think many of them are funny,I find them weird. But I love this cartoon from the New Yorker.
+时间： 0:21
+zh-cn:（文字：永远别想跳出箱子（常规）思考）（笑声）
+en:(Text: Never, ever think outside the box.) (Laughter)
+时间： 0:24
+zh-cn:所以，这人在对这只猫说，别想要跳出这个箱子，好吧，恐怕我曾经是那只猫。我总想身处箱子之外。这部分是因为我的背景吧，涉足该领域前，我是化学家和细菌基因学家。那么，人们会对我说的有关癌症的起因，来源，或者，就此而言，你为什么会进入这一领域，你是哪个领域的专家，根本没有意义。
+en:So, the guy is telling the cat,don&#39;t you dare think outside the box.Well, I&#39;m afraid I used to be the cat.I always wanted to be outside the box.And it&#39;s partly because I came to this fieldfrom a different background, chemist and a bacterial geneticist.So, what people were saying to meabout the cause of cancer, sources of cancer,or, for that matter, why you are who you are,didn&#39;t make sense.
+时间： 0:58
+zh-cn:所以，请让我迅速地告诉你为什么我会这么想和我是怎么知道这些的。好的，可是一开始我需要给你们上一个非常非常短的有关生物生长的课程，同时我对你们之中有生物知识背景的人表示歉意。好的。当我爸爸妈妈的精子卵子相遇时，受精卵出现了，那个圆圆的有个小光点的东西。然后他生长啊生长啊，然后它长了一名帅哥。
+en:So, let me quickly try and tell you why I thought thatand how I went about it.So, to begin with, however,I have to give you a very, very quick lessonin developmental biology,with apologies to those of you who know some biology.So, when your mom and dad met,there is a fertilized egg,that round thing with that little blip.It grows and then it grows,and then it makes this handsome man.
+时间： 1:31
+zh-cn:（掌声）
+en:(Applause)
+时间： 1:32
+zh-cn:所以，这个人，体内的所有细胞，拥有相同的基因信息。为什么他的鼻子会变成鼻子，手肘变成手肘，还有为什么他某天起床他的鼻子不会变成脚呢？这是应该是可能发生的，那些鼻子上的细胞有那套基因信息。孩子们，你们都记住了，这都是从一个干细胞开始的。那么，为什么这一切没有发生呢？猜猜看他的体内有多少的细胞？大约在10万亿到70万亿之间存在于他身体里。几十万亿！现在，所有这些含有相同基因的细胞，是怎么形成那么多的组织呢？所以，我之前提得问题会更加有趣了，如果你在想你的身体里有如此多的细胞。
+en:So, this guy, with all the cells in his body,all have the same genetic information.So how did his nose become his nose, his elbow his elbow,and why doesn&#39;t he get up one morningand have his nose turn into his foot?It could. It has the genetic information.You all remember, dolly,it came from a single mammary cell.So, why doesn&#39;t it do it?So, have a guess of how many cells he has in his body.Somewhere between 10 trillion to 70 trillion cells in his body.Trillion!Now, how did these cells, all with the same genetic material,make all those tissues?And so, the question I raised beforebecomes even more interesting if you thought aboutthe enormity of this in every one of your bodies.
+时间： 2:33
+zh-cn:现在，主流肿瘤理论会说一个癌细胞里面里的一个致癌基因会让你变成癌症患者。好吧，这个对我来说不科学。你知道一万亿是怎么样的么？现在让我们看看。来了，这些0一个接着一个。现在，如果，0.01%的细胞突变了，现在是0.001%的细胞致癌了，你会变成一大块癌细胞。你会全身都是癌细胞。但是你不是。为什么没有呢？
+en:Now, the dominant cancer theory would saythat there is a single oncogenein a single cancer cell, and it would make youa cancer victim.Well, this did not make sense to me.Do you even know how a trillion looks?Now, let&#39;s look at it.There it comes, these zeroes after zeroes after zeroes.Now, if .0001 of these cells got mutated,and .00001 got cancer, you will be a lump of cancer.You will have cancer all over you. And you&#39;re not.Why not?
+时间： 3:15
+zh-cn:所以，我通过多年来一系列的实验说明这是由于环境和体系的原因。
+en:So, I decided over the years,because of a series of experimentsthat this is because of context and architecture.
+时间： 3:26
+zh-cn:让我简略地告诉你那些重要的实验是如何证明这些的。首先，我进行病毒的研究工作涉及鸡身体里的恶心的肿瘤。Rous在1911年发现了这个。那是第一个被发现的肿瘤病毒，当我称它为“致癌基因”，就是说“导致癌症的基因”。所以他设计了一个过滤装置，并用它过滤了肿瘤后得到一种液体，并把这种液体注射到另一只鸡体内，他就得到了另一个肿瘤。
+en:And let me quickly tell yousome crucial experiment that was able to actually show this.To begin with, I came to work with this virusthat causes that ugly tumor in the chicken.Rous discovered this in 1911.It was the first cancer virus discovered,and when I call it &quot;oncogene,&quot; meaning &quot;cancer gene.&quot;So, he made a filtrate, he took this filterwhich was the liquid after he passed the tumor through a filter,and he injected it to another chicken, and he got another tumor.
+时间： 4:02
+zh-cn:于是，科学家当时很兴奋，它们就认为，一个致癌基因就可以导致肿瘤。你只需要一个致癌基因。所以，他们培养了那些鸡的细胞，并倒入一些病毒，它们就会堆积起来，然后他们就说这些是恶性肿瘤，这些是良性肿瘤。
+en:So, scientists were very excited,and they said, a single oncogene can do it.All you need is a single oncogene.So, they put the cells in cultures, chicken cells,dumped the virus on it,and it would pile up,and they would say, this is malignant and this is normal.
+时间： 4:19
+zh-cn:这个对我来说也不科学。所以由于多种原因，我们把这些致癌基因，用蓝色标记物标记了，并把它们注射到胚胎中。现在来看看这个，这个胚胎里美丽的羽毛。这些蓝色的就是致癌基因都在一个癌细胞中，这些就是它羽毛的一部分。所以，当我们分离这些羽毛并把它们放进一个培养皿里，我们就得到了一堆蓝色细胞。所以你可以在鸡里得到肿瘤，在鸡胚胎里却不能。你分离了它们，并把它们放到一个培养皿里你得到的是一个肿瘤。这说明了什么？说明了在微环境中环绕它们的细胞在告诉致癌基因和癌细胞该怎么做。
+en:And again this didn&#39;t make sense to me.So for various reasons, we took this oncogene,attached it to a blue marker,and we injected it into the embryos.Now look at that. There is that beautiful feather in the embryo.Every one of those blue cells are a cancer geneinside a cancer cell, and they&#39;re part of the feather.So, when we dissociated the feather and put it in a dish,we got a mass of blue cells.So, in the chicken you get a tumor,in the embryo you don&#39;t,you dissociate, you put it in a dish, you get another tumor.What does that mean?That means that microenvironmentand the context which surrounds those cellsactually are telling the cancer gene and the cancer cell what to do.
+时间： 5:12
+zh-cn:现在，我们举个正常例子，关于乳腺的例子。我研究了乳腺癌。这个是个可爱的人类乳房。你们中的很多人都知道它看上去是什么样，但是它里面是什么样却没有多少人知道了，这些是所有的可爱的，正在生长的，树状结构的组织。那么，我们决定将要做的就是取一些乳腺，这叫做“腺泡”乳房里都是这些东西母乳便是在此生成的，在乳头末端是一根根细小的微管，婴儿可以从此吸到母乳。
+en:Now, let&#39;s take a normal example.The normal example, let&#39;s take the human mammary gland.I work on breast cancer.So, here is a lovely human breast.And many of you know how it looks,except that inside that breast, there are all thesepretty, developing, tree-like structures.So, we decided that what we like to dois take just a bit of that mammary gland,which is called an &quot;acinus,&quot;where there are all these little things inside the breastwhere the milk goes, and the end of the nipplecomes through that little tube when the baby sucks.
+时间： 5:50
+zh-cn:我们不得说，这太棒了！看看这些可爱的结构。我们想要制造出这样一个结构，并问个问题：细胞是怎么做到那些的？那么，我们取得了红细胞—你们可以看到红细胞被蓝色的细胞围着，蓝色的细胞将红细胞挤得紧紧的，在它们后面是人们通常认为的惰性物质，它只是为了维持某种形状，所以我们在多年前利用电子显微镜首先给它做了一个快照，你们可以看到这个细胞看起来十分的可爱。它有底有顶，它正在分泌大量的乳汁,因为它是刚从怀孕初期的老鼠身上取得的。
+en:And we said, wonderful! Look at this pretty structure.We want to make this a structure, and ask the question,how do the cells do that?So, we took the red cells —you see the red cells are surrounded by blue,other cells that squeeze them, and behind itis material that people thought was mainly inert,and it was just having a structure to keep the shape,and so we first photographed itwith the electron microscope years and years ago,and you see this cell is actually quite pretty.It has a bottom, it has a top,it is secreting gobs and gobs of milk,because it just came from an early pregnant mouse.
+时间： 6:31
+zh-cn:你取得了这些细胞，并把它放在一个培养皿中，三天后，它们看起来就是那样的。它们完全忘记了自己原来是乳腺细胞。你把它们再取出，放入一个培养皿，它们不会再产出乳汁。它们忘记了自己是乳腺细胞。例如，这儿，左边是一滴可爱的乳黄色的乳汁而右边什么也没有。看这些“细胞核”。这些在左边的细胞中的细胞核是在动物体中的，右边的则是从培养皿出来的。它们完全不一样。
+en:You take these cells, you put them in a dish,and within three days, they look like that.They completely forget.So you take them out, you put them in a dish,they don&#39;t make milk. They completely forget.For example, here is a lovely yellow droplet of milkon the left, there is nothing on the right.Look at the nuclei. The nuclei in the cell on the leftis in the animal, the one on the right is in a dish.They are completely different from each other.
+时间： 7:03
+zh-cn:那么，这说明什么？这说明这儿有环境影响。在不同的环境下，细胞做不同的事。但是环境是怎样影响的呢？爱因斯坦曾说过，“如果一个想法一上来就不疯狂，那么这个想法便毫无用处。”那么，你们可以想象一上来我受到多大的怀疑—那样做没有前途，那样做一点用也没有，但是我很高兴我这样做出来了。
+en:So, what does this tell you?This tells you that here also, context overrides.In different contexts, cells do different things.But how does context signal?So, Einstein said that&quot;For an idea that does not first seem insane, there is no hope.&quot;So, you can imagine the amount of skepticismI received — couldn&#39;t get money,couldn&#39;t do a whole lot of other things,but I&#39;m so glad it all worked out.
+时间： 7:37
+zh-cn:那么，我们做了老鼠乳腺的切片，所有可爱的腺泡都在那儿，每一个被红颜色围绕的东西都是一个腺泡,我们知道一切正常，我们将尝试制造这一切，然后我说，也许那堆红色的物质就是围绕的腺泡的那堆物质，人们会认为那只是一个结构支架也许它承载着信息，也许它告诉细胞该做什么，也许它告诉细胞核该做什么。然后我说，细胞外基质，也是就这堆物质叫做ECM，发出信号并告诉细胞该做什么。
+en:So, we made a section of the mammary gland of the mouse,and all those lovely acini are there,every one of those with the red around them are an acinus,and we said okay, we are going to try and make this,and I said, maybe that red stuffaround the acinus that people think there&#39;s just a structural scaffold,maybe it has information,maybe it tells the cells what to do, maybe it tells the nucleus what to do.So I said, extracellular matrix, which is this stuffcalled ECM, signals and actually tells the cells what to do.
+时间： 8:15
+zh-cn:所以，我们决定照着那个样子开始着手制造。我们发现了一些黏稠的物质这些黏稠的中有着正确的细胞外基质，我们把细胞放进去，然后等，大约四天后，它们重组了。右边的就是我们在培养皿中培养出的。左边的是动物体内的，我们称之为活体培养培养出来的已满是乳汁，那些可爱的红色物质，已满是乳汁。那么，我们制造出了乳汁，欢呼吧，美国人。完全正确。这些是美丽人类细胞，然后你们可以想象到，这儿是环境。
+en:So, we decided to make things that would look like that.We found some gooey materialthat had the right extracellular matrix in it,we put the cells in it, and lo and behold,in about four days, they got reorganizedand on the right, is what we can make in culture.On the left is what&#39;s inside the animal, we call it in vivo,and the one in culture was full of milk,the lovely red there is full of milk.So, we Got Milk, for the American audience.All right. And here is this beautiful human cell,and you can imagine that here also, context goes.
+时间： 8:57
+zh-cn:那么，我们要做什么？我做了一个发散性设想。我说，如果架构具有决定性作用是正确的话，癌变细胞的架构应该是让该癌变细胞认为自己是正常的。这有可能吗？于是，我们开始尝试。然而，为了实现它，我们需要找到分辨正常与异常的方法。左边的是单个正常细胞，人类乳房细胞，放置在有细胞外基质中，就是这块黏稠的凝胶中，它组成了这所有美丽的结构。右边，你们可以看到它看上去很丑，这些细胞还在生长，而正常的已经停止生长了。这儿你们可以看到高倍放大的图片正常的腺泡和极丑的肿瘤。
+en:So, what do we do now?I made a radical hypothesis.I said, if it&#39;s true that architecture is dominant,architecture restored to a cancer cellshould make the cancer cell think it&#39;s normal.Could this be done?So, we tried it.In order to do that, however,we needed to have a method of distinguishing normal from malignant,and on the left is the single normal cell,human breast, put in three-dimensional gooey gelthat has extracellular matrix, it makes all these beautiful structures.On the right, you see it looks very ugly,the cells continue to grow,the normal ones stop.And you see here in higher magnificationthe normal acinus and the ugly tumor.
+时间： 9:52
+zh-cn:那么我们要问，什么东西在那些极丑无比的肿瘤的表面上？我们能让它们停止吗？—它们正在疯狂地发出信号，它们把所有的信道弄得乱七八糟，我们能让它们恢复到正常水平吗？额，这想法很奇妙。它使我灵感大发。这是我们获得的成果。我们可以扭转这恶性外显物质
+en:So we said, what is on the surface of these ugly tumors?Could we calm them down —they were signaling like crazy and they have pathways all messed up —and make them to the level of the normal?Well, it was wonderful. Boggles my mind.This is what we got.We can revert the malignant phenotype.
+时间：10:17
+zh-cn:（掌声）
+en:(Applause)
+时间：10:20
+zh-cn:为了向大家展示这个恶性外显物质我没有使用照片而是带来了一个小短片，有点模糊，但是大家可以看到左边的是恶性细胞，它们全都是恶性的，我们一开始加入了单个制约因素，看看发生了什么，它们看上去都是那样的。我们将其注射到老鼠体内，右边那群，没有一只老鼠得癌症。我们将另一种细胞注射进老鼠体内，百分之百患癌症。
+en:And in order to show you that the malignant phenotypeI didn&#39;t just choose one,here are little movies, sort of fuzzy,but you see that on the left are the malignant cells,all of them are malignant,we add one single inhibitor in the beginning,and look what happens, they all look like that.We inject them into the mouse, the ones on the right,and none of them would make tumors.We inject the other ones in the mouse, 100 percent tumors.
+时间：10:50
+zh-cn:那么，对于研究癌症，这是一种全新的方法，这是一种满是希望的方法。我们能够在这个层级上对事物进行操作，实验结论表明利用相关方法，细胞的增殖和恶性行为在组织层级上恢复了正常。而且组织结构是独立于细胞外基质和微部环境的。那么， 这儿结构及功能不断地动态交互作用。现在休息5秒钟，这是我的口头禅，结构及功能。
+en:So, it&#39;s a new way of thinking about cancer,it&#39;s a hopeful way of thinking about cancer.We should be able to be dealing with these things at this level,and these conclusions say that growth and malignant behavioris regulated at the level of tissue organizationand that the tissue organization is dependenton the extracellular matrix and the microenvironment.All right, thus form and function interact dynamically and reciprocally.And here is another five seconds of repose,is my mantra. Form and function.
+时间：11:33
+zh-cn:当然，我们要问，下一步做什么？我们希望将这个想法用于临床治疗。但在那之前，我需要你们想一想，你们坐在这儿的每一分每一秒，你们体内那700亿细胞中的细胞外基质正向细胞核发出信号，细胞核也想细胞外基质发出信号回应，由此你们的机体保持平衡。
+en:And of course, we now ask, where do we go now?We&#39;d like to take this kind of thinking into the clinic.But before we do that, I&#39;d like you to thinkthat at any given time when you&#39;re sitting there,in your 70 trillion cells,the extracellular matrix signaling to your nucleus,the nucleus is signaling to your extracellular matrixand this is how your balance is kept and restored.
+时间：12:02
+zh-cn:我们发现了很多现象，我们刚像大家展示了细胞外基质与染色质相互交流。我们展示了乳腺细胞某段有特殊功能的基因的DNA片段，就是它回应细胞外基质的。我们做了很多年试验，才发现这些，这些努力是值得的。
+en:We have made a lot of discoveries,we have shown that extracellular matrix talks to chromatin.We have shown that there&#39;s little pieces of DNAon the specific genes of the mammary glandthat actually respond to extracellular matrix.It has taken many years, but it has been very rewarding.
+时间：12:22
+zh-cn:在看下一张幻灯片之前，我需要告诉你们仍然有很多不断增加的谜团等待我们去解开。未解之谜浩瀚如星。我总是对我的学生和博士后说，不能骄傲，骄傲与好奇为敌。好奇心和热情。你需要不断想，还有什么没被发现？也许我应该发现更多，也许我应该换个角度思考。
+en:And before I get to the next slide, I have to tell youthat there are so many additional discoveries to be made.There is so much mystery we don&#39;t know.And I always say to the students and post-docs I lecture to,don&#39;t be arrogant, because arrogance kills curiosity.Curiosity and passion.You need to always think, what else needs to be discovered?And maybe my discovery needs to be added toor maybe it needs to be changed.
+时间：12:54
+zh-cn:那么，现在我们有了一个惊人的发现后，实验室里的一个物理学博士后问我，你把细胞放进去后，它们在做什么？它们在一开始的时候再做什么？我说，我不知道，我们不能一直看着它们。过去，我们并未充分利用我们的想象力。然后她，一个充满想象力的物理学家，做了这件不可思议的事。这是一个人类乳细胞的三维图。看看它，它经常做这些。一系列的连贯动作。你把细胞都放在这儿，它们就开始动了，这些这样做，那些那样做。当我们还原这些癌症细胞后，它们也有如此反应。这不得不使我惊奇。这些细胞就像胎儿一样，多么神奇啊。
+en:So, we have now made an amazing discovery,a post-doc in the lab who is a physicist asked me,what do the cells do when you put them in?What do they do in the beginning when they do?I said, I don&#39;t know, we couldn&#39;t look at them.We didn&#39;t have high images in the old days.So she, being an imager and a physicist,did this incredible thing.This is a single human breast cell in three dimensions.Look at it. It&#39;s constantly doing this.Has a coherent movement.You put the cancer cells there, and they do go all over,they do this. They don&#39;t do this.And when we revert the cancer cell, it again does this.Absolutely boggles my mind.So the cell acts like an embryo. What an exciting thing.
+时间：13:42
+zh-cn:我想以一首诗来总结。我相当喜欢英国文学，我曾在大学选课时犹豫不决，该选哪一个？不知是幸运抑或不幸，我选了化学。不过叶芝有一首诗极符合目前情景，我就念一下最后两行。诗名叫做“学童之中”。“哦，曼姿随乐起舞； 哦，青睐湛湛灼灼起舞之时才是舞者的人生。”这是梅西·坎宁汉，我有幸在年轻时与他共舞，他是一名舞者，当其为舞，人与舞皆可叹止。舞随乐停，心犹醉不可醒。那么，这就像是结构及功能。
+en:So I&#39;d like to finish with a poem.Well I used to love English literature,and I debated in college, which one should I do?And unfortunately or fortunately, chemistry won.But here is a poem from Yeats. I&#39;ll just read you the last two lines.It&#39;s called &quot;Among the School Children.&quot;&quot;O body swayed to music / O brightening glance /How [can we know] the dancer from the dance?&quot;And here is Merce Cunningham,I was fortunate to dance with him when I was younger,and here he is a dancer,and while he is dancing, he is both the dancer and the dance.The minute he stops, we have neither.So it&#39;s like form and function.
+时间：14:29
+zh-cn:这是我们组现有成员的合照。能有这些优秀的学生和博士后，我真是异常幸运，与他们交流我受益匪浅。我的组员流动性很大。他们是未来，我尝试告诉他们成为那只猫或被告知不要想箱子外的世界时，不要害怕。
+en:Now, I&#39;d like to show you a current picture of my group.I have been fortunate to have had these magnificantstudents and post-docs who have taught me so much,and I have had many of these groups come and go.They are the future and I try to make them not be afraidof being the cat and being told,don&#39;t think outside the box.
+时间：14:54
+zh-cn:并且，我想留给大家思考一个问题。左边是岸上潺潺流水，NASA的卫星拍摄到的。右边是一片珊瑚。现在如果你取得乳腺细胞并培养它抽取它的脂肪，它看上去会是这样的。他们看上去一样吗？他们是否有相同的图案？为什么自然一遍又一遍的画着这幅图？
+en:And I&#39;d like to leave you with this thought.On the left is water coming through the shore,taken from a NASA satellite.On the right, there is a coral.Now if you take the mammary gland and spread itand take the fat away, on a dish it looks like that.Do they look the same? Do they have the same patterns?Why is it that nature keeps doing that over and over again?
+时间：15:21
+zh-cn:这就是我要问大家的问题。我们给人类基因组排了序，我们知道基因序列的一切，语言基因，字母基因，但是我们却一点也不清楚架构好的语言与字母。这是一条令人激动的新地平线，这对年轻人来说是一件激动人心的挑战，对于满是激情的老人，比如我，也一样，
+en:And I&#39;d like to submit to youthat we have sequenced the human genome,we know everything about the sequence of the gene,the language of the gene, the alphabet of the gene,But we know nothing, but nothing,about the language and alphabet of form.So, it&#39;s a wonderful new horizon,it&#39;s a wonderful thing to discover for the youngand the passionate old, and that&#39;s me.
+时间：15:48
+zh-cn:那么，着手去发现它！
+en:So go to it!
+时间：15:50
+zh-cn:（掌声）
+en:(Applause)

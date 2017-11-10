@@ -1,0 +1,117 @@
+时间： 0:11
+zh-cn:我将要介绍一些开放式安全性问题，因为我们在21世纪已经离安全越来越近了。
+en:I&#39;m gonna talk a little bit about open-source security,because we&#39;ve got to get better at securityin this 21st century.
+时间： 0:20
+zh-cn:我们先回顾一下20世纪吧，然后我们就能了解安全这个概念是如何为我们而工作。
+en:Let me start by saying, let&#39;s look back to the 20th century,and kind of get a sense of how that style of securityworked for us.
+时间： 0:30
+zh-cn:这里是Verdun,一个法国的战场，就在北约在比利时总部的北边。1916年，在Verdun这个战场上，700000人在300天内被杀了，那就是差不多2000人一天。
+en:This is Verdun, a battlefield in Francejust north of the NATO headquarters in Belgium.At Verdun, in 1916, over a 300-day period,700,000 people were killed,so about 2,000 a day.
+时间： 0:48
+zh-cn:咱们继续往前看—20世纪的安全—看到二战，我们看得到在斯大林格勒保卫战，300天内有二百万人战死。
+en:If you roll it forward — 20th-century security —into the Second World War,you see the Battle of Stalingrad,300 days, 2 million people killed.
+时间： 1:01
+zh-cn:进入冷战，我们继续建造围墙。我们从一战的壕沟，到二战的马其顿防线，再到冷战中的铁幕，柏林墙。墙不管用。
+en:We go into the Cold War, and we continueto try and build walls.We go from the trench warfare of the First World Warto the Maginot Line of the Second World War,and then we go into the Cold War,the Iron Curtain, the Berlin Wall.Walls don&#39;t work.
+时间： 1:22
+zh-cn:所以我今天的主题是为了完成“安全”这个目标，我们不建造墙，而建造桥。在欧洲有一个很著名的桥。它在波黑。它在Drina河上，是作家Ivo Andric的一个小说的主题，这部小说讲述了如何在欧洲和巴尔干地区最动荡的部分大量的墙被筑起。而最近，也就是在近十年，我们开始看到这些地区开始，尽管有些犹豫不决，逐渐融合在一起。
+en:My thesis for us today is, instead of building wallsto create security, we need to build bridges.This is a famous bridge in Europe.It&#39;s in Bosnia-Herzegovina.It&#39;s the bridge over the Drina River,the subject of a novel by Ivo Andrić,and it talks about how,in that very troubled part of Europe and the Balkans,over time there&#39;s been enormous building of walls.More recently, in the last decade, we begin to seethese communities start, hesitatingly,to come together.
+时间： 1:58
+zh-cn:我想再次重申，开放式安全是关于联系国际的不同地区的，跨部门的，私人的和公共的，并且把它们通过战略性沟通，在社交网上联系在一起。
+en:I would argue, again, open-source securityis about connecting the international,the interagency, the private-public,and lashing it together with strategic communication,largely in social networks.
+时间： 2:15
+zh-cn:所以，接下来我将说一些为什么我们需要那么做，因为我们的共同目标正在受到威胁，而且是多方面的，同时没有一种威胁能被通过筑墙隔离解决。
+en:So let me talk a little bit about why we need to do that,because our global commons is under attackin a variety of ways,and none of the sources of threat to the global commonswill be solved by building walls.
+时间： 2:32
+zh-cn:现在，很明显我是一个水手。有一个船在印度洋上航行。这个照片有什么问题吗？在这个船上有蛇网环绕。这是用来抵御海盗的。海盗现在是一个非常主要的全球威胁。这是只是在印度洋。海盗依然在马六甲海峡很猖狂，也在几内亚湾，在加勒比海地区。它在全球交通运输中每年造成了一百亿美元的损失。在去年的此刻，有20艘船，500名船员被绑架为人质。这是一个对全球共同利益的威胁。我们需要想出解决办法。
+en:Now, I&#39;m a sailor, obviously.This is a ship, a liner, clipping through the Indian Ocean.What&#39;s wrong with this picture?It&#39;s got concertina wire along the sides of it.That&#39;s to prevent pirates from attacking it.Piracy is a very active threat todayaround the world. This is in the Indian Ocean.Piracy is also very active in the Strait of Malacca.It&#39;s active in the Gulf of Guinea.We see it in the Caribbean.It&#39;s a $10-billion-a-year discontinuityin the global transport system.Last year, at this time, there were 20 vessels,500 mariners held hostage.This is an attack on the global commons.We need to think about how to address it.
+时间： 3:20
+zh-cn:现在让我们转到另一种海洋，网络的海洋。这里有两个年轻人的照片。在此刻，他们被监禁着。他们做了一个信用卡诈骗案，并且牟利超过一百亿美元。这只是对全球经济造成两万亿美元损失的网络犯罪的一部分。两万亿每年。这仅低于英国的国民生产总值(GDP).所以网络世界，一个我们深知是由最根本的开放组成的地方，正在受到威胁。
+en:Let&#39;s shift to a different kind of sea,the cyber sea.Here are photographs of two young men.At the moment, they&#39;re incarcerated.They conducted a credit card fraud that netted themover 10 billion dollars.This is part of cybercrime which is a $2-trillion-a-yeardiscontinuity in the global economy.Two trillion a year.That&#39;s just under the GDP of Great Britain.So this cyber sea, which we know endlesslyis the fundamental piece of radical openness,is very much under threat as well.
+时间： 4:04
+zh-cn:另一个我要担心的是由于物流造成的威胁，也就是麻醉剂，鸦片等毒品从阿富汗穿过欧洲到达美国的整个一条运输线。我们担心从Andean Ridge（地名）北部运过来的可卡因。我们担心非法武器的运输。但最重要的是，我们担心人力的运输，以及它的成本。大多数运输是通过海洋的但也通过我们的共同利益。
+en:Another thing I worry about in the global commonsis the threat posed by trafficking,by the movement of narcotics, opium,here coming out of Afghanistan through Europeover to the United States.We worry about cocainecoming from the Andean Ridge north.We worry about the movement of illegal weaponsand trafficking. Above all, perhaps,we worry about human trafficking, and the awful cost of it.Trafficking moves largely at seabut in other parts of the global commons.
+时间： 4:38
+zh-cn:这是一张照片，通过它我想告诉你这是一个非常高科技的美国海军武器用来阻止物流的发生。但坏消息是，这是一个贩毒组织的半潜水的设备。它在南美热带雨林中被建造，我们通过没有科技含量的筏子逮捕了它，（笑声）而它正装载着六吨的可卡因，四个船员，精良的设备。这种运送麻醉剂，人和武器上帝禁止的，大规模杀伤性武器就是我们共同利益的威胁的一部分。
+en:This is a photograph, and I wish I could tell youthat this is a very high-tech piece of US Navy gearthat we&#39;re using to stop the trafficking.The bad news is,this is a semi-submersible run by drug cartels.It was built in the jungles of South America.We caught it with that low-tech raft — (Laughter) —and it was carrying six tons of cocaine.Crew of four. Sophisticated communications sweep.This kind of trafficking, in narcotics, in humans, in weapons,God forbid, in weapons of mass destruction,is part of the threat to the global commons.
+时间： 5:26
+zh-cn:现在让我们完整的看一下阿富汗的今天。在阿富汗有一片罂粟花的，全世界80%到90%的罂粟花，鸦片和海洛因来自阿富汗。当然，我们也看到了恐怖组织。这就是基地组织建立的地方。我们看到了这里有一个很不稳定的局势。所以恐怖组织也是我们面临的威胁的一部分，也是我们必须解决的。
+en:And let&#39;s pull it together in Afghanistan today.This is a field of poppies in Afghanistan.Eighty to 90 percent of the world&#39;s poppy,opium and heroin, comes out of Afghanistan.We also see there, of course, terrorism.This is where al Qaeda is staged from.We also see a very strong insurgency embedded there.So this terrorism concern is also partof the global commons, and what we must address.
+时间： 5:57
+zh-cn:所以，在21世纪，我们知道我们20世纪的方法不管用。我们该怎么办？
+en:So here we are, 21st century.We know our 20th-century tools are not going to work.What should we do?
+时间： 6:07
+zh-cn:我想说我们不能仅仅通过枪支来保障安全。我们不能仅仅依靠枪支，我们需要军事力量的综合应用。当我们使用时，我们就必须使用好。
+en:I would argue that we will not deliver securitysolely from the barrel of a gun.We will not deliver security solely from the barrel of a gun.We will need the application of military force.When we do it, we must do it well, and competently.
+时间： 6:24
+zh-cn:但我所要说的是，开放式安全是关于国际的，跨部门的，私人和公共的联系，通过互联网沟通而建立的。
+en:But my thesis is, open-source security is about international,interagency, private-public connection pulled togetherby this idea of strategic communication on the Internet.
+时间： 6:41
+zh-cn:让我讲一个例子。我们有阿富汗，有阿富汗的士兵，他们都拿着书。你可能会说“这真奇怪，我想我曾读到过在这个地区绝大多数20,30多岁的年轻人都是不识字的。”
+en:Let me give you a couple of examples of how this works in a positive way.This is Afghanistan. These are Afghan soldiers.They are all holding books.You should say, &quot;That&#39;s odd. I thought I read thatthis demographic, young men and womenin their 20s and 30s, is largely illiterate in Afghanistan.&quot;
+时间： 7:05
+zh-cn:你也许是对的。
+en:You would be correct.
+时间： 7:06
+zh-cn:当他们进入安全部队的时候，85%是不识字的。为什么？因为塔利班在这些人该学习的时候不提供教育。
+en:Eighty-five percent cannot readwhen they enter the security forces of Afghanistan.Why? Because the Taliban withheld educationduring the period of time in which these men and womenwould have learned to read.
+时间： 7:20
+zh-cn:所以问题是，为什么他们手里拿着书站在那里？答案是，我们在叫他们阅读，通过北约组织的课程，通过和私人组织的合作，通过和发展署的合作。我们已经教了超过200000的阿富汗安全部队士兵来进行最基本的读写。
+en:So the question is, so,why are they all standing there holding books?The answer is, we are teaching them to readin literacy courses by NATOin partnership with private sector entities,in partnership with development agencies.We&#39;ve taught well over 200,000 Afghan Security Forcesto read and write at a basic level.
+时间： 7:46
+zh-cn:当你能读和写的时候，你就会在你的口袋里放一支笔。在毕业典礼上，当这些人毕业时，他们很骄傲的拿出笔，并放在他们的口袋里。这个举动把全世界——有五十个国家——跨部门的力量私人和公共资源都联系到了一起，来进行这种安全的建立。
+en:When you can read and write in Afghanistan,you will typically put a pen in your pocket.At the ceremonies, when these young men and womengraduate, they take that pen with great pride,and put it in their pocket.This is bringing together international— there are 50 nations involved in this mission —interagency — these development agencies —and private-public, to take on this kind of security.
+时间： 8:12
+zh-cn:现在，我们当然也教他们格斗技巧，但我想说，开放式安全意味着为创造更持久的安全而联系各个力量。
+en:Now, we are also teaching them combat skills, of course,but I would argue, open-source securitymeans connecting in ways that createlonger lasting security effect.
+时间： 8:24
+zh-cn:这里是另一个例子。这是一个美国海军战舰。叫做Comfort（安慰）号。他有一个姊妹舰，叫做Mercy（仁慈）号。他们是友好的战舰。安慰号在加勒比海和南美洲的海岸进行病人的治疗。通常，他会进行400000个治疗，船员不是严格的部队人员，而是很多人道主义组织，比如“希望项目”，“微笑工程”。其他组织送来志愿者。其他部门的医生也来了。他们都是这个项目的一部分。
+en:Here&#39;s another example.This is a US Navy warship.It&#39;s called the Comfort.There&#39;s a sister ship called the Mercy.They are hospital ships.This one, the Comfort, operates throughoutthe Caribbean and the coast of South Americaconducting patient treatments.On a typical cruise, they&#39;ll do 400,000 patient treatments.It is crewed not strictly by militarybut by a combination of humanitarian organizations:Operation Hope, Project Smile.Other organizations send volunteers.Interagency physicians come out.They&#39;re all part of this.
+时间： 9:08
+zh-cn:举个例子来说明这个项目的影响力，这个小孩，8岁，和他的妈妈走了两天来到安慰号上的眼科诊所。当他被治好他的重度近视是，他突然抬头，然后说：“Mama, veo el mundo.（当地语言）”“妈妈，我看到世界了。”把这个乘以400000，也就是治疗数目，这个私人和公共的合作，同时融合了安全力量的项目，开始显现它的力量，来以一个很不同的方式创造安全。
+en:To give you one example of the impact this can have,this little boy, eight years old,walked with his mother two daysto come to the eye clinic put on by the Comfort.When he was fitted, over his extremely myopic eyes,he suddenly looked up and said,&quot;Mama, veo el mundo.&quot;&quot;Mom, I see the world.&quot;Multiply this by 400,000 patient treatments,this private-public collaboration with security forces,and you begin to see the powerof creating security in a very different way.
+时间： 9:49
+zh-cn:这张照片是棒球运动员。你能在其中找出两名美国部队的士兵吗？他们是每侧最边上的两位。这是棒球诊所的一部分，在这里我们尝试棒球联赛，国务院，（它建起了外交基础）在军队中的棒球运动员，也就是那些能真正上战场的人，之间的合作，并且他们把这种诊所开到了拉丁美洲和加勒比地区，开到了洪都拉斯，开到了尼加拉瓜，开到了所有中美洲和加勒比的棒球很流行国家，而且它创造了安全感。他为年轻人建立了关于健身和生活的榜样，而且我想说这些理念帮助创造了安全。
+en:Here you see baseball players.Can you pick out the two US Army soldiersin this photograph?They are the two young men on either sideof these young boys. This is part of a seriesof baseball clinics, where we have explored collaborationbetween Major League Baseball,the Department of State,who sets up the diplomatic piece of this,military baseball players, who are real soldierswith real skills but participate in this mission,and they put on clinicsthroughout Latin America and the Caribbean,in Honduras, in Nicaragua,in all of the Central American and Caribbean nationswhere baseball is so popular,and it creates security.It shows role models to young men and womenabout fitness and about life that I would arguehelp create security for us.
+时间：10:49
+zh-cn:这个合作的另一部分是灾后救援与后续工作。这是一个美国空军的直升机，它参加了2004年一个杀死250000人的海啸的救援。在所有的大灾难中——2004年海啸，250000死，2005年巴基斯坦地震，85000人死亡，海地地震，300000人死亡，还有最近的对于日本机器核工业的地震海啸双重打击——在所有这些例子中，我们看到了国际间，跨部门，公私结合的合作，这个合作与安全力量同时响应这种自然灾害。所以这些都是我们说的开放式安全的例子。
+en:Another aspect of this partnershipis in disaster relief.This is a US Air Force helicopter participatingafter the tsunami in 2004 which killed 250,000 people.In each of these major disasters — the tsunami in 2004,250,000 dead, the Kashmiri earthquake in Pakistan, 2005,85,000 dead,the Haitian earthquake, about 300,000 dead,more recently the awful earthquake-tsunami combinationwhich struck Japan and its nuclear industry —in all of these instances, we see partnershipsbetween international actors,interagency, private-public working with security forcesto respond to this kind of natural disaster.So these are examples of this idea of open-source security.
+时间：11:49
+zh-cn:我们结合在一起，来共同完成这样的事情。现在你看到这个，应该在想，“啊，船长，这些一定是通信电缆，或者是光线。”不，这是一个Twitter（国外微博网站）公司发的世界地图。紫色是微博，绿色是地点，白色是结合。这很能让人想到人口普查，六个人口最多的国家依次是：中国，印度，Facebook（国外社交网络），美国，Twitter，和印尼。（笑声）
+en:We tie it together, increasingly, by doing things like this.Now, you&#39;re looking at this thinking, &quot;Ah, Admiral,these must be sea lanes of communication,or these might be fiber optic cables.&quot;No. This is a graphic of the world according to Twitter.Purple are tweets. Green are geolocation.White is the synthesis.It&#39;s a perfect evocation of that great population survey,the six largest nations in the world in descending order:China, India, Facebook, the United States,Twitter and Indonesia. (Laughter)
+时间：12:31
+zh-cn:我们要这些网干什么？我们为什么想要在其中？我们之前讨论过阿拉伯春天组织，以及它的力量。我再举一个例子，是关于信息如何传播的。
+en:Why do we want to get in these nets?Why do we want to be involved?We talked earlier about the Arab Spring,and the power of all this.I&#39;ll give you another example,and it&#39;s how you move this message.
+时间：12:42
+zh-cn:我在伦敦发表一个像这个的演讲。我说，我对你们说，我在Facebook上，加我好友吧。观众在笑。这是AP（美联社）的一篇文章。世界上有两个地方，芬兰和印尼，标题是：北约舰队司令需要好友。（笑声）谢谢你们。（掌声）我会做。（笑声）
+en:I gave a talk like this in London a while backabout this point. I said, as I say to all of you,I&#39;m on Facebook. Friend me.Got a little laugh from the audience.There was an article which was run by AP, on the wire.Got picked up in two places in the world:Finland and Indonesia.The headline was: NATO Admiral Needs Friends.(Laughter)Thank you. (Applause)Which I do. (Laughter)
+时间：13:12
+zh-cn:这个故事是一个催化剂，明天早上我就会有上百个Facebook好友请求，来自印尼和芬兰，大多数都会说：“司令，我们听说你需要好友，哦，还有，NATO（北约）是什么？”（笑声）
+en:And the story was a catalyst,and the next morning I had hundredsof Facebook friend requestsfrom Indonesians and Finns,mostly saying, &quot;Admiral, we heard you need a friend,and oh, by the way, what is NATO?&quot; (Laughter)
+时间：13:28
+zh-cn:所以（笑声）
+en:So ... (Laughter)
+时间：13:30
+zh-cn:是的，我们笑了，但这就是我们如何传播信息，也就是我们如何把国际，不同部门，私人和公共，以及那些社会网联系起来来创造安全。
+en:Yeah, we laugh, but this is how we move the message,and moving that message is how we connectinternational, interagency, private-public,and these social nets to help create security.
+时间：13:43
+zh-cn:现在，让我说一个严肃的消息。这是一个勇敢的英国士兵的照片。他在苏格兰卫队，正在Helmand站岗，在阿富汗南部。我把他放出来就是想提醒我们，我不想让任何人离开这间屋子，抱着“我们不需要军事部队”的想法。这正是我们在做的，我们做这个事情来保障自由，言论自由，和其他所有我们在社会中珍视的。
+en:Now, let me hit a somber note.This is a photograph of a brave British soldier.He&#39;s in the Scots Guards.He&#39;s standing the watch in Helmand,in southern Afghanistan.I put him here to remind us,I would not want anyone to leave the room thinkingthat we do not need capable, competent militarieswho can create real military effect.That is the core of who we are and what we do,and we do it to protect freedom, freedom of speech,all the things we treasure in our societies.
+时间：14:20
+zh-cn:但你知道，生活不是开关。我们没有要么在战争，要么在兵营的军事力量。
+en:But, you know, life is not an on-and-off switch.You don&#39;t have to have a military that is eitherin hard combat or is in the barracks.
+时间：14:31
+zh-cn:我认为生活是一个可变电阻器，你需要调一个数值，并且正像我认为我们该如何在21世纪制造安全一样，我们会需要在真正的战争和危机中使用真正强硬的力量，但会有很多时候，就像我们已经讨论的，我们的部队可以使21世纪安全，也就是国际，跨部门，公私结合，的安全模式的一部分，通过沟通来结合起来。
+en:I would argue life is a rheostat.You have to dial it in,and as I think about how we create securityin this 21st century, there will be timeswhen we will apply hard power in true war and crisis,but there will be many instances,as we&#39;ve talked about today,where our militaries can be part of creating21st-century security, international,interagency, private-public,connected with competent communication.
+时间：15:07
+zh-cn:在结束时，我想说在今天早些时候听到的关于维基百科的一些东西。我经常用维基百科查一些东西，就像你所知道的，维基百科不是靠12个聪明的人把自己关在屋子里写文章建立的。维基百科是靠每天数万人的更新，数百万人的提取信息而建立的。这完美的说明了没有一个人能比共同思考更聪明。没有一个人，没有一个联盟，没有一个国家，能有我们共同思考更睿智。
+en:I would close by saying that we heard earlier todayabout Wikipedia. I use Wikipedia all the timeto look up facts, and as all of you appreciate,Wikipedia is not created by 12 brilliant peoplelocked in a room writing articles.Wikipedia, every day, is tens of thousands of peopleinputting information, and every day millions of peoplewithdrawing that information.It&#39;s a perfect image for the fundamental pointthat no one of us is as smart as all of us thinking together.No one person, no one alliance, no one nation,no one of us is as smart as all of us thinking together.
+时间：15:52
+zh-cn:维基百科的宣言很简单：创建一个能人人自由共享所有知识的世界。所以，我想说，通过结合国际，多部门，公私力量，战略通信在一起，在21世纪，我们能创造共同的安全。
+en:The vision statement of Wikipedia is very simple:a world in which every human being can freely sharein the sum of all knowledge.My thesis for you is that by combining international,interagency, private-public, strategic communication,together, in this 21st century,we can create the sum of all security.
+时间：16:17
+zh-cn:谢谢（掌声）
+en:Thank you. (Applause)
+时间：16:20
+zh-cn:非常感谢。（掌声）
+en:Thank you very much. Thank you. Thank you. (Applause)

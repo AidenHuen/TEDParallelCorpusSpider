@@ -1,0 +1,57 @@
+时间： 0:11
+zh-cn:我想要第一次向公众证明视频可以由一台LED台灯传送至太阳能电池板上，并由一台手提电脑接收没有Wi-Fi介入，只是光
+en:I would like to demonstratefor the first time in publicthat it is possible to transmit a videofrom a standard off-the-shelf LED lampto a solar cell with a laptopacting as a receiver.There is no Wi-Fi involved,it&#39;s just light.
+时间： 0:32
+zh-cn:那么你可能想知道，这样做有什么意义？意义就是：将来互联网会大规模覆盖“数字鸿沟“将不复存在并且让我们所说的“物联网”变为可能——数以亿计的设备连接到互联网
+en:And you may wonder, what&#39;s the point?And the point is this:There will be a massiveextension of the Internetto close the digital divide,and also to allow for what we call&quot;The Internet of Things&quot; —tens of billions of devicesconnected to the Internet.
+时间： 0:50
+zh-cn:在我看来，互联网的大程度扩张前提是需要基本保证“能源中性化”（指尽量减少能源消耗）这就是说， 我们需要尽可能的多用现存的基础设施这就是为什么前面提到太阳能电池和LED
+en:In my view, such an extensionof the Internet can only workif it&#39;s almost energy-neutral.This means we need to use existinginfrastructure as much as possible.And this is where the solar celland the LED come in.
+时间： 1:07
+zh-cn:我之前第一次证明这件事是2011年在TED演讲我称它为Li-Fi，即光保真用现存的LED灯可以极快地传递Li-Fi数据并且这种方式安全可靠数据由光传输由亮度的细微变化解码如果我们环视四周，在我们身边有很多的LED灯因此在我们周围有着非常丰富的Li-Fi发射装置但是目前，我们通常使用一个特别的设备——小型照片探测器来接收由数据解码出来的信息我想要找到一种方法，利用现有的基础设施来接收Li-Fi灯发出的数据这也是为什么我一直研究太阳能电池和太阳能电板
+en:I demonstrated for the first time,at TED in 2011,Li-Fi, or Light Fidelity.Li-Fi uses off-the-shelf LEDsto transmit data incredibly fast,and also in a safe and secure manner.Data is transported by the light,encoded in subtle changesof the brightness.If we look around,we have many LEDs around us,so there&#39;s a rich infrastructureof Li-Fi transmitters around us.But so far, we have been usingspecial devices — small photo detectors,to receive the informationencoded in the data.I wanted to find a way to also useexisting infrastructureto receive data from our Li-Fi lights.And this is why I have been looking intosolar cells and solar panels.
+时间： 2:02
+zh-cn:太阳能电池吸收光并转化成电能这就是为什么我们能用太阳能电池给我们的手机充电但我们知道数据是由LED亮度的微妙变化来编码的所以如果入射的光有波动那么太阳能电池收集的能量也有波动这就意味着我们具备了一项基本原理：信息通过光的传导，由太阳能电池板接收因为收集的能量波动 与传输的数据相对应
+en:A solar cell absorbs lightand converts it into electrical energy.This is why we can use a solar cellto charge our mobile phone.But now we need to rememberthat the data is encoded in subtle changesof the brightness of the LED,so if the incoming light fluctuates,so does the energy harvestedfrom the solar cell.This means we havea principal mechanism in placeto receive information from the lightand by the solar cell,because the fluctuationsof the energy harvestedcorrespond to the data transmitted.
+时间： 2:42
+zh-cn:当然问题就在我们是否能够收集到非常迅速和微小的亮度变化比如通过我们的LED灯传递的那种答案是 是的，我们可以我们在实验室已经展示我们能够接收达到每秒50MB的数据通过一个标准的，现有的太阳能电池这比目前最高速的宽带连接还要快
+en:Of course the question is:can we receive very fast and subtlechanges of the brightness,such as the ones transmittedby our LED lights?And the answer to that is yes, we can.We have shown in the labthat we can receive up to 50megabytes per secondfrom a standard, off-the-shelf solar cell.And this is faster than mostbroadband connections these days.
+时间： 3:10
+zh-cn:现在让我来实践展示一下在这个盒子里，是一个现有的标准LED灯这是一个现有的标准太阳能电池它连接到笔记本电脑上这儿我们还有一个测量仪用来显示我们从太阳能电池收集的能量现在这个仪表上有读数这是因为太阳能电池已经开始从周围环境收集光了
+en:Now let me show you in practice.In this box is a standard,off-the-shelf LED lamp.This is a standard,off-the-shelf solar cell;it is connected to the laptop.And also we have an instrument hereto visualize the energywe harvest from the solar cell.And this instrument showssomething at the moment.This is because the solar cell alreadyharvests light from the ambient light.
+时间： 3:42
+zh-cn:现在，首先我将把灯打开只是简单的打开灯，等一段时间你会注意到指针跳到了右边所以现在 太阳能电池正在从这个人工光源接收能量如果把它关掉，我们看到读数降回去了再打开所以我们用太阳能电池收集了能源
+en:Now what I would like to do firstis switch on the light,and I&#39;ll simply, only switch on the light,for a moment,and what you&#39;ll notice is thatthe instrument jumps to the right.So the solar cell, for a moment,is harvesting energyfrom this artificial light source.If I turn it off, we see it drops.I turn it on ...So we harvest energy with the solar cell.
+时间： 4:07
+zh-cn:接下来， 我将要启动视频传导通过按下这个按钮来实现所以现在这个LED灯正在通过亮度的细微变化传导一个视频这种亮度变化太快，不能用肉眼识别为了证明这一点我可以阻挡太阳能电池接收的光首先你会注意到收集的能源下降了并且视频也停止了如果我移开阻碍物， 视频会继续播放
+en:But next I would like to activatethe streaming of the video.And I&#39;ve done thisby pressing this button.So now this LED lamp hereis streaming a videoby changing the brightness of the LEDin a very subtle way,and in a way that you can&#39;trecognize with your eye,because the changesare too fast to recognize.But in order to prove the point,I can block the light of the solar cell.So first you noticethe energy harvesting dropsand the video stops as well.If I remove the blockage,the video will restart.
+时间： 4:48
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:54
+zh-cn:这个操作可以重复所以当我们阻止视频的传输能源收集也相应停止这说明太阳能电池可以作为一个接收器
+en:And I can repeat that.So we stop the transmission of the videoand energy harvesting stops as well.So that is to show that the solar cellacts as a receiver.
+时间： 5:07
+zh-cn:但是现在想像一下这个LED灯是街灯并且周围有雾我想模拟有雾的情况因此我随身带来一个手帕
+en:But now imagine that this LED lampis a street light, and there&#39;s fog.And so I want to simulate fog,and that&#39;s why I broughta handkerchief with me.
+时间： 5:18
+zh-cn:（笑声）
+en:(Laughter)
+时间： 5:19
+zh-cn:让我把手帕放到太阳能电池上首先你会注意到能源收集量降低了，和预料的一样但是现在视频仍在继续播放这意味着，尽管有阻碍物还是有足够的光穿过手帕到太阳能电池因此太阳能电池仍然能够解码、传导数据信息甚至是我们现在用的高清视频信息
+en:And let me put the handkerchiefover the solar cell.First you noticethe energy harvested drops, as expected,but now the video still continues.This means, despite the blockage,there&#39;s sufficient light coming throughthe handkerchief to the solar cell,so that the solar cell is able to decodeand stream that information,in this case, a high-definition video.
+时间： 5:50
+zh-cn:重要的是 太阳能电池在这里成为了一个接收器接收编码成光的高速无线信号同时也保持了它作为能源收集设备的基本功能这就是说，屋顶上那些现有的太阳能电池可以用来作为宽带网络的接收器信号可以来自靠近山坡的激光站，或者街边的路灯
+en:What&#39;s really important here is thata solar cell has become a receiverfor high-speed wireless signalsencoded in light,while it maintains its primary functionas an energy-harvesting device.That&#39;s why it is possibleto use existing solar cellson the roof of a hutto act as a broadband receiverfrom a laser station on a close by hill,or indeed, lamp post.
+时间： 6:18
+zh-cn:哪里的光束到达太阳能电池并不要紧并且实际上窗户上安装的半透明太阳能电池安装在街道设施上的太阳能电池甚至安装在成千上万其他设备上的太阳能电池它们将会形成物联网这是因为我们不想经常给这些设备充电更不想每几个月就要更换电池
+en:And It really doesn&#39;t matterwhere the beam hits the solar cell.And the same is truefor translucent solar cellsintegrated into windows,solar cells integratedinto street furniture,or indeed, solar cells integratedinto these billions of devicesthat will form the Internet of Things.Because simply,we don&#39;t want to chargethese devices regularly,or worse, replace the batteriesevery few months.
+时间： 6:45
+zh-cn:我之前说这是我第一次向公众展示这些这次展示可以说是一个实验证明一个原型但是我和我的团队有信心接下来两到三年，这项产品会进入市场希望我们能够对终结“数字鸿沟”做出贡献并且帮助成千上万的设备连接到互联网而且所有设备不会造成巨大的能源消耗因为我们将利用现有的太阳能电池
+en:As I said to you,this is the first timeI&#39;ve shown this in public.It&#39;s very much a lab demonstration,a prototype.But my team and I are confidentthat we can take this to marketwithin the next two to three years.And we hope we will be able to contributeto closing the digital divide,and also contributeto connecting all these billionsof devices to the Internet.And all of this without causinga massive explosionof energy consumption —because of the solar cells,quite the opposite.
+时间： 7:15
+zh-cn:谢谢
+en:Thank you.
+时间： 7:16
+zh-cn:（掌声）
+en:(Applause)

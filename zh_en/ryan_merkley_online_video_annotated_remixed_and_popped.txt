@@ -1,0 +1,27 @@
+时间： 0:12
+zh-cn:我们通过讲故事来了解自身生活的世界而重组和分享（信息）则定义了我们所了解的网络，所有人都可以通过简单的工具连接互联网，成为（我们所讲的）故事一部分（去了解世界）。但是视频被排除在外。在网络上它只是一个小窗口，并与与其相关的数据和内容相互分离。事实上，十多年来，网络视频唯一的变化是窗口的尺寸和画质。
+en:To understand the world that live in, we tell stories.And while remixing and sharing have come to definethe web as we know it,all of us can now be part of that story through simple toolsthat allow us to make things online.But video has been left out. It arrived on the webin a small box, and there it has remained,completely disconnected from the data and the contentall around it.In fact, in over a decade on the web, the only thingthat has changed about video is the size of the boxand the quality of the picture.
+时间： 0:48
+zh-cn:Popcorn 则完全不同。它允许人们将视频和网络上的实时内容在线进行组合用Popcorn制作的视频和网络本身一样：是动态的，包含大量的链接，并完全可以重组而且打破了（网络视频的）局限。
+en:Popcorn changes all of that.It&#39;s an online tool that allows anyone to combine videowith content pulled live directly from the web.Videos created with Popcorn behave like the web itself:dynamic, full of links, and completely remixable,and finally allowed to break free from the frame.
+时间： 1:09
+zh-cn:我想要给大家展示一个我们正在研发并将于今年秋天发布的模型演示。它将是完全免费的， 而且适用于任何浏览器。每一个Popcorn产品都从视频开始，所以我用我们在研讨会上使用的新闻广播模版制作了一个20秒的简短视频剪辑。现在让我们一起来看看。我们倒回去，给大家展示我们是怎么制作它的。
+en:I want to give you a demo of a prototypethat we&#39;re working on that we&#39;ll launch later this fall.It will be completely free, and it will work in any browser.So, every Popcorn production begins with the video,and so I&#39;ve made a short, 20-second clipusing a newscaster template that we use in workshops.So let&#39;s watch it. We&#39;ll go back, and I&#39;ll show you how we made it.
+时间： 1:31
+zh-cn:嗨，欢迎来到我的新闻广播。我用谷歌地图添加了我的地点，而且它是实时的。所以试着移动它。你也可以添加实时链接和订制图标，或把任何其他网络服务的内容拖拽进来，例如Flickr.还可以添加带链接的文章或博文，点击链接就能看到完整内容
+en:Hi, and welcome to my newscast.I&#39;ve added my location with a Google Map,and it&#39;s live, so try moving it around.You can add pop-ups with live links and custom icons,or pull in content from any web service, like Flickr,or add articles and blog posts with links out to the full content.
+时间： 1:52
+zh-cn:让我们回过头来，展示一下你们可以看到了什么—-有很多东西。这个是时间轴，如果你编辑过视频，你对这个一定很熟悉。但在这里时间轴上的不是视频片段而是网络事件，你可以把它们拉到主视频里现在在这个Porcorn成品里我们有标题卡，画中画谷歌地图Popcorn可以实现（地图和视频）的相互切换。有两个条目展示了其他信息，还有一篇可链接至原文的文章。
+en:So let&#39;s go back, and I&#39;ll show you what you saw. There was a lot there.So this is the timeline, and if you&#39;ve ever edited video,you&#39;re familiar with this, but instead of clips in the timeline,what you&#39;re looking at is web events pulled into the video.Now in this Popcorn production we&#39;ve gotthe title card, we&#39;ve got a Google Map that shows uppicture-in-picture, then Popcorn lets it pushoutside the frame and take over the whole screen.There are two pop-ups bringing you some other information,and a final article with a link out to the original article.
+时间： 2:24
+zh-cn:让我们来看看这张谷歌地图，我将展示可以怎样编辑它你只需要找到时间轴，双击条目（就可以）我已经设置为多伦多，因为我来自那里。我们来设置些其他的。Popcorn立刻连接至互联网，与谷歌交互，抓取地图，并显示出来。这也与你视频的观看者所看到的一模一样。它是实时的，不是一张图片。所以如果你点击它，可以放大，如果你想甚至可以看到街景。
+en:Let&#39;s go to this Google Map, and I&#39;ll show you how you can edit it.All you do, go into the timeline, double-click the item,and I&#39;ve set it to Toronto, because that&#39;s where I&#39;m from.Let&#39;s set it to something else.Popcorn immediately goes out onto the web,talks to Google, grabs the map, and puts it in the display.And it&#39;s exactly the samefor the people who watch your production.And it&#39;s live. It&#39;s not an image. So you click on it,you zoom in, right down to street view if you want to.
+时间： 2:53
+zh-cn:我提到可以在视频里加入实时素材，我们现在可以来试试。我们从Flickr中选取素材。来到右手边，从选项中抓取Flickr拖至时间轴放在想放的地方，它会马上连接至Flickr，并根据标签引入照片。我的开发团队非常喜欢小马，所以他们把“小马”设为缺省设置。让我们试试其他的或许与今天的主题更相关一些的这里是些直接从素材库中读取的实时图片如果你一周后再来看这些图片将会完全不同它们是动态的，就像网络本身一样，而且所有东西都有源可循，所以点击这个链接你可以直接到Flickr查看到源图片。
+en:Now in the video, I mentioned adding a live feed,which we can do right now, so let&#39;s add a live feedfrom Flickr. Go over to the right-hand side,grab Flickr from the list of options,drag it into the timeline,and put it where you&#39;d like it to go,and it immediately goes out to Flickr and starts pulling inimages based on the tags. Now, my developersreally like ponies, and so they&#39;ve set that as the default tag.Let&#39;s try something else,maybe something a bit more relevant to today.Now here are live images being pulled straight from the feed.If you come and watch this a week from now,this will be completely different,dynamic, just like the web, and just like the web,everything is sourced, so click your link,and you go straight to Flickr and see the source image.
+时间： 3:39
+zh-cn:今天大家看到的所有东西，都是基于网络基本模块：HTML,CSS 和JavaScript这就意味着它是完全可以重组的。这同样也意味着没有专利软件的问题。你只要拥有网络浏览器就足够了。
+en:Everything you&#39;ve seen today is built with the basicbuilding blocks of the web: HTML, CSS and JavaScript.That means it&#39;s completely remixable. It also meansthere&#39;s no proprietary software. All you needis a web browser.
+时间： 3:53
+zh-cn:所以，想象一下如果我们在网上看到的所有视频都像网络本身一样，可以完全重组与信息源连接，带给每一个观看者交互体验。我认为Popcorn能够改变我们在互联网上讲故事的方式，以及我们理解世界的方式。谢谢（掌声）
+en:So imagine if every video that we watched on the webworked like the web, completely remixable,linked to its source content, and interactivefor everyone who views it.I think Popcorn could change the way that we tell stories onthe web, and the way we understand the world we live in.Thank you. (Applause)

@@ -1,0 +1,33 @@
+时间： 0:11
+zh-cn:大概在四五年前，我应该坐在费城的一个舞台上，身边有一个像这样的包。我从这个包里掏出一个分子，说，你很不了解这个分子。但是你的身体却非常了解它。同时我也在想你的身体对之十分痛恨。因为我们对此免疫。这被称为alpha-gal抗原决定基。事实上猪的心脏瓣膜里有很多这种分子，也正因为此，你很难把猪的心脏瓣膜移植到人体上。
+en:So it was about four years ago, five years ago,I was sitting on a stage in Philadelphia, I think it was,with a bag similar to this.And I was pulling a molecule out of this bag.And I was saying, you don&#39;t know this molecule really well,but your body knows it extremely well.And I was thinking that your body hated it, at the time,because we are very immune to this. This is called alpha-gal epitope.And the fact that pig heart valves have lots of these on themis the reason that you can&#39;t transplant a pig heart valve into a person easily.
+时间： 0:43
+zh-cn:实际上我们的身体并不痛恨它们。我们的身体喜欢这些食物，它会吃掉它们。我的意思是说，我们免疫系统中的细胞总是处于饥饿状态。一旦抗体碰到这些东西，就意味着，“找到食物了”。正如你所知的，我们让免疫系统对这个奇怪的分子产生了反应，而这个分子并不是我们做的，我们能在其他动物和物体上看到这样的物质。但是我也说过我们无法避免这种免疫活动。因为所有试图移植心脏瓣膜的人，最终都发现他们没法摆脱这个免疫系统。
+en:Actually our body doesn&#39;t hate these.Our body loves these. It eats them.I mean, the cells in our immune system are always hungry.And if an antibody is stuck to one of these thingson the cell, it means &quot;that&#39;s food.&quot;Now, I was thinking about that and I said, you know, we&#39;ve got thisimmune response to this ridiculous moleculethat we don&#39;t make, and we see it a lot in other animals and stuff.But I said we can&#39;t get rid of it,because all the people who tried to transplant heart valvesfound out you can&#39;t get rid of that immunity.
+时间： 1:14
+zh-cn:那么我说，为什么不利用它呢？假如我把这个分子，植入到一个细菌上，而这个细菌恰恰是正在侵略我肺部的病原体呢？这样，我就能立即进入一个早已准备好的免疫状态了。而不是像以前那样需要五六天的时间来慢慢发展自己的免疫系统。用这个方法，我们可以对当前的病原体立即发动攻击了。打个比方来说，你在洛杉矶碰上了交通堵塞，警察在你汽车的后备箱放了一麻袋毒品，并指控你非法拥有毒品。这其实是一种非常快非常有效的，让人们迅速离开这条街的方法。
+en:And I said, why don&#39;t you use that?What if I could stick this molecule,slap it onto a bacteriathat was pathogenic to me, that had just invaded my lungs?I mean I could immediately tap intoan immune response that was already there,where it was not going to take five or six days to develop it —it was going to immediately attack whatever this thing was on.It was kind of like the same thing that happens when you,like when you&#39;re getting stopped for a traffic ticket in L.A.,and the cop drops a bag of marijuana in the back of your car,and then charges you for possession of marijuana.It&#39;s like this very fast, very efficient way to get people off the street.
+时间： 1:51
+zh-cn:（笑声）
+en:(Laughter)
+时间： 1:53
+zh-cn:所以你可以取出一个细胞，这对事情没有任何影响。但如果你能成功的在细胞上加上这个分子，你就能把它从大街上甩掉了。对于一些细菌，我们没有其他有效的方法来抵抗了。我们的抗生素正在被用尽。我是说，整个世界都在用尽。有可能50年后这已经不是一个问题了，链球菌会肆虐，假如今天我们没有在这的话。但是如果我们在——（笑声）我们需要一些东西对抗细菌。
+en:So you can take a bacteriathat really doesn&#39;t make these things at all,and if you could clamp these on it really wellyou have it taken off the street.And for certain bacteriawe don&#39;t have really efficient ways to do that anymore.Our antibiotics are running out.And, I mean, the world apparently is running out too.So probably it doesn&#39;t matter 50 years from now —streptococcus and stuff like that will be rampant —because we won&#39;t be here. But if we are —(Laughter)we&#39;re going to need something to do with the bacteria.
+时间： 2:22
+zh-cn:所以我已经开始着手这项工作，和一群合作者们。并且尝试着把它附着到那些本身也附着于某些领域的东西上，例如对我们有害的细菌。我现在就像乔治·布什。就如“任务完成”(布什所发表的演讲)一样。也许我现在做的事情有点蠢，就像他当时做的那样。但基本上我在讨论我们将要做的事情。也就是，杀死病毒，让抗体系统吃掉它们。
+en:So I started working with this thing,with a bunch of collaborators.And trying to attach this to things that werethemselves attached to certain specific target zones,bacteria that we don&#39;t like.And I feel now like George Bush.It&#39;s like &quot;mission accomplished.&quot;So I might be doing something dumb, just like he was doing at the time.But basically what I was talking about there we&#39;ve now gotten to work.And it&#39;s killing bacteria. It&#39;s eating them.
+时间： 2:54
+zh-cn:这件事也许会受到阻碍，就像那边那个绿色小三角一样,有点像现在的情况。你可以把它附着到一种叫做DNA适体的东西上。然后那个DNA适体会专一的附着到你选择的目标上。因此你可以在细菌上找一个你不喜欢的特性，比如菌尿（Staphylococcus），我特别不喜欢它，因为去年我的一名教授朋友因它而死。抗生素对它没效果，所以我不喜欢它。于是我制作了一种可以附着在这上面的适体。它知道怎么在你的体内找到菌尿，然后报警，让你的免疫系统去搞定它。
+en:This thing can be stuck, like that little green triangle up there,sort of symbolizing this right now.You can stick this to something called a DNA aptamer.And that DNA aptamer will attach specificallyto a target that you have selected for it.So you can find a little feature on a bacterium that you don&#39;t like,like Staphylococcus — I don&#39;t like it in particular,because it killed a professor friend of mine last year.It doesn&#39;t respond to antibiotics. So I don&#39;t like it.And I&#39;m making an aptamer that will have this attached to it.That will know how to find Staph when it&#39;s in your body,and will alert your immune system to go after it.
+时间： 3:30
+zh-cn:我们的测试是这样的。看到最上面那条由小点构成的线了吗？那是一群被毒害了的老鼠，由处于德克萨斯州的科学家朋友们，用炭疽杆菌下的毒。接着我们对他们使用了我们制作的药物，它可以一种特殊方式攻击炭疽杆菌，并引到免疫系统去攻击它。你会发现最上面一排还都活着。百分之百的存活率。事实上它们接下来又存活了14天，或者28天，直至我们最后杀死了它们，并解剖它们，分析到底哪里出了问题。它们为什么没有死呢？因为它们不再有任何炭疽杆菌了。所以说，我们成功了。对吧？
+en:Here&#39;s what happened. See that line on the very topwith the little dots?That&#39;s a bunch of mice that had been poisonedby our scientist friends down in Texas,at Brooks Air Base, with anthrax.And they had also been treated with a drug that we madethat would attack anthrax in particular,and direct your immune system to it.You&#39;ll notice they all lived, the ones on the top line —that&#39;s a 100 percent survival rate.And they actually lived another 14 days,or 28 when we finally killed them,and took them apart and figured out what went wrong.Why did they not die?And they didn&#39;t die because they didn&#39;t have anthrax anymore.So we did it. Okay?
+时间： 4:10
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:12
+zh-cn:任务完成！
+en:Mission accomplished!
+时间： 4:14
+zh-cn:（掌声）
+en:(Applause)

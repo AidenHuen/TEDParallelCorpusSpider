@@ -1,0 +1,24 @@
+时间： 0:11
+zh-cn:当你头疼时你会怎么办？你会吞下一片阿斯匹林。但你头疼，这片药药效要到达你的头部，它先要经过胃、肠和许多其它器官。
+en:What do you do when you have a headache?You swallow an aspirin.But for this pill to getto your head, where the pain is,it goes through your stomach, intestinesand various other organs first.
+时间： 0:27
+zh-cn:口服是最为有效且无痛的给药方式。口服是最为有效且无痛的给药方式。但是不利之处在于，口服会导致药物稀释。这可是一个大问题，尤其是对于HIV患者。当他们使用抗HIV药物时，这些药物有助于降低血液中的病毒含量，并提升CD4细胞(人体免疫系统中的一种重要免疫细胞)计数，但其副作用也是非常严重的，而最大的问题在于，因为药物进入血液时已经稀释，到达目标位置时浓度更低。这里才是最重要的地方：HIV病毒潜伏处(病毒的储存宿主)。这些地方在身体里面—诸如淋巴结、神经系统，以及肺部—这里的病毒在休眠，不会迅速进入病人的血液中，只要病人持续采用抗HIV药物治疗。但是，当治疗中断时，病毒就会苏醒并感染血液中的新细胞。
+en:Swallowing pills is the most effectiveand painless way of deliveringany medication in the body.The downside, though, is that swallowingany medication leads to its dilution.And this is a big problem,particularly in HIV patients.When they take their anti-HIV drugs,these drugs are good for loweringthe virus in the blood,and increasing the CD4 cell counts.But they are also notoriousfor their adverse side effects,but mostly bad, because they get dilutedby the time they get to the blood,and worse, by the timethey get to the siteswhere it matters most:within the HIV viral reservoirs.These areas in the body —such as the lymph nodes,the nervous system,as well as the lungs —where the virus is sleeping,and will not readilyget delivered in the bloodof patients that are underconsistent anti-HIV drugs therapy.However, upon discontinuation of therapy,the virus can awakeand infect new cells in the blood.
+时间： 1:43
+zh-cn:如今，对于目前的HIV药物治疗，所有上述缺点成了一个大问题，而病人必须终生服药。有一天，我坐着突然想到：“我们可不可以直接向病毒潜伏处中注入抗HIV药物，这样药物不会稀释？”作为一名激光科学家，答案就在我眼前：激光，当然了。如果激光可以应用于牙科，糖尿病伤口修复与外科手术，那可以想到的任何领域都可以使用，包括直接向细胞注入药物。
+en:Now, all this is a big problem in treatingHIV with the current drug treatment,which is a life-long treatmentthat must be swallowed by patients.One day, I sat and thought,&quot;Can we deliver anti-HIV directlywithin its reservoir sites,without the risk of drug dilution?&quot;As a laser scientist,the answer was just before my eyes:Lasers, of course.If they can be used for dentistry,for diabetic wound-healing and surgery,they can be used for anything imaginable,including transporting drugs into cells.
+时间： 2:24
+zh-cn:实际上我们已经在用激光脉冲在HIV感染的细胞上戳或钻出一个极小的孔，这些孔钻开后会立即关闭。我们用这个办法向细胞中注入药物。“这怎么可能？”你可能会问。嗯，我们将一束能量极高但极细的激光照射在HIV感染细胞的细胞膜上，这些细胞浸泡在含有药物的液体里，激光将细胞刺穿，毫秒之间，细胞就吞下了药物。在你反应过来之前，钻出的孔又立即修复。
+en:As a matter of fact,we are currently using laser pulsesto poke or drill extremely tiny holes,which open and close almostimmediately in HIV-infected cells,in order to deliver drugs within them.&quot;How is that possible?&quot; you may ask.Well, we shine a very powerfulbut super-tiny laser beamonto the membrane of HIV-infected cellswhile these cells are immersedin liquid containing the drug.The laser pierces the cell,while the cell swallows the drugin a matter of microseconds.Before you even know it,the induced holebecomes immediately repaired.
+时间： 3:12
+zh-cn:现在，我们正在试管或培养皿里，测试这一技术，而目标是将这一技术应用于人体。“这怎么可能？”你可能会问。嗯，我们使用的是一个三头仪器，第一个头是激光头，用它在感染部位进行切割；第二个头是摄像头，用来找到感染位置；最后，第三个头是喷药头，用来直接向感染部位注入药物，同时用激光将细胞戳开一个孔。
+en:Now, we are currently testingthis technology in test tubesor in Petri dishes,but the goal is to getthis technology in the human body,apply it in the human body.&quot;How is that possible?&quot; you may ask.Well, the answer is:through a three-headed device.Using the first head, which is our laser,we will make an incisionin the site of infection.Using the second head, which is a camera,we meander to the site of infection.Finally, using a third head,which is a drug-spreading sprinkler,we deliver the drugs directlyat the site of infection,while the laser is again usedto poke those cells open.
+时间： 3:57
+zh-cn:现在这个看起来还不成熟，但如果能够成功，终有一天，可以用这项技术来彻底根除人体中的HIV。是的，治愈HIV。这是每个HIV研究者的梦想—对我们来说，就是用激光来治愈。
+en:Well, this might not seemlike much right now.But one day, if successful,this technology can leadto complete eradicationof HIV in the body.Yes. A cure for HIV.This is every HIV researcher&#39;s dream —in our case, a cure lead by lasers.
+时间： 4:19
+zh-cn:谢谢大家。
+en:Thank you.
+时间： 4:20
+zh-cn:（掌声）
+en:(Applause)

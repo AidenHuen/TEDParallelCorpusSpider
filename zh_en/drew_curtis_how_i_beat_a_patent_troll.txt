@@ -1,0 +1,42 @@
+时间： 0:15
+zh-cn:去年一月，我的的公司Fark.com，跟雅虎，MSNReddit，AOL，TechCrunch以及其他几个网站被一家叫做“醋栗自然资源” (Gooseberry Natural Resources)的公司给起诉了“醋栗”拥有一项关于用电子邮件制作和传播新闻的专利（笑声）这种东西都能被专利，我知道挺搞笑的不过这种事儿的确时时刻刻都在发生
+en:Last January, my company, Fark.com, was suedalong with Yahoo, MSN, Reddit,AOL, TechCrunch and othersby a company called Gooseberry Natural Resources.Gooseberry owned a patentfor the creation and distributionof news releases via email.(Laughter)Now it may seem kind of strange that such a thing can actually be patented,but it does happen all the time.
+时间： 0:43
+zh-cn:把已经存在的东西据为己有为新兴的技术申请专利————像是网上电话或者是电视节目的视频清单或者是手机广播诸如此类这些专利的问题在于它们的运行机制很晦涩整个专利系统也很混乱导致最终大多数的诉讼都以庭外和解告终但是由于在和解中所签署的条款都是保密的所以没有人知道协议里到底说了什么那么那些“专利钓鱼者”就可宣称他们赢了官司
+en:Take something already being doneand patent it for an emerging technology —like phone calls on the internetor video listings for TV showsor radio but for cellphones,and so on.The problem with these patentsis that the mechanisms are obscureand the patent system is dysfunctional,and as a result, most of these lawsuits end in settlements.And because these settlements are under a non-disclosure agreement,no one knows what the terms were.And as a result, the patent troll can claimthat they won the case.
+时间： 1:16
+zh-cn:在和醋栗自然资源公司的官司中这项关于邮件新闻发布的专利对于我的公司来说其实有致命的缺陷那就是在主流媒体界关于“新闻发布”的定义只有一项那就是有关公共关系的媒体新闻发布我的公司——Fark显然是在做真正的新闻而不是公关因此我们应该没有侵犯这个专利官司完了？省省吧！
+en:In the case of Gooseberry Natural Resources,this patent on emailing news releaseshad sort of a fatal flawas it pertained to myself,and that was that in the mainstream media worldthere is only one definition for news release,and it turns out that is press release —as in P.R.Now my company, Fark,deals with news, ostensibly,and as a resultwe were not in violation of this patent.So case closed, right?Wrong.
+时间： 1:45
+zh-cn:专利法的一个大问题就是当你被一个“专利钓鱼者”起诉的时候被告有义务证明自己没有侵权这意味着你不得不自证你并没有侵犯他们在起诉中提到的那个专利这会花很长时间要知道通常在于“专利钓鱼者”之间的官司中你平均要花两百万美元和18个月来取得胜利这就是当你被一个“专利钓鱼者”起诉时能得到的最好的结果
+en:One of the major problems with patent law is that,in the case that when you are sued by a patent troll,the burden of proof that you did not infringe on the patentis actually on the defendant,which means you have to provethat you do not infringe on the patent they&#39;re suing you on.And this can take quite a while.You need to know that the average patent troll defensecosts two million dollarsand takes 18 months when you win.That is your best case outcomewhen you get sued by a patent troll.
+时间： 2:15
+zh-cn:我本希望能和那些大公司联手来打这场官司不过一个接一个的，他们都和解了尽管如此——这很重要——他们中没有一个真正侵权了——一个都没有但是他们还是选择了和解他们庭外和解的原因是这比打官司要便宜很明显，有时甚至要便宜两百万而且你还很有可能输——如果情况更糟的话这还会大大分散公司管理层的精力尤其是我们这样的八人小公司
+en:Now I had hoped to team up with some of these larger companiesin order to defend against this lawsuit,but one-by-one they settled out of the case,even though — and this is important —none of these companiesinfringed on this patent — not a one of them.And they started settling out.The reason they settled outis because it&#39;s cheaper to settle than to fight the lawsuit —clearly, two million dollars cheaper in some cases,and much worse if you actually lose.It would also constitute a massive distraction for management of a company,especially a small eight-man shop like my company.
+时间： 2:47
+zh-cn:在官司进行了六个月后我们终于进入了互相举证环节在这个阶段我们要求这个“专利钓鱼公司”提供我们Fark公司侵犯他们专利权的屏幕截图当然了，可能是因为根本就没有这么一个截屏存在总之“醋栗”突然想要和解了他们的律师说“呃，那啥，我的客户公司最近重组了。”当然了我们先不计较他们公司的地址其实是在北洛杉矶的某个购物中心里而且一个雇员都没有“我们决定干脆把这个官司给停了你介不介意给我出个价？”我说：“你觉得一个子儿都没有怎么样？”（掌声）我们本来真没指望结果是这样的。（笑声）不过他们和解了没有还价
+en:Six months into the lawsuit,we finally reached the discovery phase.And in discovery phase,we asked the patent troll to please providescreenshots of Farkwhere the infringement of their patentwas actually occurring.Now perhaps it&#39;s because no such screenshots actually existed,but suddenly Gooseberry wanted to settle.Their attorney:&quot;Ah, yes. My company&#39;s having a reorganization on our end.&quot;Never mind the factthat the address led to a strip mall somewhere in Northern L.A.with no employees.&quot;And we&#39;d like to go ahead and close this out.So would you mind giving us your best and final offer?&quot;My response:&quot;How about nothing?!&quot;(Applause)We didn&#39;t have high hopes for that outcome.(Laughter)But they settled.No counter offer.
+时间： 3:42
+zh-cn:像我之前说过的我之所以能谈论这件事的原因之一是我们没有签署非披露合约怎么可能？在和解过程中，当我收到合约的拷贝时，我大改了一通我的律师说“呃，估计这没戏”但是他们签了为什么呢？你可以问他们反正他们签的也是非披露合约
+en:Now, as mentioned before,one of the reasons I can talk to you about thisis because there&#39;s no non-disclosure agreement on this case.Now how did that happen?Well during the settlement process, when we received our copy, I struck it.My attorney said, &quot;Nah, no chance of that working.&quot;It came back signed.Now why? You can call them.They&#39;re not under NDA either.
+时间： 4:03
+zh-cn:我从这个事情中学到了什么呢？三件事儿第一 如果可以的话别在专利本身上纠缠，而是要去讨论是否侵权专利是很难被推翻的证明没有侵权的话会容易得多第二，在一开始就让他们明白你根本没钱或者你与其给他们钱你更愿意把钱花在打官司上这之所以有效的原因是“专利钓鱼者”们会得到和解金额的一部分如果他们明白他们真的拿不到钱那么他们就不会兴趣把这个官司继续下去
+en:Now what did I learn from this case? Well, three things.First of all, if you can,don&#39;t fight the patent, fight the infringement.Patents are very difficult to overturn.Infringement is a lot easier to disprove.Secondly, make it clear from the beginningthat either you have no money at allor that you would rather spend money with your attorney fighting the trollthan actually giving them the money.Now the reason this worksis because patent trollsare paid a percentage of what they&#39;re able to recover in settlements.If it becomes clear to them that they cannot recover any money,they become less interested in pursuing the case.
+时间： 4:40
+zh-cn:最后，一定要让他们知道你会尽你所能把这个官司弄的极其让他们头疼，让他们烦恼让他们觉得难以处理这本来是他们那些“专利钓鱼者”为了让人们妥协而用的伎俩不过由于他们胜诉收费制度的存在这策略用在他们身上也极合适千万记好
+en:Finally, make sure that you can tell themthat you will make this processas annoying and as painfuland as difficult as possible for them.Now this is a tactic that patent trolls are supposed to use on peopleto get their way.It turns out, because they&#39;re paid on contingency,it works really, really well in reverse.Don&#39;t forget that.
+时间： 4:59
+zh-cn:那么这些事儿到底说明了什么呢？简单总结一下就是这可以得出一个结论不要跟恐怖分子谈判（掌声）这些“专利钓鱼者”对美国经济造成的伤害比任何本土或者国外的恐怖组织都要大每年都是他们用这些钱干什么呢？他们把它用在申请更多的钓鱼诉讼上
+en:So what does all this mean?Well to sum up,it boils down to one thing:Don&#39;t negotiate with terrorists.(Applause)Patent trolls have done more damage to the United States economythan any domestic or foreignterrorist organization in historyevery year.And what do they do with that money?They plow it right back into filing more troll lawsuits.
+时间： 5:31
+zh-cn:现在我要说说我应该怎样为我们的专利体系想出个什么解决方法问题是两个重要的的行业却对我们的专利体系有着两个不同的想法医疗保障系统希望发明者被重点保护不过高科技产业呢则希望生产者被重点保护他们的两者并不是完全的对立的，不过他们的确有分歧因此，“专利钓鱼者”们就从这两者之间的分歧区域寻找机会
+en:Now this is the point in the Talkwhere I&#39;m supposed to come up with some kind of a solution for the patent system.And the problem with thatis that there are two very large industry groupsthat have different outcomes in mindfor the patent system.The health care industrywould like stronger protections for inventors.The hi-tech industrywould like stronger protections for producers.And these goals aren&#39;t necessarily diametrically opposed, but they are at odds.And as a result, patent trolls can kind of live in the space in between.
+时间： 5:59
+zh-cn:非常不幸我并没有聪明到能想出一个解决办法不过，我确实有个小想法而且它似乎还不错我觉得：“我得给它申请个专利”（笑声）注意——移动设备上的专利侵权——就是在一个可移动电脑上的专利侵权这就是我的解决方法：给我这个专利我钓死那帮玩意儿
+en:So unfortunately I&#39;m not smart enoughto have a solution for the patent troll problem.However, I did have this idea,and it was kind of good.And I thought, &quot;I should patent this.&quot;(Laughter)Behold, patent infringement via mobile device —defined as a computer which is not stationary.My solution: award me this patentand I will troll them out of existence.
+时间： 6:28
+zh-cn:谢谢！
+en:Thank you.
+时间： 6:30
+zh-cn:（掌声）
+en:(Applause)

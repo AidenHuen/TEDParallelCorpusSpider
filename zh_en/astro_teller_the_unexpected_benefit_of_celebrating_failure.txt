@@ -1,0 +1,132 @@
+时间： 0:11
+zh-cn:1962年在莱斯大学，肯尼迪向国民宣布了他的梦想，十年内完成把人类送上月球的梦想。即有名的登月计划。
+en:In 1962 at Rice University,JFK told the country about a dream he had,a dream to put a person on the moonby the end of the decade.The eponymous moonshot.
+时间： 0:27
+zh-cn:没有人知道这件事有多大可能但是只要有可能他就会全面地计划来落实这件事这才是伟大的梦想。伟大的梦想不仅仅是幻想，它们是幻想和让幻想成真的计划的组合产物。
+en:No one knew if it was possible to dobut he made sure a plan was put in placeto do it if it was possible.That&#39;s how great dreams are.Great dreams aren&#39;t just visions,they&#39;re visions coupled to strategiesfor making them real.
+时间： 0:43
+zh-cn:我非常有幸可以在这个疯狂工厂工作。在「X」，也就是常说的「谷歌X」工作的时候，你可以看到航空工程师和时尚设计师一起工作可以看到前实战军事指挥官和激光专家一起头脑风暴。这些发明家，工程师和工匠在一起设计可以让世界更好的科学技术。
+en:I have the incredible good fortuneto work at a moonshot factory.At X — formerly called Google X —you&#39;ll find an aerospace engineerworking alongside a fashion designerand former military ops commandersbrainstorming with laser experts.These inventors, engineers and makersare dreaming up technologiesthat we hope can make the worlda wonderful place.
+时间： 1:11
+zh-cn:我们用“疯狂计划”这个词来提醒我们仰望星空去坚持梦想。我们用“工厂”这个词提醒我们脚踏实地，用具体的方案把梦想付诸于现实。
+en:We use the word &quot;moonshots&quot;to remind us to keep our visions big —to keep dreaming.And we use the word &quot;factory&quot;to remind ourselvesthat we want to have concrete visions —concrete plans to make them real.
+时间： 1:28
+zh-cn:这是我们疯狂计划的蓝图。首先，我们着眼于那些困扰亿万人的世界性难题。其次，我们想找到一个彻底的解决方案。最后，必须要有理由相信这个可以用于完美解决问题的方法在技术上是可行的。
+en:Here&#39;s our moonshot blueprint.Number one:we want to finda huge problem in the worldthat affects many millions of people.Number two:we want to find or propose a radicalsolution for solving that problem.And then number three:there has to be some reason to believethat the technologyfor such a radical solutioncould actually be built.
+时间： 1:52
+zh-cn:我有一个秘密。疯狂工厂是个混乱的地方，我们不仅没有避免混乱，没有假装混乱不存在，反而我们希望混乱成为我们的优势我们的大多数时间都用来搞坏各种东西并试图证明我们是错的。就是这样，这就是秘密。从问题最难的部分着手。激动地大喊：“嘿！我们今天要扼杀我们的项目么？”
+en:But I have a secret for you.The moonshot factory is a messy place.But rather than avoid the mess,pretend it&#39;s not there,we&#39;ve tried to make that our strength.We spend most of our time breaking thingsand trying to prove that we&#39;re wrong.That&#39;s it, that&#39;s the secret.Run at all the hardestparts of the problem first.Get excited and cheer,&quot;Hey! How are we goingto kill our project today?&quot;
+时间： 2:24
+zh-cn:我们一直保持着这种有趣的平衡，一方面我们用我们的无尽的乐观化作幻想的动力，另一方面我们通过不停地质疑回到现实，把现实注幻想之中。
+en:We&#39;ve got this interesting balance goingwhere we allow our uncheckedoptimism to fuel our visions.But then we also harnessenthusiastic skepticismto breathe life, breathe realityinto those visions.
+时间： 2:42
+zh-cn:我将会给各位展示一些中途搁浅的项目，和一些到目前为止不仅依然存在，还更加生机勃勃的项目。
+en:I want to show you a few of the projectsthat we&#39;ve had to leave behindon the cutting room floor,and also a few of the gemsthat at least so far,have not only survived that process,but have been accelerated by it.
+时间： 2:55
+zh-cn:去年我们扼杀了一个叫做自动垂直种植的项目。这是我们种出来的生菜。世界上九分之一的人面临营养不良的问题。所以需要一个疯狂的计划来解决这个问题。相比传统农业，垂直种植只用十分之一的水和百分之一的土地。而且由于蔬菜不用被长距离运输我们在很多领域求取得了突破比如自动收获和高效照明。但是不幸的是，稻谷这样的主要作物无法用这种方法种植。所以我们扼杀了项目。
+en:Last year we killed a projectin automated vertical farming.This is some of the lettuce that we grew.One in nine people in the worldsuffers from undernourishment.So this is a moonshotthat needs to happen.Vertical farming uses 10 times less waterand a hundred times less landthan conventional farming.And because you can grow the foodclose to where it&#39;s consumed,you don&#39;t have totransport it large distances.We made progress in a lot of the areaslike automated harvestingand efficient lighting.But unfortunately,we couldn&#39;t get staple cropslike grains and rice to grow this way.So we killed the project.
+时间： 3:40
+zh-cn:还有一个重大的问题。我们付出了资源和环境的重大代价来进行世界范围内的货物运输。内陆地区的经济发展严重收到货运基础设施的限制。完美的解决方案？一个比空气轻的可变浮力货船。这项计划有潜力全面的减少运输所需要的时间金钱和碳足迹，而且不需要专门的航路。我们实现了一系列科技突破让我们减少了足够多的预算以至于我们可以实际上造出这些船。至少单位空间上不是很贵。但是无论单位空间多么便宜，我们发现想要设计并制造第一艘船需要2亿美元。
+en:Here&#39;s another huge problem.We pay enormous costs in resourcesand environmental damageto ship goods worldwide.Economic developmentof landlocked countriesis limited by lackof shipping infrastructure.The radical solution?A lighter-than-air,variable-buoyancy cargo ship.This has the potential to lower,at least overall,the cost, time and carbonfootprint of shippingwithout needing runways.We came up with this clever setof technical breakthroughsthat together might make it possiblefor us to lower the cost enoughthat we could actually make these ships —inexpensively enough in volume.But however cheap they wouldhave been to make in volumeit turned out that it was going to costclose to 200 million dollarsto design and build the first one.
+时间： 4:39
+zh-cn:2亿美元实在太多了。因为X公司具有紧张的遇到问题-学习-新设计反馈循环，我们不能为了验证我们的想法就在项目的第一个数据点上花费2亿美元。如果我们的计划有漏洞，我们希望马上知道而不是最后才知晓。所以我们也扼杀了这个项目。
+en:200 million dollarsis just way too expensive.Because X is structuredwith these tight feedback loopsof making mistakesand learning and new designs,we can&#39;t spend 200 million dollarsto get the first data pointabout whether we&#39;reon the right track or not.If there&#39;s an Achilles&#39; heelin one our projects,we want to know it now, up front,not way down the road.So we killed this project, too.
+时间： 5:07
+zh-cn:发现了项目中的重大缺陷不一定总是意味着项目的终结。有的时候它反而提供了一种更有成效的方法。
+en:Discovering a major flaw in a projectdoesn&#39;t always meanthat it ends the project.Sometimes it actually gets usonto a more productive path.
+时间： 5:16
+zh-cn:这是我们全自动驾驶工具的原型，它没有方向盘和刹车。但这却不是一开始我们想要的。
+en:This is our fully self-drivingvehicle prototype,which we built withouta steering wheel or break pedal.But that wasn&#39;t actuallyour goal when we started.
+时间： 5:26
+zh-cn:120万人每年死于交通事故，制造一辆自动驾驶的车自然是一个疯狂的计划。三年半之前，当我们使用凌志的自动驾驶翻新车进行实验时实验状况很好，所以我们拿给其他谷歌成员试驾。让他们评价一下这种体验。我们发现让汽车进行大部分驾驶工作在紧急情况下交给司机进行驾驶是一个非常糟糕的计划。它不安全因为司机来不及开车。他们没有时刻保持警惕以防车把控制权交还给他们。
+en:With 1.2 million people dyingon the roads globally every year,building a car that drives itselfwas a natural moonshot to take.Three and a half years ago,when we had these Lexus,retrofitted, self-driving cars in testing,they were doing so well,we gave them out to other Googlersto find out what they thoughtof the experience.And what we discoveredwas that our plan to have the carsdo almost all the drivingand just hand over to the usersin case of emergencywas a really bad plan.It wasn&#39;t safebecause the users didn&#39;t do their job.They didn&#39;t stay alertin case the car neededto hand control back to them.
+时间： 6:16
+zh-cn:项目组遭受了巨大的危及，一夜回到解放前。随后他们从新的角度想到了一个完美的方案。在新的方案中你只是一个乘客，你告诉车你要去哪里，按一下按钮，车会自动的从A带你去B。
+en:This was a major crisis for the team.It sent them back to the drawing board.And they came upwith a beautiful, new perspective.Aim for a car whereyou&#39;re truly a passenger.You tell the car where you want to go,you push a buttonand it takes youfrom point A to point B by itself.
+时间： 6:38
+zh-cn:我们很庆幸在项目的一开始我们就想到了这一步。从那以后我们所做的所有都围绕着新的计划。现在我们的车已经自动驾驶超过140万英里它们每天都在加州的山景城和德州的奥斯丁的街道上跑。
+en:We&#39;re really gratefulthat we had this insightas early on in the project as we did.And it&#39;s shaped everythingwe&#39;ve done since then.And now our cars have self-drivenmore than 1.4 million miles,and they&#39;re out everydayon the streets of Mountain View,California and Austin, Texas.
+时间： 7:01
+zh-cn:自动驾驶车团队改变了他们看问题的角度。这是X公司的真谛之一。有的时候换个角度比变聪明更加强大。
+en:The cars team shifted their perspective.This is one of X&#39;s mantras.Sometimes shifting your perspectiveis more powerful than being smart.
+时间： 7:12
+zh-cn:再说说风能利用。这是我最喜欢的转变思路的例子。我们没有办法比工业领域的专家制造更好的风力涡轮机。但是我们想到了一种让它飞得更高的办法。越高的天空风力越强也蕴含越多的能量，但是我们需要上百吨钢铁的支架。
+en:Take wind energy.It&#39;s one of my favorite examplesof perspective shifting.There&#39;s no way that we&#39;re going to builda better standard wind turbinethan the experts in that industry.But we found a wayto get up higher into the sky,and so get access to faster,more consistent winds,and so more energy without needinghundreds of tons of steel to get there.
+时间： 7:40
+zh-cn:我们的马堪尼能量风筝从基站升起它的翅膀上有很多旋转的螺旋桨。它飞起来的时候会拉出一根用来传递能量的绳子。当这根绳子拉直的时候，风筝就进入了侧风圈中。这时那些飞机上的螺旋桨就变成了空中的涡轮机。用绳子把能量传递下来。
+en:Our Makani energy kiterises up from its perchby spinning up thosepropellers along its wing.And it pulls out a tether as it rises,pulling energy up through the tether.Once the tether&#39;s all the way out,it goes into crosswind circles in the sky.And now those propellers that lifted it uphave become flying turbines.And that sends energyback down the tether.
+时间： 8:06
+zh-cn:到目前我们还没发现扼杀这个项目的办法。它在这种压力下活得越久我们越因为可能为世界找到了一种更便宜的，更广泛的获得风能的方式而惊喜不已。
+en:We haven&#39;t yet founda way to kill this project.And the longer it survives that pressure,the more excited we getthat this could becomea cheaper and more deployable formof wind energy for the world.
+时间： 8:22
+zh-cn:也许我们最疯狂最有名的项目就是气球项目了。我们在尝试用热气球提供互联网。平流层的热气球网络可以让农村和偏远地区全部连接互联网。这可以让超过40亿到今天还没有网络或网络不畅的人用上网络。
+en:Probably the craziest sounding projectwe have is Project Loon.We&#39;re trying to makeballoon-powered Internet.A network of balloons in the stratospherethat beam an internet connection downto rural and remote areas of the world.This could bring onlineas many as four billion more people,who today have littleor no internet connection.
+时间： 8:46
+zh-cn:但是你不能造一个基站，绑在气球上固定在天上。风太大了，气球会被吹走。气球又离地太远了不能固定在地上。
+en:But you can&#39;t just take a cell tower,strap it to a balloonand stick it in the sky.The winds are too strong,it would be blown away.And the balloons are too high upto tie it to the ground.
+时间： 8:59
+zh-cn:我们有了一个疯狂的想法。我们何不任由这些气球飘流但是告诉它们如何飘流并让他们飘到指定地点呢？事实上平流层的风在不同层有不同的速度和方向。所以我们希望用巧妙的算法和世界风向数据来轻微地操纵气球，让他们可以在平流层上升或下降一点点以借助不同速度和方向的风。这个想法基于足够多的气球这样的话当一个气球飞出了你的区域，另一个气球恰好进入，交接网络连接，就像你在高速公路上开车时电话信号在不同基站交接一样。
+en:Here comes the crazy moment.What if, instead,we let the balloons driftand we taught them how to sail the windsto go where the needed to go?It turns out the stratosphere has windsthat are going in quite differentspeeds and directions in thin strata.So we hoped that using smart algorithmsand wind data from around the world,we could maneuver the balloons a bit,getting them to go up and downjust a tiny bit in the stratosphereto grab those winds goingin those different directions and speeds.The idea is to have enough balloonsso as one balloon floats out of your area,there&#39;s another balloonready to float into place,handing off the internet connection,just like your phonehands off between cell towersas you drive down the freeway.
+时间： 9:52
+zh-cn:项目的名字一直提醒着我们我们的想法是多么的不可思议。从2012年开始，气球团队开始解决项目中最难的最有希望扼杀项目的问题。
+en:We get how crazy that vision sounds —there&#39;s the name of the projectto remind us of that.So since 2012,the Loon team has prioritizedthe work that seems the most difficultand so the most likelyto kill their project.
+时间：10:12
+zh-cn:首先他们要做的，是让平流层中的气球与地上的接收器建立Wi-Fi连接。他们成功了。相信我很多人打赌这会失败。所以我们继续研究。
+en:The first thing that they didwas try to get a Wi-Fi connectionfrom a balloon in the stratospheredown to an antenna on the ground.It worked.And I promise you there were betsthat it wasn&#39;t going to.So we kept going.
+时间：10:27
+zh-cn:我们可以让气球直接和手机建立联系从而省去中间的接收装置吗？可以做到。
+en:Could we get the balloonto talk directly to handsets,so that we didn&#39;t need the antennaas an intermediary receiver?Yeah.
+时间：10:37
+zh-cn:可以增加气球的Wi-Fi带宽到正常网络连接的程度么？可以让人们用气球网络做更多的事情么？一开始的测试速度还不到1M/s，现在速度已经达到了15M/s。足够看TED的演讲了。
+en:Could we get the balloonbandwidth high enoughso it was a real Internet connection?So that people could havesomething more than just SMS?The early tests weren&#39;t evena megabit per second,but now we can doup to 15 megabits per second.Enough to watch a TED Talk.
+时间：10:58
+zh-cn:我们可以实现气球之间的沟通么？这样我们就可以把信号更广地覆盖到农村地区。可以做到。
+en:Could we get the balloonsto talk to each other through the skyso that we could reach our signaldeeper into rural areas?Check.
+时间：11:08
+zh-cn:我们可以用传统气球的5%的花销做一个像房子那么大的气球并让它在天空上面呆超过100天么？是的，最终我们可以。我保证，只要你能想到的我们都会尽力做到我们制造了圆的银白气球我们制造了超大枕头气球我们制造了蓝鲸那么大的气球我们捅破了很多气球
+en:Could we get balloons the size of a houseto stay up for more than 100 days,while costing less than five percentof what traditional, long-lifeballoons have cost to make?Yes. In the end.But I promise you, you name it,we had to try it to get there.We made round, silvery balloons.We made giant pillow-shaped balloons.We made balloons the size of a blue whale.We busted a lot of balloons.
+时间：11:46
+zh-cn:（笑声）
+en:(Laughter)
+时间：11:48
+zh-cn:因为这个项目会不会被扼杀很大程度上取决于一个重要的技术，就是如何在空中控制气球。其中一个重要的实验就是把气球放在气球中，
+en:Since one of the things that wasmost likely to kill the Loon projectwas whether we could guidethe balloons through the sky,one of our most important experimentswas putting a balloon inside a balloon.
+时间：12:01
+zh-cn:这样大气球中就有两种区域，一种里面是空气一种里面是氦气。通过打气可以让气球变重，通过放气让它变轻。通过改变重量控制升降，这就是它的转向装置。通过上升和下降气球可以借助风力去它想去的地方。
+en:So there are two compartments here,one with air and then one with helium.The balloon pumps air into make itself heavier,or lets air out to make it lighter.And these weight changesallow it to rise or fall,and that simple movement of the balloonis its steering mechanism.It floats up or down,hoping to grab winds going in the speedand direction that it wants.
+时间：12:26
+zh-cn:但是这个气球已经足够好到可以周游世界了么？一开始不可以，但是后面越来越好
+en:But is that good enoughfor it to navigate through the world?Barely at first,but better all the time.
+时间：12:35
+zh-cn:这是我们最新的气球他可以通过在空中多达2英里的垂直运动从20000公里外的地方飘到距离目的地误差小于500米的地方。
+en:This particular balloon,our latest balloon,can navigate a two-milevertical stretch of skyand can sail itself to within 500 metersof where it wants to gofrom 20,000 kilometers away.
+时间：12:55
+zh-cn:我们还有更多要做的事，包括系统的微调和减少开销。去年一个造价不贵的气球用187天周游了全世界19次。我们将继续努力。
+en:We have lots more to doin terms of fine-tuningthe system and reducing costs.But last year,a balloon built inexpensivelywent around the world19 times over 187 days.So we&#39;re going to keep going.
+时间：13:14
+zh-cn:（掌声）
+en:(Applause)
+时间：13:20
+zh-cn:现在我们的气球可以满足一个复杂系统的所有需求。我们在和世界各地的通信公司联系，而且我们今年将在印度尼西亚的上空进行实地的测试。
+en:Our balloons todayare doing pretty much everythinga complete system needs to do.We&#39;re in discussionswith telcos around the world,and we&#39;re going to flyover places like Indonesiafor real service testing this year.
+时间：13:34
+zh-cn:这些如果成真了就太美妙了。无畏地从事重大的，有风险的工作让很多人从心里感到不适。
+en:This probably all soundstoo good to be true,and you&#39;re right.Being audaciousand working on big, risky thingsmakes people inherently uncomfortable.
+时间：13:48
+zh-cn:你不能简单地逼迫他们尽快失败。他们会抗拒，会担心。“如果我失败了会发生什么？”“人们会嘲笑我么？”“我会被开除么？”
+en:You cannot yell at peopleand force them to fail fast.People resist. They worry.&quot;What will happen to me if I fail?Will people laugh at me?Will I be fired?&quot;
+时间：14:04
+zh-cn:演讲的开始我分享了我的秘密。现在我将告诉各位这是怎么做到的。让人们敢于挑战那些重大的有挑战性的工作的唯一办法，让他们直面问题中最难的那部分的的唯一办法，就是
+en:I started with our secret.I&#39;m going to leave youwith how we actually make it happen.The only way to get peopleto work on big, risky things —audacious ideas —and have them run at allthe hardest parts of the problem first,is if you make that the pathof least resistance for them.
+时间：14:28
+zh-cn:在X公司我们努力让失败看起来很正常。当团队发现了明显的问题就扼杀他们的想法因为他们会因此得到奖励。会得到同事的掌声。会得到主管，尤其是我的拥抱和击掌。他们因此而被提拔。我们对终结一个计划的团队的每个人都会进行嘉奖，无论团队里是2个人还是超过30个人。
+en:We work hard at X to make it safe to fail.Teams kill their ideasas soon as the evidence is on the tablebecause they&#39;re rewarded for it.They get applause from their peers.Hugs and high fivesfrom their manager, me in particular.They get promoted for it.We have bonused every single personon teams that ended their projects,from teams as small as twoto teams of more than 30.
+时间：15:00
+zh-cn:在疯狂工厂，我们相信梦想。但是积极地质疑并不是无限乐观的敌人，反而是它的最佳搭档。正是质疑让很多想法得以实现。我们终将创造我们梦中的未来。
+en:We believe in dreamsat the moonshot factory.But enthusiastic skepticismis not the enemy of boundless optimism.It&#39;s optimism&#39;s perfect partner.It unlocks the potential in every idea.We can create the futurethat&#39;s in our dreams.
+时间：15:23
+zh-cn:非常感谢。
+en:Thank you very much.
+时间：15:24
+zh-cn:（掌声）
+en:(Applause)

@@ -1,0 +1,9 @@
+新闻标题：戴尔猛推高配Ubuntu电脑：售价比Win便宜700元_网易数码
+新闻url：http://digi.163.com/17/0307/13/CEU8L9K3001680P9.html
+新闻正文：
+科技界是一个日新月异的存在，也许今晚还在酒庆祝的CEO们明天就将被一个新的对手取代或者被资本市场抛弃。
+比如你有没有想过微软Windows？虽然它仍然是桌面市场巨无霸的存在，但Linux的“统一”之心从没消弭。
+今天，Wintel主力队员戴尔宣布，将继续加强Ubuntu笔记本产线，新一代Precison工作站依然有Linux版，搭载7代酷睿或至强处理器，Ubuntu 16.04 LTS，雷电3接口等。
+比如入门版的3520使用的是i5-7300HQ+4GB ECC RAM+500GB，当然，熟悉戴尔的应该了解他们强悍的硬件定制服务，最高处理器可选配到E3-1505M v6、16GB RAM、1TB SSD和Nvidia Quadro M62独显。
+另外非常重要的一点是，Ubuntu笔记本没有所谓“Windows税”，<strong>所以整机价格比同配的Win10版少了101.5美元（约合700元）。</strong>
+<img alt="队友戴尔猛推高配Ubuntu电脑：售价比Win便宜超多" src="http://cms-bucket.nosdn.127.net/catchpic/5/50/50fca2a0198c06f9ca6ef63dcb3f577f.jpg?imageView&thumbnail=550x0" style="margin: 0px auto; display: block;" />

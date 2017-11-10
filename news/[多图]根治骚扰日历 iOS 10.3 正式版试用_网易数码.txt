@@ -1,0 +1,28 @@
+新闻标题：[多图]根治骚扰日历 iOS 10.3 正式版试用_网易数码
+新闻url：http://digi.163.com/17/0328/07/CGJKGVJK001687H3.html
+新闻正文：
+<img src="http://cms-bucket.nosdn.127.net/catchpic/f/f8/f8b81606e73177192729c3fd8bbb6601.jpg?imageView&thumbnail=550x0" alt="1490653311963679.jpg"/>
+此前iOS 10.3 Beta版已提供给开发者进行多个版本的测试，按照过去几年iOS的更新节奏，iOS 10.3正式版应该就是iOS 11到来之前iOS 10.X系统最后一个大版本的更新了。iOS 11预览版预计在今年6月5-9日的WWDC2017大会上亮相。
+科客记者在包括iPhone 7 Plus、iPhone 6s Plus、iPad Pro等多款设备上点选软件更新功能均能找到iOS 10.3的更新信息，iPad Pro安装包大小1.2GB，iPhone 7 Plus则是656.2MB，对于还在用16GB设备的朋友而言这次升级估计又少不了一番折腾，另外友情提醒想越狱的朋友建议暂时忍住更新此版本。下面第一时间与各位分享iOS 10.3更新后的初步体验及主要新特性介绍。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/d/d2/d2a50c2051b5e1e02d17f4ddaab11d44.jpg?imageView&thumbnail=550x0" alt="1490653987731725.jpg"/>
+<strong>查找我的iPhone支持AirPods</strong>
+此前科客已有关于“查找我的iPhone”在iOS 10.3上支持AirPods无线蓝牙耳机的消息，实测该功能和此前找回相关iOS设备类似，可查看到AirPods的当前位置或最后已知位置，而播放声音的提醒则支持在一侧或左右AiPods上同时播放声音，以帮助用户找到附近的它们。之所以要说“附近”因为科客记者测试后发现AirPods发出的提示音量仍然不算太大，且该功能的原理其实是将AirPods定位到任何一部登录了iCloud的iOS设备的蓝牙范围之内。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/1/11/11e3812499764dea712f2e54085332ad.jpg?imageView&thumbnail=550x0" alt="1490654103634588.jpg"/>
+<strong><img src="http://cms-bucket.nosdn.127.net/catchpic/2/26/26f63c707684d9214f12f60dc83fa376.jpg?imageView&thumbnail=550x0" alt="1490654469761502.jpg"/></strong>
+<strong>更聪明的Siri</strong>
+安装完iOS 10.3并重启之后，系统会要求用户重新设置Siri的部分参数（可跳过），为的是增加快速唤醒Siri的设置，按照提示录入指定语音信息之后，用户就可以在手机/平板非黑屏状态下呼唤“嘿Siri”快速调出Siri功能，而此前最为快捷的方式是长按Home键激活Siri。实测过程中我们发现一个怪现象，“嘿Siri”唤醒功能在iPhone亮屏解锁状态下的识别率明显会比手机亮屏未解锁时更高，可能是相关优化还不是很到位。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/a_/ad/adb74cf9d6c17209d961ee48eb6100a9.jpg?imageView&thumbnail=550x0" alt="1490654263111874.jpg"/>
+在iOS 10.3上Siri变得更聪明，支持配合支付应用进行支付和检查账单状态、可配合叫车应用预约车辆、支持配合车载应用检查油量及车锁状态并可开灯和鸣喇叭、此外还打通了相关API支持印度超级板球联赛和国际板球理事会的板球运动比分和统计数据。
+根据科客的实测，目前通过Siri还不能查到支付宝的账单，估计需要等到支付宝后续的更新了。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/d/dc/dc3f7d1674f5a1acb2445d050d1c75d5.jpg?imageView&thumbnail=550x0" alt="1490654278493877.jpg"/>
+<strong>骚扰广告日历终于直接根治</strong>
+iOS 10推出更新以来，不少用户抱怨系统日历遭到各种广告骚扰，并且还没有好的办法应对，科客记者身边有朋友甚至因此扫除了手机自带的日历功能（虽然原理只是屏蔽）。在iOS 10.3正式版上，苹果终于给出切实有效的解决方案，为日历功能新增删除不必要的邀请并报告为垃圾信息的功能。
+不过由于科客记者此前已通过安装第三方App的方法解决了此问题，就没有对此功能做进一步测试了。当然好东西不敢独享，暂时不想升级最新版iOS又想解决日历骚扰的朋友，可在App Store上搜索日历清理的关键字找到相关工具哦。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/c/ca/caed8bb91e368cdf3c24615409c24c4c.jpg?imageView&thumbnail=550x0" alt="1490654344970770.jpg"/>
+<strong>完善CarPlay</strong>
+除了上面提到的Siri与汽车的互动以外，iOS 10.3也继续完善了CarPlay的体验，状态栏增加了快捷键，方便访问上次的应用；在Apple Music的“播放中”屏幕上即可支持访问“接着播放”及在播放歌曲的专辑；此外在CarPlay上的Apple Music已经能够同步显示每日精选播放列表和全新音乐类别信息。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/0/05/0586a0a252992e511dd0547ca669f007.jpg?imageView&thumbnail=550x0" alt="1490654426631143.jpg"/>
+<strong>其它改进和修复</strong>
+伴随着iOS 10.3的正式更新，苹果也同步对Keynote、Pages、Numbers三款办公应用进行版本升级，以适配最新系统的功能特性。根据苹果官方的说明，iOS 10.3的其它改进包括但不仅限于以下的内容：
+只需租借一次，即可在您所有设备上欣赏iTunes电影
+全新“设置”整合了Apple ID帐户信息、设置和设备，集中一处供您查看

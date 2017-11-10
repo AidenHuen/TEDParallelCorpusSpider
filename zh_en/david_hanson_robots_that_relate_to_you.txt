@@ -1,0 +1,36 @@
+时间： 0:12
+zh-cn:我是戴维•汉 森，我设计具有人格的机器人。我指的是，我研制出的机器 人具有个性，也是个最终会跟你产生共 鸣的机器人。所以我们从许 多不同的科技开始，这些科技造就 了具人格并懂得对话的机器人，它们看得到 脸，也会跟你有眼神上的交流，还会做许多种 脸部表情，也懂得对话，并且开始仿效 你的感觉，了解你是谁， 并与你建立关系。
+en:I&#39;m Dr. David Hanson, and I build robots with character.And by that, I meanthat I develop robots that are characters,but also robots that will eventuallycome to empathize with you.So we&#39;re starting with a variety of technologiesthat have converged into these conversational character robotsthat can see faces, make eye contact with you,make a full range of facial expressions, understand speechand begin to model how you&#39;re feelingand who you are, and build a relationship with you.
+时间： 0:42
+zh-cn:我发展了一系 列的科技，让机器人做出 栩栩如生的脸部表情，比起先前类似 的成果，耗能很低，这造就了第一 代的人型机器人，两只脚的机器人。这个机器人有 着相当多的脸部表情，仿效着人类脸 上的所有主要肌肉，可以靠很小的 电池运作，极度轻薄。
+en:I developed a series of technologiesthat allowed the robots to make more realistic facial expressionsthan previously achieved, on lower power,which enabled the walking biped robots, the first androids.So, it&#39;s a full range of facial expressionssimulating all the major muscles in the human face,running on very small batteries,extremely lightweight.
+时间： 1:01
+zh-cn:让这电池驱动 的脸部表情成真的材料，是我们叫作 Frubber 的材料，这材料有着三 种主要创新，让这项科技得 以实现。一个是阶层式 毛孔。另一个则是材 料中的巨分子奈米孔径。
+en:The materials that allowed the battery-operated facial expressionsis a material that we call Frubber,and it actually has three major innovationsin the material that allow this to happen.One is hierarchical pores,and the other is a macro-molecular nanoscale porosity in the material.
+时间： 1:16
+zh-cn:这是机器人开 始在走路。这地点在韩国 高等科学技术学院。我做了头部， 他们则做了身体。我的目标是透 过机器表达感觉，不只是感觉， 神情上也是。
+en:There he&#39;s starting to walk.This is at the Korean Advanced Institute of Science and Technology.I built the head. They built the body.So the goal here is to achieve sentience in machines,and not just sentience, but empathy.
+时间： 1:33
+zh-cn:我们和加州大 学圣地亚哥分校)的机械感知实 验室 (MPL) 合作。他们具有这项 了不起的脸部表情科技，认得各种脸部 表情，你所作的各种 表情。它还分辨得出 你在往哪看，还有你头的动向。我们模仿所有 主要的脸部表情，再用「表情引 擎」这个软件控制机器 人。这是以上这 些科技的小小展示。
+en:We&#39;re working with the Machine Perception Laboratoryat the U.C. San Diego.They have this really remarkable facial expression technologythat recognizes facial expressions,what facial expressions you&#39;re making.It also recognizes where you&#39;re looking, your head orientation.We&#39;re emulating all the major facial expressions,and then controlling it with the softwarethat we call the Character Engine.And here is a little bit of the technology that&#39;s involved in that.
+时间： 1:57
+zh-cn:事实上，现 在，从这边插插头，再从这边插入，现在我们来 看看，它是否读得到我的脸部表情。OK. 所以我正在微笑。（笑声）现在我在皱 眉头。这里的背光 相当严重。好，可以 了。噢，它真难 过。OK，当你 微笑和皱眉头时。它对你情绪 状态的察觉是很重要的，这让机器人 可以有效地仿效你的情感。
+en:In fact, right now — plug it from here, and then plug it in here,and now let&#39;s see if it gets my facial expressions.Okay. So I&#39;m smiling.(Laughter)Now I&#39;m frowning.And this is really heavily backlit.Okay, here we go.Oh, it&#39;s so sad.Okay, so you smile, frowning.So his perception of your emotional statesis very important for machines to effectively become empathetic.
+时间： 2:34
+zh-cn:机器现在变 得具有毁灭性的力量，像是杀戮， 对吧？那些机器没 有情感。人们却耗费 数十亿元在那上头。我们可以用 情感机器人做个开端，使未来机器 人真的能具有同理心。所以，如果 它们有人类般的智慧，或甚至有可 能，比人类的智慧要来得高，这有可能是 我们未来希望的开端。
+en:Machines are becoming devastatingly capableof things like killing. Right?Those machines have no place for empathy.And there is billions of dollars being spent on that.Character robotics could plant the seedfor robots that actually have empathy.So, if they achieve human level intelligenceor, quite possibly, greater than human levels of intelligence,this could be the seeds of hope for our future.
+时间： 2:58
+zh-cn:过去八年， 在我攻读博士期间，我们完成了二十个机器人。接着我创立 了汉森机器科学公司，为的是大规 模生产研发这些科技。这是我们生 产的机器人中的一个，我们几年前 在《Wierd》杂志 所举办的发明大展 中展示过。它能同时辨 认许多不同的人，记得每个人 所在的位置，在人与人间 来回注视着，并记得他们。
+en:So, we&#39;ve made 20 robots in the last eight years, during the course of getting my Ph.D.And then I started Hanson Robotics,which has been developing these things for mass manufacturing.This is one of our robotsthat we showed at Wired NextFest a couple of years ago.And it sees multiple people in a scene,remembers where individual people are,and looks from person to person, remembering people.
+时间： 3:21
+zh-cn:我们谈的有 两件事。一个是人的 知觉。另一个是自 然的界面，接口原本应 有的样子，所以你跟机 器人互动是更直观的。你开始相信 机器人是有生命并有意识的。
+en:So, we&#39;re involving two things.One, the perception of people,and two, the natural interface,the natural form of the interface,so that it&#39;s more intuitive for you to interact with the robot.You start to believe that it&#39;s alive and aware.
+时间： 3:37
+zh-cn:所以我最喜 欢的主题之一，就是把这些结合起来，用一种艺术 性的展示，秀出科幻小 说作家菲利普•狄克笔下的机器人，他曾写出像 《机器人是否会梦见机器羊？》这样精采的作品，电影《银翼 杀手》就是基于这部小说在这些故事 里，机器人常常会觉得他们是人 类。而且他们总是会获得生命。所以我们把 他的作品、信件、他的访问、 书函，集结成上千 页的数据库，接着再用一 些自然的语言处理，让你真的可 以和他对话。这还真的有 点吓人。因为他会说些事，就好像它们 真的懂你。
+en:So one of my favorite projects was bringing all this stuff togetherin an artistic display of an android portraitof science-fiction writer Philip K. Dick,who wrote great works like, &quot;Do Androids Dream of Electric Sheep?&quot;which was the basis of the movie &quot;Bladerunner.&quot;In these stories, robots often thinkthat they&#39;re human, and they sort of come to life.So we put his writings, letters,his interviews, correspondences,into a huge database of thousands of pages,and then used some natural language processingto allow you to actually have a conversation with him.And it was kind of spooky, because he would say these thingsthat just sounded like they really understood you.
+时间： 4:12
+zh-cn:这正是我们 在发展最令人兴奋的计划之一，这是个小角 色，一个小机器人，目的是研发 友善的人工智能，友善的机械智能。我们正在大 规模生产这个产品。我们知道这 是真的做得到的，用一种相当 低成本的材料，这就可以成 为孩子童年的伙伴。接上网络， 经过岁月，机器人会变得更聪明。在人工智能 演化的同时，这机器人的智慧也会演化。
+en:And this is one of the most exciting projects that we&#39;re developing,which is a little character that&#39;s a spokesbotfor friendly artificial intelligence, friendly machine intelligence.And we&#39;re getting this mass-manufactured.We specked it out to actually be doablewith a very, very low-cost bill of materials,so that it can become a childhood companion for kids.Interfacing with the Internet, it gets smarter over the years.As artificial intelligence evolves, so does his intelligence.
+时间： 4:39
+zh-cn:克里斯•安 德森：很谢谢你！真的是太了不起了！（掌声）
+en:Chris Anderson: Thank you so much. That&#39;s incredible.(Applause)

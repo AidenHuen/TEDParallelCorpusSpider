@@ -1,0 +1,135 @@
+时间： 0:11
+zh-cn:今天，我想谈谈仿生学仿生学被广泛用来描述用机械设备，或者机器人来替代有机体组成部分的科学实质上它是生物和机器的交汇点今天特别要说说的是仿生学是怎样不断发展来为手臂截肢病人服务的
+en:So today, I would like to talk with youabout bionics,which is the popular termfor the science of replacing part of a living organismwith a mechatronic device, or a robot.It is essentiallythe stuff of life meets machine.And specifically, I&#39;d like to talk with youabout how bionics is evolvingfor people with arm amputations.
+时间： 0:37
+zh-cn:这是我们的动力手臂截肢带来极大不便功能受损是毋庸置疑的我们的手是很奇妙的工具当你失去一只手日常生活变得困难的多另外感情上的伤害也很大事实上，当我在诊所工作的时候我花在抚慰病人情感的时间几乎和治疗身体残疾一样多最后，受部残疾还有很大的社会影响我们用手势交谈用手打招呼我们通过手和世界交流没有了手这是个巨大障碍手部截肢通常是因为外伤比如工伤事故汽车相撞还有更揪心的 战争有些孩子出生就没有胳膊这叫先天性肢体缺失
+en:This is our motivation.Arm amputation causes a huge disability.I mean, the functional impairment is clear.Our hands are amazing instruments.And when you lose one, far less both,it&#39;s a lot harder to do the thingswe physically need to do.There&#39;s also a huge emotional impact.And actually, I spend as much of my time in clinicdealing with the emotional adjustment of patientsas with the physical disability.And finally, there&#39;s a profound social impact.We talk with our hands.We greet with our hands.And we interact with the physical world with our hands.And when they&#39;re missing,it&#39;s a barrier.Arm amputation is usually caused by trauma,with things like industrial accidents,motor vehicle collisionsor, very poignantly, war.There are also some children who are born without arms,called congenital limb deficiency.
+时间： 1:32
+zh-cn:不幸的是上肢假体的发展不大这种假肢主要有两种被称为自身力源假肢这是美国南北战争之后不久发明的在两次世界大战期间有所改进这是1912年的一个假臂的专利这跟我的病人使用的没有多大区别通过肩部力量驱动当你扯动肩膀时 就带动了一个自行车缆线这个自行车缆线就能收放手掌或者是钩子或者弯曲手肘我们仍广泛应用这些因为这些装置很有力也相对简单
+en:Unfortunately, we don&#39;t do greatwith upper-limb prosthetics.There are two general types.They&#39;re called body-powered prostheses,which were invented just after the Civil War,refined in World War I and World War II.Here you see a patentfor an arm in 1912.It&#39;s not a lot differentthan the one you see on my patient.They work by harnessing shoulder power.So when you squish your shoulders, they pull on a bicycle cable.And that bicycle cable can open or close a hand or a hookor bend an elbow.And we still use them commonly,because they&#39;re very robustand relatively simple devices.
+时间： 2:10
+zh-cn:目前最尖端的科技是肌电假肢这种机械装置是通过肌肉的微小电信号来控制每当收缩肌肉的时候它就发出微电流可以通过天线或者电极接受然后来控制机械臂这个装置对只是刚失去手的人来说十分好用因为控制手的肌肉还在握紧手 这里的肌肉就收缩摊开手 这里的肌肉收缩完全是通过直觉产生的 效果很不错
+en:The state of the artis what we call myoelectric prostheses.These are motorized devicesthat are controlledby little electrical signals from your muscle.Every time you contract a muscle,it emits a little electricitythat you can record with antennae or electrodesand use that to operate the motorized prosthesis.They work pretty wellfor people who have just lost their hand,because your hand muscles are still there.You squeeze your hand, these muscles contract.You open it, these muscles contract.So it&#39;s intuitive, and it works pretty well.
+时间： 2:42
+zh-cn:但是如果是高度截肢呢？一直截到手肘上方失去的就不仅是这些肌肉手和手肘都失去了这该怎么办呢？病人就得通过非常精密的系统用上臂肌肉来控制机械臂机械臂有很多种这是市面上常见的几种它包括一个可以收放的手一个旋转手腕和一个肘部没有其他功能了那么怎样才能让手拥有原先的那些其他功能呢？
+en:Well how about with higher levels of amputation?Now you&#39;ve lost your arm above the elbow.You&#39;re missing not only these muscles,but your hand and your elbow too.What do you do?Well our patients have to usevery code-y systemsof using just their arm musclesto operate robotic limbs.We have robotic limbs.There are several available on the market, and here you see a few.They contain just a hand that will open and close,a wrist rotator and an elbow.There&#39;s no other functions.If they did, how would we tell them what to do?
+时间： 3:16
+zh-cn:我们在芝加哥的康复中心做了我们自己的假肢加入了几个手腕弯曲和肩膀关节有了六个机械部分 或者说有了六个自由度了我们有幸操作了美军资助的一些先进假肢 有了这几个模型我们得到了包括可活动手掌在内的10个自由度但是归根结底怎么才能告诉这些机械手做什么呢？怎么控制他们呢？我们需要的是一个神经界面一种能连接神经系统或者说思维过程的途径这样才能变得像本能一样自然像你我一样
+en:We built our own arm at the Rehab Institute of Chicagowhere we&#39;ve added some wrist flexion and shoulder jointsto get up to six motors, or six degrees of freedom.And we&#39;ve had the opportunity to work with some very advanced armsthat were funded by the U.S. military, using these prototypes,that had up to 10 different degrees of freedomincluding movable hands.But at the end of the day,how do we tell these robotic arms what to do?How do we control them?Well we need a neural interface,a way to connect to our nervous systemor our thought processesso that it&#39;s intuitive, it&#39;s natural,like for you and I.
+时间： 3:54
+zh-cn:身体是这样运作的：从大脑发出运动信号信号通过脊椎传给神经和边缘系统而你的触觉的工作方式正好相反触碰自己 就有一个刺激通过与原先一样的神经反射回大脑就算失去了手臂 神经系统还是可以工作的那些神经可以输出命令信号如果碰一个二战老兵的神经末端他仍然能感觉到失去的手你也许会说那就从大脑着手吧弄个设备记录大脑信号或者在边缘神经的末端用设备纪录这些都是令人振奋的研究领域但是非常非常艰难你得用上百条微观结构的线路来记录非常细小的单个神经原－这些纤维能输出只有微伏的微小信号现在想在病人身上实现这个还无比困难
+en:Well the body works by starting a motor command in your brain,going down your spinal cord,out the nerves and to your periphery.And your sensation&#39;s the exact opposite.You touch yourself, there&#39;s a stimulusthat comes up those very same nerves back up to your brain.When you lose your arm, that nervous system still works.Those nerves can put out command signals.And if I tap the nerve endingon a World War II vet,he&#39;ll still feel his missing hand.So you might say,let&#39;s go to the brainand put something in the brain to record signals,or in the end of the peripheral nerve and record them there.And these are very exciting research areas,but it&#39;s really, really hard.You have to put inhundreds of microscopic wiresto record from little tiny individual neurons — ordinary fibersthat put out tiny signalsthat are microvolts.And it&#39;s just too hardto use now and for my patients today.
+时间： 4:52
+zh-cn:于是我们开发另外一条途径我们用一个生物放大器来放大神经信号－也就是肌肉肌肉能把神经信号放大约一千倍这样我们就能在表皮检测到信号就像你之前看到的我们把这个方法称为定向神经移植术试想一下 有人失去了整个手臂但仍然还有四条主神经我们从胸肌取出这些神经然后让其生长你会想 “握手” 你胸肌的一小块就会收缩你想“弯手肘”另一个部分就收缩我们能用电极或者天线来接受信号然后让胳膊动起来这就大体概念
+en:So we developed a different approach.We&#39;re using a biological amplifierto amplify these nerve signals — muscles.Muscles will amplify the nerve signalsabout a thousand-fold,so that we can record them from on top of the skin,like you saw earlier.So our approach is something we call targeted reinnervation.Imagine, with somebody who&#39;s lost their whole arm,we still have four major nervesthat go down your arm.And we take the nerve away from your chest muscleand let these nerves grow into it.Now you think, &quot;Close hand,&quot; and a little section of your chest contracts.You think, &quot;Bend elbow,&quot;a different section contracts.And we can use electrodes or antennaeto pick that up and tell the arm to move.That&#39;s the idea.
+时间： 5:40
+zh-cn:这是我们尝试的第一个对象他叫杰西･苏利文他是了不起的人－54岁的线路工人 不小心拿错了线双臂严重烧伤从肩部以下全部切除杰西来到芝加哥康复中心与最先进的装备匹配右边我仍然使用的自行车缆线的旧技术他用下巴那边的开关来控制关节移动左边是一个现代机械假臂有三个关节通过肩膀上的小垫子♪他触碰垫子来控制胳膊杰西能是个不错的吊车司机按我们的标准他做得很不错了
+en:So this is the first man that we tried it on.His name is Jesse Sullivan.He&#39;s just a saint of a man —54-year-old lineman who touched the wrong wireand had both of his arms burnt so badlythey had to be amputated at the shoulder.Jesse came to us at the RICto be fit with these state-of-the-art devices, and here you see them.I&#39;m still using that old technologywith a bicycle cable on his right side.And he picks which joint he wants to move with those chin switches.On the left side he&#39;s got a modern motorized prosthesiswith those three joints,and he operates little pads in his shoulderthat he touches to make the arm go.And Jesse&#39;s a good crane operator,and he did okay by our standards.
+时间： 6:21
+zh-cn:他也要求在胸肌上实行修正手术这给了我们一个机会来实行定向神经移植术我的同事格雷格･杜马尼安做了这个手术首先取出连接到他自身肌肉的神经然后把胳膊神经放入胸腔里然后缝合上三个月后神经开始生长 肌肉能抽动了六个月后 神经长得很好了可以看到很强烈的收缩就是这样的杰西要收放手掌的话或者弯曲手肘的话就会是这样可以看到他胸肌的运动皮肤上的标记指的是我们放天线或者电极的地方我想让诸位挑战一下看看是否有人能这么做他的大脑想的是手臂没有学过怎么控制胸肌这不是学习过程所以完全是本能的
+en:He also required a revision surgery on his chest.And that gave us the opportunityto do targeted reinnervation.So my colleague, Dr. Greg Dumanian, did the surgery.First, we cut away the nerve to his own muscle,then we took the arm nervesand just kind of had them shift down onto his chestand closed him up.And after about three months,the nerves grew in a little bit and we could get a twitch.And after six months, the nerves grew in well,and you could see strong contractions.And this is what it looks like.This is what happens when Jesse thinksopen and close his hand,or bend or straighten your elbow.You can see the movements on his chest,and those little hash marksare where we put our antennae, or electrodes.And I challenge anybody in the roomto make their chest go like this.His brain is thinking about his arm.He has not learned how to do this with the chest.There is not a learning process.That&#39;s why it&#39;s intuitive.
+时间： 7:17
+zh-cn:下面是对杰西的第一个测试左手边是他原来的假臂他用开关来把小物块从一个盒子移到另一个他装上那个假臂已有20个月 使用相当熟练在右边是装了定向神经移植假臂后的两个月－这是同一个胳膊只是操控系统不一样了－可以看出来他移动小块可以更快更顺畅这里我们只用到了3个信号
+en:So here&#39;s Jesse in our first little test with him.On the left-hand side, you see his original prosthesis,and he&#39;s using those switchesto move little blocks from one box to the other.He&#39;s had that arm for about 20 months, so he&#39;s pretty good with it.On the right side,two months after we fit him with his targeted reinnervation prosthesis —which, by the way, is the same physical arm,just programmed a little different —you can see that he&#39;s much fasterand much smoother as he moves these little blocks.And we&#39;re only able to use three of the signals at this time.
+时间： 7:48
+zh-cn:下面就是科学小惊喜了我们的初衷都是用运动指令来指挥机械臂几个月后触碰杰西的胸部他能感觉到失去的手他的手部触觉渐渐在胸部恢复也许是因为我们取下了不少脂肪皮肤直接接触到肌肉神经生长起来如果你碰碰杰西这里 他惠感觉到手指这里是小指他可以感受到从轻轻触碰到大概一克重量的触碰他能感受到热、冷、尖锐、钝就如同他失去的手或者是手和胸同时感受到的但两者他都能注意到这让我们很兴奋因为现在我们有办法有可能恢复触觉这样他就通过假手感觉物体试想一下手上的感应器只要按压新的手部皮肤这挺令人兴奋
+en:Then we had one of those little surprises in science.So we&#39;re all motivated to get motor commandsto drive robotic arms.And after a few months,you touch Jesse on his chest,and he felt his missing hand.His hand sensation grew into his chest againprobably because we had also taken away a lot of fat,so the skin was right down to the muscleand deinnervated, if you would, his skin.So you touch Jesse here, he feels his thumb;you touch it here, he feels his pinky.He feels light touchdown to one gram of force.He feels hot, cold, sharp, dull,all in his missing hand,or both his hand and his chest,but he can attend to either.So this is really exciting for us,because now we have a portal,a portal, or a way to potentially give back sensation,so that he might feel what he toucheswith his prosthetic hand.Imagine sensors in the handcoming up and pressing on this new hand skin.So it was very exciting.
+时间： 8:49
+zh-cn:同时针对我们本来的主要研究人群——截肢至手肘上部人群的研究也进行着我们进行神经培养从很小的肌肉组织中切走神经其它的不动这样就有了指挥上下移动的信号另外两个用于手的握紧张开信号这是我们早期的病人中一位 克里斯左边是他原先的装置使用了八个月右边是两个月的（新装置）有了这个他的行动速度大概快了四到五倍
+en:We&#39;ve also gone onwith what was initially our primary populationof people with above-the-elbow amputations.And here we deinnervate, or cut the nerve away,just from little segments of muscleand leave others alonethat give us our up-down signalsand two others that will give us a hand open and close signal.This was one of our first patients, Chris.You see him with his original deviceon the left there after eight months of use,and on the right, it is two months.He&#39;s about four or five times as fastwith this simple little performance metric.
+时间： 9:21
+zh-cn:好的我工作最好的一部分是与非常棒的病人合作他们也是我们研究的合作者今天有幸请来阿曼达･奇兹欢迎阿曼达･奇兹
+en:All right.So one of the best parts of my jobis working with really great patientswho are also our research collaborators.And we&#39;re fortunate todayto have Amanda Kitts come and join us.Please welcome Amanda Kitts.
+时间： 9:36
+zh-cn:（掌声）
+en:(Applause)
+时间： 9:43
+zh-cn:阿曼达 能说说是怎么失去手臂的吗？
+en:So Amanda, would you please tell us how you lost your arm?
+时间： 9:46
+zh-cn:阿曼达･奇兹：好的。2006年的时候我出了场车祸我下班开车回家一辆卡车迎面而来开进了我的车道辗过我的车 车轴把我的胳膊扯了下来
+en:Amanda Kitts: Sure. In 2006, I had a car accident.And I was driving home from work,and a truck was coming the opposite direction,came over into my lane,ran over the top of my car and his axle tore my arm off.
+时间：10:00
+zh-cn:托德･库伊肯：好的。截肢以后你恢复了健康装了一个传统假臂能说说怎么使用的么？
+en:Todd Kuiken: Okay, so after your amputation, you healed up.And you&#39;ve got one of these conventional arms.Can you tell us how it worked?
+时间：10:08
+zh-cn:AK：恩 有点困难因为我能使用的只是二头肌和肱三头肌所以如果我想拿起什么的话就得弯曲手肘然后收缩来切换模式我要这么做就得用上二头肌来握紧手三头肌来打开手然后共同收缩来调动手肘
+en:AK: Well, it was a little difficult,because all I had to work with was a bicep and a tricep.So for the simple little things like picking something up,I would have to bend my elbow,and then I would have to cocontractto get it to change modes.When I did that,I had to use my bicepto get the hand to close,use my tricep to get it to open,cocontract againto get the elbow to work again.
+时间：10:35
+zh-cn:TK：所以这样有点慢是吧？
+en:TK: So it was a little slow?
+时间：10:37
+zh-cn:AK：有点慢，而且操作难。很费神
+en:AK: A little slow, and it was just hard to work.You had to concentrate a whole lot.
+时间：10:42
+zh-cn:TK：那么九个月后你实行了神经移植手术然后又花了六个月来生长神经然后我们为她装了一个假肢这个效果如何呢？
+en:TK: Okay, so I think about nine months laterthat you had the targeted reinnervation surgery,took six more months to have all the reinnervation.Then we fit her with a prosthesis.And how did that work for you?
+时间：10:55
+zh-cn:AK：非常好我可以同时运用手肘和手了直接用思维控制这样我就不用集中精力去调动假肢
+en:AK: It works good.I was able to use my elbowand my hand simultaneously.I could work them just by my thoughts.So I didn&#39;t have to do any of the cocontracting and all that.
+时间：11:10
+zh-cn:TK：快了些是吧？
+en:TK: A little faster?
+时间：11:12
+zh-cn:AK：快点了。而且方便，自然得多。
+en:AK: A little faster. And much more easy, much more natural.
+时间：11:16
+zh-cn:TK：好的。这就是我的目标。这20年间，我的目标就是让一些人能自然地同时使用手肘和手目前在全世界有五十余人接受了这个手术包括一些服役于美军负过伤的战士移植神经的成功率非常高大约是96％因为我们把大量的神经放到一小块肌肉上并提供自然控制我们进行的功能小测试里假肢都表现得更加快速、灵便最重要的是我们的患者对此很满意
+en:TK: Okay, this was my goal.For 20 years, my goal was to let somebody[be] able to use their elbow and hand in an intuitive wayand at the same time.And we now have over 50 patients around the world who have had this surgery,including over a dozen of our wounded warriorsin the U.S. armed services.The success rate of the nerve transfers is very high.It&#39;s like 96 percent.Because we&#39;re putting a big fat nerve onto a little piece of muscle.And it provides intuitive control.Our functional testing, those little tests,all show that they&#39;re a lot quicker and a lot easier.And the most important thingis our patients have appreciated it.
+时间：11:54
+zh-cn:所以这挺让人兴奋的不过我们希望做得更好神经的信号里有很多信息我们想要更多的信息能动手指，能动大拇指和手腕能做到这些吗？于是我们做了几个试验可怜的病人被安上了无数的电极然后我们让他们做了二十多种不同的任务－从摆动手指到移动整个手臂再到伸手够物体－我们记录下数据并用了类似于语音识别算法的算法我们称之模式识别看了吧
+en:So that was all very exciting.But we want to do better.There&#39;s a lot of information in those nerve signals,and we wanted to get more.You can move each finger. You can move your thumb, your wrist.Can we get more out of it?So we did some experimentswhere we saturated our poor patients with zillions of electrodesand then had them try to do two dozen different tasks —from wiggling a finger to moving a whole armto reaching for something —and recorded this data.And then we used some algorithmsthat are a lot like speech recognition algorithms,called pattern recognition.See.
+时间：12:33
+zh-cn:（笑声）
+en:(Laughter)
+时间：12:35
+zh-cn:这儿可以看到杰西的胸部当做三件不同的任务时可以看到3种不同的模式但是我不能放进一个电极说“往那儿”所以我们找了纽宾士大学的同事合作写出了算法控制阿曼达现在可以展示一下
+en:And here you can see, on Jesse&#39;s chest,when he just tried to do three different things,you can see three different patterns.But I can&#39;t put in an electrodeand say, &quot;Go there.&quot;So we collaborated with our colleagues in University of New Brunswick,came up with this algorithm control,which Amanda can now demonstrate.
+时间：12:52
+zh-cn:AK：我的手肘可以上下移动手腕可以转动它能360度转动并且可以弯曲伸展手掌也能收放
+en:AK: So I have the elbow that goes up and down.I have the wrist rotationthat goes — and it can go all the way around.And I have the wrist flexion and extension.And I also have the hand closed and open.
+时间：13:09
+zh-cn:TK：谢谢。这是个还在研究中的手臂但从这里往下是我从四处搜罗来的市面上的组件做成的大概有7磅重要是我的胳膊从这儿断掉差不多是这个重量但是很显然这对阿曼达来说很重事实上，感觉上会更重因为连接的方式不一样她是通过吊带来承重
+en:TK: Thank you, Amanda.Now this is a research arm,but it&#39;s made out of commercial components from here downand a few that I&#39;ve borrowed from around the world.It&#39;s about seven pounds,which is probably about what my arm would weighif I lost it right here.Obviously, that&#39;s heavy for Amanda.And in fact, it feels even heavier,because it&#39;s not glued on the same.She&#39;s carrying all the weight through harnesses.
+时间：13:35
+zh-cn:所以机电一体化方面并不那么惊奇而是控制上我们开发了一个微型计算机在她背上哪儿闪光它能按照她调控的方式来操作使用她的单个肌肉信号阿曼达，当你开始用这个假肢的时候花了多久？
+en:So the exciting part isn&#39;t so much the mechatronics,but the control.So we&#39;ve developed a small microcomputerthat is blinking somewhere behind her backand is operating thisall by the way she trains itto use her individual muscle signals.So Amanda, when you first started using this arm,how long did it take to use it?
+时间：13:57
+zh-cn:AK：大概三四个小时来调试我得把它连到电脑上不是随便哪里都能调试所以如果不运转了我只能拿下来现在背上这个小件就可以调试了我可以带着到处走中途停止了也能继续只要一分钟就可以
+en:AK: It took just about probably three to four hoursto get it to train.I had to hook it up to a computer,so I couldn&#39;t just train it anywhere.So if it stopped working, I just had to take it off.So now it&#39;s able to trainwith just this little piece on the back.I can wear it around.If it stops working for some reason, I can retrain it.Takes about a minute.
+时间：14:19
+zh-cn:TK：我们很兴奋因为这越来越接近可临床操作的器械了而那就我们的目标－临床实用的假肢我们也让阿曼达使用之前向各位展示过的几个高级假肢她现在带的是DEKA研究中心制作的假肢我记得迪恩･卡门几年前在TED提到过这里可以看到阿曼达假肢的控制性非常好这都是模式识别我们有假手可以做几种不同的抓取动作我们就让患者自由尝试然后思考：“我想要怎样的抓取模式？”进入那么模式后可以有五到六种不同的抓取模式阿曼达，你的DEKA手臂可以做几种？
+en:TK: So we&#39;re really excited,because now we&#39;re getting to a clinically practical device.And that&#39;s where our goal is —to have something clinically pragmatic to wear.We&#39;ve also had Amanda able to usesome of our more advanced arms that I showed you earlier.Here&#39;s Amanda using an arm made by DEKA Research Corporation.And I believe Dean Kamen presented it at TED a few years ago.So Amanda, you can see,has really good control.It&#39;s all the pattern recognition.And it now has a hand that can do different grasps.What we do is have the patient go all the way openand think, &quot;What hand grasp pattern do I want?&quot;It goes into that mode,and then you can do up to five or six different hand grasps with this hand.Amanda, how many were you able to do with the DEKA arm?
+时间：15:06
+zh-cn:AK：四种我有钥匙握，夹握强力抓取和精密捏取但我最喜欢的是就这么摊着手因为我和孩子们打交道所以总是在唱歌或者拍手现在我能做这些了真好
+en:AK: I was able to get four.I had the key grip, I had a chuck grip,I had a power graspand I had a fine pinch.But my favorite one was just when the hand was open,because I work with kids,and so all the time you&#39;re clapping and singing,so I was able to do that again, which was really good.
+时间：15:25
+zh-cn:TK：这个手拍手不怎么行
+en:TK: That hand&#39;s not so good for clapping.
+时间：15:27
+zh-cn:AK：这个不能拍手
+en:AK: Can&#39;t clap with this one.
+时间：15:29
+zh-cn:TK：好的。我们在机电一体化上不断发展如果我们做得足够好投放市场并提供试用，那就激动人心了下面请仔细观看
+en:TK: All right. So that&#39;s excitingon where we may go with the better mechatronics,if we make them good enoughto put out on the market and use in a field trial.I want you to watch closely.
+时间：15:40
+zh-cn:（视频）克劳迪娅：哇！
+en:(Video) Claudia: Oooooh!
+时间：15:42
+zh-cn:TK：这是克劳迪娅这是她第一次通过假肢感受触觉假肢尾段有传感器把假肢在不同的表面上摩擦她能感受到好几种砂纸，不同的粗燕麦粉，带状电缆当假肢按压在移植神经的首部皮肤上她说当她就在桌子上划来划去她能感受到手指的震动这是个令人振奋的试验对研究如何接受皮肤触觉很有意义
+en:TK: That&#39;s Claudia,and that was the first timeshe got to feel sensation through her prosthetic.She had a little sensor at the end of her prosthesisthat then she rubbed over different surfaces,and she could feel different texturesof sandpaper, different grits, ribbon cable,as it pushed on her reinnervated hand skin.She said that when she just ran it across the table,it felt like her finger was rocking.So that&#39;s an exciting laboratory experimenton how to give back, potentially, some skin sensation.
+时间：16:13
+zh-cn:但另外一个视频展示了我们面临的一些挑战这是杰西，他正在捏一个泡沫玩具他捏得越紧－中间那个黑的是用来测量捏紧的力度的但是看看那周围的电极我们有了个面积问题我们应在那里放很多电极但是小马达在电极旁发出很大的噪声所以这些是我们的挑战
+en:But here&#39;s another video that shows some of our challenges.This is Jesse, and he&#39;s squeezing a foam toy.And the harder he squeezes — you see a little black thing in the middlethat&#39;s pushing on his skin proportional to how hard he squeezes.But look at all the electrodes around it.I&#39;ve got a real estate problem.You&#39;re supposed to put a bunch of these things on there,but our little motor&#39;s making all kinds of noiseright next to my electrodes.So we&#39;re really challenged on what we&#39;re doing there.
+时间：16:39
+zh-cn:未来是光明的对于目前的状况和要做的事情我们很兴奋比如一个是解决面积问题优化信号我们想开发出大概是米粒大小的胶囊来植入肌肉并使用遥控肌电信号因为这能省掉电极装置并且我们可以有富余面积用于触觉回传我们还想做更好的手臂这个手臂－款式是为50%的男性制作的－也就是说对世界人口的八分之五来说都太大了所以相对于一个超级强壮或者敏捷的手臂我们想做的首先是25%的女性的－能够用来缠绕能完全摊开的手手腕和手肘有两个自由度这将会是最小巧轻便并且是最智能的胳膊一旦我们能做出这么小的手再做大就容易了
+en:The future is bright.We&#39;re excited about where we are and a lot of things we want to do.So for example,one is to get rid of my real estate problemand get better signals.We want to develop these little tiny capsulesabout the size of a piece of risottothat we can put into the musclesand telemeter out the EMG signals,so that it&#39;s not worrying about electrode contact.And we can have the real estate opento try more sensation feedback.We want to build a better arm.This arm — they&#39;re always made for the 50th percentile male —which means they&#39;re too big for five-eighths of the world.So rather than a super strong or super fast arm,we&#39;re making an arm that is —we&#39;re starting with,the 25th percentile female —that will have a hand that wraps around,opens all the way,two degrees of freedom in the wrist and an elbow.So it&#39;ll be the smallest and lightestand the smartest arm ever made.Once we can do it that small,it&#39;s a lot easier making them bigger.
+时间：17:43
+zh-cn:这些是我们的几个目标很感谢各位的到场我想针对昨天的话题说说不太阳光的一面阿曼达在倒时差她用假肢的时候出乱子了出现了个电脑故障一个线路断了一个变频器烧了我们在酒店了把整个线路板拆下来就差要拉火警了这几个问题我一个都不会解决但是我有一个天才研究小组多亏安妮･西蒙博士的帮忙昨天费了很大力气修好了这就是科学幸运的 今天照常运转
+en:So those are just some of our goals.And we really appreciate you all being here today.I&#39;d like to tell you a little bit about the dark side,with yesterday&#39;s theme.So Amanda came jet-lagged,she&#39;s using the arm,and everything goes wrong.There was a computer spook,a broken wire,a converter that sparked.We took out a whole circuit in the hoteland just about put on the fire alarm.And none of those problems could I have dealt with,but I have a really bright research team.And thankfully Dr. Annie Simon was with usand worked really hard yesterday to fix it.That&#39;s science.And fortunately, it worked today.
+时间：18:24
+zh-cn:非常感谢
+en:So thank you very much.
+时间：18:26
+zh-cn:（掌声）
+en:(Applause)

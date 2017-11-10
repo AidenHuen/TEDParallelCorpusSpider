@@ -1,0 +1,54 @@
+时间： 0:11
+zh-cn:1800年人们都在谈论一个奇特的小发明，叫作显微镜。它能让你看到微小的生命形式，就是平常肉眼看不见的那种。很快医学界就发现，许多这些生命形式实际上正是造成可怕的人类疾病的原因。想象一下社会大众会有什么反应，当他们意识到，一个英国母亲从她的茶杯里喝到的实际上是一杯怪物汤。离这儿就不远，这张照片来自伦敦。
+en:The year is 1800.A curious little invention is being talked about.It&#39;s called a microscope.What it allows you to dois see tiny little lifeformsthat are invisible to the naked eye.Soon comes the medical discoverythat many of these lifeforms are actually causesof terrible human diseases.Imagine what happened to the societywhen they realizedthat an English mom in her teacupactually was drinking a monster soup,not very far from here. This is from London.
+时间： 0:48
+zh-cn:让我们快进200年，这种怪物汤还存在着，并且还在赤道带附近的发展中国家中肆虐。仅就疟疾而言，每年就会造成一百万人死亡，而且有十亿多的人需要接受检查，因为他们有可能被各种类型的疟疾感染。
+en:Fast forward 200 years.We still have this monster soup around,and it&#39;s taken hold in the developing countriesaround the tropical belt.Just for malaria itself,there are a million deaths a year,and more than a billion peoplethat need to be tested because they are at riskfor different species of malarial infections.
+时间： 1:11
+zh-cn:其实很容易就能看到这些怪物长什么样。你拿个染料，比如吖啶橙或者一种荧光染料，又或者是吉姆萨染液，再拿个显微镜，就可以看了。它们都展现出面部特征。那为什么，肯尼亚的艾利克斯，孟加拉的法缇玛，孟买的纳菊特，还有乌干达的茱莉和玛丽，还要等上好几个月才能得知他们的病因呢？首要原因是无法扩大诊断范围。记得我刚才说的那个数字:十亿。
+en:Now it&#39;s actually very simple to put a faceto many of these monsters.You take a stain, like acridine orangeor a fluorescent stain or Giemsa,and a microscope, and you look at them.They all have faces.Why is that so, that Alex in Kenya,Fatima in Bangladesh, Navjoot in Mumbai,and Julie and Mary in Uganda still wait monthsto be able to diagnose why they are sick?And that&#39;s primarily because scalabilityof the diagnostics is completely out of reach.And remember that number: one billion.
+时间： 1:48
+zh-cn:问题在于显微镜本身。尽管它们是现代科学的顶尖产物，实验显微镜却不是为临床试验而设计的。它们最初根本也就不是为了诊断疾病而设计的。它们一般又重又大，很难维护，还非常贵。这张照片里是四十年代时圣雄甘地用着和我们现在用的一模一样的设备，在他的修行处诊断肺结核，那是在印度的色瓦格拉姆。
+en:The problem lies with the microscope itself.Even though the pinnacle of modern science,research microscopes arenot designed for field testing.Neither were they first designedfor diagnostics at all.They are heavy, bulky, really hard to maintain,and cost a lot of money.This picture is Mahatma Gandhi in the &#39;40susing the exact same setupthat we actually use todayfor diagnosing T.B. in his ashramin Sevagram in India.
+时间： 2:19
+zh-cn:我的两个学生，吉姆和詹姆斯，走遍了印度和泰国，他们开始不断思考这个问题。我们看到各种各样捐助得来的仪器，有些显微镜的镜头上都长了霉。我们还看到有的人拿着运转正常的显微镜，却不知道怎么把它打开。我们从那时的工作和那段旅程中，产生了我们现在称作纸折显微镜的想法。
+en:Two of my students, Jim and James,traveled around India and Thailand,starting to think about this problem a lot.We saw all kinds of donated equipment.We saw fungus growing on microscope lenses.And we saw people who had a functional microscopebut just didn&#39;t know how to even turn it on.What grew out of that work and that tripwas actually the idea of what we call Foldscopes.
+时间： 2:44
+zh-cn:那什么是纸折显微镜呢？这是一种功能完备的显微镜，可以看荧光，亮视野，还可以偏振化，投影。各种各样先进的显微镜技术，都纯粹用可折叠的纸制造出来。那你现在会想，这怎么可能呢？我会给你们看几个例子，而且我们还会试用一下其中几个。先开始就是一张纸，这上面有用来组装一个显微镜的全套部件，可以成功组装一个具有亮视野功能的荧光显微镜。这上面有三个部分，包括目镜部分，照明部分，还有样本存放部分。最下面是微型光学系统，实际上被嵌入在这张纸里面了。你要做的就是把它拿过来，然后就像玩个玩具一样，这也真的是个玩具，我把它撕下来，然后分开。
+en:So what is a Foldscope?A Foldscope is a completely functional microscope,a platform for fluorescence, bright-field,polarization, projection,all kinds of advanced microscopybuilt purely by folding paper.So, now you think, how is that possible?I&#39;m going to show you some examples here,and we will run through some of them.It starts with a single sheet of paper.What you see here is all the possible componentsto build a functional bright-fieldand fluorescence microscope.So, there are three stages:There is the optical stage, the illumination stageand the mask-holding stage.And there are micro optics at the bottomthat&#39;s actually embedded in the paper itself.What you do is, you take it on,and just like you are playing like a toy,which it is,I tab it off,and I break it off.
+时间： 3:48
+zh-cn:这张纸上没有什么任何说明，也没有任何文字。这儿有一个记号，彩色的记号，告诉你怎么折这一款的显微镜。折好之后，大概就像这样，它具有标准显微镜的所有功能，比如说一个纵横移动载物台，是放样品载玻片的地方，我这儿现在就有一个。我们不想做出改动，因为它经过多年的优化，现在已经标准化了，很多医务人员都很习惯使用它们。不同的就是这个。对于很多不同的疾病来说，用于检测的标准染料也还和以前一样。把这个放进去，这有个纵横移动载物台，还有个聚焦装置，这是一种具有伸缩性的装置，直接用纸制造，这样我们就可以通过微米级的移动来聚焦。
+en:This paper has no instructions and no languages.There is a code, a color code embedded,that tells you exactly how tofold that specific microscope.When it&#39;s done, it looks something like this,has all the functionalities of a standard microscope,just like an XY stage,a place where a sample slide could go,for example right here.We didn&#39;t want to change this,because this is the standardthat&#39;s been optimized for over the years,and many health workers are actually used to this.So this is what changes,but the standard stains all remain the samefor many different diseases.You pop this in.There is an XY stage,and then there is a focusing stage,which is a flexure mechanismthat&#39;s built in paper itself that allows us to moveand focus the lenses by micron steps.
+时间： 4:41
+zh-cn:这个东西非常有意思的一点，尽管我的学生不喜欢我这么做，但我今天还是要做一下，就是这些小仪器很坚固。我可以把它打开，扔到地上，再使劲儿跺上几脚，它们也不会坏，虽然它们是用纸这种非常柔软的材料做的。
+en:So what&#39;s really interesting about this object,and my students hate when I do this,but I&#39;m going to do this anyway,is these are rugged devices.I can turn it on and throw it on the floorand really try to stomp on it.And they last, even though they&#39;re designedfrom a very flexible material, like paper.
+时间： 5:02
+zh-cn:另一个有趣的事实是，这是我们实际发送出去的所谓标准诊断工具，但是这个信封里，我装了30个不同构型的纸折显微镜，全都放进了一个文件夹里。现在我要随便拿一个出来。这个是专门用来检测疟疾的。这里面装着专门用于诊断疟疾的荧光滤片。制造专门用于针对某类疾病的显微镜的想法就是从这产生的。
+en:Another fun fact is, this is what we actuallysend out there as a standard diagnostic tool,but here in this envelopeI have 30 different foldscopesof different configurations all in a single folder.And I&#39;m going to pick one randomly.This one, it turns out, is actually designedspecifically for malaria,because it has the fluorescent filters builtspecifically for diagnosing malaria.So the idea of very specific diagnostic microscopescomes out of this.
+时间： 5:34
+zh-cn:到现在为止，你们实际上还没看到我从这个装置里能看到什么。所以现在我要做的就是，请把灯关掉好吗，这些纸折显微镜也都是投影显微镜，这两个显微镜我要把它们转向后面这面墙，然后投影，这样你们就能看见我所看到的影像。你们现在看见的，（掌声）这是一只复眼的横切片，现在我要把它放大些，来看这里，现在我正在z轴方向移动，你们可以看出来这些晶状体被切出这种在横切片里特有的形态。另一个例子，是我最喜欢的昆虫之一，我乐于去憎恨它，就是蚊子。你们现在看到的是一只尖音库蚊的触角。就在那儿。这些都是用我刚才说的那种简单的装置看到的。
+en:So up till now, you didn&#39;t actually seewhat I would see from one of these setups.So what I would like to do is,if we could dim the lights, please,it turns out foldscopes arealso projection microscopes.I have these two microscopes that I&#39;m going to turn —go to the back of the wall —and just project, and this way you will seeexactly what I would see.What you&#39;re looking at —(Applause) —This is a cross-section of a compound eye,and when I&#39;m going to zoom in closer, right there,I am going through the z-axis.You actually see how the lenses are cut togetherin the cross-section pattern.Another example, one of my favorite insects,I love to hate this one,is a mosquito,and you&#39;re seeing the antenna of a culex pipiens.Right there.All from the simple setup that I actually described.
+时间： 6:29
+zh-cn:我妻子曾经实地考验过我们的显微镜，她总是在我把衣物落在烘干机里时把它们洗了。这样看来，它们是防水的，（笑声）这里装的是带荧光素的水，我不知道你们是否能看见，不过这里显示出来投影是怎么形成的，你可以看见光线是如何被投射和弯曲的。
+en:So my wife has been field testingsome of our microscopesby washing my clothes whenever I forget themin the dryer.So it turns out they&#39;re waterproof, and —(Laughter) —right here is just fluorescent water,and I don&#39;t know if you can actually see this.This also shows you how the projection scope works.You get to see the beam the way it&#39;s projected and bent.
+时间： 6:55
+zh-cn:现在可以再把灯打开吗？
+en:Can we get the lights back on again?
+时间： 6:58
+zh-cn:现在我要快点给你们展示一下，因为我快没时间了，关于我们花多少成本来生产，最好的方式是卷式生产方式，我们每造一个只要花50美分。（掌声）这让我们想出了使用显微镜的一个新模式，我们称之为一次性显微镜。我要给你们看一下这里面的某些部件。这是一张纸，这是我们当初开始这个设想的时候，这是一张A4大小的纸，这是你们看到的那三个部分。光学部分，如果你看右边插图，我们必须得想一个办法可以以纸本身为材料，高效率地生产透镜。通过自行组装以及表面张力，就可以在纸里面造出消色差透镜了。透镜就放在这里。还有光源部分。最后，也是最根本的，所有部件通过折纸的方法对齐，因为折纸的方法使我们在将光学配件对齐时达到小于微米级的精确度。所以尽管这看起来就象个简简单单的玩具，为制作它所用到的工程学还是相当复杂的。
+en:So I&#39;m quickly going to show you,since I&#39;m running out of time,in terms of how much it costs for us to manufacture,the biggest idea was roll-to-roll manufacturing,so we built this out of 50 cents of parts and costs.(Applause)And what this allows us to dois to think about a new paradigm in microscopy,which we call use-and-throw microscopy.I&#39;m going to give you a quick snapshotof some of the parts that go in.Here is a sheet of paper.This is when we were thinking about the idea.This is an A4 sheet of paper.These are the three stages that you actually see.And the optical components, if youlook at the inset up on the right,we had to figure out a way to manufacture lensesin paper itself at really high throughputs,so it uses a process of self-assemblyand surface tensionto build achromatic lenses in the paper itself.So that&#39;s where the lenses go.There are some light sources.And essentially, in the end,all the parts line up because of origami,because of the fact that origami allows usmicron-scale precision of optical alignment.So even though this looks like a simple toy,the aspects of engineering that go insomething like this are fairly sophisticated.
+时间： 8:06
+zh-cn:显然我们还将做的另一件事，通常如果我想证实，这些显微镜有多结实，我就上到三楼，然后把它扔下去，掉在那儿了， 还好着呢。
+en:So here is another obvious thing that we would do,typically, if I was going to showthat these microscopes are robust,is go to the third floor anddrop it from the floor itself.There it is, and it survives.
+时间： 8:19
+zh-cn:对我们来说，下一步实际上就是真正完成我们的现场试验。我们将在夏季快结束的时候开始试验。现在我们正在制造数以千计的显微镜，这将是我们第一次，在进行实地检测时在一个地方投放的显微镜数量达到最高的密度。我们已经开始从病人身上收集关于疟疾，查格斯氏病和贾第鞭毛虫病的数据。
+en:So for us, the next step actuallyis really finishing our field trials.We are starting at the end of the summer.We are at a stage where we&#39;ll be making thousands of microscopes.That would be the first time where we would bedoing field trials with the highest densityof microscopes ever at a given place.We&#39;ve started collecting data for malaria,Chagas disease and giardia from patients themselves.
+时间： 8:41
+zh-cn:我想最后给你们看这张照片，我之前并没有预料到这一点，不过在动手型的科学教育和全球健康问题之间有一个有趣的联系。我们能提供什么样的工具，给那些明天要和怪物汤斗争的孩子们呢？我非常希望他们可以打印出一个纸折显微镜，然后装在口袋里随身携带。
+en:And I want to leave you with this picture.I had not anticipated this before,but a really interesting linkbetween hands-on science educationand global health.What are the tools that we&#39;re actually providingthe kids who are going to fightthis monster soup for tomorrow?I would love for them to be able to just print outa Foldscope and carry them around in their pockets.
+时间： 9:01
+zh-cn:谢谢。
+en:Thank you.
+时间： 9:04
+zh-cn:（掌声）
+en:(Applause)

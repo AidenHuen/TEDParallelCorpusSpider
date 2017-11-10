@@ -1,0 +1,33 @@
+时间： 0:11
+zh-cn:我来回答一个大家都问过的问题。这个问题是，为什么字母“X”代表着未知数？我知道这在数学课学过，现在它在日常文化里也随处可见X奖，X档案，Projet X，TEDx。这些都是从哪里来的？
+en:I have the answer to a question that we&#39;ve all asked.The question is,Why is it that the letter Xrepresents the unknown?Now I know we learned that in math class,but now it&#39;s everywhere in the culture —The X prize, the X-Files,Project X, TEDx.Where&#39;d that come from?
+时间： 0:34
+zh-cn:大约六年前，我决定学习阿拉伯语，这是一个非常有逻辑性的语言。每用阿拉伯语写一个词或一个句子，就如编解一道方程，因为它的每一部分都非常精确还伴随着很多信息。这是为什么大多数的我们认为西方的科学、数学和技术都是在公元最初的世纪被波斯人、阿拉伯人和土耳其人所发明的原因之一。
+en:About six years agoI decided that I would learn Arabic,which turns out to be a supremely logical language.To write a word or a phraseor a sentence in Arabicis like crafting an equation,because every part is extremely preciseand carries a lot of information.That&#39;s one of the reasonsso much of what we&#39;ve come to think ofas Western science and mathematics and engineeringwas really worked out in the first few centuries of the Common Eraby the Persians and the Arabs and the Turks.
+时间： 1:06
+zh-cn:这其中包括一个在阿拉伯语中称为“al-jabr”的系统。而“al-jabr”大致的意思是“一套将无关‘代’化成相关的体系”。后来“Al-jabr”变成了英文中的代数。这是众多（关于阿拉伯语的）例子之一。
+en:This includes the little system in Arabiccalled al-jebra.And al-jebr roughly translates to&quot;the system for reconciling disparate parts.&quot;Al-jebr finally came into English as algebra.One example among many.
+时间： 1:23
+zh-cn:最终，带有数学智慧的阿拉伯文学传播到了欧洲，确切的来说，也就是说西班牙—在11和12世纪。而它们的到来在当时社会，人们有着浓厚的兴趣想要把这个智慧翻译成为欧洲的语言。
+en:The Arabic texts containing this mathematical wisdomfinally made their way to Europe —which is to say Spain —in the 11th and 12th centuries.And when they arrivedthere was tremendous interestin translating this wisdominto a European language.
+时间： 1:39
+zh-cn:但是问题也随着出现了。其中一个问题说的是阿拉伯语中存在一些发音是欧洲人无论如何也无法发出的如果没有经过大量的练习。这点您可相信我此外，这些发音往往不能被欧洲语言中已有的字母来表示。
+en:But there were problems.One problemis there are some sounds in Arabicthat just don&#39;t make it through a European voice boxwithout lots of practice.Trust me on that one.Also, those very soundstend not to be representedby the characters that are available in European languages.
+时间： 2:00
+zh-cn:有这么一个例子，这是字母“SHeen”，它对应我们英文中SH的发音－“sh”。它也是“shalan”这个词的首字母，意思是 “某物”。就跟英语中的“某物 (something)”一个意思，代表某些未定义或未知的东西。
+en:Here&#39;s one of the culprits.This is the letter SHeen,and it makes the sound we think of as SH — &quot;sh.&quot;It&#39;s also the very first letterof the word shalan,which means &quot;something&quot;just like the the English word &quot;something&quot; —some undefined, unknown thing.
+时间： 2:20
+zh-cn:而在阿拉伯语中，它可以变得有意义当我们写上定冠词 “al”之后这是 al-shalan,代表着“未知的东西”。而这个单词的行踪贯穿于早期数学，比如在这个10世纪的证明题里。
+en:Now in Arabic,we can make this definiteby adding the definite article &quot;al.&quot;So this is al-shalan —the unknown thing.And this is a word that appears throughout early mathematics,such as this 10th century derivation of proofs.
+时间： 2:39
+zh-cn:当时负责翻译这些材料的中世纪西班牙学者遇到了难题这个“SHee”字母和“shalan” 一词无法用西班牙语表达因为西班牙语中没有“SH”的“sh”发音。所以依照惯例，他们创建了一个规则，他们借用“CK”的发音－“ck”，这来自于古希腊语中的字母“X (Kai)”。
+en:The problem for the Medieval Spanish scholarswho were tasked with translating this materialis that the letter SHeen and the word shalancan&#39;t be rendered into Spanishbecause Spanish doesn&#39;t have that SH,that &quot;sh&quot; sound.So by convention,they created a rule in whichthey borrowed the CK sound, &quot;ck&quot; sound,from the classical Greekin the form of the letter Kai.
+时间： 3:06
+zh-cn:后来，当这篇文章被翻译成为一个欧洲的通用语言，也就是拉丁语，他们简单的把希腊语中的“X (Kai)”用拉丁语中的“X”代替。一旦这实现了，一旦翻译成了拉丁语，它就为数学教科书打下了基础从此至今已将近600年。
+en:Later when this material was translatedinto a common European language,which is to say Latin,they simply replaced the Greek Kaiwith the Latin X.And once that happened,once this material was in Latin,it formed the basis for mathematics textbooksfor almost 600 years.
+时间： 3:27
+zh-cn:我们现在有了一开始问题的答案。为什么是“X”代表着未知数？“X”是未知数因为你无法在西班牙语中发&quot;sh&quot;这个音。（笑）我认为这值得共享。
+en:But now we have the answer to our question.Why is it that X is the unknown?X is the unknownbecause you can&#39;t say &quot;sh&quot; in Spanish.(Laughter)And I thought that was worth sharing.
+时间： 3:42
+zh-cn:（掌声）
+en:(Applause)

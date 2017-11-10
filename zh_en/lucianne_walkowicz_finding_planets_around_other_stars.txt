@@ -1,0 +1,30 @@
+时间： 0:11
+zh-cn:在我们太阳系之外的行星系就好象遥远的城市，我们可以看见有灯火在闪烁，但是却无法踏上城市的街道然而通过研究这些闪烁，我们可以了解到恒星是如何与行星相互作用来形成他们自己的生态系统并创造出适宜生命繁衍的栖息地
+en:Planetary systems outside our ownare like distant cities whose lights we can see twinkling,but whose streets we can&#39;t walk.By studying those twinkling lights though,we can learn about how stars and planets interactto form their own ecosystemand make habitats that are amenable to life.
+时间： 0:29
+zh-cn:在这张东京的城市图片中，我将从最新型的行星探测空间望远镜，开普勒任务，所获的的数据隐藏在了这个街区里。可以看见吗？在这里。这只是开普勒观测行星的范围中的一小块儿。通过每半个小时一次精确地测量全部15万颗行星的光谱。
+en:In this image of the Tokyo skyline,I&#39;ve hidden datafrom the newest planet-hunting space telescope on the block,the Kepler Mission.Can you see it?There we go.This is just a tiny part of the sky the Kepler stares at,where it searches for planetsby measuring the light from over 150,000 stars,all at once, every half hour,and very precisely.
+时间： 0:53
+zh-cn:我们想要寻找是行星在移动过程中经过恒星时阻挡住射向我们的一部分光线所造成的暗淡。在仅两年的运行后我们发现了超过1200个可能是围绕其他恒星运转的行星系统。相比较下，在开普勒任务之前的长达二十年的搜寻中，我们只发现了早于开普勒的400颗行星。
+en:And what we&#39;re looking foris the tiny dimming of lightthat is caused by a planet passing in front of one of these starsand blocking some of that starlight from getting to us.In just over two years of operations,we&#39;ve found over 1,200potential new planetary systems around other stars.To give you some perspective,in the previous two decades of searching,we had only known about 400prior to Kepler.
+时间： 1:20
+zh-cn:当发现这光亮的减弱我们可以得到一些信息。一是可以确认那里有一颗行星，还有它的大小，和距离它所围绕的恒星的距离。这个距离是非常重要的，因为它能告诉我们大致上这行星接受到了多少光。对距离与光照强弱的了解是非常关键的，这就好像我们坐在一个篝火边上。你会想要靠的够近好让自己取暖，但是又不可以太近，导致温度太高把自己烫伤。
+en:When we see these little dips in the light,we can determine a number of things.For one thing, we can determine that there&#39;s a planet there,but also how big that planet isand how far it is away from its parent star.That distance is really importantbecause it tells ushow much light the planet receives overall.And that distance and knowing that amount of light is importantbecause it&#39;s a little like you or I sitting around a campfire:You want to be close enough to the campfire so that you&#39;re warm,but not so closethat you&#39;re too toasty and you get burned.
+时间： 1:50
+zh-cn:然而，除了整体上行星会接受到多少光线，对恒星的还有许多其他的信息需要了解。让我来告诉你原因。这是我们的行星，太阳。这里所呈现的是可见光。就是我们人类的眼睛可以看见的光。大家发现这基本上就是典型的我们小时候所画的象征太阳的黄色圆球。但大家有没有看到还有一些别的东西，这就是太阳的表面有一些斑点。这些斑点被称作太阳黑子，他们是太阳磁场活动的表现之一。它使得恒星发出的光产生变化。这个现象是可以用开普勒望远镜非常精确地测量与追踪的。
+en:However, there&#39;s more to know about your parent starthan just how much light you receive overall.And I&#39;ll tell you why.This is our star. This is our Sun.It&#39;s shown here in visible light.That&#39;s the light that you can see with your own human eyes.You&#39;ll notice that it looks pretty muchlike the iconic yellow ball —that Sun that we all draw when we&#39;re children.But you&#39;ll notice something else,and that&#39;s that the face of the Sunhas freckles.These freckles are called sunspots,and they are just one of the manifestationsof the Sun&#39;s magnetic field.They also cause the light from the star to vary.And we can measure thisvery, very precisely with Kepler and trace their effects.
+时间： 2:30
+zh-cn:而这也才只是冰山一角而已。如果我们能看见UV射线与X射线，我们会真正认识到太阳磁场活动所产生的活跃又激烈的景象。其他的恒星上也发生着同样的事情。想想一下，即使窗外乌云密布，这样壮观的景象在我们的天空之上时刻都在发生。当我们想要了解一颗行星是否适宜居住，是否能承载生命，我们不仅想要知道它接受到多少阳光，温度有多高，我们还想知道它的太空气候。由恒星所产生的强力的辐射线，比如UV射线与X射线。行星就沐浴在这些强力的射线中。
+en:However, these are just the tip of the iceberg.If we had UV eyes or X-ray eyes,we would really seethe dynamic and dramatic effectsof our Sun&#39;s magnetic activity —the kind of thing that happens on other stars as well.Just think, even when it&#39;s cloudy outside,these kind of events are happeningin the sky above you all the time.So when we want to learn whether a planet is habitable,whether it might be amenable to life,we want to know not only how much total light it receivesand how warm it is,but we want to know about its space weather —this high-energy radiation,the UV and the X-raysthat are created by its starand that bathe it in this bath of high-energy radiation.
+时间： 3:14
+zh-cn:还有，我们并不能从其他恒星的行星上获得同观察太阳系同样详细的信息。我这里展示的是金星，地球和火星－－这三颗我们太阳系中的行星基本上大小相同，而其中只有一颗适合生命生存。但是我们可以做的是通过测量我们恒星发出的光，研究恒星与各个行星之间的关系。来摸索出一些线索好像我们知道在茫茫太空中哪些行星可能是会找到生命的地方。
+en:And so, we can&#39;t really lookat planets around other starsin the same kind of detailthat we can look at planets in our own solar system.I&#39;m showing here Venus, Earth and Mars —three planets in our own solar system that are roughly the same size,but only one of whichis really a good place to live.But what we can do in the meantimeis measure the light from our starsand learn about this relationshipbetween the planets and their parent starsto suss out cluesabout which planets might be good placesto look for life in the universe.
+时间： 3:47
+zh-cn:开普勒不会在每一颗它所观察的恒星周围发现行星。但它所做的每一个测量都非常宝贵。因为它告诉我们恒星与行星间的关系，还有星光才是真正在宇宙中为生命的形成提供条件的角色。虽然是开普勒望远镜在凝视着太空但最终是我们，在不断地搜寻。
+en:Kepler won&#39;t find a planetaround every single star it looks at.But really, every measurement it makesis precious,because it&#39;s teaching us about the relationshipbetween stars and planets,and how it&#39;s really the starlightthat sets the stagefor the formation of life in the universe.While it&#39;s Kepler the telescope, the instrument that stares,it&#39;s we, life, who are searching.
+时间： 4:11
+zh-cn:谢谢
+en:Thank you.
+时间： 4:13
+zh-cn:（掌声）
+en:(Applause)

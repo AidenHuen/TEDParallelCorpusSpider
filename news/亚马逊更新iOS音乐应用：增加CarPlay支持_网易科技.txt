@@ -1,0 +1,9 @@
+新闻标题：亚马逊更新iOS音乐应用：增加CarPlay支持_网易科技
+新闻url：http://tech.163.com/17/0327/15/CGHTH3J900097U7R.html
+新闻正文：
+　亚马逊日前对旗下的iOS音乐应用 Amazon Music 进行了更新，其中添加了一项很小但是非常重要的功能——支持苹果车载系统 CarPlay，下面我们来了解一下具体情况。
+<img alt="亚马逊更新iOS音乐应用：增加CarPlay支持" src="http://cms-bucket.nosdn.127.net/catchpic/5/56/5650660fb56df7a203892542db45d588.jpg?imageView&amp;thumbnail=550x0" style="border: none; max-width: 600px;" />
+　　据了解，在 Amazon Music 最新的6.4.0版本中，订阅用户可以通过在将 iPhone 连接到自己的车子时，通过 CarPlay 接口直接访问自己的音乐库。亚马逊声称，这款应用能够为用户提供数以百万计的歌曲，并且还提供离线播放功能。
+<img alt="亚马逊更新iOS音乐应用：增加CarPlay支持" src="http://cms-bucket.nosdn.127.net/catchpic/1/14/140c416d62c41410efccae15d818560f.png?imageView&amp;thumbnail=550x0" style="border: none; max-width: 600px;" />
+　　目前，iOS 用户可以在 App Store 中免费下载这款 Amazon Music 应用，遗憾的是这款应用并没有在中国区市场上架。除了增加 CarPlay 支持之外，这个新版本还提高了离线下载推荐的可靠性。
+<img alt="亚马逊更新iOS音乐应用：增加CarPlay支持" src="http://cms-bucket.nosdn.127.net/catchpic/5/53/53385fab9d219ae85ad3aac9cb30173a.jpg?imageView&amp;thumbnail=550x0" style="border: none; max-width: 600px;" />

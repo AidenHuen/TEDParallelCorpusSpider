@@ -1,0 +1,30 @@
+时间： 0:16
+zh-cn:全球医疗事业最大的讽刺在于那些最为贫穷的国家同时也是最为病魔缠身的国家如果我们对全球各国按各种疾病的严重程度进行排序的话我们会发现撒哈拉沙漠以南的非洲是艾滋病最为肆虐的地区而这是世界上目前最致命的传染性疾病我们还会发现这一地区在应对艾滋病方面恰恰是最无能为力的那里缺乏医生而且老实说，那些国家根本不具备应对艾滋病的必要物资
+en:The greatest irony in global healthis that the poorest countriescarry the largest disease burden.If we resize the countries of the globein proportion to the subject of interest,we see that Sub-Saharan Africais the worst hit region by HIV/AIDS.This is the most devastating epidemic of our time.We also see that this regionhas the least capability in terms of dealing with the disease.There are very few doctorsand, quite frankly, these countries do not have the resourcesthat are needed to copewith such epidemics.
+时间： 0:48
+zh-cn:西方发达国家为他们慷慨解囊免费提供药品给所有第三世界国家给买不起这些药的人们这种义举已经挽救了数以百万计的生命也把撒哈拉南部非洲各国的经济从沉没边缘挽救了回来
+en:So what the Western countries,developed countries, have generously doneis they have proposed to provide free drugsto all people in Third World countrieswho actually can&#39;t afford these medications.And this has already saved millions of lives,and it has prevented entire economiesfrom capsizing in Sub-Saharan Africa.
+时间： 1:06
+zh-cn:但还有一个最基本的问题就是抗艾滋斗争为此拖了后腿那就是，假如你不停提供药品给那些得不到有效诊断的人们就会导致病毒抗药性增强的问题这个现象已开始在萨哈拉以南非洲地区显现问题在于始于第三世界国家的悲剧很容易就会演变为全球性的问题我们最不愿意见到的事情就是产生了抗药性的艾滋病毒在全球各地疯狂传播这样一来要治好它就会逾发昂贵从而导致人类抗艾斗争重回抗逆转录病毒药物出现前的黑暗时代
+en:But there is a fundamental problemthat is killing the effortsin fighting this disease,because if you keep throwingdrugs out at peoplewho don&#39;t have diagnostic services,you end up creating a problem of drug resistance.This is already beginning to happen in Sub-Saharan Africa.The problem is that,what begins as a tragedy in the Third Worldcould easily become a global problem.And the last thing we want to seeis drug-resistant strains of HIVpopping up all over the world,because it will make treatment more expensiveand it could also restorethe pre-ARV carnage of HIV/AIDS.
+时间： 1:48
+zh-cn:我在乌干达上中学的时候就曾亲眼目睹过这样一个时代那是上世纪90年代艾滋病流行最高峰时期的事儿了当时萨南非洲还没有任何的抗逆转录病毒药那几年中，我大多数的亲人还有给我上课的老师都死于艾滋病所以，我人生中最大的目标之一就是寻找一个有效的办法来解决这个问题
+en:I experienced this firsthandas a high school student in Uganda.This was in the 90sduring the peak of the HIV epidemic,before there were any ARVs in Sub-Saharan Africa.And during that time, I actually lost more relatives,as well as the teachers who taught me,to HIV/AIDS.So this became one of the driving passions of my life,to help find real solutionsthat could address these kinds of problems.
+时间： 2:16
+zh-cn:我们都见识过微型化技术的神奇从前的电脑能填满这一整个屋子人们使用它的时候还得钻到它里面去但是随着电子技术微型化的发展人们已经可以把最新的科技成果缩到一个手机那么小的体积我想在座的各位对手机都很有爱吧这东西在偏远的第三世界国家能派上大用场好消息是，我们在微缩电子产品体积的过程中所使用的技术也可以用来微缩生物实验室
+en:We all know about the miracle of miniaturization.Back in the day, computers used to fill this entire room,and people actually used to work inside the computers.But what electronic miniaturization has doneis that it has allowed people to shrinktechnology into a cell phone.And I&#39;m sure everyone here enjoys cell phonesthat can actually be used in the remote areas of the world,in the Third World countries.The good news is that the same technologythat allowed miniaturization of electronicsis now allowing us to miniaturizebiological laboratories.
+时间： 2:49
+zh-cn:所以，如今，我们可以把生化实验室给微缩到微流体芯片上我很幸运高中毕业之后就直接来到美国并且还能参与这项技术的研究为它研发相关设备这就是我发明的一种微流体芯片我来详细解释一下这种技术的工作原理：这些管道跟人的头发差不多粗细你可以在上面装上阀门、泵、注射器和混合器把整套诊断化验设备都装到一个微流体芯片上去
+en:So, right now, we can actually miniaturizebiological and chemistry laboratoriesonto microfluidic chips.I was very lucky to cometo the US right after high school,and was able to work on this technologyand develop some devices.This is a microfluidic chip that I developed.A close look at how the technology works:These are channels that are about the size of a human hair —so you have integrated valves, pumps, mixers and injectors —so you can fit entire diagnostic experimentsonto a microfluidic system.
+时间： 3:22
+zh-cn:我想做的是利用目前的这种技术来把一个艾滋病化验室集成到一个芯片上去那样，只要有一个跟iPhone差不多大小的芯片就可以同时诊断上百位病人为每位病人做多达百组的病毒负荷量检测这一切仅需四小时比现有方法快五十倍价格却只有它的五百分之一这将允许我们在第三世界国家创造出个性化治疗的条件并且价格完全可接受从而使世界变得更加安全
+en:So what I plan to do with this technologyis to actually take the current stateof the technologyand build an HIV kitin a microfluidic system.So, with one microfluidic chip,which is the size of an iPhone,you can actually diagnose100 patients at the same time.For each patient, we will be able to doup to 100 different viral loads per patient.And this is only done in four hours,50 times faster than the current state of the art,at a cost that will be five to 500 times cheaperthan the current options.So this will allow us to createpersonalized medicines in the Third Worldat a cost that is actually achievableand make the world a safer place.
+时间： 4:07
+zh-cn:我希望大家能关注这项技术更希望你们能投入进来使我们的这个愿景能够早日实现
+en:I invite your interestas well as your involvementin driving this visionto a point of practical reality.
+时间： 4:15
+zh-cn:非常感谢
+en:Thank you very much.
+时间： 4:17
+zh-cn:（掌声）
+en:(Applause)

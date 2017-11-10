@@ -1,0 +1,81 @@
+时间： 0:11
+zh-cn:今天，我将与你们分享一个独立发现的故事。我想告诉你们这个发现究竟是如何发生的。而不像科学会议，或是文献中介绍的故事。这个发现的领域超越了传统的仿生学，我把它称作Biomutualism。它是生物学与另一门学科相互促进、发现的科研方法。其共同研究的成果非任何单一学科所能及。就仿生学来说，在人类科技不断学习、仿制自然的过程中，大自然成为了一个越来越有益的老师。比如工程师常在生物学中寻找启发，借鉴自然中实用的原理和相似的现象。他们将这些启发与最好的工程方法相结合，才得以设计出超越自然界灵感来源本身的产品。
+en:Let me share with you today an original discovery.But I want to tell it to you the way it really happened —not the way I present it in a scientific meeting,or the way you&#39;d read it in a scientific paper.It&#39;s a story about beyond biomimetics,to something I&#39;m calling biomutualism.I define that as an association between biology and another discipline,where each discipline reciprocally advances the other,but where the collective discoveries that emerge are beyond any single field.Now, in terms of biomimetics,as human technologies take on more of the characteristics of nature,nature becomes a much more useful teacher.Engineering can be inspired by biologyby using its principles and analogies when they&#39;re advantageous,but then integrating that with the best human engineering,ultimately to make something actually better than nature.
+时间： 1:02
+zh-cn:作为生物学家，我对这样一个过程很好奇。这是壁虎的脚趾。我们很想知道壁虎是如何用这些奇怪的脚趾来飞快地爬墙。我们已经找到了答案。它们趾上有许多这样叶状的结构每一片上有上百万这样非常小的刚毛。每一条刚毛还被最大可能的分叉，大约100至1000个这样纳米级的分叉。这条壁虎有20亿左右这样的刚毛端。它们并不是用于吸力、粘力或是尼龙搭扣的摩擦力。它们的吸附能力仅仅依靠分子间的作用力，也叫做范德华力。今天我很高兴地告诉大家利用这个原理设计的自洁式干性黏结材料已经制成。从刚毛分叉这个简单的自然现象，我在伯克利的工程合作伙伴Ron Fearing发明了壁虎趾的合成版本。另一个出色的合作伙伴也发明了相似的材料，他是斯坦福大学的Mark Cutkosky。尽管他用了比壁虎更大的刚毛但是工作原理却没有变。
+en:Now, being a biologist, I was very curious about this.These are gecko toes.And we wondered how they use these bizarre toesto climb up a wall so quickly.We discovered it. And what we found wasthat they have leaf-like structures on their toes,with millions of tiny hairs that look like a rug,and each of those hairs has the worst case of split-ends possible:about 100 to 1000 split ends that are nano-size.And the individual has 2 billion of these nano-size split ends.They don&#39;t stick by Velcro or suction or glue.They actually stick by intermolecular forces alone,van der Waals forces.And I&#39;m really pleased to report to you todaythat the first synthetic self-cleaning, dry adhesive has been made.From the simplest version in nature, one branch,my engineering collaborator, Ron Fearing, at Berkeley,had made the first synthetic version.And so has my other incredible collaborator,Mark Cutkosky, at Stanford —he made much larger hairs than the gecko,but used the same general principles.
+时间： 2:02
+zh-cn:这是第一次测试。(笑声)这位是我曾指导过的博士Kellar Autumn，现任路易斯－克拉克大学教授，为了测试甘愿牺牲自己的长女。(笑声)
+en:And here is its first test.(Laughter)That&#39;s Kellar Autumn, my former Ph.D. student,professor now at Lewis and Clark,literally giving his first-born child up for this test.(Laughter)
+时间： 2:14
+zh-cn:这是最近的一次试验。
+en:More recently, this happened.
+时间： 2:16
+zh-cn:采访对象：这是这种材料第一次被用于攀墙。
+en:Man: This the first time someone has actually climbed with it.
+时间： 2:19
+zh-cn:解说：这位是专业攀登选手Lynn Verinsky她充满了信心。
+en:Narrator: Lynn Verinsky, a professional climber,who appeared to be brimming with confidence.
+时间： 2:23
+zh-cn:Lynn Verinsky：老实说，这将是一次非常安全的试验。
+en:Lynn Verinsky: Honestly, it&#39;s going to be perfectly safe. It will be perfectly safe.
+时间： 2:26
+zh-cn:记者：你怎么知道？
+en:Man: How do you know?
+时间： 2:28
+zh-cn:Lynn Verinsky：因为我买了保险。
+en:Lynn Verinsky: Because of liability insurance. (Laughter)
+时间： 2:30
+zh-cn:解说：在墙下放好床垫并系上安全绳，Lynn开始了60英尺的攀登。Lynn在好莱坞与科学完美的结合下成功到达了顶端。
+en:Narrator: With a mattress below and attached to a safety rope,Lynn began her 60-foot ascent.Lynn made it to the top in a perfect pairingof Hollywood and science.
+时间： 2:41
+zh-cn:记者：你是第一个成功模仿壁虎的人。
+en:Man: So you&#39;re the first human being to officially emulate a gecko.
+时间： 2:44
+zh-cn:Lynn Verinsky：哈！喔。这让我觉得很特别。
+en:Lynn Verinsky: Ha! Wow. And what a privilege that has been.
+时间： 2:50
+zh-cn:Robert Full：这次试验是在粗糙墙壁上进行的。她在光滑表面也用这两个爬到过顶。会后大家可以在大厅中自己尝试，看看这些仿壁虎材料。要让机器人这么做有个问题它们用这种材料粘上了以后松不开。这是壁虎的解决方法。它们在爬墙时很快地从接触面把趾剥开。
+en:Robert Full: That&#39;s what she did on rough surfaces.But she actually used these on smooth surfaces —two of them — to climb up, and pull herself up.And you can try this in the lobby,and look at the gecko-inspired material.Now the problem with the robots doing thisis that they can&#39;t get unstuck,with the material.This is the gecko&#39;s solution. They actually peel their toes awayfrom the surface, at high rates,as they run up the wall.
+时间： 3:15
+zh-cn:今天我很兴奋地展示给你们一个崭新的机器人，Stickeybot。它配备有仿壁虎的干性黏结材料。这就是我说的机器人。它是这样工作的。请看，它可以剥开趾尖，和壁虎一样。看它在录像中攀墙。（鼓掌）看。它适用与各种表面。因为斯坦福研究组发明的新型黏结材料用在了它的设计上。（鼓掌）
+en:Well I&#39;m really excited today to show youthe newest version of a robot, Stickybot,using a new hierarchical dry adhesive.Here is the actual robot.And here is what it does.And if you look,you can see that it usesthe toe peeling,just like the gecko does.If we can show some of the video, you can see it climbing up the wall.(Applause)There it is.And now it can go on other surfaces because of the new adhesivethat the Stanford group was able to doin designing this incredible robot.(Applause)
+时间： 4:08
+zh-cn:哦。还有一点要指出的，Stickybot它身上还有一样东西，不只是为了让它看起来像壁虎。它有一条尾巴。当你刚自以为了解了自然，新的问题又来了。设计它的工程师们告诉我们，用于攀登的机器人如果没有尾巴一定会从墙上摔下来。他们向我们提出了一个重要的问题。他们说：“这个看起来像一个尾巴。”尽管这只是一个不能运动的塑料杆。“动物们在攀登中也用尾巴么？”这些工程师做的叫做“礼尚往来”，还给我们一个可以测试的假设，而这个假设并没有在生物学界被考虑过。
+en:Oh. One thing I want to point out is, look at Stickybot.You see something on it. It&#39;s not just to look like a gecko.It has a tail. And just when you think you&#39;ve figured out nature,this kind of thing happens.The engineers told us, for the climbing robots,that, if they don&#39;t have a tail,they fall off the wall.So what they did was they asked usan important question.They said, &quot;Well, it kind of looks like a tail.&quot;Even though we put a passive bar there.&quot;Do animals use their tails when they climb up walls?&quot;What they were doing was returning the favor,by giving us a hypothesis to test,in biology, that we wouldn&#39;t have thought of.
+时间： 4:47
+zh-cn:当时，我们自然的很紧张，作为生物学家，我们应该知道问题的答案。所以我们自问：“尾巴有什么用？”我们知道尾巴被用来储存脂肪，用作附肢。可能最为大家所知的是尾巴在保持静态平衡上的作用。（笑声）它也可以被用作配重。看这只袋鼠。看那条尾巴，多么惊人！Marc Raibert设计了一个跳跃机器人Uniroo。在没有尾巴的情况下，它无法保持平衡。但另一个方面，尾巴限制了机动性。像这个穿恐龙服的人。（笑声）我的同事还专门测试了这个限制。通过增加一位学生的转动惯量，模拟尾巴的影响。学生在障碍跑时机动性明显地降低了。正如你所预料的。（笑声）但这是一个不能动的被动尾巴。你也可以有一条能动的主动尾巴。
+en:So of course, in reality, we were then panicked,being the biologists, and we should know this already.We said, &quot;Well, what do tails do?&quot;Well we know that tails store fat, for example.We know that you can grab onto things with them.And perhaps it is most well knownthat they provide static balance.(Laughter)It can also act as a counterbalance.So watch this kangaroo.See that tail? That&#39;s incredible!Marc Raibert built a Uniroo hopping robot.And it was unstable without its tail.Now mostly tails limit maneuverability,like this human inside this dinosaur suit.(Laughter)My colleagues actually went on to test this limitation,by increasing the moment of inertia of a student, so they had a tail,and running them through and obstacle course,and found a decrement in performance,like you&#39;d predict.(Laughter)But of course, this is a passive tail.And you can also have active tails.
+时间： 5:52
+zh-cn:我回去思考这个问题时，突然想到在此前TED上我与Nanthan讨论过能动的尾巴。
+en:And when I went back to research this, I realizedthat one of the great TED moments in the past,from Nathan,we&#39;ve talked about an active tail.
+时间： 6:00
+zh-cn:录像：Myhrvold认为有长尾巴的恐龙兴趣在于交配，而非打斗。
+en:Video: Myhrvold thinks tail-cracking dinosaurswere interested in love, not war.
+时间： 6:07
+zh-cn:Robert Full：他（Nanthan）介绍尾巴被当作鞭子用于交流。用于自卫。很有力。回到实验室，我们开始观察壁虎。让它攀登一个垂直表面。但在表面上端有一节是会打滑的，也就是录像中黄色部分。再看右边，看它打滑后是如何用它的尾巴的。这是放慢10倍后。这是正常速度。看它打滑，看它的尾巴。它的主动尾巴被用作第五条腿。帮助保持平衡。如果让壁虎打滑得更多的话，我们就会看到这样。真是难以置信。可见工程师们想了一个很好的主意。
+en:Robert Full: He talked about the tail being a whip for communication.It can also be used in defense.Pretty powerful.So we then went back and looked at the animal.And we ran it up a surface.But this time what we did is we put a slippery patchthat you see in yellow there.And watch on the right what the animal is doing with its tailwhen it slips. This is slowed down 10 times.So here is normal speed.And watch it now slip,and see what it does with its tail.It has an active tail that functions as a fifth leg,and it contributes to stability.If you make it slip a huge amount, this is what we discovered.This is incredible.The engineers had a really good idea.
+时间： 6:55
+zh-cn:之后我们想：行，它们有一条能动的尾巴，让我们想像一下。壁虎在爬墙，或是树。到了顶上，我们假设那里有一些叶子。当它们爬到了叶子的反面如果刚好有风，或者我在摇树会怎样？可以看到，我们做了这样的试验。（鼓掌）这是我们的发现。正常速度，什么也看不到。但是减速之后
+en:And then of course we wondered,okay, they have an active tail, but let&#39;s picture them.They&#39;re climbing up a wall, or a tree.And they get to the top and let&#39;s say there&#39;s some leaves there.And what would happen if they climbed on the underside of that leaf,and there was some wind, or we shook it?And we did that experiment, that you see here.(Applause)And this is what we discovered.Now that&#39;s real time. You can&#39;t see anything.But there it is slowed down.
+时间： 7:23
+zh-cn:我们发现了世界上最快的空中姿势矫正反应。还记得物理的听众知道这是一个零角动量的姿势矫正。像猫一样。猫在自由落体的时候，做相似的动作。它们扭转躯干。但壁虎做的更好。它们利用尾巴。在尾巴转圈的同事纠正姿势。所以它们总是依像超人一样空中飞人的姿势落地。我们进一步想到，如果这是真确的，应该可以用在机器人上。
+en:What we discovered was the world&#39;s fastest air-righting response.For those of you who remember your physics, that&#39;s a zero-angular-momentumrighting response. But it&#39;s like a cat.You know, cats falling. Cats do this. They twist their bodies.But geckos do it better.And they do it with their tail.So they do it with this active tail as they swing around.And then they always land in the sort of superman skydiving posture.Okay, now we wondered, if we were right,we should be able to test this in a physical model, in a robot.
+时间： 7:52
+zh-cn:我们特地为TED制作了一个机器人，在那边，一个有尾巴的机器人原型。我们将在这里尝试在机器人上的第一次空中姿势矫正试验。给灯光。开始⋯⋯放录像。看。和壁虎尾巴的原理一样。只要甩动尾巴就可以纠正自己的姿势。（鼓掌）
+en:So for TED we actually built a robot,over there, a prototype, with the tail.And we&#39;re going to attempt the first air-righting responsein a tail, with a robot.If we could have the lights on it.Okay, there it goes.And show the video.There it is.And it works just like it does in the animal.So all you need is a swing of the tail to right yourself.(Applause)
+时间： 8:24
+zh-cn:当然，我们对此非常吃惊因为壁虎没有滑翔的能力，所以我们想：“没问题，把壁虎放在垂直的风洞中。”向上吹风，在风洞边放一根树干作为目的地，看它怎么办。（笑声）我们就这么做了。看壁虎如何应对。风从下往上吹。放慢10倍。它在水平滑翔。控制得非常好。令人难以置信。在照片上，也很优美。还有更有趣的，它还可以在空中机动。用它的尾巴，向一边甩动转向左，向另一边甩动，转向右。可以这样机动。我们拍摄了很多次，才相信眼前所见。看，它还可以这样。像海豚一样上下摆动尾巴。在空中游动。但注意它的前腿。看的出来它在做什么么？联想这个动作对于研究飞行起源的意义。也许飞行是动物从树上坠落，试图控制滑翔而进化而来的。这个问题值得关注。（笑声）
+en:Now, of course, we were normally frightenedbecause the animal has no gliding adaptations,so we thought, &quot;Oh that&#39;s okay. We&#39;ll put it in a vertical wind tunnel.We&#39;ll blow the air up, we&#39;ll give it a landing target, a tree trunk,just outside the plexi-glass enclosure, and see what it does.(Laughter)So we did. And here is what it does.So the wind is coming from the bottom. This is slowed down 10 times.It does an equilibrium glide. Highly controlled.This is sort of incredible. But actually it&#39;s quite beautiful,when you take a picture of it.And it&#39;s better than that, it — just in the slide — maneuvers in mid-air.And the way it does it, is it takes its tailand it swings it one way to yaw left, and it swings its other way to yaw right.So we can maneuver this way.And then — we had to film this several times to believe this —it also does this. Watch this.It oscillates its tail up and down like a dolphin.It can actually swim through the air.But watch its front legs. Can you see what they are doing?What does that mean for the origin of flapping flight?Maybe it&#39;s evolved from coming down from trees,and trying to control a glide.Stay tuned for that.(Laughter)
+时间： 9:39
+zh-cn:我们又想：“壁虎真的能靠尾巴这样机动么？”这是叶子做的目的地。它们有没有能力滑翔过去呢？在风洞里。貌似可以。从上往下的角度更清楚。看它。绝对是向目的地在机动。看它的尾巴。难以置信。
+en:So then we wondered, &quot;Can they actually maneuver with this?&quot;So there is the landing target. Could they steer towards itwith these capabilities? Here it is in the wind tunnel.And it certainly looks like it.You can see it even better from down on top.Watch the animal.Definitely moving towards the landing target.Watch the whip of its tail as it does it. Look at that.It&#39;s unbelievable.
+时间：10:03
+zh-cn:我们被弄糊涂了。因为文献中并未记录壁虎拥有滑翔的能力。所以我们决定，一定要去野外看是否如此。这个自然和大家在自然纪录片中看到的顺序截然相反。我们想：“自然界中，这种壁虎是否滑翔。”我们前往东南亚新加坡的森林中。下一个短片是我们第一次展示。
+en:So now we were really confused,because there are no reports of it gliding.So we went, &quot;Oh my god, we have to go to the field,and see if it actually does this.&quot;Completely opposite of the way you&#39;d see it on a nature film, of course.We wondered, &quot;Do they actually glide in nature?&quot;Well we went to the forests of Singapore and Southeast Asia.And the next video you see is the first time we&#39;ve showed this.
+时间：10:21
+zh-cn:这个短片没用道具，没有作假，是第一手的科研数据。红色是它的滑翔轨迹。结尾可以更清楚的看到壁虎。当它接近树干时，看放大部分。能不能看到它着陆。这是它在下降。轨迹末端可以看到一只壁虎。看到没有？看它滑落。现在注意看着陆，看到没有？它确实用上了尾巴。和我们实验室里看到的一样。
+en:This is the actual video — not staged, a real research video —of animal gliding down. There is a red trajectory line.Look at the end to see the animal.But then as it gets closer to the tree,look at the close-up. And see if you can see it land.So there it comes down. There is a gecko at the end of that trajectory line.You see it there? There? Watch it come down.Now watch up there and you can see the landing. Did you see it hit?It actually uses its tail too,just like we saw in the lab.
+时间：10:48
+zh-cn:继续一开始和工程师的互助互利，建议他们设计一条能动的尾巴。这是机器人上第一条能动的尾巴，由波士顿动力公司研制。总结来说，我认为要进一步像我所介绍的这样，增强生物与其他学科的互动，加快基础科学的研究与应用。要做到这点，我们需要从根本上从新设计我们的教育，在深度与跨学科交互两个方面做到平衡。专门训练能在多学科获利并贡献的人才。当然，同时还需要良好的生态与环境。无论你关心国防、搜寻与救护还是医疗，我们要保护自然，不然自然界的秘密将被永远埋没。就我们新总统的态度来看，我很乐观。谢谢。（掌声）
+en:So now we can continue this mutualismby suggesting that they can make an active tail.And here is the first active tail, in the robot,made by Boston Dynamics.So to conclude, I think we need to build biomutualisms, like I showed,that will increase the pace of basic discovery in their application.To do this though, we need to redesign education in a major way,to balance depth with interdisciplinary communication,and explicitly train people how to contribute to, and benefit from other disciplines.And of course you need the organisms and the environment to do it.That is, whether you care about security, search and rescue or health,we must preserve nature&#39;s designs,otherwise these secrets will be lost forever.And from what I heard from our new president,I&#39;m very optimistic. Thank you.(Applause)

@@ -1,0 +1,54 @@
+时间： 0:12
+zh-cn:我想先讲个故事有个小男孩他父亲是个历史爱好者常牵着他的手去造访他们小镇外围的一个古城市遗迹他们总是去看那个守着古城门的带翅膀的牛那时的小男孩在害怕那些带翅膀的牛的同时也很兴奋看到这些父亲就用这些牛给小男孩讲那个文明的故事和他们的工作
+en:I&#39;d like to start with a short story.It&#39;s about a little boywhose father was a history buffand who used to take him by the handto visit the ruins of an ancient metropolison the outskirts of their camp.They would always stop by to visitthese huge winged bulls that used to guardthe gates of that ancient metropolis,and the boy used to be scaredof these winged bulls,but at the same time they excited him.And the dad used to use those bullsto tell the boy stories aboutthat civilization and their work.
+时间： 0:54
+zh-cn:让我们“快进”到数十年后的旧金山湾区我在那儿成立了一个家公司研发出了世界上第一个3D镭射扫描系统现在让我为您展示一下它是怎样工作的女声：长距离镭射扫描通过发出一束激光系统测量光束传播时间纪录下它从接触到一个表面到返回的时间扫描仪通过两个镜子计算光束的水平垂直角度得到精确的X，Y，Z轴距这个点就被3D可视化软件记录下来所有这些只要几秒就能完成本･凯萨拉：可以看到系统运行速度非常快能一次性高精度高像素地收集上百万个点一个使用传统工具的测量员要在一整天内绘制500个点都力不能及而这些小家伙能在一秒内绘制一万个点你能想到这不仅是测量和建筑业一个范式转变也是摄影摄像产业的新标杆
+en:Let&#39;s fast-forward to theSan Francisco Bay Area many decades later,where I started a technology companythat brought the world its first3D laser scanning system.Let me show you how it works.Female Voice: Long range laser scanningby sending out a pulse that&#39;s a laser beam of light.The system measures the beam&#39;s time of flight,recording the time it takes for the lightto hit a surface and make its return.With two mirrors, the scanner calculatesthe beam&#39;s horizontal and vertical angles,giving accurate x, y, and z coordinates.The point is then recordedinto a 3D visualization program.All of this happens in seconds.Ben Kacyra: You can see here,these systems are extremely fast.They collect millions of points at a timewith very high accuracyand very high resolution.A surveyor with traditional survey toolswould be hard-pressed to producemaybe 500 points in a whole day.These babies would be producingsomething like ten thousand points a second.So, as you can imagine,this was a paradigm shiftin the survey and constructionas well as in reality capture industry.
+时间： 2:22
+zh-cn:大约十年前我和我妻子建立了一个慈善基金那时候巴米扬大佛一座矗立在阿富汗的180英尺高的佛像毁于塔利班之手顷刻之内佛像被毁不幸的是没有任何关于这些佛像的详细资料保存下来这深深触动了我我不由得想到我的老朋友 那头带翅膀的牛的命运还有世界各地其他文物古迹的命运我和我妻子受此激发决定将基金承担的业务范围延伸到世界文物古迹的数字化保存我们称之为“数字方舟”计划代表着数字档案
+en:Approximately ten years ago,my wife and I started a foundation to do good,and right about that time,the magnificent Bamiyan Buddhas,hundred and eighty foot tall in Afghanistan,were blown up by the Taliban.They were gone in an instant.And unfortunately, there wasno detailed documentation of these Buddhas.This clearly devastated me,and I couldn&#39;t help but wonder aboutthe fate of my old friends, the winged bulls,and the fate of the many, manyheritage sites all over the world.Both my wife and Iwere so touched by thisthat we decided toexpand the mission of our foundationto include digital heritage preservationof world sites.We called the project CyArk,which stands for Cyber Archive.
+时间： 3:18
+zh-cn:迄今为止在全球合作伙伴的帮助下我们已经完成了近50个项目这是其中一部分奇琴伊察复活节岛这里你看到的是数据点集合—巴比伦罗斯林教堂庞贝遗址和最近的一个项目:总统山这是最具挑战的项目之一可以看到 我们得开发一种特殊钻机人工作业把扫描仪戴上去我们的成果被用于媒体创作并交付给文物修复人员和研究人员使用我们也创作用于传播的媒体作品向公众开放通过CyArk的网站就可免费浏览这些可用于教育文化观光等
+en:To date, with the help ofa global network of partners,we&#39;ve completed close to fifty projects.Let me show you some of them:Chichen Itza,Rapa Nui —and what you&#39;re seeing hereare the cloud of points —Babylon,Rosslyn Chapel,Pompeii,and our latest project, Mt. Rushmore,which happened to be one ofour most challenging projects.As you see here, we had to developa special rig to bring the scannerup close and personal.The results of our work in the fieldare used to producemedia and deliverables to be usedby conservators and researchers.We also produce media fordissemination to the public —free through the CyArk website.These would be used for education,cultural tourism, etc.
+时间： 4:20
+zh-cn:这个是一个我们开发的3D查看器能够实时展示和控制这些数据点集合查看切面提取维度数据这些是蒂卡尔的数据点集合这个是传统的二维手绘建筑工程图用于保存当然查看图像的方式是全景自由视角这是从自由视角看蒂卡尔的数据点集合你能看到它通过我们拍下的照片把这里呈现出照片的质感但这不是个视频这是精确到2到3毫米的实际三维定点这些数据可以用于开发无比精确和充满细节的三维模型这是一个按照斯特灵城堡的数据而建的模型它被用于研究 观看和教育
+en:What you&#39;re looking at in hereis a 3D viewer that we developedthat would allow the displayand manipulation of [the] cloud of pointsin real time, cutting sections through themand extracting dimensions.This happens to be the cloud of pointsfor Tikal.In here you see a traditional 2Darchitectural engineering drawingthat&#39;s used for preservation, and of coursewe tell the stories through fly-throughs.And here, this is a fly-throughthe cloud of points of Tikal,and here you see it renderedand photo-textured with the photographythat we take of the site.And so this is not a video.This is actual 3D points withtwo to three millimeter accuracy.And of course the data can be usedto develop 3D models that arevery accurate and very detailed.And here you&#39;re looking at a modelthat&#39;s extracted from the cloud of pointsfor Stirling Castle.It&#39;s used for studies, for visualization,as well as for education.
+时间： 5:27
+zh-cn:最后我们还开发了手机应用程序包括可视化描述的工具越深入世界遗产的领域我就越清晰的认识到我们失去这些遗址及其文化的速度比我们能实际保存的速度要快多了毋庸置疑，地震等自然灾害——洪水 飓风等——的确在不断侵袭但我发现更严重的是人为原因的破坏这些行为不仅正在侵蚀宝贵的遗迹 事实上其破坏速率也在与日俱增这些行为包括纵火城市扩张酸雨更不用说恐怖主义和战争我们输掉这场遗产保卫战的势头愈来愈明显我们正在失去古迹失去它们的故事更重要的我们正失去人类共同记忆中十分重要的一部分试想如果人类对自己的历史一无所知会怎样
+en:And finally, we produce mobile appsthat include narrated virtual tools.The more I got involvedin the heritage field,the more it became clear to methat we are losing the sitesand the stories faster than we canphysically preserve them.Of course, earthquakesand all the natural phenomena —floods, tornadoes, etc. —take their toll.However, what occurred to me washuman-caused destruction, which wasnot only causing a significant portionof the destruction, but actuallyit was accelerating.This includes arson,urban sprawl,acid rain, not to mentionterrorism and wars.It was getting more and more apparentthat we&#39;re fighting a losing battle.We&#39;re losing our sitesand the stories,and basically we&#39;re losinga piece — and a significant piece —of our collective memory.Imagine us as a human racenot knowing where we came from.
+时间： 6:43
+zh-cn:还好在过去的二三十年中数字技术有了长足发展帮助我们开发了很多工具我们借此进行数字保存赢得数字保存的战争这些工具包括3D镭射扫描系统更强大功能的个人电脑3D图片高清数码照片以及无须赘言的网络因为越来越快的毁坏速度我们更清楚认识到我们要给自己以及我们的同道人施加更大的压力以加快工程速度我们设立了一个“数字方舟500挑战”的计划——旨在未来五年间数字化保存下五百个世界遗产
+en:Luckily, in the last two or three decades,digital technologies have been developingthat have helped us to develop toolsthat we&#39;ve brought to bearin the digital preservation,in our digital preservation war.This includes, for example,the 3D laser scanning systems,ever more powerful personal computers,3D graphics,high-definition digital photography,not to mention the Internet.Because of this acceleratedpace of destruction,it became clear to us that we neededto challenge ourselves and our partnersto accelerate our work.And we created a projectwe call the CyArk 500 Challenge —and that is to digitally preserve500 World Heritage Sitesin five years.
+时间： 7:38
+zh-cn:我们有这个技术并且能扩展应用我们的合作关系遍布全球并且yijing能快速地扩张我们有信心完成这个任务但是对我来说这500个（遗产）只是一个开始为了在将来把我们的工作持续下去我们通过与技术中心和当地高校合作授权他们使用我们的技术帮助我们进行遗产数字化保存的工作同时这也给了他们可以长远获益的技术
+en:We do have the technologythat&#39;s scaleable,and our network of global partnershas been expanding and can be expandedat a rapid rate,so we&#39;re comfortablethat this task can be accomplished.However, to me, the 500 isreally just the first 500.In order to sustain our work into the future,we use technology centerswhere we partner withlocal universities and collegesto take the technology to them,whereby they then can help uswith digital preservation of their heritage sites,and at the same time, it gives themthe technology to benefit from in the future.
+时间： 8:31
+zh-cn:让我以另一个小故事结尾两年前一个遗产数字化保存工程的合作伙伴为一个重要的遗迹找到我们这是一个位于乌干达的联合国教科文组织认证的遗迹卡苏比皇陵保存工作很成功所有的数据都收集归档并通过CyArk网站对外发布并开放去年三月我们听到一个不幸的消息卡苏比皇陵已经被纵火嫌疑犯毁掉了几天后，我们接到一个电话：“收集的数据能用于重建吗？”我们的答案当然是肯定的
+en:Let me close with another short story.Two years ago, we were approachedby a partner of ours to digitally preservean important heritage site,a UNESCO heritage site in Uganda,the Royal Kasubi Tombs.The work was done successfully in the field,and the data was archivedand publicly disseminatedthrough the CyArk website.Last March,we received very sad news.The Royal Tombs had been destroyedby suspected arson.A few days later, we received a call:&quot;Is the data availableand can it be used for reconstruction?&quot;Our answer, of course, was yes.
+时间： 9:24
+zh-cn:最后留给各位一个想法我们的遗产不仅是我们的共同记忆－更是我们共同的珍宝我们要留给我们的子孙还有永远见不到的后代我们要保护好它们使它们代代相传谢谢
+en:Let me leave you with a final thought.Our heritage is much more thanour collective memory —it&#39;s our collective treasure.We owe it to our children,our grandchildren and the generationswe will never meetto keep it safeand to pass it along.Thank you.
+时间： 9:48
+zh-cn:（掌声）谢谢
+en:(Applause)Thank you.
+时间： 9:52
+zh-cn:谢谢
+en:Thank you.
+时间： 9:54
+zh-cn:谢谢
+en:Thank you.
+时间：10:05
+zh-cn:我还在台上是因为要向各位展示一下这项技术的力量在我刚才说话的时候你们已经被扫描了（笑声）我的两名正在幕后的助手将在屏幕上把结果呈现给我们（掌声）
+en:Well, I&#39;m staying here becausewe wanted to demonstrate to youthe power of this technologyand so, while I&#39;ve been speaking,you have been scanned.(Laughter)The two wizards that I havethat are behind the curtainwill help me bringthe results on the screen.(Applause)
+时间：10:48
+zh-cn:这些都是三维的你可以用自由视角观察这些数据点集合你能从天花板的角度俯瞰它也可以从不同的高度看我可以让道格拉近画面看看人群里的某一个人让你们看到我们能达到的细节程度你们在四分钟的时间内全部被数字化保存了（笑声）
+en:This is all in 3D and of courseyou can fly through the cloud of points.You can look at it from on top,from the ceiling.You can look from different vantage points,but I&#39;m going to ask Doug to zoom inon an individual in the crowd,just to show the amount of detailthat we can create.So you have been digitally preservedin about four minutes.(Laughter)
+时间：11:22
+zh-cn:我要谢谢我的助手我们很幸运有两个合作伙伴参与：苏格兰文物局和格拉斯哥艺术学院我个人想向大卫･米切尔致谢他是苏格兰文物局的文物修复主管大卫（掌声）还有道格･普里查德他是格拉斯哥艺术学院视觉艺术的主任让我们致以掌声
+en:I&#39;d like to thank the wizards here.We were very lucky to havetwo of our partners participate in this:the Historic Scotland,and the Glasgow School of Art.I&#39;d like to also thank personallythe efforts of David Mitchell,who is the Director of Conservationat Historic Scotland.David.(Applause)And Doug Pritchard, who&#39;s the Head ofVisualization at the Glasgow School of Art.Let&#39;s give them a hand.
+时间：12:05
+zh-cn:（鼓掌）
+en:(Applause)
+时间：12:08
+zh-cn:谢谢
+en:Thank you.

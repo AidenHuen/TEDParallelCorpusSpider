@@ -1,0 +1,27 @@
+时间： 0:15
+zh-cn:（吉他声音响起）
+en:(Guitar music starts)
+时间： 3:52
+zh-cn:（音乐停止）
+en:(Music ends)
+时间： 3:55
+zh-cn:（掌声）
+en:(Applause)
+时间： 4:02
+zh-cn:（失真的吉他声音响起）
+en:(Distorted guitar music starts)
+时间： 7:44
+zh-cn:（音乐停止）
+en:(Music ends)
+时间： 7:48
+zh-cn:（掌声）
+en:(Applause)
+时间： 7:55
+zh-cn:（背景音乐/吉他音乐同时响起）
+en:(Ambient/guitar music starts)
+时间：11:08
+zh-cn:（音乐停止）
+en:(Music ends)
+时间：11:11
+zh-cn:（掌声）
+en:(Applause)

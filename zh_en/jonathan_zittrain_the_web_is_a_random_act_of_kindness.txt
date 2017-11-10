@@ -1,0 +1,120 @@
+时间： 0:11
+zh-cn:我叫乔纳森•兹特瑞在最近工作的时候，我总是有一点悲观主义。所以今天早晨我觉得我应该尝试变成一个乐观主义者。并且根据互联的现状给大家足够的理由去憧憬互联网的未来
+en:My name is Jonathan Zittrain,and in my recent work I&#39;ve been a bit of a pessimist.So I thought this morning I would try to be the optimist,and give reason to hopefor the future of the Internetby drawing upon its present.
+时间： 0:27
+zh-cn:现在，希望似乎比从前要少。人们越来越不友好，我们周围的信任少了。但我不这么认为。举个简单的例子。我们可以在这里做一个测试。请问在座的各位有多少人曾搭过便车？好，我知道了。多少人在过去的10年内曾搭过便车？好。那么，什么改变了？看来公交交通并没有更发达所以这个例子证明我们可能是走向错误方向的变革主义者。
+en:Now, it may seem like there is less hope today than there was before.People are less kind. There is less trust around.I don&#39;t know. As a simple example,we could run a test here.How many people have ever hitchhiked?I know. How many people have hitchhikedwithin the past 10 years?Right. So what has changed?It&#39;s not better public transportation.So that&#39;s one reason to think that we might bedeclensionists, going in the wrong direction.
+时间： 1:06
+zh-cn:但是我想给你们举三个例子，试着说明这个趋势实际上是往相反方向的。而且是互联网在推波助澜。那么，举例一，互联网本身。这是互联网的三位创始人他们实际上是中学同学。20世纪60年代他们在洛杉矶郊区的同一所中学上学。你们也许曾创办过法国社或辩论社，他们却创建了名为“让我们来建一个世界网络”的社团，而且运行得很顺利。
+en:But I want to give you three examplesto try to say that the trend lineis in fact in the other direction,and it&#39;s the Internet helping it along.So example number one: the Internet itself.These are three of the founders of the Internet.They were actually high school classmates togetherat the same high school in suburban Los Angles in the 1960s.You might have had a French club or a Debate club.They had a &quot;Let&#39;s build a global network&quot; club,and it worked out very well.
+时间： 1:38
+zh-cn:这是他们在新闻周刊回顾网络历史25周年的照片正如你们所见，他们基本上都是傻蛋。他们有一个很大的限制，也有一个很棒的自由，当他们试图设想一个全球网络的时候。限制在于，他们没有一丁点钱，没有特定规模的资金来投资。对于一个实体的网络来说，你可能需要卡车、人力和交换器去整夜运送包裹。他们没有这些。
+en:They are pictured here for their 25th anniversaryNewsweek retrospective on the Internet.And as you can tell,they are basically goof balls.They had one great limitationand one great freedomas they tried to conceive of a global network.The limitation was that they didn&#39;t have any money.No particular amount of capital to invest,of the sort that for a physical networkyou might need for trucks and peopleand a hub to move packages around overnight.They had none of that.
+时间： 2:13
+zh-cn:但是他们有一个惊人的自由，那就是，他们不需要从中赚钱。这个网络没有，也从来没有商业计划。没有首席执行官，没有一个公司负责任地、单独地去建设它。取而代之，它是几个家伙凑在一起，去做一些好玩的事，而不是被人指使，也不是想要从中牟取哪怕一点点利益。
+en:But they had an amazing freedom,which was they didn&#39;t have to make any money from it.The Internet has no business plan, never did.No CEO,no firm responsible, singly, for building it.Instead, it&#39;s folks getting togetherto do something for fun,rather than because they were told to,or because they were expecting to make a mint off of it.
+时间： 2:40
+zh-cn:那种风气酝酿出了一种网络架构，一种前无古人后无来者的数字网络架构。所以，不寻常的是，事实上，据说搞不清楚这个网络是否能运作。直到1992年，IBM表示，不可能用互联网协议去建一个企业网络。甚至时至今日，一些网络工程师仍说，这整个东西是一个试点工程，陪审团还没到位。（笑）
+en:That ethos led to a network architecture,a structure that was unlikeother digital networks then or since.So unusual, in fact,that it was said that it&#39;s not clear the Internet could work.As late as 1992, IBM was known to sayyou couldn&#39;t possibly build a corporate networkusing Internet Protocol.And even some Internet engineers today saythe whole thing is a pilot project and the jury is still out.(Laughter)
+时间： 3:11
+zh-cn:这就是为什么网络工程的吉祥物，如果有的话，据说是一只大黄蜂。是因为大黄蜂的皮和翼展比实在是太大了，大到不能飞。但是，奇怪的是，无论如何黄蜂飞起来了。我很高兴地说，多亏了巨额政府基金，大约在三年前我们终于弄明白黄蜂是怎么飞的了。（笑）原理非常复杂，但是结果是他们非常快速地拍打翅膀。（笑）
+en:That&#39;s why the mascot of Internet engineering,if it had one, is said to be the bumblebee.Because the fur-to-wingspan ratio of the bumblebeeis far too large for it to be able to fly.And yet, mysteriously, somehow the bee flies.I&#39;m pleased to say that, thanks to massive government funding,about three years ago we finally figured outhow bees fly.(Laughter)It&#39;s very complicated, but it turns out theyflap their wings very quickly.(Laughter)
+时间： 3:46
+zh-cn:那么，这个使网络运行起来且变得如此不同寻常的奇异的结构配置是什么呢？要把数据从一个地方传输到另一个地方，——再次声明，不是类似快递员那样它更像是“狂舞区”（摇滚表演时舞台下方疯狂混乱的人群）。（笑）想象你自己是网络的一部分，在那里你也许正在参加一个体育盛会，你像这样坐在队伍里，有人要啤酒，啤酒从过道被传递过来。你作为邻座的义务就是把啤酒传递下去，冒着自己裤子被弄脏的风险，把它传递到那个人。™
+en:So what is this bizarre architecture configurationthat makes the network sing and be so unusual?Well, to move data aroundfrom one place to another — again, it&#39;s not like a package courier.It&#39;s more like a mosh pit.(Laughter)Imagine, you being part of a networkwhere, you&#39;re maybe at a sporting event,and you&#39;re sitting in rows like this,and somebody asks for a beer,and it gets handed at the aisle.And your neighborly dutyis to pass the beer along,at risk to your own trousers,to get it to the destination.
+时间： 4:23
+zh-cn:没有人付钱让你做这些。它只是你作为邻座的义务而已。某种程度上，那恰恰是信息包在互联网中传送的方式。有时候要跳25或30个节点，借助那种将数据到处传递的干预进来的实体，对原始发送者或者接受者没有具体的合同或法律责任。
+en:No one pays you to do this.It&#39;s just part of your neighborly duty.And, in a way, that&#39;s exactly how packets move around the Internet,sometimes in as many as 25 or 30 hops,with the intervening entitiesthat are passing the data aroundhaving no particular contractual or legal obligationto the original senderor to the receiver.
+时间： 4:47
+zh-cn:当然，现在很难在“狂舞区”里指定一个终点。你需要很多信任，但它不像是“麻烦您我想去彭萨科拉”。所以互联网需要地址和方向。互联网变成了没有整体的地图。而是，好像我们又一次都坐在剧场里，但我们只能在雾中看到当下在我们身边的人。那么我们怎么样去弄清楚谁在哪里呢？我们转向右边的人，告诉他我们在左边看到什么，反之亦然。他们可以传递下去，在你能意识到之前，你已经对所以东西在哪有了个大致的印象。
+en:Now, of course, in a mosh pit it&#39;s hard to specify a destination.You need a lot of trust,but it&#39;s not like, &quot;I&#39;m trying to get to Pensacola, please.&quot;So the Internet needs addressing and directions.It turns out there is no one overall map of the Internet.Instead, again, it is as if we are all sitting together in a theater,but we can only see amidst the fogthe people immediately around us.So what do we do to figure out who is where?We turn to the person on the right,and we tell that person what we see on our left,and vice versa.And they can lather, rinse, repeat. And before you know it,you have a general sense of where everything is.
+时间： 5:27
+zh-cn:这就是网络寻址和路由实际上的工作原理。这是一个依赖美德和信任的系统，但美德和信赖也使它变得微妙而脆弱。举个罕见但突出的例子，在这个网络中某一个人说了一个谎话，可以导致真正的麻烦。
+en:This is how Internet addressing and routing actually work.This is a system that relies on kindness and trust,which also makes it very delicate and vulnerable.In rare but striking instances,a single lie told by just one entityin this honeycombcan lead to real trouble.
+时间： 5:48
+zh-cn:所以，比如说，去年，巴基斯坦政府要求国内的网络服务提供商屏蔽巴基斯坦市民看You Tube。那上面有政府不喜欢的一个视频，他们想要确保它被屏蔽了。这是一个常见的现象。各国政府都经常试图屏蔽，过滤和审查网络上的内容。
+en:So, for example, last year,the government of Pakistanasked its Internet service providers thereto prevent citizens of Pakistan from seeing YouTube.There was a video there that the government did not likeand they wanted to make sure it was blocked.This is a common occurrence. Governments everywhereare often trying to blockand filter and censor content on the Internet.
+时间： 6:11
+zh-cn:但这个巴基斯坦网络服务提供商用一种不寻常的方式来屏蔽他的用户。它宣称——如果你懂网络，别人可能会要求你告知你在周围看到了什么——它宣称——在它旁边的，事实上，它猛然发现是You Tube“对！”它说，“我是You Tube。”也就是说，从用户向You Tube发送的信息包在网络服务提供商那里被截了下来，然而用户以为数据已经被传送到了youtube。事实是网络服务提供商将它们悄悄扔掉，因为重点就是屏蔽它。
+en:Well this one ISP in Pakistanchose to effectuate the block for its subscribersin a rather unusual way.It advertised —the way that you might be asked, if you were part of the Internet,to declare what you see near you — it advertisedthat near it, in fact, it had suddenly awakened to findthat it was YouTube.&quot;That&#39;s right,&quot; it said, &quot;I am YouTube.&quot;Which meant that packets of datafrom subscribers going to YouTubestopped at the ISP, since they thought they were already there,and the ISP threw them away unopenedbecause the point was to block it.
+时间： 6:47
+zh-cn:但是，它没有就此打住。你们看，那个公告，点一下就出来它不断回荡，点一下然后它就变成了你看到的样子。后果是，你的You Tube在短时间内显得很正常然后，过一会，假公告出来了。然后，两分钟以内，它在四周回荡开，然后Youtube就在全世界都被屏蔽了。如果你在英国牛津，试图上You Tube，你的信息包去向了巴基斯坦，再也回不来了。
+en:But it didn&#39;t stop there.You see, that announcementwent one click out,which got reverberated, one click out.And it turns out that as you lookat the postmortem of this event,you have at one momentperfectly working YouTube.Then, at moment number two,you have the fake announcement go out.And within two minutes,it reverberates aroundand YouTube is blocked everywhere in the world.If you were sitting in Oxford, England, trying to get to YouTube,your packets were going to Pakistanand they weren&#39;t coming back.
+时间： 7:24
+zh-cn:大家想，作为世界上最有影响力的公司经营的世界上最有名的网站之一，Youtube和Google却没有有效的特权去解决这个问题。但是，不知何故，两小时之内，这个问题就解决了。为什么会这样？
+en:Now just think about that.One of the most popular websites in the world,run by the most powerful company in the world,and there was nothing that YouTube or Googlewere particularly privileged to do about it.And yet, somehow, within about two hours,the problem was fixed.How did this happen?
+时间： 7:45
+zh-cn:一个重要的线索来自NANOG，北美网络运营商组织，这群人他们在阳光明媚的天气里，进到一个没有窗子的房间，来到他们的终端前，阅读邮件和信息，用一种固定比例的字体，就像这个。他们在谈论网络，他们其中的一些人是全世界网络服务提供商的中层雇员。其中一个人说，“看来我们抓到现形了，Youtube被劫持了！这不是演习，也不是Youtube工程师的无能我发誓。在巴基斯坦出事了。”然后他们就一起帮助寻找问题然后解决它。
+en:Well, for a big clue, we turn to NANOG.The North American Network Operators Group,a group of people who,on a beautiful day outside,enter into a windowless room,at their terminalsreading email and messagesin fixed proportion font, like this,and they talk about networks.And some of them are mid-level employees at Internet service providersaround the world.And here is the message where one of them says,&quot;Looks like we&#39;ve got a live one. We have a hijacking of YouTube!This is not a drill. It&#39;s not just the cluelessnessof YouTube engineers. I promise.Something is up in Pakistan.&quot;And they came together to help find the problem and fix it.
+时间： 8:28
+zh-cn:所以这有点像你家房子着火了，坏消息是，没有消防队。好消息是，不知从哪里冒出来的路人，把火扑灭了，然后离开，不期待你付钱或表扬。（鼓掌）我试图想出一种合适的模型来描述这种“讨厌的陌生人随机善良行为”的模式，（笑）你知道，就像下冰雹的时候，人们已经准备好伸出援手。原来当你开始寻找这种模型的时候，才发现它在世界的每个角落。
+en:So it&#39;s kind of like if your house catches on fire.The bad news is there is no fire brigade.The good news is random people apparate from nowhere,put out the fire and leave without expecting payment or praise.(Applause)I was trying to think of the right model to describethis form of random acts of kindnessby geeky strangers.(Laughter)You know, it&#39;s just like the hail goes outand people are ready to help.And it turns out this model is everywhere, once you start looking for it.
+时间： 9:07
+zh-cn:第二个例子：维基百科如果2001年，一个叫金博的人找到你，说，“我有一个好主意！我们从七篇文章开始，任何人任何时候都可以编辑它们，那么我们就能获得一本很棒的百科全书！是吧？”对。有史以来最愚蠢的想法。（笑）事实上，维基百科是一个金博从来没有过的，愚蠢又深刻的点子。
+en:Example number two: Wikipedia.If a man named Jimbo came up to you in 2001and said, &quot;I&#39;ve got a great idea! We start with seven articlesthat anybody can edit anything, at any time,and we&#39;ll get a great encyclopedia! Eh?&quot;Right. Dumbest idea ever.(Laughter)In fact, Wikipedia is an idea so profoundly stupidthat even Jimbo never had it.
+时间： 9:34
+zh-cn:金博的点子其实是Nupedia它会变得完全传统。他会付给人们钱，因为他感觉好像是个好人。钱会付给人们，然后他们来写文章。维基应运而生，别人可以为修改提出意见——好像事后修补，相当于后屋。然后后屋越建越大，扩展成了整个项目。
+en:Jimbo&#39;s idea was for Nupedia.It was going to be totally traditional. He would pay people moneybecause he was feeling like a good guy,and the money would go to the peopleand they would write the articles.The wiki was introducedso others could make suggestions on edits —as almost an afterthought, a back room.And then it turns out the back room grewto encompass the entire project.
+时间： 9:55
+zh-cn:时至今日，维基百科无处不在，以至于你可以在中餐馆的菜单里看见它。（笑）我没有编造。（笑）我有个理论，我可以迟些解释。一言以蔽之，目前我更喜欢我的维基百科和香果一起炒。（笑）
+en:And today, Wikipedia is so ubiquitousthat you can now find it on Chinese restaurant menus.(Laughter)I am not making this up.(Laughter)I have a theory I can explain later.Suffice it to say for now that I prefer my Wikipediastir-fried with pimentos.(Laughter)
+时间：10:21
+zh-cn:但是现在，维基百科并不只是自发地运作着它实际上是怎样运作的呢？原来有一个没有窗的后屋，打个比方，有一群人，在阳光明媚的一天，宁愿呆在屋内，修改这个管理者公告板，它本身就是个谁都可以编辑的维基页。于是你把你的问题放到这页上来，这使人想起了历史的描述，“糟糕的事一件接一件”，对吗？
+en:But now, Wikipedia doesn&#39;t just spontaneously work.How does it really work? It turns outthere is a back room that is kind of windowless,metaphorically speaking.And there are a bunch of people who, on a sunny day,would rather be insideand monitoring this, the administrator&#39;s notice board,itself a wiki page that anyone can edit.And you just bring your problems to the page.It&#39;s reminiscent of the description of historyas &quot;one damn thing after another,&quot; right?
+时间：10:49
+zh-cn:第一：“由用户安迪•弗菲尔编辑的有倾向性内容。”安迪•弗菲尔，如果你今天在这儿，对不起。我没有在偏袒。“阿尼翁为了报复而攻击我。”这是我最喜欢的：“说来话长。”（笑）之后越来越多的人来到这个页面挖掘问题并解决这些问题现在有更多的问题在这个页面上出现了。
+en:Number one: &quot;Tendentious editing by user Andyvphil.&quot;Apologies, Andyvphil, if you&#39;re here today.I&#39;m not taking sides.&quot;Anon attacking me for reverting.&quot;Here is my favorite: &quot;A long story.&quot;(Laughter)It turns out there are more people checking this page for problemsand wanting to solve themthan there are problems arising on the page.
+时间：11:13
+zh-cn:这就是使维基百科传播下去的东西。任何时候，维基百科都面临着45分钟后就彻底崩溃的危险，对吧？有垃圾邮件程序在上面爬行，试图把每一篇文章都变成劳力士手表广告（笑）正是这条细细的让人讨厌的线维持它的运行不是因为它是个工作，不是因为它是份职业，而是因为它是个感召，是一件他们认为必须去做的事。因为他们在乎它。
+en:And that&#39;s what keeps Wikipedia afloat.At all times, Wikipedia is approximately45 minutes away from utter destruction. Right?There are spambots crawling it, trying to turn every articleinto an ad for a Rolex watch.(Laughter)It&#39;s this thin geeky linethat keeps it going.Not because it&#39;s a job,not because it&#39;s a career,but because it&#39;s a calling.It&#39;s something they feel impelled to dobecause they care about it.
+时间：11:45
+zh-cn:他们甚至在这种群组里聚在一起，作为“反破坏行为租”——“文明，成熟，责任”——来清理这些页面。确实令你想弄明白，举个例子，是不是每周末都有冗长而普遍的“星际迷航”公约那谁会来看店？笑
+en:They even gather together in such groupsas the Counter-Vandalism Unit —&quot;Civility, Maturity, Responsibility&quot; —to just clean up the pages.It does make you wonder if there were, for instance,a massive, extremely popular Star Trek convention one weekend,who would be minding the store?(Laughter)
+时间：12:08
+zh-cn:所以我们所看到的笑我们所看到的这个现象是疯狂的交通工程师汉斯 蒙德曼在荷兰的发明在南肯辛通如果你去除一些多余的规则和道路标识以及其他的相关事物你最终会生活在一个由人来发挥作用的更安全的环境并且是一个更人性化的环境他们意识到他们必须为他们所做的负责而维基百科就拥有这种精神
+en:So what we see —(Laughter)what we see in this phenomenonis something that the crazed, late traffic engineerHans Monderman discovered in the Netherlands,and here in South Kensington, that sometimesif you remove some of the external rules and signs and everything else,you can actually end upwith a safer environment in which people can function,and one in which they are more human with each other.They&#39;re realizing that theyhave to take responsibility for what they do.And Wikipedia has embraced this.
+时间：12:45
+zh-cn:你们可能还记得那位星际男孩那位拍摄自己拿着高尔夫球杆就好像自己拿着光剑一样的穷小孩这个视频，未经他的允许，甚至在他不知道的情况下在网上传播开来并成为携带严重病毒的视频，因为它非常受欢迎这让星际男孩非常苦恼
+en:Some of you may remember Star Wars Kid,the poor teenager who filmed himself with a golf ball retriever,acting as if it were a light saber.The film, without his permission or even knowledge at first,found its way onto the Internet.Hugely viral video. Extremely popular.Totally mortifying to him.
+时间：13:05
+zh-cn:如今，这事已广为人知所以维基百科应该写篇关于星际男孩的文章维基百科上的文章都有相应的讨论页面在这个讨论页面上维基百科人对是否要在文章中标注星际男孩的真实姓名进行了广泛的争论你可以看到双方的争论观点当然这只是其中一部分但他们最终决定并不是一致同意不标注真实姓名即使几乎所有的媒体在报导中写明了真实姓名维基百科人就认为这是不对的这是一种充满善意的行为
+en:Now, it being encyclopedic and all,Wikipedia had to do an article about Star Wars Kid.Every article on Wikipedia has a corresponding discussion page,and on the discussion pagethey had extensive argument among the Wikipediansas to whether to have his real namefeatured in the article.You could see arguments on both sides.Here is just a snapshot of some of them.They eventually decided —not unanimously by any means —not to include his real name,despite the fact that nearly all media reports did.They just didn&#39;t think it was the right thing to do.It was an act of kindness.
+时间：13:41
+zh-cn:至今，关于星际男孩的网页右上方有个警告提示说星际男孩的真实姓名是不允许标注的如果你标注了，你的文章将被立即删除被不同意最初决定但尊重这个决定并让这个决定运作的人删除因为他们相信与他们的观点相比，有些事更重要作为一名法律工作者，我得说这此家伙在创造法律和先例，一些他们要遵守的东西
+en:And to this day, the page for Star Wars Kidhas a warning right at the topthat says you are not to put his real name on the page.If you do, it will be removed immediately,removed by people who may have disagreed with the original decision,but respect the outcomeand work to make it staybecause they believe in something bigger than their own opinion.As a lawyer, I&#39;ve got to say these guys are inventing the lawand stare decisis and stuff like that as they go along.
+时间：14:10
+zh-cn:现在，这不仅限于维基百科我们随处都可以在博客上看到这是一张2005年商业周刊的封面哇，博客正在改变着你们的商业模式我知道他们看起来很傻，确实他们很傻他们创建各种各样的愚蠢的项目
+en:Now, this isn&#39;t just limited to Wikipedia.We see it on blogs all over the place.I mean, this is a 2005 Business Week cover.Wow. Blogs are going to change your business.I know they look silly. And sure they look silly.They start off on all sorts of goofy projects.
+时间：14:25
+zh-cn:这是我最喜欢的傻瓜博客（一只像希特勒的猫）笑你把你的猫的照片传上去如果它看起来像希特勒笑哈哈我知道，第四张非常像，你能想像每天回家就看到那只猫吗笑
+en:This is my favorite goofy blog:Catsthatlooklikehitler.com.(Laughter)You send in a picture of your catif it looks like Hitler.(Laughter)Yeah, I know. Number four, it&#39;s like, can you imaginecoming home to that cat everyday?(Laughter)
+时间：14:48
+zh-cn:但是，你可以看到很多类似的怪想法用在人类身上这是一个全是不幸的肖像照片的博客这张照片的标题是：有栅栏的牧场是不是有个动物尸体在她身后笑你就可能会说：你知道吗，我觉得她身后有个动物尸体
+en:But then, you can see the same kind of whimsyapplied to people.So this is a blog devoted to unfortunate portraiture.This one says, &quot;Bucolic meadow with split-rail fence.Is that an animal carcass behind her?&quot;(Laughter)You&#39;re like, &quot;You know? I think that&#39;s an animal carcassbehind her.&quot;
+时间：15:08
+zh-cn:这是后面一个但你点击这张图片时显示：经图片所有人要求，此图片已删除看到了吧，经图片所有人要求，此图片已删除这是有人在嘲讽无礼的博主不用法律去威胁也不要求博主支付罚款而只是说：嗨，你介意吗那人说：没关系
+en:And it&#39;s one after the other.But then you hit this one. Image removed at request of owner.That&#39;s it. Image removed at request of owner.It turns out that somebody lampooned herewrote to the snarky guy that does the site,not with a legal threat, not with an offer of payment,but just said, &quot;Hey, would you mind?&quot;The person said, &quot;No, that&#39;s fine.&quot;
+时间：15:28
+zh-cn:我相信我们可以在网上创建这样的架构去提出人性化的要求这更容易实施也更可能让我们都了解我们在网上遇到的数据只是我们要点击，粘贴和转发的东西而这些东西代表了人类的情感努力和影响力人类可以表现得有道德当我们决定怎么去对待道德
+en:I believe we can build architectures onlineto make such human requeststhat much easier to do,to make it possible for all of us to seethat the data we encounter onlineis just stuff on which to click and paste and copy and forwardthat actually represents human emotionand endeavor and impact,and to be able to have an ethical momentwhere we decide how we want to treat it.
+时间：15:55
+zh-cn:我甚至觉得这些都可以在现实世界中实现我们可以结束这些现象，当我们处在审查越来越普遍的世界在各个地方你可能会被摄影，可能摄影的照片被放到网上可以有一小段里面你穿着写有“你知道，我宁愿不。。。”的衣服然后有这样的一种科技拍照的人知道他被要求与照片上的人联系在这张照片还没有广泛传播以前如果你不介意那个拍照的人可以自己作决定怎么或是否去尊重照片上的人
+en:I even think it can go into the real world.We can end up, as we get in a world with more censors —everywhere there is something filming you, maybe putting it online —to be able to have a little clip you could wearthat says, &quot;You know, I&#39;d rather not.&quot;And then have technologythat the person taking the photo will know later,this person requested to be contactedbefore this goes anywhere big,if you don&#39;t mind.And that person taking the photo can make a decisionabout how and whether to respect it.
+时间：16:25
+zh-cn:在现实世界中，我们看到与巴基斯坦类似的过滤行为并且我们现在有方法来创建这样一个系统在这个系统中人们可以报告他们遇到的过滤行为而不再是“我不知道，我没法登录，我想我要继续下去”但突然之间，对于网络屏蔽和审查有了集体性的反省其实，谈到科技模仿生活或叫做模仿科技，或可能有其他的叫法
+en:In the real world, we see filtering of this sorttaking place in Pakistan.And we now have means that we can build, like this system,so that people can report the filtering as they encounter it.And it&#39;s no longer just a &quot;I don&#39;t know. I couldn&#39;t get there. I guess I&#39;ll move on,&quot;but suddenly a collective consciousnessabout what is blocked and censoredwhere online.In fact, talk about technology imitating lifeimitating tech, or maybe it&#39;s the other way around.
+时间：16:54
+zh-cn:一位纽约大学的研究人员发明了小的纸板机器人并在机器人上画有笑脸用马达推动机器人前进机器人的背面有面旗子写有想要到达的目的地同时也写着：你能把我带到那边吗？那位研究人员竟然把机器人放在曼哈顿的街道上笑看来如今任何事都可能被资助这是一张图表，关于43人帮助迷路的机器人找到方向让机器人顺着路华盛顿公园的一角到另一角
+en:An NYU researcher here took little cardboard robotswith smiley faces on them,and a motor that just drove them forwardand a flag sticking out the backwith a desired destination.It said, &quot;Can you help me get there?&quot;Released it on the streets of Manhattan.(Laughter)They&#39;ll fund anything these days.Here is the chart of over 43 peoplehelping to steer the robot that could not steerand get it on its way, from one cornerfrom one corner of Washington Square Parkto another.
+时间：17:28
+zh-cn:那我们就可以谈谈第三个例子了：搭便车我不清楚搭便车是否已经不流行了为什么呢？因为这个克雷格列表（网站名）的共享车辆的公告板如果这个排名被叫作克雷格列表的搭便车公告板那风野草（一种植物）就会把它吹掉但这是共享车辆的公告板，这基本上是同样一回事现在为什么人们要用这个词呢我不知道，可能是因为他们认识杀手不会先下手为强？笑不，我认为真正的答案是一旦你重新构建它一旦你不再寄希望于成功过但现在出于某种原因失败的陈腐项目事实上你可以重新唤起人类内心的道德和共享意识就像克雷格列表上展现的一样
+en:That leads to example number three: hitchhiking.I&#39;m not so sure hitchhiking is dead.Why? There is the Craigslist rideshare board.If it were called the Craigslist hitchhiking board,tumbleweeds would be blowing through it.But it&#39;s the rideshare board, and it&#39;s basically the same thing.Now why are people using it?I don&#39;t know. Maybe they think that, uh, killers don&#39;t plan ahead?(Laughter)No. I think the actual answer isthat once you reframe it,once you get out of one set of stale expectationsfrom a failed project that had its day,but now, for whatever reason, is tarnished,you can actually rekindle the kind of human kindness and sharingthat something like this on Craigslist represents.
+时间：18:17
+zh-cn:然后你就可以在一些类似的网站上倡导一下对，这是像CouchSurfing这个网站CouchSurfing是某个家伙出于这样的想法而创建他把那些要去很远地方的并想免费睡在陌生人家沙发上的人和那些在远方的并愿意让陌生人免费睡在他们的沙发上的人联系在一起这是很聪明的想法而且也成功了
+en:And then you can highlight itinto something like,yes, CouchSurfing.org.CouchSurfing: one guy&#39;s ideato, at last, put together people who are going somewhere far awayand would like to sleep on a stranger&#39;s couch for free,with people who live far away,and would like someone they don&#39;t know to sleep on their couch for free.It&#39;s a brilliant idea.It&#39;s a bee that, yes, flies.
+时间：18:47
+zh-cn:很不可思议，有那么多人通过CouchSurfing联系在一起你们是否想知道有没有不幸发生？在所知范围内完全没有关于CouchSurfing的不幸虽然我可以肯定，之所以现在有那么好的声誉是因为报告都是在事情发生之后的所以可能在选择上动过手脚笑
+en:Amazing how many successful couch surfings there have been.And if you&#39;re wondering, no, there have been no known fatalitiesassociated with CouchSurfing.Although, to be sure, the reputation system, at the moment,works that you leave your report after the couch surfing experience,so there may be some selection bias there.(Laughter)
+时间：19:09
+zh-cn:所以，我强烈建议，我的想法是网络不只是一堆信息它不是一个名词，而是一个动词当你在网上时如果你足够仔细地听和看你就会发现信息在向你诉说着什么它所说的就是我们昨天听到的德摩斯梯尼（古希腊雄辩家）告诉我们“让我们向前进”。谢谢大家掌声
+en:So, my urging, my thought,is that the Internet isn&#39;t just a pile of information.It&#39;s not a noun. It&#39;s a verb.And when you go on it,if you listen and see carefully and closely enough,what you will discoveris that that informationis saying something to you.What it&#39;s saying to you is what we heard yesterday,Demosthenes was saying to us.It&#39;s saying, &quot;Let&#39;s march.&quot; Thank you very much.(Applause)

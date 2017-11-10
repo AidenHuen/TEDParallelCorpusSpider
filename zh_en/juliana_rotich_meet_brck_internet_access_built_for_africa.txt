@@ -1,0 +1,57 @@
+时间： 0:11
+zh-cn:在非洲生活等于在边缘生活，这既是潜台词，又相当符合实际情况只要你想想2008年前的通讯状况就明白了。在欧洲和世界的其他地方历经了人类智慧和技术的大飞跃，但是非洲多少有点落后了。而改变发生了，首先从船开始，就是在文艺复兴的时代、科学革命时代以及工业革命时代发生了变化。而如今我们又经历了数字革命。这些革命并非在每个大陆和国家平衡地展开起来。平衡从未出现过。
+en:Living in Africa is to be on the edge,metaphorically, and quite literallywhen you think about connectivity before 2008.Though many human intellectual and technological leapshad happened in Europe and the rest of the world,but Africa was sort of cut off.And that changed, first with shipswhen we had the Renaissance, the Scientific Revolutionand also the Industrial Revolution.And now we&#39;ve got the digital revolution.These revolutions have not been evenly distributedacross continents and nations.Never have been.
+时间： 0:49
+zh-cn:现在，海底光缆如地图一般铺开从而把非洲与世界已经联系了起来。我觉得很令人惊异的是非洲正在突破它的地理局限。非洲正在与全世界联网，包括非洲大陆自身通讯的状况得到了大幅度改善，不过还是有一些阻碍。就是在这样的背景下才出现了 Ushahidi。
+en:Now, this is a map of the undersea fiber optic cablesthat connect Africa to the rest of the world.What I find amazing is that Africais transcending its geography problem.Africa is connecting to the rest of the worldand within itself.The connectivity situation has improved greatly,but some barriers remain.It is with this context that Ushahidi came to be.
+时间： 1:13
+zh-cn:2008年，我们面对的一个问题是缺乏信息流。2008年，当肯尼亚在大选后发生了暴力活动时。当地开始了一段时间的媒体传播中断。那是一段非常悲惨和难熬的时期。所以我们聚在一起，然后创造了叫做 Ushahidi 的软件。Ushahidi 在斯瓦西里语中的意思是“证词”或“见证”。我很有幸能和两名了不得的人合作。他们是 David 和 Erik。他们当他们是我同父异母的兄弟。显然我在地球某处有一位德国裔的母亲。我们一开始一起构建和发展 Ushahidi。这个软件的目的从短信、电子邮件和网页上收集信息，然后拼出一张地图以便看到在什么地方都发生了什么事，接着你可以将数据可视化。在建立了初始原型后，我们开始将其做成免费和开源的软件，这样其他人就没必要向我们一样从最基础的地方开始。
+en:In 2008, one of the problems that we facedwas lack of information flow.There was a media blackout in 2008,when there was post-election violence in Kenya.It was a very tragic time. It was a very difficult time.So we came together and we created softwarecalled Ushahidi.And Ushahidi means &quot;testimony&quot; or &quot;witness&quot; in Swahili.I&#39;m very lucky to work with two amazing collaborators.This is David and Erik.I call them brothers from another mother.Clearly I have a German mother somewhere.And we worked together first with buildingand growing Ushahidi.And the idea of the software was to gather informationfrom SMS, email and web, and put a mapso that you could see what was happening where,and you could visualize that data.And after that initial prototype,we set out to make free and open-source softwareso that others do not have to start from scratch like we did.
+时间： 2:10
+zh-cn:自始至终，我们都想要报答那些在早期帮助我们建造 Ushahidi并支持我们的当地技术团体。这就是为什么我们要在内罗毕建造 iHub，这是一个可以让我们在一起合作的实体空间，其如今也是肯尼亚技术生态系统的一部分。我们在建造时得到了不同组织的帮助，比如麦克阿瑟基金会和奥米迪亚网络。
+en:All the while, we also wanted to give backto the local tech community that helped usgrow Ushahidi and supported us in those early days.And that&#39;s why we set up the iHub in Nairobi,an actual physical spacewhere we could collaborate,and it is now part of an integral tech ecosystem in Kenya.We did that with the support of different organizationslike the MacArthur Foundation and Omidyar Network.
+时间： 2:36
+zh-cn:而且他们的帮助使我们能够让这个软件走得更远，几年之后它成了一个非常有用的软件，当人们在海地使用这个软件的时候，我们感到责任还蛮重大的，当时人们用它反映自己的位置和需求，同样这个软件也曾用来处理日本的核辐射危机和海啸。现在，英特网今年20岁了，也是 Ushahidi 也迎来了其发展的第五年。
+en:And we were able to grow this software footprint,and a few years later it becamevery useful software,and we were quite humbled when it was used in Haitiwhere citizens could indicate where they areand what their needs were,and also to deal with the fallout from the nuclear crisisand the tsunami in Japan.Now, this year the Internet turns 20,and Ushahidi turned five.
+时间： 3:03
+zh-cn:Ushahidi 这个软件不止是由我们所创造。是这个团队，还有软件的用户们，他们用我们预料之外的方式来使用这个软件。我们没有想到现在全世界会出现这么多地图。有危机地图，选举地图，腐败地图，甚至还有环境监控包众地图。让我们感到责任重大的是这个软件为肯尼亚而生，而如今全世界的人都在用它处理不同的问题。我们还在继续努力去探索集体智慧的理念，而我，作为一个公民，如果我用任意一种设备来分享我的信息，我可以告诉你发生了什么，而且你要是也这样做的话，我们就能更加清楚地看到正在发生的事情。
+en:Ushahidi is not only the software that we made.It is the team, and it&#39;s also the communitythat uses this technology in ways that we could not foresee.We did not imagine that there would be this many mapsaround the world.There are crisis maps, election maps, corruption maps,and even environmental monitoring crowd maps.We are humbled that this has roots in Kenyaand that it has some use to people around the worldtrying to figure out the different issues that they&#39;re dealing with.There is more that we&#39;re doing to explore this ideaof collective intelligence, that I, as a citizen,if I share the information with whatever device that I have,could inform you about what is going on,and that if you do the same, we can have a bigger pictureof what&#39;s going on.
+时间： 3:50
+zh-cn:我2011年的时候回到了肯尼亚。Erik 2010年搬到这里。现实是那么的不同。我以前住在芝加哥那里的网络无处不在。我从来都不用考虑断电。但在肯尼亚，反差很大，尽管有着飞跃性的进步和发生了数字革命，但仍有一个问题电力问题。日复一日的沮丧中处理这个问题中可以说是非常恼火的。停电一点都不有趣。想象一下你刚坐下准备开始工作，突然间停电了，你的网络也中断了，然后你要想，okay，现在，调制解调器在哪里，我怎么重启它？然后，你知道吗？你还要再重来一遍。现在，这就是我们住的地方：肯尼亚的实况，这也是非洲其他地区的实况。
+en:I moved back to Kenya in 2011.Erik moved in 2010.Very different reality. I used to live in Chicagowhere there was abundant Internet access.I had never had to deal with a blackout.And in Kenya, it&#39;s a very different reality,and one thing that remains despite the leaps in progressand the digital revolution is the electricity problem.The day-to-day frustrations of dealing with thiscan be, let&#39;s just say very annoying.Blackouts are not fun.Imagine sitting down to start working, and all of a suddenthe power goes out,your Internet connection goes down with it,so you have to figure out, okay, now, where&#39;s the modem,how do I switch back?And then, guess what? You have to deal with it again.Now, this is the reality of Kenya, where we live now,and other parts of Africa.
+时间： 4:40
+zh-cn:我们正在面对的另一个问题是通讯费用，这也是个大挑战。打电话到美国、加拿大或者中国要花我5肯尼亚先令，也就是0.06美元。你猜下打电话到卢旺达、加纳、尼日利亚要多少钱？要30肯尼亚先令。在非洲大陆内相互打电话还要花6倍的价格。同样，在非洲内部旅行，不同的移动通信运营商要求的手机制式也不一样。这是我们要解决的问题。
+en:The other problem that we&#39;re facingis that communication costs are also still a challenge.It costs me five Kenyan shillings,or .06 USD to call the U.S., Canada or China.Guess how much it costs to call Rwanda, Ghana, Nigeria?Thirty Kenyan shillings. That&#39;s six times the costto connect within Africa.And also, when traveling within Africa,you&#39;ve got different settings for different mobile providers.This is the reality that we deal with.
+时间： 5:13
+zh-cn:因此， Ushahidi 流传着一个笑话是这么说的，“如果在非洲行得通，那到处都能行得通了。”[大多数人用技术来定义功能，我们却用功能来推动技术发展。]如果我们可以解决网络和电力不稳定的问题并且降低通信费用，那会怎么样呢？我们能否利用云技术？我们已经创建了一张包众地图，还有 Ushahidi。我们能否利用这些技术来实现在无论何时发生的跨国旅行中的智能转换呢？
+en:So we&#39;ve got a joke in Ushahidiwhere we say, &quot;If it works in Africa, it&#39;ll work anywhere.&quot;[Most use technology to define the function. We use function to drive the technology.]What if we could overcome the problemof unreliable Internet and electricityand reduce the cost of connection?Could we leverage the cloud?We&#39;ve built a crowd map, we&#39;ve built Ushahidi.Could we leverage these technologiesto switch smartly whenever you travel from country to country?
+时间： 5:42
+zh-cn:因此我们目光转向了调制解调器，这是英特网构造中非常重要的一部分，我们问自己为什么，我们所使用的调制解调器是为与现在不同的，有着无处不在的互联网和电力的环境而造的，但是在内罗毕这里我们可享受不到这种奢侈待遇。我们想要重新设计一种适用于发展中国家的，适应我们现在的环境和现实情况的调制解调器如果我们可以建造一个比较稳定的连网方式该多好？
+en:So we looked at the modem,an important part of the infrastructure of the Internet,and asked ourselves whythe modems that we are using right noware built for a different context, where you&#39;ve gotubiquitous internet, you&#39;ve got ubiquitous electricity,yet we sit here in Nairobi and we do not have that luxury.We wanted to redesign the modemfor the developing world, for our context,and for our reality.What if we could have connectivity with less friction?
+时间： 6:13
+zh-cn:这就是BRCK。它相当于英特网的后备，比如遇到停电的状况，它会为你切换连接到最近的GSM网络。在非洲，移动通信网络是很普及的。其实到处都覆盖到了。大部分的城镇都至少有一个3G网络。那么我们为什么不利用这个条件呢？这就是为什么我们建造了这个。还有一个建造这个的原因是当电力中断，它还能通电8个小时，所以你可以继续工作，你可以继续生产，也可以说你不需要在那么神经紧绷着了。在农村地区，可以算得上是首选的连网方式。
+en:This is the BRCK.It acts as a backup to the Internetso that, when the power goes out,it fails over and connects to the nearest GSM network.Mobile connectivity in Africa is pervasive.It&#39;s actually everywhere.Most towns at least have a 3G connection.So why don&#39;t we leverage that? And that&#39;s why we built this.The other reason that we built thisis when electricity goes down, this has eight hoursof battery left, so you can continue working,you can continue being productive,and let&#39;s just say you are less stressed.And for rural areas, it can bethe primary means of connection.
+时间： 6:58
+zh-cn:我们想要知道怎么使用云技术来变得更智能时，Ushahidi社区对软件的灵敏性依旧能起作用，因此你可以分析不同的网络，随时随地打开备份，选择一个最快的网络，于是我们打造了多SIM卡多待的功能，这样一来你就可以插入多张SIM卡，如果某个网络比较快，就会连上那个网络，如果它的运行时间不是很理想，那你就可以立马换下一个。这个想法就是让你可以在任何地方连网。有了负载平衡，就用有可能了。
+en:The software sensibility at Ushahidi is still at playwhen we wondered how can we use the cloudto be more intelligent so thatyou can analyze the different networks,and whenever you switch on the backup,you pick on the fastest network,so we&#39;ll have multi-SIM capabilityso that you can put multiple SIMs,and if one network is faster, that&#39;s the one you hop on,and if the up time on that is not very good,then you hop onto the next one.The idea here is for you to be able to connect anywhere.With load balancing, this can be possible.
+时间： 7:34
+zh-cn:另外一个有趣的事情——我们喜欢感应器——这个想法是说你可以拥有一个连接各种网络的通道。想象一下它能连接到一个气象站。它是以模组化的方式建立的，因此它也可以连接到一个卫星的模组上，这样你就可以在很偏僻的地方也可以连接网络。
+en:The other interesting thing for us — we like sensors —is this idea that you could have an on-rampfor the Internet of things.Imagine a weather station that can be attached to this.It&#39;s built in a modular way so that you can also attacha satellite module so that you could haveInternet connectivity even in very remote areas.
+时间： 7:55
+zh-cn:逆境可以激发创新，那么我们要怎么帮助那些在肯尼亚的雄心勃勃的程序员和编程师们去迅速适应基础设施常发生问题的环境呢？至于我们，首先着手于解决我们在肯尼亚自家后院的问题。
+en:Out of adversity can come innovation,and how can we help the ambitious coders and makersin Kenya to be resilient in the face of problematic infrastructure?And for us, we begin with solving the problemin our own backyard in Kenya.
+时间： 8:11
+zh-cn:这并非没有挑战性。我们的团队基本上一直要做苦力，把零部件从美国运到肯尼亚。我们和报关员还有过一些很有趣的对话。“你们都在运什么呢？”然后当地的金融机构又不参加支持硬件项目。所以我们只好在众筹网站Kickstarter上面去，对此我可以很开心的说在很多人的支持下不止来自Kickstarter这儿，而是来自整个网络BRCK开始起步，然后接下来就要开始进行有趣的市场推广了。
+en:It is not without challenge.Our team has basically been mules carrying componentsfrom the U.S. to Kenya. We&#39;ve had very interesting conversationswith customs border agents.&quot;What are you carrying?&quot;And the local financing is notpart of the ecosystem for supporting hardware projects.So we put it on Kickstarter, and I&#39;m happy to say that,through the support of many people,not only here but online,the BRCK has been Kickstarted,and now the interesting part of bringing this to market begins.
+时间： 8:45
+zh-cn:最后我想说，如果我们能为当地的市场解决这个问题的话，这不仅对内罗毕的编码员有着重要的影响，而且对那些需要稳定网络的小企业老板们来说也很重要，它可以降低通讯费用，而且也希望对非洲各国的相互合作也会大有帮助。
+en:I will close by saying that, if we solve thisfor the local market, it could be impactfulnot only for the coders in Nairobibut also for small business ownerswho need reliable connectivity,and it can reduce the cost of connecting,and hopefully collaboration within African countries.
+时间： 9:04
+zh-cn:这个想法是这样的，数字经济的基础构成模块是充满连接可能性和具备着创业精神的。BRCK是我们让非洲人民保持联系的努力，同时也是帮助他们一同促进全球的数字革命的努力。
+en:The idea is that the building blocks of the digital economyare connectivity and entrepreneurship.The BRCK is our partto keep Africans connected,and to help them drive the global digital revolution.
+时间： 9:22
+zh-cn:谢谢。
+en:Thank you.
+时间： 9:23
+zh-cn:（掌声）
+en:(Applause)

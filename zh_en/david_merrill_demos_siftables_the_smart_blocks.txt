@@ -1,0 +1,99 @@
+时间： 0:11
+zh-cn:首先，我想请大家回忆一下你们在孩提时代玩过的积木。当你构思着怎么去搭建积木并且去动手操作的时候，其实是你正在学习怎样思考和解决问题。这即是对物体的空间结构的理解和感知。理解物体的空间结构非常有助于我们对很多周围事物的学习。
+en:I want to start out by asking you to think back to when you were a kid,playing with blocks.As you figured out how to reach out and grasp,pick them up and move them around,you were actually learning how to think and solve problemsby understanding and manipulating spatial relationships.Spatial reasoning is deeply connectedto how we understand a lot of the world around us.
+时间： 0:29
+zh-cn:因此，作为一个计算机领域的科学家，在这种手动思考方式的启发下，以及在我的导师Pattie和我的合作伙伴Jeevan Kalanithi的帮助下，我开始思考—要是我们能用一种新型计算机来代替鼠标移动光标，就好比一种数字化的手指尖在桌面移动—那样会如何呢？要是我们能用手来直接感知信息，按我们的思路来组合信息—那样会如何呢？这样的疑问不断萦绕在我的脑海中，于是我们决定去探寻答案，所以才有了这款Siftables。
+en:So, as a computer scientistinspired by this utility of our interactions with physical objects —along with my adviser Pattie, and my collaborator Jeevan Kalanithi —I started to wonder — what if when we used a computer,instead of having this one mouse cursor that was a like a digital fingertipmoving around a flat desktop,what if we could reach in with both hands and grasp information physically,arranging it the way we wanted?This question was so compelling that we decided to explore the answer,by building Siftables.
+时间： 0:57
+zh-cn:简单地说，Siftable是一款互动计算机，体积如饼干般大小。Siftables可以用手随意移动，每块Siftable可以互相感知彼此的移动，每块Siftable还有显示屏和无线电装置。最重要的是，每块Siftable都是独立的，就像积木一样，可以随意搭配。而且Siftables代表了一种新的生态系统—即数字化信息的操作工具。这种操作工具更加独立，更加灵敏，能彼此感知，感知任何细微的移动，所以我们可以使用这种工具尝试一些新的有趣的互动。现在，我就来演示一些简单的。
+en:In a nutshell, a Siftable is an interactive computerthe size of a cookie.They&#39;re able to be moved around by hand,they can sense each other, they can sense their motion,and they have a screen and a wireless radio.Most importantly, they&#39;re physical,so like the blocks, you can move them just by reaching out and grasping.And Siftables are an example of a new ecosystemof tools for manipulating digital information.And as these tools become more physical,more aware of their motion, aware of each other,and aware of the nuance of how we move them,we can start to explore some new and fun interaction styles.So, I&#39;m going to start with some simple examples.
+时间： 1:31
+zh-cn:这块Siftable有映像配置，如果我把它向一侧倾斜，那么它所显示的画面也朝这边倾斜，如果我把它朝反方向倾斜，那么图像也朝反方向倾斜。而且这些Siftables能互相感知。如果把它们一个挨一个摆好，有趣的现象就会发生。如果把它们随意一堆，他们也会察觉到，那就会有点儿混乱。它们还能感知彼此的移动和倾斜。
+en:This Siftable is configured to show video,and if I tilt it in one direction, it&#39;ll roll the video this way;if I tilt it the other way it rolls it backwards.And these interactive portraits are aware of each other.So if I put them next to each other, they get interested.If they get surrounded, they notice that too,they might get a little flustered.And they can also sense their motion and tilt.
+时间： 1:55
+zh-cn:我们发现一个有趣的互动—我们可以通过一些常用的手势和Siftables进行互动，比如象倒液体那样把颜色从一块Siftable倒入另一块Siftable.我们来看这个演示，这有三块设置成油漆桶模式的Siftables,我们可以把这些桶里的颜色倒入中间的那个，把颜色混在一起.如果倒多了，可以再倒回去一些。
+en:One of the interesting implications on interaction, we started to realize,was that we could use everyday gestures on data,like pouring a color the way we might pour a liquid.So in this case, we&#39;ve got three Siftables configured to be paint bucketsand I can use them to pour color into that central one,where they get mixed.If we overshoot, we can pour a little bit back.
+时间： 2:18
+zh-cn:Siftables还有学习机的功能，可以用来学语言、算算术等—我们希望通过这些功能让学习变得快捷，更快看到结果。这也是我来这里展示Siftables的原因—（掌声）这是我用一个简单方程式做成的斐波那契数列。
+en:There are also some neat possibilities for education,like language, math and logic gameswhere we want to give people the ability to try things quickly,and view the results immediately.So here I&#39;m —(Applause)This is a Fibonacci sequence that I&#39;m making with a simple equation program.
+时间： 2:36
+zh-cn:Siftables还可以玩拼字游戏—一种Scrabble和Boggle混搭的拼字游戏。这种拼字游戏的玩法大致如下，你随意拿一块带有字母的Siftable,当你把几块带有字母的Siftables拼在一起组成单词时，Siftables会在字典里自动查找单词。大约30秒后Siftables会自动根据正确的单词拼写顺序改变原来显示的字母，组成正确的单词，你还可以尝试用其他的字母拼出新的单词。
+en:Here we have a word game that&#39;s kind of like a mash-up between Scrabble and Boggle.Basically, in every roundyou get a randomly assigned letter on each Siftable,and as you try to make words it checks against a dictionary.Then, after about 30 seconds, it reshuffles,and you have a new set of letters and new possibilities to try.
+时间： 2:53
+zh-cn:（掌声）谢谢大家。（掌声）
+en:(Applause)Thank you.(Applause)
+时间： 2:57
+zh-cn:现在，屏幕上显示的是一些孩子正在Media Lab 里参与Siftables的试用体验，我把孩子们的体验过程拍了下来。孩子们非常喜欢Siftables。而且有趣的是在玩这个拼字游戏的时候我们并不需要向他们解释什么。只要跟他们说这是个“拼字”游戏时，他们就知道该怎么做了。
+en:So these are some kids that came on a field trip to the Media Lab,and I managed to get them to try it out, and shoot a video.They really loved it.And, one of the interesting things about this kind of applicationis that you don&#39;t have to give people many instructions.All you have to say is, &quot;Make words,&quot;and they know exactly what to do.
+时间： 3:21
+zh-cn:现在屏幕上显示的是另一些人在体验Siftables。右下角这位是年龄最小的体验者。他只是想把Siftables堆在一起。在他看来，Siftables只是积木。现在屏幕上显示的是一种动画功能的互动尝试。我们希望Siftables能成为学习语言的帮手。画面上的这个孩子叫Felix。他能把一些新元素添加到动画图像上，他所做的就是把桌上的Siftables拿起来朝着动画图像投一下影，就可以把这些新元素加到动画上了。看，他把太阳加上去了。
+en:So here&#39;s another few people trying it out.That&#39;s our youngest beta tester, down there on the right.Turns out, all he wanted to do was to stack the Siftables up.So to him, they were just blocks.Now, this is an interactive cartoon application.And we wanted to build a learning tool for language learners.And this is Felix, actually.And he can bring new characters into the scene,just by lifting the Siftables off the table that have that character shown on them.Here, he&#39;s bringing the sun out.
+时间： 4:06
+zh-cn:视频：太阳升起来了。
+en:Video: The sun is rising.
+时间： 4:08
+zh-cn:大卫·梅若：现在他把拖拉机加上去了。
+en:David Merrill: Now he&#39;s brought a tractor into the scene.
+时间： 4:12
+zh-cn:视频：橙色的拖拉机。做的不错！
+en:Video: The orange tractor.Good job! Yeah!
+时间： 4:17
+zh-cn:把Siftables朝动画图像晃一下就可以把新元素加到画面上他把新元素加上去了—
+en:DM: So by shaking the Siftables and putting them next to each otherhe can make the characters interact —
+时间： 4:22
+zh-cn:视频：狗吠声
+en:Video: Woof!
+时间： 4:23
+zh-cn:梅若：他在编写属于他的动画故事。
+en:DM: inventing his own narrative.
+时间： 4:25
+zh-cn:视频：你好！
+en:Video: Hello!
+时间： 4:26
+zh-cn:梅若：这是个开放式结局的故事，他在计划怎样展开故事情节。.
+en:DM: It&#39;s an open-ended story,and he gets to decide how it unfolds.
+时间： 4:33
+zh-cn:视频：猫坐着热气球飞走了。
+en:Video: Fly away, cat.
+时间： 4:41
+zh-cn:梅若：下面我要给大家进行最后一个展示这个功能可以编排、演奏音乐是我们最近研发的，Siftables的这种功能体现在声音方面，能发出像超载音、贝斯及鼓的声音。每个模块有四档可供调节，任君选择。你可以把声音模块的Siftable里的声音加入编辑模块的Siftable按你喜欢的方式。加入声音只需把声音模块靠近编辑模块。还有类似混响器、滤声器作用的Siftable模块。把这类模块靠近声音模块就可以调整声音了。接下来，可以用控制总体节奏和音量的Siftable模块靠近编辑模块的Siftable来调整节奏和音量。我们来看一下。
+en:DM: So, the last example I have time to show you todayis a music sequencing and live performance toolthat we&#39;ve built recently,in which Siftables act as soundslike lead, bass and drums.Each of these has four different variations,you get to choose which one you want to use.And you can inject these sounds into a sequencethat you can assemble into the pattern that you want.And you inject it by just bumping up the sound Siftable against a sequence Siftable.There are effects that you can control live, like reverb and filter.You attach it to a particular sound and then tilt to adjust it.And then, overall effects like tempo and volumethat apply to the entire sequence.So let&#39;s have a look.
+时间： 5:21
+zh-cn:视频：（音乐）
+en:Video: (Music)
+时间： 5:23
+zh-cn:梅若：开始先把超载音注入两个编辑模块，再加一些超载音。现在加入贝斯音。
+en:DM: We&#39;ll start by putting a leadinto two sequence Siftables, arrange them into a series,extend it, add a little more lead.Now I put a bass line in.
+时间： 5:35
+zh-cn:视频：（音乐）梅若：现在加入一些打击乐器的声音。视频：（音乐）
+en:Video: (Music)DM: Now I&#39;ll put some percussion in.Video: (Music)
+时间： 5:47
+zh-cn:梅若：现在把滤声模块靠近鼓声模块，这样可以调整声音。
+en:DM: And now I&#39;ll attach the filter to the drums, so I can control the effect live.
+时间： 5:50
+zh-cn:视频：（音乐）
+en:Video: (Music)
+时间： 5:52
+zh-cn:梅若：我来把节奏加快些只需把节奏模块靠近编辑模块。
+en:DM: I can speed up the whole sequenceby tilting the tempo one way or the other.
+时间： 5:57
+zh-cn:视频：（音乐）
+en:Video: (Music)
+时间： 5:59
+zh-cn:梅若：现在再把滤声模块靠近贝斯模块滤声。
+en:DM: And now I&#39;ll attach the filter to the bass for some more expression.
+时间： 6:02
+zh-cn:视频：（音乐）
+en:Video: (Music)
+时间： 6:07
+zh-cn:梅若：在音乐演奏的过程中还可以重新编排。所以并不需要提前编排，而是在演奏时随时改编，可长可短。最后，我来结束整个演奏，用音量模块靠近编辑模块，用左边这个档。
+en:DM: I can rearrange the sequence while it plays.So I don&#39;t have to plan it out in advance, but I can improvise,making it longer or shorter as I go.And now, finally, I can fade the whole sequence outusing the volume Siftable, tilted to the left.
+时间： 6:21
+zh-cn:（掌声）谢谢大家。
+en:(Applause)Thank you.
+时间： 6:28
+zh-cn:正如大家看到的，我的理想就是研发一款新型的能够人机互动的媒介更好地配合人体大脑的运作。今天，我在这给大家展示了Siftable，我们的后续研究正在实验室中进行。我想跟大家交流的想法就是我们在研发新一代尖端科技产品—可以和数字媒体接轨的科技产品，它将给世界带来变化这样的革新在我们这一代就会看到。非常感谢大家。我期待着和大家共同探讨。
+en:So, as you can see,my passion is for making new human-computer interfacesthat are a better match to the ways our brains and bodies work.And today, I had time to show you one point in this new design space,and a few of the possibilities that we&#39;re working to bring out of the laboratory.So the thought I want to leave you withis that we&#39;re on the cusp of this new generation of toolsfor interacting with digital mediathat are going to bring information into our worldon our terms.Thank you very much.I look forward to talking with all of you.
+时间： 7:00
+zh-cn:（掌声）
+en:(Applause)

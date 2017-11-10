@@ -1,0 +1,30 @@
+时间： 0:11
+zh-cn:我的名字叫麦新—我是个农民，也是个技术人员。我出生在波兰，现在住在美国。我发起了一个叫开放资源生态的团队。我们认定了50个最重要的机器我们觉得它们是现代生活的得以存在的关键—从拖拉机，面包烤炉，电子线路的制造。然后我们决定创造一个开源的，开发自创版机器的项目任何人都用很少的一部分费用来制造和维护这些机器我们称其为全球农村制造组件。
+en:Hi, my name is Marcin —farmer, technologist.I was born in Poland, now in the U.S.I started a group called Open Source Ecology.We&#39;ve identified the 50 most important machinesthat we think it takes for modern life to exist —things from tractors,bread ovens, circuit makers.Then we set out to createan open source, DIY, do it yourself versionthat anyone can build and maintainat a fraction of the cost.We call this the Global Village Construction Set.
+时间： 0:42
+zh-cn:让我来告诉你们一个故事。我20多岁的时候完成了聚变能源博士学位，我发现我一无用处。我没有什么实用技能。这个世界为我提供了选择，我就接受挑战。我猜你们也许把它称为消费者的生活模式。所以我在密苏里建了一个农场学习农业经济。我买了一个拖拉机-然后坏了。我付钱修好—接着又坏了。不久我自己也破产了。
+en:So let me tell you a story.So I finished my 20swith a Ph.D. in fusion energy,and I discovered I was useless.I had no practical skills.The world presented me with options,and I took them.I guess you can call it the consumer lifestyle.So I started a farm in Missouriand learned about the economics of farming.I bought a tractor — then it broke.I paid to get it repaired —then it broke again.Then pretty soon,I was broke too.
+时间： 1:16
+zh-cn:我认识到我需要用来开创可持续农场和事业的真正合适，廉价的工具还不存在。我需要的工具是牢固的，模具化的，高效的，优化的，低成本的，用当地可循环利用的材料制造的，可长期使用的，而不是为了更新换代而设计的。我发现我只能自己来制造这些工具。于是我就动手做了。我对它们做了测试。接着我发现工业化（机器）的效率用小型机器也能达到。
+en:I realizedthat the truly appropriate, low-cost tools that I neededto start a sustainable farm and settlementjust didn&#39;t exist yet.I needed tools that were robust, modular,highly efficient and optimized,low-cost,made from local and recycled materials that would last a lifetime,not designed for obsolescence.I found that I would have to build them myself.So I did just that.And I tested them.And I found that industrial productivitycan be achieved on a small scale.
+时间： 1:53
+zh-cn:于是我发表了三维设计的，图纸，视频指导录像和预算方式我把它放在维基上。接着来自世界各地的参与者纷纷涌现，并在专门项目的访问其间制造了新机器的样品。目前，我们已经完成了50种机器里的8种样品。现在这个项目已经开始独立成熟。
+en:So then I published the 3D designs,schematics,instructional videos and budgetson a wiki.Then contributors from all over the worldbegan showing up, prototyping new machinesduring dedicated project visits.So far, we have prototyped eight of the 50 machines.And now the projectis beginning to grow on its own.
+时间： 2:18
+zh-cn:我们知道开源工具在管理学知识和创造力开发方面很成功。同时硬件也开始一样成熟我们专注于硬件是因为硬件对改变人们的生活带来了实质性的影响。如果我们能够减低农业，建筑和制造业的门槛，我们可以激发人类的巨大潜力。
+en:We know that open source has succeededwith tools for managing knowledge and creativity.And the same is starting to happen with hardware too.We&#39;re focusing on hardwarebecause it is hardware that can change people&#39;s livesin such tangible material ways.If we can lower the barriers to farming, building, manufacturing,then we can unleash just massive amounts of human potential.
+时间： 2:40
+zh-cn:这不只是针对发展中国家。我们的工具造出来也是给美国的农民，建筑工，企业家和制造商使用的。我们发现他们对此都非常兴奋，他们可以用以创办制造公司，零件制造，有机的社区支持型农业或将能源卖给电网。我们的目标是建一个公开的设计库清晰并完整，使得一张烧录的DVD就能成为高效的文明启动工具箱。
+en:That&#39;s not only in the developing world.Our tools are being madefor the American farmer, builder, entrepreneur, maker.We&#39;ve seen lots of excitement from these people,who can now start a construction business,parts manufacturing,organic CSAor just selling power back to the grid.Our goal is a repository of published designsso clear, so complete,that a single burned DVDis effectively a civilization starter kit.
+时间： 3:12
+zh-cn:我曾在一天内种了几百棵树。我也曾在一天内压制了5000块砖就用我脚下的泥土也曾花6天时间造了一辆拖拉机。依我所见，这只是一个开始。
+en:I&#39;ve planted a hundred trees in a day.I&#39;ve pressed 5,000 bricks in one dayfrom the dirt beneath my feetand built a tractor in six days.From what I&#39;ve seen, this is only the beginning.
+时间： 3:28
+zh-cn:如果这个想法真的是合理的，那么它会产生深远的影响。生产方式的广泛的传播，合理的生态供应链，一个新的自制文化有望超越人为的缺陷。我们都在探索利用开放性硬件技术我们如何才能突破限制从而创造更美好的世界。
+en:If this idea is truly sound,then the implications are significant.A greater distribution of the means of production,environmentally sound supply chains,and a newly relevant DIY maker culturecan hope to transcendartificial scarcity.We&#39;re exploring the limitsof what we all can do to make a better worldwith open hardware technology.
+时间： 3:56
+zh-cn:谢谢。
+en:Thank you.
+时间： 3:58
+zh-cn:(鼓掌)
+en:(Applause)

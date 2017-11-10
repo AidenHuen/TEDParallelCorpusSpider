@@ -1,0 +1,10 @@
+新闻标题：5G即将到来：中兴、高通和中国移动宣布开展5G新空口试验_网易数码
+新闻url：http://digi.163.com/17/0222/12/CDSMTS82001687H3.html
+新闻正文：
+<img src="http://cms-bucket.nosdn.127.net/catchpic/5/5f/5fbb5d7479427a39c410bf251f059cee.jpg?imageView&thumbnail=550x0" alt="cb3b4640-f8b4-11e6-a855-c1a14d5dcdc9.jpg"/>
+三家公司将在试验中展示多项5G新空口技术，高效地实现每秒数千兆比特数据速率及与当前网络相比显著降低的时延和更高可靠性，以及更多功能。这些技术对于满足日益增长的消费者连接需求至关重要，其将支持虚拟现实、增强现实和联网云服务等新兴消费移动宽带体验，并为自动驾驶汽车、无人机和工业制造等用例提供兼具高可靠性和低时延的全新服务。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/b/b0/b04cbbf66010476cf2556dbf1e27da8f.jpg?imageView&thumbnail=550x0" alt="cb6d04a0-f8b4-11e6-a855-c1a14d5dcdc9.jpg"/>
+试验将基于中国移动的5G指导建议书要求，使用高通的终端原型和中兴通讯的基站解决方案，模拟真实场景并支持广泛的5G新空口用例和部署场景。试验将专注在于3.5GHz频段运行5G新空口，该频段属6GHz以下中频频段，对于在中国实现广泛覆盖及容量以应对大量未来5G用例至关重要，其中包括要求低时延和高可靠性的5G用例。试验将使用多项先进的3GPP 5G新空口技术，包括大规模多入多输出（MIMO）天线技术、自适应独立TDD、多项波束技术、基于OFDM的可扩展波形以支持更大带宽、先进编码与调制方案以及基于低时延时隙结构的全新灵活设计。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/e/eb/ebb59081327188c1f6bdd0bdb18b54db.jpg?imageView&thumbnail=550x0" alt="cb529ed0-f8b4-11e6-a855-c1a14d5dcdc9.jpg"/>
+上述互操作性测试和试验将于2017年下半年在中国启动，旨在密切追踪并帮助加速首个3GPP 5G新空口规范，3GPP 5G新空口规范将成为Release 15的一部分，它是全球5G标准并将利用&nbsp;6GHz以下频段和毫米波频段。跟踪3GPP 规范进展至关重要，因为它可以促进遵循和验证全球5G标准，加快推出符合标准的终端和基础设施。它还将推进未来3GPP 5G 新空口 release前向兼容。
+<img src="http://cms-bucket.nosdn.127.net/catchpic/0/01/0189d95375029e46f5b0470eae5ddff6.jpg?imageView&thumbnail=550x0" alt="cae7cf10-f8b4-11e6-a855-c1a14d5dcdc9.jpg"/><img src="http://cms-bucket.nosdn.127.net/catchpic/0/0d/0d7ce06ba7fe2f2d83de4eacce06ace2.jpg?imageView&thumbnail=550x0" alt="cb7e42b0-f8b4-11e6-a855-c1a14d5dcdc9.jpg"/>
